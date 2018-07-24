@@ -133,6 +133,8 @@ tools for project management
 
 ``cc by sa`` licenza Creative Commons, Attribuzione dell'opera, Condividi allo stesso modo 
 
+``cc by nc sa`` licenza Creative Commons, Attribuzione dell'opera, Condividi allo stesso modo, non per usi commerciali 
+
 
 |REPLACE2|
 
