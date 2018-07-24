@@ -95,7 +95,7 @@ works
 
 \ |LINK29|\  ``cc by``
 
-\ |LINK30|\  ``cc by``
+\ |LINK30|\  ``cc by sa``
 
 \ |LINK31|\  ``cc by``
 
