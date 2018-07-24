@@ -97,7 +97,9 @@ works
 
 \ |LINK30|\  ``cc by``
 
-\ |LINK31|\  ``cc by nc sa``
+\ |LINK31|\  ``cc by``
+
+\ |LINK32|\  ``cc by nc sa``
 
 --------
 
@@ -106,15 +108,15 @@ works
 ue projects 
 ============
 
-\ |LINK32|\ 
-
 \ |LINK33|\ 
 
-\ |LINK34|\  
+\ |LINK34|\ 
 
 \ |LINK35|\  
 
-\ |LINK36|\ 
+\ |LINK36|\  
+
+\ |LINK37|\ 
 
 --------
 
@@ -123,7 +125,7 @@ ue projects
 tools for project management   
 ===============================
 
-\ |LINK37|\  (access required)
+\ |LINK38|\  (access required)
 
 --------
 
@@ -299,33 +301,37 @@ tools for project management
 
 .. |LINK30| raw:: html
 
-    <a href="http://samba-digitale-pa.readthedocs.io" target="_blank">Samba della transizione al digitale nella pubblica amministrazione</a>
+    <a href="http://come-creare-guida.readthedocs.io/it/latest/" target="_blank">Come creare una pubblicazione su Read the Docs, per documenti pubblici, con lo stile Docs Italia</a>
 
 .. |LINK31| raw:: html
 
-    <a href="http://forumpa-librobianco-innovazione-2018.readthedocs.io" target="_blank">Libro bianco sull'innovazione della Pubblica Amministrazione, 2018 (FPA)</a>
+    <a href="http://samba-digitale-pa.readthedocs.io" target="_blank">Samba della transizione al digitale nella pubblica amministrazione</a>
 
 .. |LINK32| raw:: html
 
-    <a href="http://poieinkaiprattein.org/cied/" target="_blank">cied</a>
+    <a href="http://forumpa-librobianco-innovazione-2018.readthedocs.io" target="_blank">Libro bianco sull'innovazione della Pubblica Amministrazione, 2018 (FPA)</a>
 
 .. |LINK33| raw:: html
 
-    <a href="http://ec.europa.eu/environment/life/project/Projects/index.cfm?fuseaction=search.dspPage&n_proj_id=778&docType=pdf" target="_blank">euro-emas</a>
+    <a href="http://poieinkaiprattein.org/cied/" target="_blank">cied</a>
 
 .. |LINK34| raw:: html
 
-    <a href="http://slideplayer.com/slide/4835066/" target="_blank">etiv</a>
+    <a href="http://ec.europa.eu/environment/life/project/Projects/index.cfm?fuseaction=search.dspPage&n_proj_id=778&docType=pdf" target="_blank">euro-emas</a>
 
 .. |LINK35| raw:: html
 
-    <a href="http://bit.ly/medclima" target="_blank">medclima</a>
+    <a href="http://slideplayer.com/slide/4835066/" target="_blank">etiv</a>
 
 .. |LINK36| raw:: html
 
-    <a href="http://www.eurocities.eu/eurocities/projects/URBAN-MATRIX-Targeted-Knowledge-Exchange-on-Urban-Sustainability&tpl=home" target="_blank">urban-matrix</a>
+    <a href="http://bit.ly/medclima" target="_blank">medclima</a>
 
 .. |LINK37| raw:: html
+
+    <a href="http://www.eurocities.eu/eurocities/projects/URBAN-MATRIX-Targeted-Knowledge-Exchange-on-Urban-Sustainability&tpl=home" target="_blank">urban-matrix</a>
+
+.. |LINK38| raw:: html
 
     <a href="https://sites.google.com/site/cirospatprojectmanagement/" target="_blank">project management</a>
 
