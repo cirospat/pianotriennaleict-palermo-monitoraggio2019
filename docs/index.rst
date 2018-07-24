@@ -56,6 +56,7 @@ Le iniziative di carattere \ |STYLE1|\ , vissute in spirito collaborativo insiem
 
     social-profile
     work-profile
+    opendatasicilia-communities
     cv-Ciro-Spataro
 
 
