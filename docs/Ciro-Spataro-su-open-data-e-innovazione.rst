@@ -895,16 +895,14 @@ Materiali informativi: \ |LINK196|\
 
 \ |LINK203|\ 
 
-.. _h342c6d1f42345d20a2dd80563e49:
+.. _h12586a5d48384ad75a2c6c7b484c48:
 
-2018 - Disposizioni agli uffici per la pubblicazione di atti amministrativi in formato accesibile
-=================================================================================================
+2018 - Disposizioni agli uffici per la pubblicazione di atti amministrativi in formato accessibile
+==================================================================================================
 
 17 maggio. Considerato che da tempo il formato degli atti amministrativi pubblicati nell'albo pretorio del comune è il PDF \ |LINK204|\ , il Servizio Innovazione ha ritenuto opportuno inviare una circolare agli Uffici e Dirigenti indicando le modalità di pubblicazione degli atti in formato PDF accessibile anche ai portatori di disabilità visive. Il PDF dell'atto amministrativo deve rispettare i \ |LINK205|\ . 
 
 Nella \ |LINK206|\  si legge: “\ |STYLE22|\  .”
-
-\ |LINK207|\ 
 
 .. _h37670c736916434e537f403220221f:
 
@@ -912,6 +910,18 @@ Nella \ |LINK206|\  si legge: “\ |STYLE22|\  .”
 =======================================================================================================================================================================================================
 
 Avvio delle fasi di confronto tra i tecnici della Società Sispi e del comune di Genova per l’attuazione di iniziative congiunte e cooperative sotto il profilo tecnologico e organizzativo, per la realizzazione dei comuni obiettivi di innovazione digitale delle rispettive strutture e di rafforzamento dell’Agenda Digitale a livello comunale.
+
+.. _h6b4a154a1d10302f16731d2367103559:
+
+2018 - Partecipazione all’area sperimentale della piattaforma Cittadinanza Digitale, \ |LINK207|\ , (20 luglio 2018).
+=====================================================================================================================
+
+Necessaria per consentire l’accesso telematico ai servizi della Pubblica Amministrazione, ai sensi dell’art. 64-bis del decreto legislativo 7 marzo 2005, n. 82.
+
+--------
+
+
+|REPLACE1|
 
 
 .. bottom of content
@@ -963,6 +973,32 @@ Avvio delle fasi di confronto tra i tecnici della Società Sispi e del comune di
 
 .. |STYLE22| replace:: *Ciò significa che i moduli e formulari, ma anche gli atti e i provvedimenti amministrativi oggetto di pubblicità legale, devono essere fruibili anche da persone con disabilità. Non è ammessa, pertanto, la pubblicazione di documenti-immagine, vale a dire scansioni digitali di documenti cartacei senza che si sia provveduto ad opportuna digitalizzazione del testo ivi contenuto*
 
+
+.. |REPLACE1| raw:: html
+
+    <script id="dsq-count-scr" src="//guida-readthedocs.disqus.com/count.js" async></script>
+    
+    <div id="disqus_thread"></div>
+    <script>
+    
+    /**
+    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
+    /*
+    
+    var disqus_config = function () {
+    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+    };
+    */
+    (function() { // DON'T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement('script');
+    s.src = 'https://guida-readthedocs.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+    })();
+    </script>
+    <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 
 .. |LINK1| raw:: html
 
@@ -1790,7 +1826,7 @@ Avvio delle fasi di confronto tra i tecnici della Società Sispi e del comune di
 
 .. |LINK207| raw:: html
 
-    <a href="#bookmark-id-ywhoocrw4qt7">⇧</a>
+    <a href="https://io.italia.it/" target="_blank">progetto IO</a>
 
 
 .. |IMG1| image:: static/Ciro-Spataro-su-open-data-e-innovazione_1.png
