@@ -20,7 +20,10 @@ active citizenship & communities
 
 \ |LINK3|\  [repository pubblico di dati in formato aperto]
 
-\ |LINK4|\  [forum delle pubbliche amministrazioni per confronti sulla pubblica amministrazione digitale]
+\ |LINK4|\  [forum del Team Digitale per confronti sui servizi digitali della pubblica amministrazione]
+
+\ |LINK5|\  [articoli su dati aperti]
+
 
 .. bottom of content
 
@@ -40,4 +43,8 @@ active citizenship & communities
 .. |LINK4| raw:: html
 
     <a href="https://forum.italia.it/u/cirospat/activity" target="_blank">servizi pubblici digitali</a>
+
+.. |LINK5| raw:: html
+
+    <a href="http://opendatasicilia.it/author/cirospat/" target="_blank">opendatasicilia</a>
 
