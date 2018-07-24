@@ -7,7 +7,7 @@ OpendataSicilia & communities
 .. raw:: html
    :file: opendatasicilia.html
 
-|
+--------
 
 .. _h5c545a492429339c4615585c52303c:
 
