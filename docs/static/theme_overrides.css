@@ -42,7 +42,7 @@ h1, h2, h3 {
     color: #098748 !important;
 }
 
-
+/* reattangolo in alto a sinistra dove c'è il logo e il titolo del RTD */
 .wy-side-nav-search {
     background-color: #098748;
 }
@@ -70,10 +70,10 @@ h1, h2, h3 {
 /* lo sfondo a dx dopo il testo, ma con il settaggio full-hd non si applica */
 .wy-body-for-nav {background: #ffffff; }
 
-/* vari stili di formattazione a questo link: 
+/* vedi vari stili di formattazione a questo link: 
    https://github.com/gbvitrano/HfcQGIS/blob/master/static/theme_overrides.css */
 
-/* formattare la barra del codice [`` ... ``] quella inclusa tr ai doppi apici */
+/* formattare la barra del codice [`` ... ``] quella inclusa tra i doppi apici */
 /* code {
 white-space: normal !important;
 border: 0px !important;
