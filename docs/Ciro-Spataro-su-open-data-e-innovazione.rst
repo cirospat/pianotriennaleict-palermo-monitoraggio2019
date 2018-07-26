@@ -594,8 +594,6 @@ Febbraio. Realizzazione dei moduli google per 1) la gestione dei dati di iscrizi
 2017- opendataday 2017 Palermo
 ==============================
 
-\ |IMG1|\ 
-
 4 marzo. Opendataday 2017 Palermo. \ |LINK126|\  
 
 Organizzazione e realizzazione dell'\ |LINK127|\  insieme ad ARCA incubatore d'imprese e alla comunità Opendatasicilia. \ |LINK128|\  e programma:
@@ -674,12 +672,10 @@ Maggio. Redazione della deliberazione di GM (n. 97/2017) di approvazione delle L
 
 Settembre. Redazione della proposta di Deliberazione (approvata DG. N. 172 DEL 21/09/2017) di approvazione del PROTOCOLLO D'INTESA TRA COMUNE DI PALERMO E CONSORZIO DEI COMUNI TRENTINI SOCIETA' COOPERATIVA PER IL RIUSO GRATUITO DEI MICROSERVIZI DELLA PIATTAFORMA \ |LINK138|\ . Uno dei microservizi di prima utilità per il comune di Palermo è rappresentato da \ |LINK139|\ , con possibilità di rilascio automatico di open data degli eventi stessi e delle Associazioni che popolano la piattaforma di dati.
 
-.. _h19356c6a35535a7d282374708ea:
+.. _h20e347c2b2172705e2b6b3f2e10182e:
 
-2017- Hackdevelopers 
-=====================
-
-\ |IMG2|\ 
+2017- Hack.developers 
+======================
 
 7-8 Ottobre. Hack.developers Palermo. \ |LINK140|\ . Tutte le tech community italiane e gli sviluppatori hanno partecipato alla maratona di programmazione organizzata in contemporanea in oltre 20 città su tutto il territorio nazionale! Hack.Developers, promosso dal Team per la Trasformazione Digitale in collaborazione con Codemotion, è stato il più grande hackathon mai realizzato in Italia! I progetti su cui hanno lavorato i partecipanti sono: SPID - Sistema Pubblico d'Identità Digitale, ANPR - Anagrafe Nazionale della Popolazione Residente, DAF - Data & Analitycs Framework, DAF - Dataportal, DAT - Dati Pubblici (nuovo Dati Gov.it), Security, Design.
 
@@ -1624,11 +1620,3 @@ Necessaria per consentire l’accesso telematico ai servizi della Pubblica Ammin
 
     <a href="https://io.italia.it/" target="_blank">progetto IO</a>
 
-
-.. |IMG1| image:: static/Ciro-Spataro-su-open-data-e-innovazione_1.png
-   :height: 172 px
-   :width: 345 px
-
-.. |IMG2| image:: static/Ciro-Spataro-su-open-data-e-innovazione_2.png
-   :height: 102 px
-   :width: 278 px
