@@ -100,7 +100,7 @@ territorial mini guide
 
 .. |LINK7| raw:: html
 
-    <a href="http://www.flickr.com/photos/cirospat" target="_blank">flickr</a>
+    <a href="https://www.flickr.com/photos/cirospat/albums" target="_blank">flickr</a>
 
 .. |LINK8| raw:: html
 
