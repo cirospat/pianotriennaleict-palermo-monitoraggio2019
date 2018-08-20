@@ -36,6 +36,8 @@ catalogo Read the Docs a cura di Ciro Spataro
 +------------------------------------------------------------------------------------------+
 |\ |LINK15|\  - un supporto a FPA                                                          |
 +------------------------------------------------------------------------------------------+
+|\ |LINK16|\                                                                               |
++------------------------------------------------------------------------------------------+
 |                                                                                          |
 +------------------------------------------------------------------------------------------+
 
@@ -116,4 +118,8 @@ feed rss commenti Libro bianco innovazione PA 2018
 .. |LINK15| raw:: html
 
     <a href="http://forumpa-librobianco-innovazione-2018.readthedocs.io" target="_blank">Libro bianco innovazione ForumPA 2018</a>
+
+.. |LINK16| raw:: html
+
+    <a href="https://formati-accessibili-comune-palermo.readthedocs.io/it/latest/" target="_blank">Formati accessibili dei documenti del comune di Palermo</a>
 
