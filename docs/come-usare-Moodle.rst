@@ -4,11 +4,13 @@
 Come usare Moodle
 #################
 
-a cura del FormezPA
+a cura del \ |LINK1|\ 
 
 \ |IMG1|\ 
 
-\ |STYLE0|\  - Guida agli strumenti per Docenti - vers. 31/08/2018
+\ |STYLE0|\  - Guida agli strumenti per Docenti - vers. 31/08/2018.
+
+(Fonte dati e informazioni: \ |LINK2|\ ) 
 
 
 .. toctree::  
@@ -41,7 +43,7 @@ Le chat sono particolarmente utili per incontri di gruppo online, come ad esempi
 
 * sessioni di domande e risposte con invitati provenienti da posti diversi. 
 
-\ |LINK1|\  
+\ |LINK3|\  
 
 .. _h7d4a547205fc3d377d2d58383f52:
 
@@ -54,7 +56,7 @@ Il modulo di attività compito consente al docente di valutare l'apprendimento d
 
 Le valutazioni vengono memorizzate nel registro del valutatore. 
 
-\ |LINK2|\ 
+\ |LINK4|\ 
 
 .. _h6a1252c637f2bd22231212164f5c2d:
 
@@ -71,7 +73,7 @@ L'impaginazione delle informazioni per le viste singola, ad elenco e modifica, p
 
 * visualizzare lavori degli studenti (fotografie, poster, siti web, eccetera) per la valutazione tra pari. 
 
-\ |LINK3|\ 
+\ |LINK5|\ 
 
 .. _h4b4d4fc327467b7b661336c1c518:
 
@@ -90,7 +92,7 @@ Il modulo di attività feedback consente al docente di creare sondaggi personali
 
 * ricavare informazioni in forma anonima su casi di bullismo. 
 
-\ |LINK4|\ 
+\ |LINK6|\ 
 
 .. _h5ee44324d6f741e59292042c49d71:
 
@@ -117,7 +119,7 @@ I partecipanti possono sottoscrivere il forum per ricevere notifiche di nuovi in
 
 * estendere attività ad esempio proponendo problemi che gli studenti possono valutare per suggerire soluzioni. 
 
-\ |LINK5|\ 
+\ |LINK7|\ 
 
 .. _h0d1c592a4b12d797e6b7e4e77010:
 
@@ -140,7 +142,7 @@ Le voci possono essere valutate sia dal docente sia dagli studenti (valutazione 
 
 * un'area di condivisione di video, immagini, o file musicali;  una serie di argomenti da ricordare. 
 
-\ |LINK6|\ 
+\ |LINK8|\ 
 
 .. _h77757e5232295537c512a631d63326e:
 
@@ -161,7 +163,7 @@ Se lo si desidera, è possibile valutare l'attività e il punteggio ottenuto sar
 
 * revisioni differenziate, con diverse serie di domande di revisione basate sulle risposte date alle domande iniziali.
 
-\ |LINK7|\ 
+\ |LINK9|\ 
 
 .. _h1c3c802c12347e375e5535722125a7d:
 
@@ -176,7 +178,7 @@ Un oggetto SCORM è un insieme di file impacchettati secondo uno standard ricono
 
 * valutare le attività degli studenti.
 
-\ |LINK8|\  
+\ |LINK10|\  
 
 .. _h4d517f51685e52672b45592c231465:
 
@@ -197,7 +199,7 @@ Il modulo di attività quiz consente al docente di creare questionari con divers
 
 * auto valutazione. 
 
-\ |LINK9|\ 
+\ |LINK11|\ 
 
 .. _h5f6d615f694f23a1571d327a77:
 
@@ -214,7 +216,7 @@ Il modulo di attività scelta consente al docente di formulare una domanda offre
 
 * facilitare le decisioni degli studenti, ad esempio consentendogli di esprimere preferenze sullo svolgimento del corso. 
 
-\ |LINK10|\ 
+\ |LINK12|\ 
 
 .. _h66105bb52601c6c3fc27a254c225:
 
@@ -223,7 +225,7 @@ Il modulo di attività scelta consente al docente di formulare una domanda offre
 
 Il modulo di attività sondaggio fornisce diversi tipi di strumenti volti ad analizzare e stimolare l'apprendimento in ambienti online. Il docente può utilizzare l'attività sondaggio per ricavare informazioni utili a conoscere la propria classe e gli stili di apprendimento degli studenti. Da notare che l'attività sondaggio offre domande già compilate, se si desidera creare un sondaggio personalizzato è possibile usare il modulo di attività feedback. 
 
-\ |LINK11|\ 
+\ |LINK13|\ 
 
 .. _h596960426e59623a48282e122e1b5867:
 
@@ -240,7 +242,7 @@ I tool esterni si differenziano da una risorsa di tipo URL per diversi aspetti:
 
 * le configurazioni dei tool esterni creano una relazione di trust tra Moodle e il tool provider, assicurando un canale di comunicazione sicuro. 
 
-\ |LINK12|\ 
+\ |LINK14|\ 
 
 .. _h19336f2e7254b6d361e4f10347d3e:
 
@@ -261,7 +263,7 @@ Il modulo di attività wiki consente ai partecipanti di inserire e modificare un
 
 * diario personale dei partecipanti e note di esame (utilizzando wiki individuali). 
 
-\ |LINK13|\  
+\ |LINK15|\  
 
 .. _h371873636b6a33595f2310234da7942:
 
@@ -278,7 +280,7 @@ Gli studenti possono valutare una o più consegne di altri studenti, volendo anc
 
 La valutazione ricevuta degli studenti si compone di due parti, una valutazione per la propria consegna e una valutazione per aver valutato le consegne degli altri studenti. Entrambe le valutazioni vengono memorizzate nel registro del valutatore. 
 
-\ |LINK14|\ 
+\ |LINK16|\ 
 
 --------
 
@@ -302,7 +304,7 @@ Una cartella può essere usata per:
 
 * fornire uno spazio comune dove i docenti possono caricare e condividere file del corso (tenendo la cartella nascosta agli studenti). 
 
-\ |LINK15|\ 
+\ |LINK17|\ 
 
 .. _h4b5f197258723f404c722462d775b77:
 
@@ -317,7 +319,7 @@ Il modulo etichetta consente di inserire immagini e testo nella home page del co
 
 * aggiungere brevi descrizioni delle sezioni del corso. 
 
-\ |LINK16|\  
+\ |LINK18|\  
 
 .. _h5b392e6230647c7e2a1d27b2a546241:
 
@@ -334,7 +336,7 @@ Il modulo file consente al docente di inserire file tra le risorse del corso. Il
 
 * fornire bozze da usare con software client (ad esempio file Photoshop .psd) che gli studenti possono usare per preparare e consegnare i propri compiti.
 
-\ |LINK17|\  
+\ |LINK19|\  
 
 .. _h1177385366337f3d1e3120191c142744:
 
@@ -347,7 +349,7 @@ In genere il contenuto di un pacchetto viene visualizzato su diverse pagine, con
 
 È possibile impostare il pacchetto per visualizzare il contenuto in finestre pop up, con un menu di navigazione, eccetera. Un pacchetto IMS può essere utilizzato per presentare contenuti e animazioni multimediali. 
 
-\ |LINK18|\  
+\ |LINK20|\  
 
 .. _h64316d4a46577f6140a1821d4950:
 
@@ -364,7 +366,7 @@ Il modulo libro consente ad un docente di creare risorse multi pagina componendo
 
 * presentare un portfolio di lavori degli studenti. 
 
-\ |LINK19|\  
+\ |LINK21|\  
 
 .. _h1e4e36223a193460407e3423311d5063:
 
@@ -383,7 +385,7 @@ Per contenuti corposi, si raccomanda di utilizzare il modulo di attività libro 
 
 * inserire video e suoni accompagnati da testo esplicativo. 
 
-\ |LINK20|\ 
+\ |LINK22|\ 
 
 .. _h2957255b204f3b180136517d11324f:
 
@@ -396,7 +398,7 @@ Sono disponibili molte opzioni di visualizzazione per aprire l'URL, ad esempio i
 
 Da notare che è possibile aggiungere URL ad altri tipi di risorse o attività tramite l'editor di testo. 
 
-\ |LINK21|\ 
+\ |LINK23|\ 
 
 --------
 
@@ -419,7 +421,7 @@ Gli strumenti sono classificati in base alla adeguatezza rispetto a 5 dimensioni
 
 #. tassonomia di Bloom. 
 
-Questa è la versione italiana della \ |LINK22|\  pensata da Joyce Seitzinger, nell'\ |LINK23|\  realizzato da Gavin Henrick. L'ordinamento degli strumenti è stato modificato per la lingua italiana e per rispettare la suddivisione tra Attività e Risorse in Moodle.
+Questa è la versione italiana della \ |LINK24|\  pensata da Joyce Seitzinger, nell'\ |LINK25|\  realizzato da Gavin Henrick. L'ordinamento degli strumenti è stato modificato per la lingua italiana e per rispettare la suddivisione tra Attività e Risorse in Moodle.
 
 .. _h7e787c2353247f1742b105320102e7a:
 
@@ -455,10 +457,10 @@ Siete docenti e non conoscete Moodle? Questa guida vi aiuterà a scegliere lo st
 Ancora bisogno di aiuto per Moodle?
 -----------------------------------
 
-* Iscrivetevi alla comunità italiana di Moodle su \ |LINK24|\  (\ |LINK25|\ )
+* Iscrivetevi alla comunità italiana di Moodle su \ |LINK26|\  (\ |LINK27|\ )
 
 * Partecipate a un MoodleMoot 
-* (\ |LINK26|\ )
+* (\ |LINK28|\ )
 
 * Cercate il gruppo e-learning della vostra azienda o quei colleghi smanettoni esperti delle TIC. Offrite loro un caffè! Magari anche un cioccolatino o una sfogliatella!
 
@@ -467,12 +469,12 @@ Ancora bisogno di aiuto per Moodle?
 Cosa c'è in italiano su Moodle?
 -------------------------------
 
-* C'è il \ |LINK27|\  su Linkedin 
-* (\ |LINK28|\ )
+* C'è il \ |LINK29|\  su Linkedin 
+* (\ |LINK30|\ )
 
-* Date un occhio alla rivista \ |LINK29|\ , cominciando dal numero \ |LINK30|\ 
+* Date un occhio alla rivista \ |LINK31|\ , cominciando dal numero \ |LINK32|\ 
 
-* Poi iniziate a giocare con l'ultima versione, su \ |LINK31|\  (la piattaforma viene resettata ogni ora), magari cambiando la lingua ;-)
+* Poi iniziate a giocare con l'ultima versione, su \ |LINK33|\  (la piattaforma viene resettata ogni ora), magari cambiando la lingua ;-)
 
 .. _h12d69d2170143660fa6d556c3619:
 
@@ -481,18 +483,18 @@ Suggerimenti & note
 
 * Se non sapete da che parte cominciare, la prima colonna può essere utile!
 
-* Moodle 2 è in continuo aggiornamento: verificate su \ |LINK32|\  che lo strumento scelto sia nella vostra versione. 
+* Moodle 2 è in continuo aggiornamento: verificate su \ |LINK34|\  che lo strumento scelto sia nella vostra versione. 
 
 .. _h6a10587177f46d4c467c797f39263:
 
 Referenze
 ---------
 
-* \ |STYLE9|\  (@catspyjamasnz), \ |LINK33|\    \ |LINK34|\  
+* \ |STYLE9|\  (@catspyjamasnz), \ |LINK35|\    \ |LINK36|\  
 
-* \ |STYLE10|\  (@ghenrick) \ |LINK35|\  
+* \ |STYLE10|\  (@ghenrick) \ |LINK37|\  
 
-* \ |STYLE11|\  (@pporcaro) per Formez PA – \ |LINK36|\  
+* \ |STYLE11|\  (@pporcaro) per Formez PA – \ |LINK38|\  
 
 .. _h4032664c73295449206754142c2b75:
 
@@ -578,145 +580,153 @@ Creative Commons BY (attribuzione) NC (non uso commerciale) SA (condividi allo s
 
 .. |LINK1| raw:: html
 
-    <a href="http://docs.moodle.org/35/it/mod/chat/view" target="_blank">Maggiori informazioni</a>
+    <a href="http://www.formez.it/" target="_blank">FormezPA</a>
 
 .. |LINK2| raw:: html
 
-    <a href="http://docs.moodle.org/35/it/mod/assignment/view" target="_blank">Maggiori informazioni</a>
+    <a href="http://egov.formez.it/content/guida-strumenti-moodle-20-docenti" target="_blank">http://egov.formez.it/content/guida-strumenti-moodle-20-docenti</a>
 
 .. |LINK3| raw:: html
 
-    <a href="http://docs.moodle.org/35/it/mod/data/view" target="_blank">Maggiori informazioni</a>
+    <a href="http://docs.moodle.org/35/it/mod/chat/view" target="_blank">Maggiori informazioni</a>
 
 .. |LINK4| raw:: html
 
-    <a href="http://docs.moodle.org/35/it/mod/feedback/view" target="_blank">Maggiori informazioni</a>
+    <a href="http://docs.moodle.org/35/it/mod/assignment/view" target="_blank">Maggiori informazioni</a>
 
 .. |LINK5| raw:: html
 
-    <a href="http://docs.moodle.org/35/it/mod/forum/view" target="_blank">Maggiori informazioni</a>
+    <a href="http://docs.moodle.org/35/it/mod/data/view" target="_blank">Maggiori informazioni</a>
 
 .. |LINK6| raw:: html
 
-    <a href="http://docs.moodle.org/35/it/mod/glossary/view" target="_blank">Maggiori informazioni</a>
+    <a href="http://docs.moodle.org/35/it/mod/feedback/view" target="_blank">Maggiori informazioni</a>
 
 .. |LINK7| raw:: html
 
-    <a href="http://docs.moodle.org/35/it/mod/lesson/view" target="_blank">Maggiori informazioni</a>
+    <a href="http://docs.moodle.org/35/it/mod/forum/view" target="_blank">Maggiori informazioni</a>
 
 .. |LINK8| raw:: html
 
-    <a href="http://docs.moodle.org/35/it/mod/scorm/view" target="_blank">Maggiori informazioni</a>
+    <a href="http://docs.moodle.org/35/it/mod/glossary/view" target="_blank">Maggiori informazioni</a>
 
 .. |LINK9| raw:: html
 
-    <a href="http://docs.moodle.org/35/it/mod/quiz/view" target="_blank">Maggiori informazioni</a>
+    <a href="http://docs.moodle.org/35/it/mod/lesson/view" target="_blank">Maggiori informazioni</a>
 
 .. |LINK10| raw:: html
 
-    <a href="http://docs.moodle.org/35/it/mod/choice/view" target="_blank">Maggiori informazioni</a>
+    <a href="http://docs.moodle.org/35/it/mod/scorm/view" target="_blank">Maggiori informazioni</a>
 
 .. |LINK11| raw:: html
 
-    <a href="http://docs.moodle.org/35/it/mod/survey/view" target="_blank">Maggiori informazioni</a>
+    <a href="http://docs.moodle.org/35/it/mod/quiz/view" target="_blank">Maggiori informazioni</a>
 
 .. |LINK12| raw:: html
 
-    <a href="http://docs.moodle.org/35/it/mod/lti/view" target="_blank">Maggiori informazioni</a>
+    <a href="http://docs.moodle.org/35/it/mod/choice/view" target="_blank">Maggiori informazioni</a>
 
 .. |LINK13| raw:: html
 
-    <a href="http://docs.moodle.org/35/it/mod/wiki/view" target="_blank">Maggiori informazioni</a>
+    <a href="http://docs.moodle.org/35/it/mod/survey/view" target="_blank">Maggiori informazioni</a>
 
 .. |LINK14| raw:: html
 
-    <a href="http://docs.moodle.org/35/it/mod/workshop/view" target="_blank">Maggiori informazioni</a>
+    <a href="http://docs.moodle.org/35/it/mod/lti/view" target="_blank">Maggiori informazioni</a>
 
 .. |LINK15| raw:: html
 
-    <a href="http://docs.moodle.org/35/it/mod/folder/view" target="_blank">Maggiori informazioni</a>
+    <a href="http://docs.moodle.org/35/it/mod/wiki/view" target="_blank">Maggiori informazioni</a>
 
 .. |LINK16| raw:: html
 
-    <a href="http://docs.moodle.org/35/it/mod/label/view" target="_blank">Maggiori informazioni</a>
+    <a href="http://docs.moodle.org/35/it/mod/workshop/view" target="_blank">Maggiori informazioni</a>
 
 .. |LINK17| raw:: html
 
-    <a href="http://docs.moodle.org/35/it/mod/resource/view" target="_blank">Maggiori informazioni</a>
+    <a href="http://docs.moodle.org/35/it/mod/folder/view" target="_blank">Maggiori informazioni</a>
 
 .. |LINK18| raw:: html
 
-    <a href="http://docs.moodle.org/35/it/mod/imscp/view" target="_blank">Maggiori informazioni</a>
+    <a href="http://docs.moodle.org/35/it/mod/label/view" target="_blank">Maggiori informazioni</a>
 
 .. |LINK19| raw:: html
 
-    <a href="http://docs.moodle.org/35/it/mod/book/view" target="_blank">Maggiori informazioni</a>
+    <a href="http://docs.moodle.org/35/it/mod/resource/view" target="_blank">Maggiori informazioni</a>
 
 .. |LINK20| raw:: html
 
-    <a href="http://docs.moodle.org/35/it/mod/page/view" target="_blank">Maggiori informazioni</a>
+    <a href="http://docs.moodle.org/35/it/mod/imscp/view" target="_blank">Maggiori informazioni</a>
 
 .. |LINK21| raw:: html
 
-    <a href="http://docs.moodle.org/35/it/mod/url/view" target="_blank">Maggiori informazioni</a>
+    <a href="http://docs.moodle.org/35/it/mod/book/view" target="_blank">Maggiori informazioni</a>
 
 .. |LINK22| raw:: html
 
-    <a href="http://www.cats-pyjamas.net/moodle-tool-guide/" target="_blank">Moodle Tool Guide</a>
+    <a href="http://docs.moodle.org/35/it/mod/page/view" target="_blank">Maggiori informazioni</a>
 
 .. |LINK23| raw:: html
 
-    <a href="http://www.somerandomthoughts.com/blog/2012/03/15/a-moodle-2-version-of-the-moodle-tool-guide/" target="_blank">adattamento per Moodle 2.x</a>
+    <a href="http://docs.moodle.org/35/it/mod/url/view" target="_blank">Maggiori informazioni</a>
 
 .. |LINK24| raw:: html
 
-    <a href="http://moodle.org/" target="_blank">moodle.org</a>
+    <a href="http://www.cats-pyjamas.net/moodle-tool-guide/" target="_blank">Moodle Tool Guide</a>
 
 .. |LINK25| raw:: html
 
-    <a href="http://bit.ly/moodle-it" target="_blank">bit.ly/moodle-it</a>
+    <a href="http://www.somerandomthoughts.com/blog/2012/03/15/a-moodle-2-version-of-the-moodle-tool-guide/" target="_blank">adattamento per Moodle 2.x</a>
 
 .. |LINK26| raw:: html
 
-    <a href="http://moodlemoot.it/" target="_blank">moodlemoot.it</a>
+    <a href="http://moodle.org/" target="_blank">moodle.org</a>
 
 .. |LINK27| raw:: html
 
-    <a href="https://www.linkedin.com/groups?gid=1876548" target="_blank">Moodle user group Italia</a>
+    <a href="http://bit.ly/moodle-it" target="_blank">bit.ly/moodle-it</a>
 
 .. |LINK28| raw:: html
 
-    <a href="http://bit.ly/moodle-ita-linkedin" target="_blank">bit.ly/moodle-ita-linkedin</a>
+    <a href="http://moodlemoot.it/" target="_blank">moodlemoot.it</a>
 
 .. |LINK29| raw:: html
 
-    <a href="http://bricks.maieutiche.economia.unitn.it/?page_id=41" target="_blank">Bricks</a>
+    <a href="https://www.linkedin.com/groups?gid=1876548" target="_blank">Moodle user group Italia</a>
 
 .. |LINK30| raw:: html
 
-    <a href="http://bricks.maieutiche.economia.unitn.it/?page_id=2454" target="_blank">1/2012</a>
+    <a href="http://bit.ly/moodle-ita-linkedin" target="_blank">bit.ly/moodle-ita-linkedin</a>
 
 .. |LINK31| raw:: html
 
-    <a href="http://demo.moodle.net/" target="_blank">demo.moodle.net</a>
+    <a href="http://bricks.maieutiche.economia.unitn.it/?page_id=41" target="_blank">Bricks</a>
 
 .. |LINK32| raw:: html
 
-    <a href="http://docs.moodle.org/" target="_blank">docs.moodle.org</a>
+    <a href="http://bricks.maieutiche.economia.unitn.it/?page_id=2454" target="_blank">1/2012</a>
 
 .. |LINK33| raw:: html
 
-    <a href="www.cats-pyjamas.net">www.cats-pyjamas.net</a>
+    <a href="http://demo.moodle.net/" target="_blank">demo.moodle.net</a>
 
 .. |LINK34| raw:: html
 
-    <a href="www.eit.ac.nz">www.eit.ac.nz</a>
+    <a href="http://docs.moodle.org/" target="_blank">docs.moodle.org</a>
 
 .. |LINK35| raw:: html
 
-    <a href="www.somerandomthoughts.com">www.somerandomthoughts.com</a>
+    <a href="www.cats-pyjamas.net">www.cats-pyjamas.net</a>
 
 .. |LINK36| raw:: html
+
+    <a href="www.eit.ac.nz">www.eit.ac.nz</a>
+
+.. |LINK37| raw:: html
+
+    <a href="www.somerandomthoughts.com">www.somerandomthoughts.com</a>
+
+.. |LINK38| raw:: html
 
     <a href="www.formez.it">www.formez.it</a>
 
