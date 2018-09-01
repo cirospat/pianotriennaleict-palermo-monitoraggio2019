@@ -10,11 +10,11 @@ a cura del \ |LINK1|\
 
 \ |STYLE0|\  - Guida agli strumenti per Docenti - vers. 31/08/2018.
 
-Fonte dati e informazioni: 
+.. admonition:: Fonte informazioni e testi
 
-* \ |LINK2|\ 
-
-* \ |LINK3|\  
+    * \ |LINK2|\ 
+    
+    * \ |LINK3|\  
 
 
 .. toctree::  
