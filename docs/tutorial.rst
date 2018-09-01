@@ -42,7 +42,7 @@ Manuali
 
 \ |LINK7|\  del comune di Palermo
 
-\ |LINK8|\  (\ |STYLE0|\ , \ |STYLE1|\ ) è un ambiente informatico per la gestione di corsi, basato sull'ideologia \ |LINK9|\  secondo la quale ogni apprendimento sarebbe facilitato dalla produzione di oggetti tangibili. \ |LINK10|\ )
+\ |LINK8|\  (\ |STYLE0|\ , \ |STYLE1|\ ) è un ambiente informatico per la gestione di corsi, basato sull'ideologia \ |LINK9|\  secondo la quale ogni apprendimento sarebbe facilitato dalla produzione di oggetti tangibili. [\ |LINK10|\ ]
 
 
 |REPLACE1|
