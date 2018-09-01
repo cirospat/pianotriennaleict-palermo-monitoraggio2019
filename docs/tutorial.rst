@@ -42,11 +42,18 @@ Manuali
 
 \ |LINK7|\  del comune di Palermo
 
+\ |LINK8|\  (\ |STYLE0|\ , \ |STYLE1|\ ) è un ambiente informatico per la gestione di corsi, basato sull'ideologia \ |LINK9|\  secondo la quale ogni apprendimento sarebbe facilitato dalla produzione di oggetti tangibili. \ |LINK10|\ )
+
 
 |REPLACE1|
 
 
 .. bottom of content
+
+
+.. |STYLE0| replace:: *Modular Object-Oriented Dynamic Learning Environment*
+
+.. |STYLE1| replace:: *ambiente per l'apprendimento modulare, dinamico, orientato ad oggetti*
 
 
 .. |REPLACE1| raw:: html
@@ -102,4 +109,16 @@ Manuali
 .. |LINK7| raw:: html
 
     <a href="http://upload-dataset-comunepalermo.readthedocs.io" target="_blank">Manuale per il caricamento dei dataset sul portale open data</a>
+
+.. |LINK8| raw:: html
+
+    <a href="https://cirospat.readthedocs.io/it/latest/come-usare-Moodle.html" target="_blank">Guida in italiano all'uso degli strumenti di Moodle, a cura del FormezPA</a>
+
+.. |LINK9| raw:: html
+
+    <a href="https://it.wikipedia.org/wiki/Costruzionismo_(teoria_dell%27apprendimento)" target="_blank">costruzionista</a>
+
+.. |LINK10| raw:: html
+
+    <a href="https://it.wikipedia.org/wiki/Moodle" target="_blank">Definizione di Wikipedia</a>
 
