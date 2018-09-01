@@ -433,6 +433,9 @@ Moodle2 - Guida agli strumenti per docenti
 |REPLACE2|
 
 
+|REPLACE3|
+
+
 .. bottom of content
 
 
@@ -443,6 +446,9 @@ Moodle2 - Guida agli strumenti per docenti
 
     <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTqds1LU_ilWPINKhydSRioAv5L8thWGMyLloZXzaBwkLw6sc1AvPHljkm-qCvvaeziET7-AW0hSnp9/embed?start=false&loop=false&delayms=60000" frameborder="0" width="930" height="1212" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 .. |REPLACE2| raw:: html
+
+    <iframe src="http://egov.formez.it/sites/all/files/moodle_2_guida_agli_strumenti_per_docenti.pdf" frameborder="0" width="930" height="1500"</iframe>
+.. |REPLACE3| raw:: html
 
     <table cellspacing="0" cellpadding="0" style="width:100%">
     <tbody>
