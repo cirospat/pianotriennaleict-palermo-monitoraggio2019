@@ -8,9 +8,7 @@ a cura del FormezPA
 
 \ |IMG1|\ 
 
-\ |STYLE0|\  - Guida agli strumenti per Docenti 
-
-31/08/2018
+\ |STYLE0|\  - Guida agli strumenti per Docenti - vers. 31/08/2018
 
 
 .. toctree::  
