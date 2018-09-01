@@ -501,6 +501,12 @@ Su Twitter (in inglese)
 
 @moodle - @moodlenews - @michelledmoore - @moodlefairy - @moodleman - @edumoodle
 
+.. _h202c1f8095617715c65643e6250486a:
+
+Licenza
+-------
+
+Creative Commons BY (attribuzione) NC (non uso commerciale) SA (condividi allo stesso modo)
 
 .. bottom of content
 
