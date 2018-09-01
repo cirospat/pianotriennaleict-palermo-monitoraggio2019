@@ -17,7 +17,7 @@ Come usare Moodle
 
 .. toctree::  
     :maxdepth: 4
-    :caption: indice
+    :caption: indice della guida
 
     come-usare-Moodle
 
