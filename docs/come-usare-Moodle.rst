@@ -8,9 +8,7 @@ a cura del FormezPA
 
 \ |IMG1|\ 
 
-COME USARE MOODLE 
-
-Guida agli strumenti per Docenti 
+\ |STYLE0|\  - Guida agli strumenti per Docenti 
 
 31/08/2018
 
@@ -435,6 +433,9 @@ Moodle2 - Guida agli strumenti per docenti
 
 
 .. bottom of content
+
+
+.. |STYLE0| replace:: **COME USARE MOODLE**
 
 
 .. |REPLACE1| raw:: html
