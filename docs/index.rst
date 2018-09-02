@@ -39,8 +39,6 @@ Le iniziative di carattere \ |STYLE1|\ , vissute in spirito collaborativo insiem
     
     \ |LINK4|\ .
 
-\ |IMG2|\  
-
 |
 
 
@@ -171,7 +169,3 @@ Le iniziative di carattere \ |STYLE1|\ , vissute in spirito collaborativo insiem
 .. |IMG1| image:: static/index-cirospat_1.jpeg
    :height: 93 px
    :width: 128 px
-
-.. |IMG2| image:: static/index-cirospat_2.gif
-   :height: 133 px
-   :width: 178 px
