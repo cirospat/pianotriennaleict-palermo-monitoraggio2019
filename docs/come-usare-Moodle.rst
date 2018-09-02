@@ -6,7 +6,10 @@ Come usare Moodle
 
 \ |IMG1|\ 
 
-\ |STYLE0|\  - Guida agli strumenti per Docenti - versione 31/08/2018 - a cura del \ |LINK1|\ 
+
+|REPLACE1|
+
+Guida agli strumenti per Docenti - versione 31/08/2018 - a cura del \ |LINK1|\ 
 
 .. admonition:: Fonte informazioni e testi
 
@@ -431,26 +434,26 @@ Moodle2 - Guida agli strumenti per docenti
 ==========================================
 
 
-|REPLACE1|
+|REPLACE2|
 
-\ |STYLE1|\ 
+\ |STYLE0|\ 
 
 Siete docenti e non conoscete Moodle? Questa guida vi aiuterà a scegliere lo strumento giusto da usare. 
 
-* Sapete già che \ |STYLE2|\  usare? Nella \ |STYLE3|\  trovate i punti di forza e debolezza. 
+* Sapete già che \ |STYLE1|\  usare? Nella \ |STYLE2|\  trovate i punti di forza e debolezza. 
 
-* Avete deciso \ |STYLE4|\ ? Scegliete una \ |STYLE5|\  scorretela e scegliete lo strumento migliore per raggiungerlo.
+* Avete deciso \ |STYLE3|\ ? Scegliete una \ |STYLE4|\  scorretela e scegliete lo strumento migliore per raggiungerlo.
 
-\ |STYLE6|\ 
-
-|REPLACE2|
-
+\ |STYLE5|\ 
 
 |REPLACE3|
 
-\* \ |STYLE7|\  - Non è necessario impegnarsi in discussioni approfondite. Altre idee: dibattiti, discussioni di gruppo, report settimanali dei progetti, ricerche online, giochi di ruolo e feedback, raccolta di risorse e articoli, supporto alla (auto)valutazione, assistenza, mini-concorsi (valutazioni dei post), discussioni condotte da uno studente (a rotazione), magazine…
 
-\*\* \ |STYLE8|\  - sarà integrato con Sondaggio in future versioni
+|REPLACE4|
+
+\* \ |STYLE6|\  - Non è necessario impegnarsi in discussioni approfondite. Altre idee: dibattiti, discussioni di gruppo, report settimanali dei progetti, ricerche online, giochi di ruolo e feedback, raccolta di risorse e articoli, supporto alla (auto)valutazione, assistenza, mini-concorsi (valutazioni dei post), discussioni condotte da uno studente (a rotazione), magazine…
+
+\*\* \ |STYLE7|\  - sarà integrato con Sondaggio in future versioni
 
 --------
 
@@ -490,11 +493,11 @@ Suggerimenti & note
 Referenze
 ---------
 
-* \ |STYLE9|\  (@catspyjamasnz), \ |LINK36|\    \ |LINK37|\  
+* \ |STYLE8|\  (@catspyjamasnz), \ |LINK36|\    \ |LINK37|\  
 
-* \ |STYLE10|\  (@ghenrick) \ |LINK38|\  
+* \ |STYLE9|\  (@ghenrick) \ |LINK38|\  
 
-* \ |STYLE11|\  (@pporcaro) per Formez PA – \ |LINK39|\  
+* \ |STYLE10|\  (@pporcaro) per Formez PA – \ |LINK39|\  
 
 .. _h4032664c73295449206754142c2b75:
 
@@ -513,35 +516,36 @@ Creative Commons BY (attribuzione) NC (non uso commerciale) SA (condividi allo s
 .. bottom of content
 
 
-.. |STYLE0| replace:: **COME USARE MOODLE**
+.. |STYLE0| replace:: **Come usare questa guida**
 
-.. |STYLE1| replace:: **Come usare questa guida**
+.. |STYLE1| replace:: **strumento**
 
-.. |STYLE2| replace:: **strumento**
+.. |STYLE2| replace:: **riga**
 
-.. |STYLE3| replace:: **riga**
+.. |STYLE3| replace:: **l'obiettivo**
 
-.. |STYLE4| replace:: **l'obiettivo**
+.. |STYLE4| replace:: **colonna,**
 
-.. |STYLE5| replace:: **colonna,**
+.. |STYLE5| replace:: **Legenda dei colori della tabella di seguito riportata**
 
-.. |STYLE6| replace:: **Legenda dei colori della tabella di seguito riportata**
+.. |STYLE6| replace:: **Siate creativi con i forum**
 
-.. |STYLE7| replace:: **Siate creativi con i forum**
+.. |STYLE7| replace:: **Feedback**
 
-.. |STYLE8| replace:: **Feedback**
+.. |STYLE8| replace:: **Joyce Seitzinger**
 
-.. |STYLE9| replace:: **Joyce Seitzinger**
+.. |STYLE9| replace:: **Adapted by: Gavin Henrick**
 
-.. |STYLE10| replace:: **Adapted by: Gavin Henrick**
-
-.. |STYLE11| replace:: **Versione italiana di: Paolo Porcaro**
+.. |STYLE10| replace:: **Versione italiana di: Paolo Porcaro**
 
 
 .. |REPLACE1| raw:: html
 
-    <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTqds1LU_ilWPINKhydSRioAv5L8thWGMyLloZXzaBwkLw6sc1AvPHljkm-qCvvaeziET7-AW0hSnp9/embed?start=false&loop=false&delayms=60000" frameborder="0" width="930" height="1212" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+    <strong><span style="background-color: #247a2e; color: #ffffff; display: inline-block; padding: 3px 8px; border-radius: 10px;">COME USARE MOODLE</span></strong>
 .. |REPLACE2| raw:: html
+
+    <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTqds1LU_ilWPINKhydSRioAv5L8thWGMyLloZXzaBwkLw6sc1AvPHljkm-qCvvaeziET7-AW0hSnp9/embed?start=false&loop=false&delayms=60000" frameborder="0" width="930" height="1212" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+.. |REPLACE3| raw:: html
 
     <table cellspacing="0" cellpadding="0" style="width:38%">
     <thead>
@@ -550,7 +554,7 @@ Creative Commons BY (attribuzione) NC (non uso commerciale) SA (condividi allo s
     <tr><th style="background-color:#f4cccc;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px"><p style="font-family:Calibri"><span  style="font-family:Calibri">Non è lo strumento adatto</span></p></th></tr>
     </tbody></table>
 
-.. |REPLACE3| raw:: html
+.. |REPLACE4| raw:: html
 
     <table cellspacing="0" cellpadding="0" style="width:100%">
     <tbody>
