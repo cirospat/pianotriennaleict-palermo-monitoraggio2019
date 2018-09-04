@@ -258,6 +258,8 @@ La carta dei principi per la condotta tecnologica nel procurement della PA
 
 Se inclusa e dettagliato nell’ambito di capitolati di gara di servizi tecnologici della Pubblica Amministrazione e in particolare nelle gare strategiche di Consip, la carta dei principi tecnologici del procurement può migliorare il rapporto tra fornitori e la Pubblica Amministrazione.
 
+\ |LINK33|\ .
+
 --------
 
 
@@ -434,4 +436,8 @@ Se inclusa e dettagliato nell’ambito di capitolati di gara di servizi tecnolog
 .. |LINK32| raw:: html
 
     <a href="https://carta-dei-principi-tecnologici-del-procurement.readthedocs.io" target="_blank">Principi per lo sviluppo di servizi digitali della Pubblica Amministrazione</a>
+
+.. |LINK33| raw:: html
+
+    <a href="https://medium.com/team-per-la-trasformazione-digitale/carta-dei-principi-tecnologici-del-procurement-pubblica-amministrazione-innovazione-dbdfcab2745" target="_blank">Articolo di Diego Piacentini sull'argomento</a>
 
