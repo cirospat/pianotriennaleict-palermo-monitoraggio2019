@@ -239,6 +239,27 @@ AGID, Regolamento recante le modalità per l'esercizio del potere sanzionatorio 
 
 --------
 
+.. _h2434205a1a5407ed23776a74a7718:
+
+La carta dei principi per la condotta tecnologica nel procurement della PA
+**************************************************************************
+
+\ |LINK32|\  che:
+
+* soddisfino le esigenze degli utenti/cittadini;
+
+* siano facilmente manutenibili;
+
+* siano capaci di evolvere in base alle esigenze dei cittadini e al progresso tecnologico;
+
+* siano indipendenti da singole componenti architetturali di terze parti;
+
+* diminuiscano le situazioni di dipendenza da un ristretto numero di fornitori (lock-in).
+
+Se inclusa e dettagliato nell’ambito di capitolati di gara di servizi tecnologici della Pubblica Amministrazione e in particolare nelle gare strategiche di Consip, la carta dei principi tecnologici del procurement può migliorare il rapporto tra fornitori e la Pubblica Amministrazione.
+
+--------
+
 
 |REPLACE1|
 
@@ -409,4 +430,8 @@ AGID, Regolamento recante le modalità per l'esercizio del potere sanzionatorio 
 .. |LINK31| raw:: html
 
     <a href="https://trasparenza.agid.gov.it/archivio28_provvedimenti-amministrativi_0_121613_725_1.html" target="_blank">Modalità esecuzione verifiche e Regolamento potere sanzionatorio</a>
+
+.. |LINK32| raw:: html
+
+    <a href="https://carta-dei-principi-tecnologici-del-procurement.readthedocs.io" target="_blank">Principi per lo sviluppo di servizi digitali della Pubblica Amministrazione</a>
 
