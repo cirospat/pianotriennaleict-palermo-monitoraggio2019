@@ -2433,6 +2433,19 @@ E' stata, altresì, approfondita la questione della firma digitale che il Dirige
 
 --------
 
+66-
+
+.. _h2010351525386d31453432673f12285c:
+
+Riunione del Team open data del 12 settembre 2018
+=================================================
+
+Si è tenuta una riunione del team open data che ha ospitato un seminario sull'uso dei dati satellitari per il monitoraggio delle infrastrutture del territorio.
+
+A questo \ |LINK184|\  verbale e slide del seminario.
+
+--------
+
 
 .. bottom of content
 
@@ -3315,4 +3328,8 @@ E' stata, altresì, approfondita la questione della firma digitale che il Dirige
 .. |LINK183| raw:: html
 
     <a href="#bookmark-id-r99vlxvl0vyy">⇧</a>
+
+.. |LINK184| raw:: html
+
+    <a href="https://opendata.comune.palermo.it/opendata-attivita-dettaglio.php?id=12" target="_blank">link</a>
 
