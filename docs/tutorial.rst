@@ -1,8 +1,8 @@
 
-.. _h2c40f636f425e141154692b116830a:
+.. _h5a3a7a795f1c37665a6e5f33713051:
 
-Tutorial e manuali
-******************
+Tutorial, manuali, corsi
+************************
 
 .. _h610f1d13307a2f11a7a19146e57:
 
@@ -31,18 +31,27 @@ Tutorial: GoogleDrive spreadsheet to uMap
 
 |
 
+.. _h1330c267143784d355a15487b324b79:
+
+Corsi online
+============
+
+Corsi online sulle \ |LINK5|\  nella PA, a cura del FormezPA
+
+|
+
 .. _h5231154d48564c132e542693d1d1d5f:
 
 Manuali 
 ========
 
-\ |LINK5|\ 
+\ |LINK6|\ 
 
-\ |LINK6|\  in uso al Comune di Palermo
+\ |LINK7|\  in uso al Comune di Palermo
 
-\ |LINK7|\  del comune di Palermo
+\ |LINK8|\  del comune di Palermo
 
-\ |LINK8|\  (\ |STYLE0|\ , \ |STYLE1|\ ) è un ambiente informatico per la gestione di corsi, basato sull'ideologia \ |LINK9|\  secondo la quale ogni apprendimento sarebbe facilitato dalla produzione di oggetti tangibili. [\ |LINK10|\ ]
+\ |LINK9|\  (\ |STYLE0|\ , \ |STYLE1|\ ) è un ambiente informatico per la gestione di corsi, basato sull'ideologia \ |LINK10|\  secondo la quale ogni apprendimento sarebbe facilitato dalla produzione di oggetti tangibili. [\ |LINK11|\ ]
 
 
 |REPLACE1|
@@ -100,25 +109,29 @@ Manuali
 
 .. |LINK5| raw:: html
 
-    <a href="http://manuale-openagenda.readthedocs.io" target="_blank">Manuale d'uso dell'applicativo Open Agenda</a>
+    <a href="http://formazione.formez.it/content/corsi-online-competenze-digitali" target="_blank">competenze digitali</a>
 
 .. |LINK6| raw:: html
 
-    <a href="http://libro-firma.readthedocs.io" target="_blank">Manuale d'uso dell'applicativo Libro Firma</a>
+    <a href="http://manuale-openagenda.readthedocs.io" target="_blank">Manuale d'uso dell'applicativo Open Agenda</a>
 
 .. |LINK7| raw:: html
 
-    <a href="http://upload-dataset-comunepalermo.readthedocs.io" target="_blank">Manuale per il caricamento dei dataset sul portale open data</a>
+    <a href="http://libro-firma.readthedocs.io" target="_blank">Manuale d'uso dell'applicativo Libro Firma</a>
 
 .. |LINK8| raw:: html
 
-    <a href="https://cirospat.readthedocs.io/it/latest/come-usare-Moodle.html" target="_blank">Guida in italiano all'uso degli strumenti di Moodle, a cura del FormezPA</a>
+    <a href="http://upload-dataset-comunepalermo.readthedocs.io" target="_blank">Manuale per il caricamento dei dataset sul portale open data</a>
 
 .. |LINK9| raw:: html
 
-    <a href="https://it.wikipedia.org/wiki/Costruzionismo_(teoria_dell%27apprendimento)" target="_blank">costruzionista</a>
+    <a href="https://cirospat.readthedocs.io/it/latest/come-usare-Moodle.html" target="_blank">Guida in italiano all'uso degli strumenti di Moodle, a cura del FormezPA</a>
 
 .. |LINK10| raw:: html
+
+    <a href="https://it.wikipedia.org/wiki/Costruzionismo_(teoria_dell%27apprendimento)" target="_blank">costruzionista</a>
+
+.. |LINK11| raw:: html
 
     <a href="https://it.wikipedia.org/wiki/Moodle" target="_blank">Definizione di Wikipedia</a>
 
