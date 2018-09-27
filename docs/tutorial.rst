@@ -38,6 +38,8 @@ Corsi online
 
 Corsi online sulle \ |LINK5|\  nella PA, a cura del FormezPA (accountability - agenda Digitale - e-leadership - open data - partecipazione - qualità dei servizi web - soft skill per l’e-leadership).
 
+Webinar del FormezPA sui \ |LINK6|\  (data center - SPID - eProcurement - service design - Intelligenza Artificiale per la PA - comunicazione con i servizi digitali - accessibilità digitale e usabilità - professioni e competenze ICT - PagoPA - Piano triennale informatica per la PA - Cybersecurity - CAD - Data Analytic Framework - responsabile protezione dati personali - responsabile gestione documentale - responsabile transizione al digitale)
+
 |
 
 .. _h5231154d48564c132e542693d1d1d5f:
@@ -45,13 +47,13 @@ Corsi online sulle \ |LINK5|\  nella PA, a cura del FormezPA (accountability - a
 Manuali 
 ========
 
-\ |LINK6|\ 
+\ |LINK7|\ 
 
-\ |LINK7|\  in uso al Comune di Palermo
+\ |LINK8|\  in uso al Comune di Palermo
 
-\ |LINK8|\  del comune di Palermo
+\ |LINK9|\  del comune di Palermo
 
-\ |LINK9|\  (\ |STYLE0|\ , \ |STYLE1|\ ) è un ambiente informatico per la gestione di corsi, basato sull'ideologia \ |LINK10|\  secondo la quale ogni apprendimento sarebbe facilitato dalla produzione di oggetti tangibili. [\ |LINK11|\ ]
+\ |LINK10|\  (\ |STYLE0|\ , \ |STYLE1|\ ) è un ambiente informatico per la gestione di corsi, basato sull'ideologia \ |LINK11|\  secondo la quale ogni apprendimento sarebbe facilitato dalla produzione di oggetti tangibili. [\ |LINK12|\ ]
 
 
 |REPLACE1|
@@ -113,25 +115,29 @@ Manuali
 
 .. |LINK6| raw:: html
 
-    <a href="http://manuale-openagenda.readthedocs.io" target="_blank">Manuale d'uso dell'applicativo Open Agenda</a>
+    <a href="http://eventipa.formez.it/progetto-formez-dettaglio-ms/17436" target="_blank">servizi digitali - Italia Login</a>
 
 .. |LINK7| raw:: html
 
-    <a href="http://libro-firma.readthedocs.io" target="_blank">Manuale d'uso dell'applicativo Libro Firma</a>
+    <a href="http://manuale-openagenda.readthedocs.io" target="_blank">Manuale d'uso dell'applicativo Open Agenda</a>
 
 .. |LINK8| raw:: html
 
-    <a href="http://upload-dataset-comunepalermo.readthedocs.io" target="_blank">Manuale per il caricamento dei dataset sul portale open data</a>
+    <a href="http://libro-firma.readthedocs.io" target="_blank">Manuale d'uso dell'applicativo Libro Firma</a>
 
 .. |LINK9| raw:: html
 
-    <a href="https://cirospat.readthedocs.io/it/latest/come-usare-Moodle.html" target="_blank">Guida in italiano all'uso degli strumenti di Moodle, a cura del FormezPA</a>
+    <a href="http://upload-dataset-comunepalermo.readthedocs.io" target="_blank">Manuale per il caricamento dei dataset sul portale open data</a>
 
 .. |LINK10| raw:: html
 
-    <a href="https://it.wikipedia.org/wiki/Costruzionismo_(teoria_dell%27apprendimento)" target="_blank">costruzionista</a>
+    <a href="https://cirospat.readthedocs.io/it/latest/come-usare-Moodle.html" target="_blank">Guida in italiano all'uso degli strumenti di Moodle, a cura del FormezPA</a>
 
 .. |LINK11| raw:: html
+
+    <a href="https://it.wikipedia.org/wiki/Costruzionismo_(teoria_dell%27apprendimento)" target="_blank">costruzionista</a>
+
+.. |LINK12| raw:: html
 
     <a href="https://it.wikipedia.org/wiki/Moodle" target="_blank">Definizione di Wikipedia</a>
 
