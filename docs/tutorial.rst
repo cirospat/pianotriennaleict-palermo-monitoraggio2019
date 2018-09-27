@@ -36,7 +36,9 @@ Tutorial: GoogleDrive spreadsheet to uMap
 Corsi online
 ============
 
-Corsi online sulle \ |LINK5|\  nella PA, a cura del FormezPA
+Corsi online sulle \ |LINK5|\  nella PA, a cura del FormezPA (accountability - 
+
+agenda Digitale - e-leadership - open data - partecipazione - qualità dei servizi web - soft skill per l’e-leadership).
 
 |
 
