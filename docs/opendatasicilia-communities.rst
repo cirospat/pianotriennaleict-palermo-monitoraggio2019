@@ -1,8 +1,8 @@
 
-.. _h2c51612f3f501036a6db6d6433e9:
+.. _h3e5d3761755e4f6333f106ab11356:
 
-OpendataSicilia & communities
-#############################
+OpendataSicilia, communities, articoli
+######################################
 
 .. raw:: html
    :file: opendatasicilia.html
@@ -26,14 +26,25 @@ active citizenship & communities
 
 --------
 
+.. _h575c3392e28516f503b3b613a6020:
+
+Articoli
+========
+
 
 |REPLACE1|
+
+
+|REPLACE2|
 
 
 .. bottom of content
 
 
 .. |REPLACE1| raw:: html
+
+    <iframe width="100%" height="700px" frameBorder="0" src="https://medium.com/@cirospat/latest"></iframe>
+.. |REPLACE2| raw:: html
 
     <script id="dsq-count-scr" src="//guida-readthedocs.disqus.com/count.js" async></script>
     
