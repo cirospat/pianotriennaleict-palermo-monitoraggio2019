@@ -14,15 +14,15 @@ OpendataSicilia & communities
 active citizenship & communities
 ================================
 
-\ |IMG1|\  \ |LINK1|\  [articoli su dati aperti e pubblica amministrazione digitale]
+\ |LINK1|\  [articoli su dati aperti e pubblica amministrazione digitale]
 
-\ |LINK2|\  [community sull'innovazione della pubblica amministrazione]
+\ |LINK2|\  [articoli pubblicati sulla community dell'innovazione della pubblica amministrazione]
 
-\ |LINK3|\  [repository pubblico di dati in formato aperto]
+\ |LINK3|\  [repository pubblico di dataset in formato aperto]
 
-\ |LINK4|\  [forum del Team Digitale per confronti sui servizi digitali della pubblica amministrazione]
+\ |LINK4|\  [interazioni nel forum del Team Digitale per confronti sui servizi digitali della pubblica amministrazione]
 
-\ |LINK5|\  [articoli su dati aperti]
+\ |LINK5|\  [articoli sui dati aperti e riuso dei dati]
 
 --------
 
@@ -79,8 +79,3 @@ active citizenship & communities
 
     <a href="http://opendatasicilia.it/author/cirospat/" target="_blank">opendatasicilia</a>
 
-
-.. |IMG1| image:: static/opendatasicilia-communities_1.png
-   :height: 30 px
-   :width: 137 px
-   :target: https://medium.com/@cirospat/latest
