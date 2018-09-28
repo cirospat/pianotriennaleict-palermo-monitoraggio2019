@@ -1,8 +1,8 @@
 
-.. _h3e5d3761755e4f6333f106ab11356:
+.. _h2c51612f3f501036a6db6d6433e9:
 
-OpendataSicilia, communities, articoli
-######################################
+OpendataSicilia & communities
+#############################
 
 .. raw:: html
    :file: opendatasicilia.html
@@ -14,7 +14,7 @@ OpendataSicilia, communities, articoli
 active citizenship & communities
 ================================
 
-\ |LINK1|\  [articoli su dati aperti e pubblica amministrazione digitale]
+\ |IMG1|\  \ |LINK1|\  [articoli su dati aperti e pubblica amministrazione digitale]
 
 \ |LINK2|\  [community sull'innovazione della pubblica amministrazione]
 
@@ -26,25 +26,14 @@ active citizenship & communities
 
 --------
 
-.. _h575c3392e28516f503b3b613a6020:
-
-Articoli
-========
-
 
 |REPLACE1|
-
-
-|REPLACE2|
 
 
 .. bottom of content
 
 
 .. |REPLACE1| raw:: html
-
-    <iframe width="100%" height="700px" frameBorder="0" src="https://medium.com/@cirospat/latest"></iframe>
-.. |REPLACE2| raw:: html
 
     <script id="dsq-count-scr" src="//guida-readthedocs.disqus.com/count.js" async></script>
     
@@ -90,3 +79,7 @@ Articoli
 
     <a href="http://opendatasicilia.it/author/cirospat/" target="_blank">opendatasicilia</a>
 
+
+.. |IMG1| image:: static/opendatasicilia-communities_1.png
+   :height: 30 px
+   :width: 137 px
