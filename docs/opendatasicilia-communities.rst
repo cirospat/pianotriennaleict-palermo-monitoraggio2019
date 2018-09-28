@@ -83,3 +83,4 @@ active citizenship & communities
 .. |IMG1| image:: static/opendatasicilia-communities_1.png
    :height: 30 px
    :width: 137 px
+   :target: https://medium.com/@cirospat/latest
