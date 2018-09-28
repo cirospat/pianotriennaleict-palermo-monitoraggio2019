@@ -14,7 +14,7 @@ OpendataSicilia & communities
 active citizenship & communities
 ================================
 
-\ |LINK1|\  [articoli su dati aperti e pubblica amministrazione digitale]
+\ |LINK1|\  [articoli sui dati aperti e pubblica amministrazione digitale]
 
 \ |LINK2|\  [articoli pubblicati sulla community dell'innovazione della pubblica amministrazione]
 
