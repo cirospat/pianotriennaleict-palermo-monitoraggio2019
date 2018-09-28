@@ -252,7 +252,7 @@ Tabella con http://truben.no/table
     <p><a class="twitter-follow-button" href="https://twitter.com/opendatasicilia?ref_src=twsrc%5Etfw" data-show-count="false">Follow @opendatasicilia</a></p>
 .. |REPLACE2| raw:: html
 
-    <iframe width="100%" height="1200px" frameBorder="0" src="https://medium.com/@cirospat/latest"></iframe>
+    <iframe width="100%" height="700px" frameBorder="0" src="https://medium.com/@cirospat/latest"></iframe>
 .. |REPLACE3| raw:: html
 
     <iframe width="100%" height="600px" frameBorder="0" src="https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vRlMpRdyCdLZy6c2UNFk-KJ3dEHq5vyeyMkB4XDUrEBcmUZLJd9NDgjCfeEONqVcnO-Z588ms8g_tOl/pubhtml"></iframe>
