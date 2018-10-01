@@ -117,7 +117,8 @@ Le iniziative di carattere \ |STYLE1|\ , vissute in spirito collaborativo insiem
     <strong><span style="background-color: #247a2e; color: #ffffff; display: inline-block; padding: 3px 8px; border-radius: 10px;">Reti di impegno</span></strong>
 .. |REPLACE2| raw:: html
 
-    <img src="https://lh3.googleusercontent.com/3j8-NDVXgoWqBNj14GtqCgOan6mgOiH7x3_A-kMmP16c8PIa4_pxdNzC4nBNSazyYVjyox3Yz8NaDZUB43i_JmEzd4OOfJ0Em_gIfmLrCOChcqE5a7XhwHfckX66gCxzbedNVYf9Ef5FQ6yoAjNAYkyWcOASugfe8h6RbJBueojwGlm-k1g3u9x_f1AORqHoMtj1087RTSLOzXgZJ8V0iH_d-k7SVVx2USAGFenMR7CMu5zX9dnCC_ZC2qP9a2WgvMf4Ra9rPR65U6oba9kxnDqAabZXBZt_Cr7PGjI9XmN6UxX42BJoKnaJz_0hpZp3gecJzCfKKtx85FoeHFyBkxDt1IYiIYgSvfBPK5aMSwVnZnRBWB3iSIwIwUaNyKFBZ7ULjnlx9aHYVGJcAAqUJ62DbLajQD78tAiCS5_6Znb49fAY_5GNAclC5pkYkrOXsQgNuUjNDNCL82xZUU6njJGgPIfAY1QYcJqUT_pMIfzzqI0bvLGdrzQe9DgVynlz_jnAhlI13bRGWv3ti9TLS6Ek2qmuRDuVJx4tkE21U3_ujR77oC8rdFaESNzprrlzMEbmVrI7qlMxctVB461HpjpP7-U5dOQiqlYjoRFy5DCyHtvvPkBjs_99Yz_FFoM=w700-h350-no" />
+    <img src="https://lh3.googleusercontent.com/3j8-NDVXgoWqBNj14GtqCgOan6mgOiH7x3_A-kMmP16c8PIa4_pxdNzC4nBNSazyYVjyox3Yz8NaDZUB43i_JmEzd4OOfJ0Em_gIfmLrCOChcqE5a7XhwHfckX66gCxzbedNVYf9Ef5FQ6yoAjNAYkyWcOASugfe8h6RbJBueojwGlm-k1g3u9x_f1AORqHoMtj1087RTSLOzXgZJ8V0iH_d-k7SVVx2USAGFenMR7CMu5zX9dnCC_ZC2qP9a2WgvMf4Ra9rPR65U6oba9kxnDqAabZXBZt_Cr7PGjI9XmN6UxX42BJoKnaJz_0hpZp3gecJzCfKKtx85FoeHFyBkxDt1IYiIYgSvfBPK5aMSwVnZnRBWB3iSIwIwUaNyKFBZ7ULjnlx9aHYVGJcAAqUJ62DbLajQD78tAiCS5_6Znb49fAY_5GNAclC5pkYkrOXsQgNuUjNDNCL82xZUU6njJGgPIfAY1QYcJqUT_pMIfzzqI0bvLGdrzQe9DgVynlz_jnAhlI13bRGWv3ti9TLS6Ek2qmuRDuVJx4tkE21U3_ujR77oC8rdFaESNzprrlzMEbmVrI7qlMxctVB461HpjpP7-U5dOQiqlYjoRFy5DCyHtvvPkBjs_99Yz_FFoM=w700-h350-no" /><br>
+    http://ods2018.opendatasicilia.it/ 
 .. |REPLACE3| raw:: html
 
     <strong><span style="background-color: #247a2e; color: #ffffff; display: inline-block; padding: 3px 8px; border-radius: 10px;">Ambiti principali di questo spazio</span></strong>
