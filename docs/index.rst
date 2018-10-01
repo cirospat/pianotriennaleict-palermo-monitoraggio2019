@@ -23,6 +23,9 @@ In questo spazio descrivo le principali \ |STYLE0|\  in cui sono impegnato per `
 
 |REPLACE3|
 
+
+|REPLACE4|
+
 * i ``dati`` che resi ``pubblici`` valorizzano il patrimonio informativo della Pubblica Amministrazione, e ne consentono un riuso creativo anche a fini economici;
 
 * l’ ``innovazione`` di ``processo`` e di ``servizio``; 
@@ -45,7 +48,7 @@ Le iniziative di carattere \ |STYLE1|\ , vissute in spirito collaborativo insiem
 |
 
 
-|REPLACE4|
+|REPLACE5|
 
 .. toctree::
   :maxdepth: 2
@@ -95,7 +98,7 @@ Le iniziative di carattere \ |STYLE1|\ , vissute in spirito collaborativo insiem
     privacy
 
 
-|REPLACE5|
+|REPLACE6|
 
 --------
 
@@ -120,12 +123,15 @@ Le iniziative di carattere \ |STYLE1|\ , vissute in spirito collaborativo insiem
     <img src="https://raw.githubusercontent.com/opendatasicilia/Palermo2018/gh-pages/img/banner300x100.png" />
 .. |REPLACE3| raw:: html
 
-    <strong><span style="background-color: #247a2e; color: #ffffff; display: inline-block; padding: 3px 8px; border-radius: 10px;">Ambiti principali di questo spazio</span></strong>
-    
+    <img src="https://lh3.googleusercontent.com/3j8-NDVXgoWqBNj14GtqCgOan6mgOiH7x3_A-kMmP16c8PIa4_pxdNzC4nBNSazyYVjyox3Yz8NaDZUB43i_JmEzd4OOfJ0Em_gIfmLrCOChcqE5a7XhwHfckX66gCxzbedNVYf9Ef5FQ6yoAjNAYkyWcOASugfe8h6RbJBueojwGlm-k1g3u9x_f1AORqHoMtj1087RTSLOzXgZJ8V0iH_d-k7SVVx2USAGFenMR7CMu5zX9dnCC_ZC2qP9a2WgvMf4Ra9rPR65U6oba9kxnDqAabZXBZt_Cr7PGjI9XmN6UxX42BJoKnaJz_0hpZp3gecJzCfKKtx85FoeHFyBkxDt1IYiIYgSvfBPK5aMSwVnZnRBWB3iSIwIwUaNyKFBZ7ULjnlx9aHYVGJcAAqUJ62DbLajQD78tAiCS5_6Znb49fAY_5GNAclC5pkYkrOXsQgNuUjNDNCL82xZUU6njJGgPIfAY1QYcJqUT_pMIfzzqI0bvLGdrzQe9DgVynlz_jnAhlI13bRGWv3ti9TLS6Ek2qmuRDuVJx4tkE21U3_ujR77oC8rdFaESNzprrlzMEbmVrI7qlMxctVB461HpjpP7-U5dOQiqlYjoRFy5DCyHtvvPkBjs_99Yz_FFoM=w700-h350-no" />
 .. |REPLACE4| raw:: html
 
-    <h3><strong><span style="color: #ffffff;"><span style="background-color: #247a2e; display: inline-block; padding: 3px 8px; border-radius: 10px;">Indice</span></span></strong></h3>
+    <strong><span style="background-color: #247a2e; color: #ffffff; display: inline-block; padding: 3px 8px; border-radius: 10px;">Ambiti principali di questo spazio</span></strong>
+    
 .. |REPLACE5| raw:: html
+
+    <h3><strong><span style="color: #ffffff;"><span style="background-color: #247a2e; display: inline-block; padding: 3px 8px; border-radius: 10px;">Indice</span></span></strong></h3>
+.. |REPLACE6| raw:: html
 
     <script id="dsq-count-scr" src="//guida-readthedocs.disqus.com/count.js" async></script>
     
