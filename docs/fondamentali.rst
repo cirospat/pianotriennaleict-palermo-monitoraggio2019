@@ -92,9 +92,7 @@ Linee Guida su acquisizione e riuso di software per le Pubbliche Amministrazioni
 
 \ |LINK9|\ 
 
-\ |LINK10|\  (AGID)
-
-										
+					
 
 --------
 
@@ -103,7 +101,7 @@ Linee Guida su acquisizione e riuso di software per le Pubbliche Amministrazioni
 Linee guida 2018 modello di interoperabilità nelle Pubbliche Amministrazioni
 ****************************************************************************
 
-\ |LINK11|\ 
+\ |LINK10|\ 
 
 --------
 
@@ -112,13 +110,13 @@ Linee guida 2018 modello di interoperabilità nelle Pubbliche Amministrazioni
 Linee Guida per la valorizzazione del Patrimonio Informativo Pubblico (2017)
 ****************************************************************************
 
-\ |LINK12|\ 
+\ |LINK11|\ 
 
-* \ |LINK13|\ 
+* \ |LINK12|\ 
 
-* \ |LINK14|\  
+* \ |LINK13|\  
 
-* \ |LINK15|\ 
+* \ |LINK14|\ 
 
 --------
 
@@ -127,7 +125,9 @@ Linee Guida per la valorizzazione del Patrimonio Informativo Pubblico (2017)
 Censimento del Patrimonio ICT delle Pubbliche Amministrazioni
 *************************************************************
 
-\ |LINK16|\  
+\ |LINK15|\  
+
+\ |LINK16|\  (AGID)
 
 --------
 
@@ -353,31 +353,31 @@ Se inclusa e dettagliato nell’ambito di capitolati di gara di servizi tecnolog
 
 .. |LINK10| raw:: html
 
-    <a href="http://eventipa.formez.it/node/158577" target="_blank">Webinar (FormezPA) su Data Center e Cloud: la razionalizzazione delle infrastrutture fisiche nella PA</a>
+    <a href="http://lg-modellointeroperabilita.readthedocs.io/it/latest/index.html" target="_blank">Linee Guida</a>
 
 .. |LINK11| raw:: html
 
-    <a href="http://lg-modellointeroperabilita.readthedocs.io/it/latest/index.html" target="_blank">Linee Guida</a>
+    <a href="http://lg-patrimonio-pubblico.readthedocs.io" target="_blank">Linee Guida</a>
 
 .. |LINK12| raw:: html
 
-    <a href="http://lg-patrimonio-pubblico.readthedocs.io" target="_blank">Linee Guida</a>
+    <a href="https://linee-guida-cataloghi-dati-profilo-dcat-ap-it.readthedocs.io/it/latest/" target="_blank">Linee guida per i cataloghi dati</a>
 
 .. |LINK13| raw:: html
 
-    <a href="https://linee-guida-cataloghi-dati-profilo-dcat-ap-it.readthedocs.io/it/latest/" target="_blank">Linee guida per i cataloghi dati</a>
+    <a href="http://pianotri-schede-bdin.readthedocs.io/en/latest/" target="_blank">Schede descrittive delle basi dati di interesse nazionale</a>
 
 .. |LINK14| raw:: html
 
-    <a href="http://pianotri-schede-bdin.readthedocs.io/en/latest/" target="_blank">Schede descrittive delle basi dati di interesse nazionale</a>
+    <a href="http://elenco-basi-di-dati-chiave.readthedocs.io/it/latest/" target="_blank">Elenco delle basi dati chiave</a>
 
 .. |LINK15| raw:: html
 
-    <a href="http://elenco-basi-di-dati-chiave.readthedocs.io/it/latest/" target="_blank">Elenco delle basi dati chiave</a>
+    <a href="https://censimentoict.italia.it" target="_blank">censimentoict.italia.it</a>
 
 .. |LINK16| raw:: html
 
-    <a href="https://censimentoict.italia.it" target="_blank">censimentoict.italia.it</a>
+    <a href="http://eventipa.formez.it/node/158577" target="_blank">Webinar (FormezPA) su Data Center e Cloud: la razionalizzazione delle infrastrutture fisiche nella PA</a>
 
 .. |LINK17| raw:: html
 
