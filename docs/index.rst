@@ -117,7 +117,7 @@ Le iniziative di carattere \ |STYLE1|\ , vissute in spirito collaborativo insiem
     <strong><span style="background-color: #247a2e; color: #ffffff; display: inline-block; padding: 3px 8px; border-radius: 10px;">Reti di impegno</span></strong>
 .. |REPLACE2| raw:: html
 
-    <img src="https://lh3.googleusercontent.com/U1ycq1tZXHNR7M9dosoZPnVULMnQfzl8wmfa8ht_ra7WAXBIKyJZj7aUypZqbxKZb2F3tnvRyIxcM1nxRQM9xQmCoparL2OT-e-oWqYfciOUHSJuz1doLAcZ0knYrf4NA0JBCBzMRzz0HqzxRymPWX7uQL6iGGePXWd_9Hin5spYo_bUi-pRb5tc80TdxuxEq2x5yB6KzRb_V_QL9qAxGtzSOVlDneBUEICA0NgtmQ65JGcSXgcj3HLFUC5e94kDzv1O6uJzouSPy-9K42cr7akL7hdjbTpORb6qMtMxNcvubcLzp_KMf_uWil7B9N2yRUUvOmmCQtuKACYB8-7IyqWVY821tSeNep9q53WymdD1cFZbiwovII2otPcFOI41hZJXNSAH_wAAVrD_ezo2H9eCO7BnP-C6q01p45kUAxGD8z6SYiWN39_GDg5thwuicKhJ1ti_HtpZDqlmiA-SrRKdc0eGFgfiypnU4dAdELSPrhGa9P8kMTGWXHQ-W2YEV4ZpxlZ7f44b0Hie7u7qVOmipuSM3KHatsuAF68A9rrLfp1kZKDfp0oU_MNCLgkuIvwT5iW5aeuBsp-KwdWRZVx0v6W5tf8ZraAhQCokPWjrWsO1E336RI5rpwr1lLxAfigSrGkq1SNh7A55lFp1S5s3NIrDifnwvcbrJnHtt5NGCfDnGZLu7ext=w700-h350-no" /><br>
+    <img src="https://user-images.githubusercontent.com/30607/46467008-06234d00-c7cd-11e8-93dd-04ef42e5c23d.png" /><br>
     <a href="http://ods2018.opendatasicilia.it">ods2018.opendatasicilia.it</a>
 .. |REPLACE3| raw:: html
 
