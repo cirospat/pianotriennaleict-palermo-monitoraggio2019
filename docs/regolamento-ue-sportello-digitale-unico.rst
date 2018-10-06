@@ -7,14 +7,12 @@ REGOLAMENTO DEL PARLAMENTO EUROPEO E DEL CONSIGLIO CHE ISTITUISCE UNO SPORTELLO 
 
 .. admonition:: fonte
 
-    \ |LINK1|\   PE-CONS 41/3/18 - REV 3 
+    \ |LINK1|\ :  PE-CONS 41/3/18 - REV 3 
     
     \ |LINK2|\ 
 
 
 |REPLACE1|
-
-|
 
 
 .. toctree::  
@@ -1092,7 +1090,7 @@ Elenco dei servizi di assistenza e risoluzione dei problemi di cui all'articolo 
 
 .. |LINK1| raw:: html
 
-    <a href="https://eur-lex.europa.eu/legal-content/IT/TXT/PDF/?uri=CONSIL:PE_41_2018_REV_3&from=EN" target="_blank">Pubblicazione</a>
+    <a href="https://eur-lex.europa.eu/legal-content/IT/TXT/PDF/?uri=CONSIL:PE_41_2018_REV_3&from=EN" target="_blank">Pubblicazione (PDF): eur-lex-europa.eu</a>
 
 .. |LINK2| raw:: html
 
