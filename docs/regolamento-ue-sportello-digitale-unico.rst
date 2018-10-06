@@ -7,7 +7,8 @@ REGOLAMENTO DEL PARLAMENTO EUROPEO E DEL CONSIGLIO CHE ISTITUISCE UNO SPORTELLO 
 
 .. admonition:: fonte
 
-    \ |LINK1|\      
+    \ |LINK1|\   PE-CONS 41/3/18 - REV 3 
+    
     
     \ |LINK2|\ 
 
@@ -34,11 +35,11 @@ Articolo 1 - Oggetto
 
 #. Il presente regolamento stabilisce le norme per:
 
-    #. l'istituzione e la gestione di uno sportello digitale unico per offrire ai cittadini e alle imprese un facile accesso a informazioni di alta qualità, a procedure efficienti e a servizi di assistenza e di risoluzione dei problemi efficaci in relazione alle norme dell'Unione e nazionali applicabili ai cittadini e alle imprese che esercitano o che intendono esercitare i loro diritti derivanti dal diritto dell'Unione nell'ambito del mercato interno ai sensi dell'articolo 26, paragrafo 2, TFUE;
+    #. (lettera a) l'istituzione e la gestione di uno sportello digitale unico per offrire ai cittadini e alle imprese un facile accesso a informazioni di alta qualità, a procedure efficienti e a servizi di assistenza e di risoluzione dei problemi efficaci in relazione alle norme dell'Unione e nazionali applicabili ai cittadini e alle imprese che esercitano o che intendono esercitare i loro diritti derivanti dal diritto dell'Unione nell'ambito del mercato interno ai sensi dell'articolo 26, paragrafo 2, TFUE;
 
-    #. l'uso di procedure da parte di utenti transfrontalieri e l'applicazione del principio "una tantum" in relazione alle procedure riportate all'allegato II del presente regolamento e alle procedure previste dalle direttive 2005/3 6/CE, 2006/123/CE, 2014/24/UE e 2014/25/UE;
+    #. (lettera b) l'uso di procedure da parte di utenti transfrontalieri e l'applicazione del principio "una tantum" in relazione alle procedure riportate all'allegato II del presente regolamento e alle procedure previste dalle direttive 2005/3 6/CE, 2006/123/CE, 2014/24/UE e 2014/25/UE;
 
-    #. la segnalazione di ostacoli nel mercato interno in base alla raccolta di riscontri degli utenti e di statistiche provenienti dai servizi inclusi nello sportello.
+    #. (lettera c) la segnalazione di ostacoli nel mercato interno in base alla raccolta di riscontri degli utenti e di statistiche provenienti dai servizi inclusi nello sportello.
 
 #. Laddove il presente regolamento sia in conflitto con una disposizione di un altro atto dell'Unione che disciplina aspetti specifici della materia oggetto del presente regolamento, prevale la disposizione dell'altro atto del l'Unione.
 
@@ -49,15 +50,15 @@ Articolo 1 - Oggetto
 Articolo 2 - Istituzione dello sportello digitale unico
 =======================================================
 
-#. Conformemente al presente regolamento la Commissione e gli Stati membri istituiscono uno sportello digitale unico ("sportello"). Lo sportello è composto da un'interfaccia utenti comune gestita dalla Commissione ("interfaccia utenti comune"), integrata nel portale "La tua Europa", che fornisce accesso ai pertinenti si ti web dell'Unione e nazionali.
+#. Conformemente al presente regolamento la Commissione e gli Stati membri istituiscono uno sportello digitale unico ("sportello"). Lo sportello è composto da un'interfaccia utenti comune gestita dalla Commissione ("interfaccia utenti comune"), integrata nel portale "La tua Europa", che fornisce accesso ai pertinenti siti web dell'Unione e nazionali.
 
 #. Lo sportello dà accesso a:
 
-    #. informazioni relative ai diritti, agli obblighi e alle norme di cui al diritto dell'Unione e nazionale che si applicano agli utenti che esercitano o intendono esercitare i loro diritti derivanti dal diritto dell'Unione nell'ambito del mercato interno nei settorielencati all'allegato I;
+    #. (lettera a) informazioni relative ai diritti, agli obblighi e alle norme di cui al diritto dell'Unione e nazionale che si applicano agli utenti che esercitano o intendono esercitare i loro diritti derivanti dal diritto dell'Unione nell'ambito del mercato interno nei settori elencati all'allegato I;
 
-    #. informazioni sulle procedure in linea e non in linea e link alle procedure in linea, incluse le procedure di cui all'allegato II, stabilite a livello dell'Unione o nazionale per consentire agli utenti di esercitare i diritti e rispettare gli obblighi e le norme nell'ambito del mercato interno nei settori di cui all'allegato I; 
+    #. (lettera b) informazioni sulle procedure in linea e non in linea e link alle procedure in linea, incluse le procedure di cui all'allegato II, stabilite a livello dell'Unione o nazionale per consentire agli utenti di esercitare i diritti e rispettare gli obblighi e le norme nell'ambito del mercato interno nei settori di cui all'allegato I; 
 
-    #. informazioni sui servizi di assistenza e di risoluzione dei problemi elencati all'allegato III o a cui è fatto riferimento all'articolo 7 a cui si possono rivolgere cittadini e imprese per domande o problemi connessi ai diritti, agli obblighi o alle norme o procedure di cui alle lettere a) e b) del presente paragrafo, e link a tali servizi. 
+    #. (lettera c) informazioni sui servizi di assistenza e di risoluzione dei problemi elencati all'allegato III o a cui è fatto riferimento all'articolo 7 a cui si possono rivolgere cittadini e imprese per domande o problemi connessi ai diritti, agli obblighi o alle norme o procedure di cui alle lettere a) e b) del presente paragrafo, e link a tali servizi. 
 
 #. L'interfaccia utenti comune è accessibile in tutte le lingue ufficiali dell'Unione. 
 
@@ -173,10 +174,10 @@ La Commissione rende i siti e le pagine web attraverso i quali concede l'accesso
 Capo III - Prescrizioni relative alla qualità
 *********************************************
 
-.. _h53292a5768d114ac159123031474:
+.. _hf464a31713a21444f396d20196d7f4a:
 
-SEZIONE 1 REQUISITI DI QUALITÀ RELATIVI ALLE INFORMAZIONI SUI DIRITTI, SUGLI OBBLIGHI, SULLE NORME, SULLE PROCEDURE E SUI SERVIZI DI ASSISTENZA E DI RISOLUZIONE DEI PROBLEMI
-*****************************************************************************************************************************************************************************
+SEZIONE - 1 REQUISITI DI QUALITÀ RELATIVI ALLE INFORMAZIONI SUI DIRITTI, SUGLI OBBLIGHI, SULLE NORME, SULLE PROCEDURE E SUI SERVIZI DI ASSISTENZA E DI RISOLUZIONE DEI PROBLEMI
+*******************************************************************************************************************************************************************************
 
 .. _h4422153a5303b5c7c3a3a59547a5131:
 
