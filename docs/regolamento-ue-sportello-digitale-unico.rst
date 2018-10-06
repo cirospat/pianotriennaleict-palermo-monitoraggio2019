@@ -8,6 +8,7 @@ REGOLAMENTO DEL PARLAMENTO EUROPEO E DEL CONSIGLIO CHE ISTITUISCE UNO SPORTELLO 
 .. admonition:: fonte
 
     \ |LINK1|\      
+    
     \ |LINK2|\ 
 
 |
