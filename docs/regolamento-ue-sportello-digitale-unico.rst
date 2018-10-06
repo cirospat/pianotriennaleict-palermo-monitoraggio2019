@@ -1,8 +1,8 @@
 
-.. _h692402407e9374e4068581311f26:
+.. _h2e6f265313d3b246817290513f2b51:
 
-REGOLAMENTO DEL PARLAMENTO EUROPEO E DEL CONSIGLIO CHE ISTITUISCE UNO SPORTELLO DIGITALE UNICO PER L'ACCESSO A INFORMAZIONI, PROCEDURE E SERVIZI DI ASSISTENZA E DI RISOLUZIONE DEI PROBLEMI E CHE MODIFICA IL REGOLAMENTO (UE) N.1024/2012
-###########################################################################################################################################################################################################################################
+Regolamento del Parlamento Europeo e del Consiglio che istituisce uno sportello digitale unico per l'accesso a informazioni, procedure e servizi di assistenza e di risoluzione dei problemi e che modifica il Regolamento (UE) n. 1024/2012
+############################################################################################################################################################################################################################################
 
 
 .. admonition:: fonte
