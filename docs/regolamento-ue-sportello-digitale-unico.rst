@@ -4,7 +4,11 @@
 REGOLAMENTO DEL PARLAMENTO EUROPEO E DEL CONSIGLIO CHE ISTITUISCE UNO SPORTELLO DIGITALE UNICO PER L'ACCESSO A INFORMAZIONI, PROCEDURE E SERVIZI DI ASSISTENZA E DI RISOLUZIONE DEI PROBLEMI E CHE MODIFICA IL REGOLAMENTO (UE) N.1024/2012
 ###########################################################################################################################################################################################################################################
 
-\ |LINK1|\ 
+
+.. admonition:: fonte
+
+    \ |LINK1|\      
+    \ |LINK2|\ 
 
 |
 
@@ -29,11 +33,11 @@ Articolo 1 - Oggetto
 
 #. Il presente regolamento stabilisce le norme per:
 
-        #. l'istituzione e la gestione di uno sportello digitale unico per offrire ai cittadini e alle imprese un facile accesso a informazioni di alta qualità, a procedure efficienti e a servizi di assistenza e di risoluzione dei problemi efficaci in relazione alle norme dell'Unione e nazionali applicabili ai cittadini e alle imprese che esercitano o che intendono esercitare i loro diritti derivanti dal diritto dell'Unione nell'ambito del mercato interno ai sensi dell'articolo 26, paragrafo 2, TFUE;
+    #. l'istituzione e la gestione di uno sportello digitale unico per offrire ai cittadini e alle imprese un facile accesso a informazioni di alta qualità, a procedure efficienti e a servizi di assistenza e di risoluzione dei problemi efficaci in relazione alle norme dell'Unione e nazionali applicabili ai cittadini e alle imprese che esercitano o che intendono esercitare i loro diritti derivanti dal diritto dell'Unione nell'ambito del mercato interno ai sensi dell'articolo 26, paragrafo 2, TFUE;
 
-        #. l'uso di procedure da parte di utenti transfrontalieri e l'applicazione del principio "una tantum" in relazione alle procedure riportate all'allegato II del presente regolamento e alle procedure previste dalle direttive 2005/3 6/CE, 2006/123/CE, 2014/24/UE e 2014/25/UE;
+    #. l'uso di procedure da parte di utenti transfrontalieri e l'applicazione del principio "una tantum" in relazione alle procedure riportate all'allegato II del presente regolamento e alle procedure previste dalle direttive 2005/3 6/CE, 2006/123/CE, 2014/24/UE e 2014/25/UE;
 
-        #. la segnalazione di ostacoli nel mercato interno in base alla raccolta di riscontri degli utenti e di statistiche provenienti dai servizi inclusi nello sportello.
+    #. la segnalazione di ostacoli nel mercato interno in base alla raccolta di riscontri degli utenti e di statistiche provenienti dai servizi inclusi nello sportello.
 
 #. Laddove il presente regolamento sia in conflitto con una disposizione di un altro atto dell'Unione che disciplina aspetti specifici della materia oggetto del presente regolamento, prevale la disposizione dell'altro atto del l'Unione.
 
@@ -881,7 +885,11 @@ Settori di informazione pertinenti per i cittadini:
 
 .. |LINK1| raw:: html
 
-    <a href="https://eur-lex.europa.eu/legal-content/IT/TXT/PDF/?uri=CONSIL:PE_41_2018_REV_3&from=EN" target="_blank">https://eur-lex.europa.eu/legal-content/IT/TXT/PDF/?uri=CONSIL:PE_41_2018_REV_3&from=EN</a>
+    <a href="https://eur-lex.europa.eu/legal-content/IT/TXT/PDF/?uri=CONSIL:PE_41_2018_REV_3&from=EN" target="_blank">Pubblicazione</a>
+
+.. |LINK2| raw:: html
+
+    <a href="https://www.consilium.europa.eu/it/press/press-releases/2018/09/27/single-digital-gateway-regulation-adopted-by-council-better-online-access-to-information-and-procedures-across-the-eu/?utm_source=dsms-auto&utm_medium=email&utm_campaign=Regulamento+relativo+ao+portal+digital+%C3%BAnico+adotado+pelo+Conselho:+melhorar+o+acesso+em+linha+a+informa%C3%A7%C3%B5es+e+procedimentos+em+toda+a+UE" target="_blank">Il Consiglio adotta il regolamento sullo sportello digitale unico: migliore accesso online alle informazioni e alle procedure in tutta l'UE</a>
 
 
 
