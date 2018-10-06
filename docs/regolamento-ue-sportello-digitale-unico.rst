@@ -9,15 +9,17 @@ REGOLAMENTO DEL PARLAMENTO EUROPEO E DEL CONSIGLIO CHE ISTITUISCE UNO SPORTELLO 
 
     \ |LINK1|\   PE-CONS 41/3/18 - REV 3 
     
-    
     \ |LINK2|\ 
+
+
+|REPLACE1|
 
 |
 
 
 .. toctree::  
     :maxdepth: 3
-    :caption: indice-regolamento
+    :caption: indice del Regolamento UE
 
     regolamento-ue-sportello-digitale-unico
 
@@ -765,7 +767,7 @@ Articolo 38 - Modifica del regolamento (UE) n. 1024/2012
 
     * "11. Regolamento (UE) 2016/679  del Parlamento europeo e del Consiglio, del 27 aprile 2016, relativo alla protezione delle persone fisiche con riguardo al trattamento dei dati personali, nonché alla libera circolazione di tali dati e che abroga la direttiva 95/46/CE (regolamento generale sulla protezione dei dati)\* [\* GU L 119 del 4.5.2016, pag. 1.]: articolo 56, articoli da 60 a 66 e articolo 70, paragrafo 1. 
 
-    * 12. Regolamento (UE) 2018/… + del Parlamento europeo e del Consiglio, del ..., che istituisce uno sportello digitale unico per l'accesso a informazioni, a procedure e a servizi di assistenza e di risoluzione dei problemi e che modifica il regolamento (UE) n. 1024/2012\*\* [\*\* GU: inserire il riferimento alla Gazzetta ufficiale del presente regolamento modificativo.]: articolo 6, paragrafo 4, e articoli 15 e 19.". 
+    * 12. Regolamento (UE) 2018/… + [+ = GU: inserire nel testo il numero e la data di adozione del presente regolamento modificativo].  del Parlamento europeo e del Consiglio, del ..., che istituisce uno sportello digitale unico per l'accesso a informazioni, a procedure e a servizi di assistenza e di risoluzione dei problemi e che modifica il regolamento (UE) n. 1024/2012\*\* [\*\* GU: inserire il riferimento alla Gazzetta ufficiale del presente regolamento modificativo]: articolo 6, paragrafo 4, e articoli 15 e 19.". 
 
 .. _h2c7b211c5a1776637494f10314e32:
 
@@ -1083,6 +1085,10 @@ Elenco dei servizi di assistenza e risoluzione dei problemi di cui all'articolo 
 
 .. |STYLE0| replace:: *Articolo 1 Oggetto*
 
+
+.. |REPLACE1| raw:: html
+
+    <img src="https://www.consilium.europa.eu/images/logo.png" />
 
 .. |LINK1| raw:: html
 
