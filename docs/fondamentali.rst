@@ -268,6 +268,15 @@ Se inclusa e dettagliato nell’ambito di capitolati di gara di servizi tecnolog
 
 --------
 
+.. _h2e6f265313d3b246817290513f2b51:
+
+Regolamento del Parlamento Europeo e del Consiglio che istituisce uno sportello digitale unico per l'accesso a informazioni, procedure e servizi di assistenza e di risoluzione dei problemi e che modifica il Regolamento (UE) n. 1024/2012
+********************************************************************************************************************************************************************************************************************************************
+
+\ |LINK36|\  (formato RTD)
+
+--------
+
 
 |REPLACE1|
 
@@ -454,4 +463,8 @@ Se inclusa e dettagliato nell’ambito di capitolati di gara di servizi tecnolog
 .. |LINK35| raw:: html
 
     <a href="https://medium.com/team-per-la-trasformazione-digitale/carta-dei-principi-tecnologici-del-procurement-pubblica-amministrazione-innovazione-dbdfcab2745" target="_blank">Articolo di Diego Piacentini sull'argomento</a>
+
+.. |LINK36| raw:: html
+
+    <a href="https://cirospat.readthedocs.io/it/latest/regolamento-ue-sportello-digitale-unico.html" target="_blank">Regolamento</a>
 
