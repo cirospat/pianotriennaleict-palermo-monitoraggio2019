@@ -93,19 +93,19 @@ Articolo 4 - Accesso alle informazioni
 
 #. Gli Stati membri assicurano che gli utenti possano accedere facilmente sulle loro pagine web nazionali alle seguenti informazioni in linea:
 
-    #. informazioni sui diritti, sugli obblighi e sulle norme di cui all'articolo 2, paragrafo 2, lettera a), derivanti dal diritto nazionale; 
+    #. (lettera a) informazioni sui diritti, sugli obblighi e sulle norme di cui all'articolo 2, paragrafo 2, lettera a), derivanti dal diritto nazionale; 
 
-    #. informazioni sulle procedure di cui all'articolo 2, paragrafo 2, lettera b), stabiliti a livello nazionale; 
+    #. (lettera b) informazioni sulle procedure di cui all'articolo 2, paragrafo 2, lettera b), stabiliti a livello nazionale; 
 
-    #. informazioni sui servizi di assistenza e di risoluzione dei problemi di cui all'articolo 2, paragrafo 2, lettera c), forniti a livello nazionale.
+    #. (lettera c) informazioni sui servizi di assistenza e di risoluzione dei problemi di cui all'articolo 2, paragrafo 2, lettera c), forniti a livello nazionale.
 
 #. La Commissione garantisce che il portale "La tua Europa" assicuri agli utenti un accesso in linea agevole alle seguenti informazioni:
 
-    #. informazioni sui diritti, sugli obblighi e sulle norme di cui all'articolo 2, paragrafo 2, lettera a), derivanti dal diritto dell'Unione; 
+    #. (lettera a) informazioni sui diritti, sugli obblighi e sulle norme di cui all'articolo 2, paragrafo 2, lettera a), derivanti dal diritto dell'Unione; 
 
-    #. informazioni sulle procedure di cui all'articolo 2, paragrafo 2, lettera b), stabiliti a livello dell'Unione; 
+    #. (lettera b) informazioni sulle procedure di cui all'articolo 2, paragrafo 2, lettera b), stabiliti a livello dell'Unione; 
 
-    #. informazioni sui servizi di assistenza e di risoluzione dei problemi di cui all'articolo 2, paragrafo 2, lettera c), forniti a livello dell'Unione.
+    #. (lettera c) informazioni sui servizi di assistenza e di risoluzione dei problemi di cui all'articolo 2, paragrafo 2, lettera c), forniti a livello dell'Unione.
 
 .. _h4e10625827182b7404a5c2a2b685de:
 
@@ -127,13 +127,13 @@ Articolo 6 - Procedure da offrire interamente in linea
 
 #. Le procedure di cui al paragrafo 1 sono considerate come interamente in linea quando:
 
-    #. l'identificazione degli utenti, la messa a disposizione di informazioni e prove, la firma e la presentazione finale possono essere effettuate per via elettronica a distanza, attraverso un canale di servizio che permette agli utenti di soddisfare tutti i requisiti relativi alla procedura in modo facilmente fruibile e strutturato; 
+    #. (lettera a) l'identificazione degli utenti, la messa a disposizione di informazioni e prove, la firma e la presentazione finale possono essere effettuate per via elettronica a distanza, attraverso un canale di servizio che permette agli utenti di soddisfare tutti i requisiti relativi alla procedura in modo facilmente fruibile e strutturato; 
 
-    #. agli utenti è fornito un avviso automatico di ricevimento, a meno che il risultato della procedura non sia consegnato immediatamente; 
+    #. (lettera b) agli utenti è fornito un avviso automatico di ricevimento, a meno che il risultato della procedura non sia consegnato immediatamente; 
 
-    #. Il risultato della procedura è consegnato per via elettronica o è consegnato fisicamente se necessario per conformarsi al diritto dell'Unione o al diritto nazionale applicabile; e
+    #. (lettera c) Il risultato della procedura è consegnato per via elettronica o è consegnato fisicamente se necessario per conformarsi al diritto dell'Unione o al diritto nazionale applicabile; e
 
-    #. gli utenti ricevono una notifica elettronica del completamento della procedura.
+    #. (lettera d) gli utenti ricevono una notifica elettronica del completamento della procedura.
 
 #. Se, in casi eccezionali giustificati da motivi imperativi di interesse pubblico negli ambiti della sicurezza pubblica, della salute pubblica o della lotta alla frode, l'obiettivo perseguito non può essere conseguito interamente in linea, gli Stati membri possono chiedere all'utente di comparire di persona dinanzi all'autorità competente come una delle fasi della procedura. In tali casi eccezionali, gli Stati membri limitano tale presenza fisica a quanto strettamente necessario e oggettivamente giustificato e garantiscono che le altre fasi della procedura possano essere espletate interamente in linea. Gli Stati membri garantiscono anche che i requisiti di presenza fisica non provochino una discriminazione nei confronti degli utenti transfrontalieri. 
 
@@ -152,11 +152,11 @@ Articolo 7 - Accesso ai servizi di assistenza e di risoluzione dei problemi
 
 #. Se necessario per soddisfare le esigenze degli utenti, il coordinatore nazionale può proporre alla Commissione di inserire nello sportello link a servizi di assistenza o di risoluzione dei problemi offerti da operatori privati o semiprivati, purché tali servizi: 
 
-    #. offrano informazioni o assistenza negli ambiti e per gli scopi contemplati dal presente regolamento e siano complementari ai servizi già inclusi nello sportello;
+    #. (lettera a) offrano informazioni o assistenza negli ambiti e per gli scopi contemplati dal presente regolamento e siano complementari ai servizi già inclusi nello sportello;
 
-    #. siano offerti a titolo gratuito o a un prezzo accessibile per le microimprese, le organizzazioni senza scopo di lucro e i cittadini; e 
+    #. (lettera b) siano offerti a titolo gratuito o a un prezzo accessibile per le microimprese, le organizzazioni senza scopo di lucro e i cittadini; e 
 
-    #. siano conformi ai requisiti di cui agli articoli 8, 11 e 16.
+    #. (lettera c) siano conformi ai requisiti di cui agli articoli 8, 11 e 16.
 
 #. Se il coordinatore nazionale ha proposto l'inserimento di un link in conformità del paragrafo 3 del presente articolo e fornisce tale link in conformità dell'articolo 19, paragrafo 3, la Commissione verifica se le condizioni di cui al paragrafo 3 del presente articolo siano soddisfatte dal servizio da inserire mediante il link e, in caso affermativo, attiva il link. Se riscontra che le condizioni di cui al paragrafo 3 non sono soddisfatte dal servizio da inserire, la Commissione informa il coordinatore nazionale dei motivi per  cui non ha attivato il link. 
 
@@ -186,23 +186,23 @@ Articolo 9 - Qualità delle informazioni sui diritti, sugli obblighi e sulle nor
 
 #. Nei casi in cui gli Stati membri e la Commissione hanno la responsabilità, a norma dell'articolo 4, di assicurare l'accesso alle informazioni di cui all'articolo 2, paragrafo 2, lettera a), essi garantiscono che tali informazioni soddisfino i seguenti requisiti: 
 
-    #. sono di facile utilizzo e consentono agli utenti di reperire facilmente le informazioni e di individuare facilmente quali parti delle informazioni sono rilevanti per la loro particolare situazione; 
+    #. (lettera a) sono di facile utilizzo e consentono agli utenti di reperire facilmente le informazioni e di individuare facilmente quali parti delle informazioni sono rilevanti per la loro particolare situazione; 
 
-    #. sono esatte e sufficientemente complete per comprendere le informazioni che gli utenti devono conoscere per poter esercitare i loro diritti in piena conformità delle norme e degli obblighi applicabili; 
+    #. (lettera b) sono esatte e sufficientemente complete per comprendere le informazioni che gli utenti devono conoscere per poter esercitare i loro diritti in piena conformità delle norme e degli obblighi applicabili; 
 
-    #. contengono riferimenti, link a atti giuridici, specifiche tecniche e linee guida, se del caso; 
+    #. (lettera c) contengono riferimenti, link a atti giuridici, specifiche tecniche e linee guida, se del caso; 
 
-    #. comprendono il nome dell'autorità competente o del soggetto responsabile del contenuto delle informazioni; 
+    #. (lettera d) comprendono il nome dell'autorità competente o del soggetto responsabile del contenuto delle informazioni; 
 
-    #. includono i recapiti di ogni pertinente servizio di assistenza e di risoluzione dei problemi, come il numero di telefono, l'indirizzo e-mail, un modulo in linea di richiesta e qualsiasi altro strumento di comunicazione elettronica di uso comune che sia il più idoneo al tipo di servizio offerto e ai destinatari di tale servizio; 
+    #. (lettera e) includono i recapiti di ogni pertinente servizio di assistenza e di risoluzione dei problemi, come il numero di telefono, l'indirizzo e-mail, un modulo in linea di richiesta e qualsiasi altro strumento di comunicazione elettronica di uso comune che sia il più idoneo al tipo di servizio offerto e ai destinatari di tale servizio; 
 
-    #. includono la data dell'ultimo aggiornamento delle informazioni, se pertinente, o, qualora le informazioni non siano state aggiornate, la data di pubblicazione delle stesse; 
+    #. (lettera f) includono la data dell'ultimo aggiornamento delle informazioni, se pertinente, o, qualora le informazioni non siano state aggiornate, la data di pubblicazione delle stesse; 
 
-    #. sono ben strutturate e presentate in modo che gli utenti possano trovare rapidamente ciò di cui hanno bisogno; 
+    #. (lettera g) sono ben strutturate e presentate in modo che gli utenti possano trovare rapidamente ciò di cui hanno bisogno; 
 
-    #. sono aggiornate; e 
+    #. (lettera h) sono aggiornate; e 
 
-    #. sono scritte in un linguaggio semplice e chiaro, adeguato alle esigenze degli utenti destinatari.
+    #. (lettera i) sono scritte in un linguaggio semplice e chiaro, adeguato alle esigenze degli utenti destinatari.
 
 #. Gli Stati membri rendono le informazioni di cui al paragrafo 1 del presente articolo accessibili in una lingua ufficiale dell'Unione che sia ampiamente compresa dal maggior numero possibile di utenti transfrontalieri, conformemente all'articolo 12. 
 
@@ -213,23 +213,23 @@ Articolo 10 - Qualità delle informazioni sulle procedure
 
 #. Per conformarsi all'articolo 4, gli Stati membri e la Commissione garantiscono che gli utenti, prima della loro identificazione anteriore all’avvio della procedura, abbiano accesso a una spiegazione sufficientemente completa, chiara e di facile comprensione dei seguenti elementi, se del caso, del le procedure di cui all'articolo 2, paragrafo 2, lettera b): 
 
-    #. le pertinenti fasi della procedura che l'utente deve seguire, comprese eventuali deroghe di cui all'articolo 6, paragrafo 3, all'obbligo degli Stati membri di offrire la procedura interamente in linea; 
+    #. (lettera a) le pertinenti fasi della procedura che l'utente deve seguire, comprese eventuali deroghe di cui all'articolo 6, paragrafo 3, all'obbligo degli Stati membri di offrire la procedura interamente in linea; 
 
-    #. il nome dell'autorità competente responsabile della procedura, compresi i recapiti; 
+    #. (lettera b) il nome dell'autorità competente responsabile della procedura, compresi i recapiti; 
 
-    #. i mezzi di autenticazione, identificazione e firma accettati per tale procedura; 
+    #. (lettera c) i mezzi di autenticazione, identificazione e firma accettati per tale procedura; 
 
-    #. il tipo e il formato in cui presentare le prove; 
+    #. (lettera d) il tipo e il formato in cui presentare le prove; 
 
-    #. i mezzi di ricorso o di impugnazione generalmente disponibili in caso di controversie con le autorità competenti; 
+    #. (lettera e) i mezzi di ricorso o di impugnazione generalmente disponibili in caso di controversie con le autorità competenti; 
 
-    #. i diritti da assolvere e le modalità di pagamento in linea; 
+    #. (lettera f) i diritti da assolvere e le modalità di pagamento in linea; 
 
-    #. le scadenze che l'utente o l'autorità competente sono tenuti a rispettare e, nei casi in cui non esistono scadenze, il tempo medio, stimato o indicativo, che occorre all'autorità competente per espletare la procedura; 
+    #. (lettera g) le scadenze che l'utente o l'autorità competente sono tenuti a rispettare e, nei casi in cui non esistono scadenze, il tempo medio, stimato o indicativo, che occorre all'autorità competente per espletare la procedura; 
 
-    #. le eventuali norme per il caso di mancata risposta da parte dell'autorità competente e le relative conseguenze giuridiche per gli utenti, compresi i regimi di approvazione tacita o di silenzio amministrativo; 
+    #. (lettera h) le eventuali norme per il caso di mancata risposta da parte dell'autorità competente e le relative conseguenze giuridiche per gli utenti, compresi i regimi di approvazione tacita o di silenzio amministrativo; 
 
-    #. eventuali lingue supplementari in cui può essere espletata la procedura.
+    #. (lettera i) eventuali lingue supplementari in cui può essere espletata la procedura.
 
 #. Se non esistono regimi di approvazione tacita, di silenzio amministrativo o simili, le autorità competenti informano, se del caso, gli utenti di eventuali ritardi e di eventuali proroghe delle scadenze o delle eventuali relative conseguenze. 
 
@@ -244,15 +244,15 @@ Articolo 11 - Qualità delle informazioni sui servizi di assistenza e di risoluz
 
 #. Per conformarsi all'articolo 4, gli Stati membri e la Commissione garantiscono che gli utenti, prima di richiedere un servizio ai sensi dell'articolo 2, paragrafo 2, lettera c), abbiano accesso a una spiegazione chiara e di facile comprensione dei seguenti elementi: 
 
-    #. il tipo, le finalità e i possibili risultati del servizio offerto; 
+    #. (lettera a) il tipo, le finalità e i possibili risultati del servizio offerto; 
 
-    #. i recapiti dei soggetti responsabili del servizio, come il numero di telefono, l'indirizzo e-mail, un modulo in linea di richiesta e qualsiasi altro strumento di comunicazione elettronica di uso comune che è più idoneo al tipo di servizio offerto e ai destinatari di tale servizio; 
+    #. (lettera b) i recapiti dei soggetti responsabili del servizio, come il numero di telefono, l'indirizzo e-mail, un modulo in linea di richiesta e qualsiasi altro strumento di comunicazione elettronica di uso comune che è più idoneo al tipo di servizio offerto e ai destinatari di tale servizio; 
 
-    #. se del caso, i diritti da assolvere e le modalità di pagamento in linea; 
+    #. (lettera c) se del caso, i diritti da assolvere e le modalità di pagamento in linea; 
 
-    #. le eventuali scadenze da rispettare e, nei casi in cui non esistono scadenze, una media o una stima del tempo necessario per fornire il servizio; 
+    #. (lettera d) le eventuali scadenze da rispettare e, nei casi in cui non esistono scadenze, una media o una stima del tempo necessario per fornire il servizio; 
 
-    #. eventuali lingue supplementari nelle quali le domande possono essere presentate e che possono essere utilizzate nei contatti successivi. 
+    #. (lettera e) eventuali lingue supplementari nelle quali le domande possono essere presentate e che possono essere utilizzate nei contatti successivi. 
 
 #. Gli Stati membri rendono la spiegazione di cui al paragrafo 1 del presente articolo accessibile in una lingua ufficiale dell'Unione che sia ampiamente compresa dal maggior numero possibile di utenti transfrontalieri, conformemente all'articolo 12.
 
@@ -285,15 +285,15 @@ Articolo 13 - Accesso transfrontaliero alle procedure in linea
 
 #. Per le procedure di cui al paragrafo 1 del presente articolo, gli Stati membri assicurano che siano soddisfatti almeno i seguenti requisiti: 
 
-    #. gli utenti possono consultare istruzioni per completare la procedura almeno in una lingua ufficiale dell'Unione che sia ampiamente compresa dal maggior numero possibile di utenti transfrontalieri, conformemente all'articolo 12;
+    #. (lettera a) gli utenti possono consultare istruzioni per completare la procedura almeno in una lingua ufficiale dell'Unione che sia ampiamente compresa dal maggior numero possibile di utenti transfrontalieri, conformemente all'articolo 12;
 
-    #. gli utenti transfrontalieri possono di presentare le informazioni richieste, anche quando la struttura di tali informazioni è diversa da quella di informazioni analoghe nello Stato membro interessato; 
+    #. (lettera b) gli utenti transfrontalieri possono di presentare le informazioni richieste, anche quando la struttura di tali informazioni è diversa da quella di informazioni analoghe nello Stato membro interessato; 
 
-    #. gli utenti transfrontalieri possono identificarsi e autenticarsi nonché  firmare o sigillare elettronicamente i documenti come previsto dal regolamento (UE) n. 910/2014, in tutti i casi in cui questo sia possibile anche per gli utenti non transfrontalieri;  
+    #. (lettera c) gli utenti transfrontalieri possono identificarsi e autenticarsi nonché  firmare o sigillare elettronicamente i documenti come previsto dal regolamento (UE) n. 910/2014, in tutti i casi in cui questo sia possibile anche per gli utenti non transfrontalieri;  
 
-    #. gli utenti transfrontalieri possono fornire la prova del rispetto dei requisiti applicabili e ricevere l'esito delle procedure in formato elettronico, in tutti i casi in cui questo sia possibile anche per gli utenti non transfrontalieri; 
+    #. (lettera d) gli utenti transfrontalieri possono fornire la prova del rispetto dei requisiti applicabili e ricevere l'esito delle procedure in formato elettronico, in tutti i casi in cui questo sia possibile anche per gli utenti non transfrontalieri; 
 
-    #. nel caso in cui l'espletamento di una procedura sia a pagamento, gli utenti possono pagare i diritti in linea mediante servizi di pagamento transfrontalieri ampiamente diffusi, senza discriminazioni fondate sul luogo di stabilimento del fornitore del servizio di pagamento, sul luogo di emissione dello strumento di pagamento o sull'ubicazione del conto di pagamento all'interno dell'Unione. 
+    #. (lettera e) nel caso in cui l'espletamento di una procedura sia a pagamento, gli utenti possono pagare i diritti in linea mediante servizi di pagamento transfrontalieri ampiamente diffusi, senza discriminazioni fondate sul luogo di stabilimento del fornitore del servizio di pagamento, sul luogo di emissione dello strumento di pagamento o sull'ubicazione del conto di pagamento all'interno dell'Unione. 
 
 #. Nei casi in cui la procedura non richiede l'identificazione o l'autenticazione elettronica di cui al paragrafo 2, lettera c), e le autorità competenti possono, in virtù del diritto o delle prassi amministrative nazionali applicabili, accettare, per gli utenti non transfrontalieri, copie digitali di prove di identità non elettroniche, come carte d'identità o passaporti, tali autorità accettano tali copie digitali anche per gli utenti transfrontalieri. 
 
@@ -308,23 +308,23 @@ Articolo 14 - Sistema tecnico per lo scambio transfrontaliero automatizzato di p
 
 #. Il sistema tecnico, in particolare: 
 
-    #. consente il trattamento delle richieste di prove su richiesta esplicita dell'utente; 
+    #. (lettera a) consente il trattamento delle richieste di prove su richiesta esplicita dell'utente; 
 
-    #. consente il trattamento delle richieste di scambio di prove o di accesso ad esse; 
+    #. (lettera b) consente il trattamento delle richieste di scambio di prove o di accesso ad esse; 
 
-    #. consente la trasmissione delle prove tra autorità competenti;
+    #. (lettera c) consente la trasmissione delle prove tra autorità competenti;
 
-    #. consente il trattamento delle prove da parte dell'autorità competente richiedente; 
+    #. (lettera d) consente il trattamento delle prove da parte dell'autorità competente richiedente; 
 
-    #. garantisce la riservatezza e l'integrità delle prove; 
+    #. (lettera e) garantisce la riservatezza e l'integrità delle prove; 
 
-    #. prevede la possibilità per l'utente di esaminare le prove che devono essere utilizzate dall'autorità richiedente competente e di scegliere se procedere o meno allo scambio delle prove; 
+    #. (lettera f) prevede la possibilità per l'utente di esaminare le prove che devono essere utilizzate dall'autorità richiedente competente e di scegliere se procedere o meno allo scambio delle prove; 
 
-    #. garantisce un adeguato livello di interoperabilità con altri sistemi pertinenti; 
+    #. (lettera g) garantisce un adeguato livello di interoperabilità con altri sistemi pertinenti; 
 
-    #. garantisce un elevato livello di sicurezza per la trasmissione e il trattamento delle prove; 
+    #. (lettera h) garantisce un elevato livello di sicurezza per la trasmissione e il trattamento delle prove; 
 
-    #. non tratta le prove al di là di quanto necessario sul piano tecnico per lo scambio delle prove, e successivamente solo per la durata necessaria a tal fine. 
+    #. (lettera i) non tratta le prove al di là di quanto necessario sul piano tecnico per lo scambio delle prove, e successivamente solo per la durata necessaria a tal fine. 
 
 #. L'uso del sistema tecnico non è obbligatorio per gli utenti ed è consentito unicamente su loro esplicita richiesta, se non diversamente previsto dal diritto dell'Unione o nazionale. Agli utenti è consentito di presentare le prove con mezzi diversi dal sistema tecnico direttamente all'autorità competente richiedente. 
 
@@ -385,13 +385,13 @@ Articolo 17 - Monitoraggio della qualità
 
 #. In caso di deterioramento della qualità delle informazioni, delle procedure e dei servizi di assistenza e di risoluzione dei problemi di cui al paragrafo 1 forniti dalle autorità competenti, la Commissione adotta, tenendo conto della gravità e della persistenza del deterioramento, una o più delle seguenti misure: 
 
-    #. informare il coordinatore nazionale pertinente e chiedere azioni correttive; 
+    #. (lettera a) informare il coordinatore nazionale pertinente e chiedere azioni correttive; 
 
-    #. discutere le azioni raccomandate per migliorare la conformità ai requisiti di qualità in seno al gruppo di coordinamento dello sportello;
+    #. (lettera b) discutere le azioni raccomandate per migliorare la conformità ai requisiti di qualità in seno al gruppo di coordinamento dello sportello;
 
-    #. inviare una lettera con raccomandazioni allo Stato membro interessato; 
+    #. (lettera c) inviare una lettera con raccomandazioni allo Stato membro interessato; 
 
-    #. scollegare temporaneamente dallo sportello le informazioni, la procedura o il servizio di assistenza o di risoluzione dei problemi.
+    #. (lettera d) scollegare temporaneamente dallo sportello le informazioni, la procedura o il servizio di assistenza o di risoluzione dei problemi.
 
 #. Qualora un servizio di assistenza o di risoluzione dei problemi i cui link sono forniti a norma dell'articolo 7, paragrafo 3, sistematicamente non rispetti le prescrizioni di cui agli articoli 11 e 16 o non soddisfi più le esigenze degli utenti come indicato dai dati raccolti a norma degli articoli 24 e 25, la Commissione può scollegare il servizio dallo sportello, previa consultazione con il coordinatore nazionale pertinente e, se del caso, con il gruppo di coordinamento dello sportello. 
 
@@ -415,13 +415,13 @@ Articolo 18 - Interfaccia utenti comune
 
 #. La Commissione garantisce che l'interfaccia utenti comune soddisfi i seguenti requisiti di qualità: 
 
-    #. di facile utilizzo; 
+    #. (lettera a) di facile utilizzo; 
 
-    #. accessibile in linea attraverso vari dispositivi elettronici; 
+    #. (lettera b) accessibile in linea attraverso vari dispositivi elettronici; 
 
-    #. è sviluppata e ottimizzata per vari navigatori di rete; 
+    #. (lettera c) è sviluppata e ottimizzata per vari navigatori di rete; 
 
-    #. soddisfa i seguenti requisiti di accessibilità della rete: percepibilità, utilizzabilità, comprensibilità e solidità. 
+    #. (lettera d) soddisfa i seguenti requisiti di accessibilità della rete: percepibilità, utilizzabilità, comprensibilità e solidità. 
 
 #. La Commissione può adottare atti di esecuzione che stabiliscono requisiti di
 
@@ -464,15 +464,15 @@ Articolo 21 - Responsabilità per le applicazioni TIC di supporto allo sportello
 
 #. La Commissione è responsabile dello sviluppo, della messa a  disposizione, del monitoraggio, dell'aggiornamento, della manutenzione, della sicurezza e dell'hosting delle seguenti applicazioni TIC e pagine web: 
 
-    #. il portale "La tua Europa" di cui all'articolo 2, paragrafo 1;
+    #. (lettera a) il portale "La tua Europa" di cui all'articolo 2, paragrafo 1;
 
-    #. l'interfaccia utenti comune di cui all'articolo 18, paragrafo 1, compreso il motore di ricerca o qualsiasi altro strumento TIC che consenta la reperibilità di informazioni e servizi web; 
+    #. (lettera b) l'interfaccia utenti comune di cui all'articolo 18, paragrafo 1, compreso il motore di ricerca o qualsiasi altro strumento TIC che consenta la reperibilità di informazioni e servizi web; 
 
-    #. il repertorio di link di cui all'articolo 19, paragrafo 1; 
+    #. (lettera c) il repertorio di link di cui all'articolo 19, paragrafo 1; 
 
-    #. lo strumento comune di reperimento di servizi di assistenza di cui all'articolo 20, paragrafo 1; 
+    #. (lettera d) lo strumento comune di reperimento di servizi di assistenza di cui all'articolo 20, paragrafo 1; 
 
-    #. gli strumenti di riscontro di cui all'articolo 25, paragrafo 1, e all'articolo 26, paragrafo 1, lettera a).  La Commissione lavora in stretta cooperazione con gli Stati membri per sviluppare le applicazioni TIC.
+    #. (lettera e) gli strumenti di riscontro di cui all'articolo 25, paragrafo 1, e all'articolo 26, paragrafo 1, lettera a).  La Commissione lavora in stretta cooperazione con gli Stati membri per sviluppare le applicazioni TIC.
 
 #. Gli Stati membri sono responsabili dello sviluppo, della messa a disposizione, del monitoraggio, dell'aggiornamento, della manutenzione e della sicurezza delle applicazioni TIC relative ai siti e alle pagine web nazionali che essi gestiscono e che sono connessi all'interfaccia utenti comune. 
 
@@ -523,11 +523,11 @@ Articolo 24 - Statistiche relative agli utenti
 
 #. Le statistiche raccolte conformemente ai paragrafi 1 e 2, riguardanti le informazioni, le procedure e i servizi di assistenza e di risoluzione dei problemi a cui lo sportello rimanda, comprendono le seguenti categorie di dati: 
 
-    #. dati relativi al numero, all'origine e al tipo di utenti dello sportello;
+    #. (lettera a) dati relativi al numero, all'origine e al tipo di utenti dello sportello;
 
-    #. dati relativi alle preferenze e ai percorsi degli utenti; 
+    #. (lettera b) dati relativi alle preferenze e ai percorsi degli utenti; 
 
-    #. dati relativi alla fruibilità, alla reperibilità e alla qualità delle informazioni, delle procedure e dei servizi di assistenza e di risoluzione dei problemi.
+    #. (lettera c) dati relativi alla fruibilità, alla reperibilità e alla qualità delle informazioni, delle procedure e dei servizi di assistenza e di risoluzione dei problemi.
 
 Tali dati sono messi a disposizione del pubblico in un formato aperto, di uso comune e leggibile elettronicamente. 
 
@@ -555,9 +555,9 @@ Articolo 26 - Relazioni sul funzionamento del mercato interno
 
 #. La Commissione: 
 
-    #. fornisce agli utenti dello sportello uno strumento di facile utilizzo affinché segnalino e forniscano un riscontro, in modo anonimo, sugli ostacoli che incontrano nell'esercizio dei loro diritti nel mercato interno; 
+    #. (lettera a) fornisce agli utenti dello sportello uno strumento di facile utilizzo affinché segnalino e forniscano un riscontro, in modo anonimo, sugli ostacoli che incontrano nell'esercizio dei loro diritti nel mercato interno; 
 
-    #. raccoglie informazioni aggregate dai servizi di assistenza e di risoluzione dei problemi che fanno parte dello sportello sull'oggetto delle richieste e delle risposte. 
+    #. (lettera b) raccoglie informazioni aggregate dai servizi di assistenza e di risoluzione dei problemi che fanno parte dello sportello sull'oggetto delle richieste e delle risposte. 
 
 #. La Commissione, le autorità competenti e i coordinatori nazionali hanno accesso diretto ai riscontri raccolti in conformità del paragrafo 1, lettera a).
 
@@ -584,11 +584,11 @@ Articolo 28 - Coordinatori nazionali
 
 #. Ogni Stato membro nomina un coordinatore nazionale. Oltre ai loro obblighi a norma degli articoli 7, 17, 19, 20, 23 e 25, i coordinatori nazionali: 
 
-    #. fungono da punto di contatto all'interno delle loro rispettive amministrazioni per tutte le questioni concernenti lo sportello; 
+    #. (lettera a) fungono da punto di contatto all'interno delle loro rispettive amministrazioni per tutte le questioni concernenti lo sportello; 
 
-    #. promuovono l'applicazione uniforme degli articoli da 9 a 16 da parte delle loro rispettive autorità competenti; 
+    #. (lettera b) promuovono l'applicazione uniforme degli articoli da 9 a 16 da parte delle loro rispettive autorità competenti; 
 
-    #. garantiscono che le raccomandazioni di cui all'articolo 17, paragrafo 2, lettera c), siano attuate correttamente. 
+    #. (lettera c) garantiscono che le raccomandazioni di cui all'articolo 17, paragrafo 2, lettera c), siano attuate correttamente. 
 
 #. Ogni Stato membro può nominare uno o più coordinatori per svolgere qualsiasi compito tra quelli elencati al paragrafo 1, secondo la propria struttura amministrativa interna. Per ogni Stato membro, un solo coordinatore nazionale è responsabile dei contatti con la Commissione per tutte le questioni concernenti lo sportello. 
 
@@ -608,41 +608,41 @@ Articolo 30 - Compiti del gruppo di coordinamento dello sportello
 
 #. Il gruppo di coordinamento dello sportello sostiene l'attuazione del presente regolamento. In particolare: 
 
-    #. facilita lo scambio e l'aggiornamento periodico delle migliori prassi; 
+    #. (lettera a) facilita lo scambio e l'aggiornamento periodico delle migliori prassi; 
 
-    #. incoraggia l'impiego di procedure interamente in linea, oltre a quelle di cui all'allegato II del presente regolamento, e di mezzi di autenticazione, identificazione e firma in linea, in particolare quelli previsti dal regolamento (UE) n. 910/2014; 
+    #. (lettera b) incoraggia l'impiego di procedure interamente in linea, oltre a quelle di cui all'allegato II del presente regolamento, e di mezzi di autenticazione, identificazione e firma in linea, in particolare quelli previsti dal regolamento (UE) n. 910/2014; 
 
-    #. discute come migliorare la fruibilità della presentazione delle informazioni nei settori indicati all'allegato I, segnatamente sulla base dei dati raccolti in conformità degli articoli 24 e 25;
+    #. (lettera c) discute come migliorare la fruibilità della presentazione delle informazioni nei settori indicati all'allegato I, segnatamente sulla base dei dati raccolti in conformità degli articoli 24 e 25;
 
-    #. assiste la Commissione nello sviluppo di soluzioni TIC comuni di supporto allo sportello; 
+    #. (lettera d) assiste la Commissione nello sviluppo di soluzioni TIC comuni di supporto allo sportello; 
 
-    #. discute il progetto di programma di lavoro annuale; 
+    #. (lettera e) discute il progetto di programma di lavoro annuale; 
 
-    #. assiste la Commissione nel monitoraggio dell'esecuzione del programma di lavoro annuale; 
+    #. (lettera f) assiste la Commissione nel monitoraggio dell'esecuzione del programma di lavoro annuale; 
 
-    #. discute le informazioni aggiuntive fornite a norma dell'articolo 5 al fine di incoraggiare altri Stati membri a fornire informazioni analoghe, ove pertinente per gli utenti; 
+    #. (lettera g) discute le informazioni aggiuntive fornite a norma dell'articolo 5 al fine di incoraggiare altri Stati membri a fornire informazioni analoghe, ove pertinente per gli utenti; 
 
-    #. assiste la Commissione nel monitoraggio della conformità ai requisiti di cui agli articoli da 8 a 16, conformemente all'articolo 17; 
+    #. (lettera h) assiste la Commissione nel monitoraggio della conformità ai requisiti di cui agli articoli da 8 a 16, conformemente all'articolo 17; 
 
-    #. informa sull'applicazione dell'articolo 6, paragrafo 1; 
+    #. (lettera i) informa sull'applicazione dell'articolo 6, paragrafo 1; 
 
-    #. discute ed esprime raccomandazioni alle autorità competenti e alla Commissione al fine di evitare o eliminare inutili duplicazioni dei servizi disponibili mediante lo sportello; 
+    #. (lettera j) discute ed esprime raccomandazioni alle autorità competenti e alla Commissione al fine di evitare o eliminare inutili duplicazioni dei servizi disponibili mediante lo sportello; 
 
-    #. esprime pareri o suggerimenti di miglioramento in merito a procedure o misure per affrontare in modo efficace eventuali problemi connessi alla qualità dei servizi sollevati dagli utenti;
+    #. (lettera k) esprime pareri o suggerimenti di miglioramento in merito a procedure o misure per affrontare in modo efficace eventuali problemi connessi alla qualità dei servizi sollevati dagli utenti;
 
-    #. discute l'applicazione dei principi di sicurezza e tutela della vita privata sin dalla progettazione nel quadro del presente regolamento; 
+    #. (lettera l) discute l'applicazione dei principi di sicurezza e tutela della vita privata sin dalla progettazione nel quadro del presente regolamento; 
 
-    #. discute le questioni relative alla raccolta dei riscontri degli utenti e alle statistiche di cui agli articoli 24 e 25, in modo che i servizi offerti a livello dell'Unione e nazionale siano continuamente migliorati; 
+    #. (lettera m) discute le questioni relative alla raccolta dei riscontri degli utenti e alle statistiche di cui agli articoli 24 e 25, in modo che i servizi offerti a livello dell'Unione e nazionale siano continuamente migliorati; 
 
-    #. discute le questioni relative ai requisiti di qualità dei servizi offerti mediante lo sportello; 
+    #. (lettera n) discute le questioni relative ai requisiti di qualità dei servizi offerti mediante lo sportello; 
 
-    #. procede allo scambio di migliori prassi e assiste la Commissione per quanto riguarda l'organizzazione, la strutturazione e la presentazione dei servizi di cui all'articolo 2, paragrafo 2, al fine di consentire il corretto funzionamento dell'interfaccia utenti comune; 
+    #. (lettera o) procede allo scambio di migliori prassi e assiste la Commissione per quanto riguarda l'organizzazione, la strutturazione e la presentazione dei servizi di cui all'articolo 2, paragrafo 2, al fine di consentire il corretto funzionamento dell'interfaccia utenti comune; 
 
-    #. favorisce lo sviluppo e l'attuazione della promozione coordinata; 
+    #. (lettera p) favorisce lo sviluppo e l'attuazione della promozione coordinata; 
 
-    #. coopera con gli organi di governance o le reti di servizi di informazione e di assistenza o di risoluzione dei problemi; 
+    #. (lettera q) coopera con gli organi di governance o le reti di servizi di informazione e di assistenza o di risoluzione dei problemi; 
 
-    #. formula orientamenti sulla lingua o sulle lingue ufficiali aggiuntive dell'Unione che devono essere utilizzate dalle autorità competenti in conformità dell'articolo 9, paragrafo 2, dell'articolo 10, paragrafo 4, dell'articolo 11, paragrafo 2, e dell'articolo 13, paragrafo 2, lettera a);
+    #. (lettera r) formula orientamenti sulla lingua o sulle lingue ufficiali aggiuntive dell'Unione che devono essere utilizzate dalle autorità competenti in conformità dell'articolo 9, paragrafo 2, dell'articolo 10, paragrafo 4, dell'articolo 11, paragrafo 2, e dell'articolo 13, paragrafo 2, lettera a);
 
 #. La Commissione può consultare il gruppo di coordinamento dello sportello su qualsiasi questione relativa all'applicazione del presente regolamento. 
 
@@ -653,13 +653,13 @@ Articolo 31 - Programma di lavoro annuale
 
 #. La Commissione adotta il programma di lavoro annuale che specifica, in particolare: 
 
-    #. le azioni per migliorare la presentazione delle informazioni specifiche di cui ai settori indicati all'allegato I e le azioni per facilitare l'attuazione tempestiva, da parte delle autorità competenti a tutti i livelli, incluso quello municipale, dell'obbligo di fornire informazioni;
+    #. (lettera a) le azioni per migliorare la presentazione delle informazioni specifiche di cui ai settori indicati all'allegato I e le azioni per facilitare l'attuazione tempestiva, da parte delle autorità competenti a tutti i livelli, incluso quello municipale, dell'obbligo di fornire informazioni;
 
-    #. le azioni per facilitare la conformità agli articoli 6 e 13; 
+    #. (lettera b) le azioni per facilitare la conformità agli articoli 6 e 13; 
 
-    #. le azioni necessarie a garantire una conformità costante ai requisiti di cui agli articoli da 9 a 12; 
+    #. (lettera c) le azioni necessarie a garantire una conformità costante ai requisiti di cui agli articoli da 9 a 12; 
 
-    #. le attività connesse alla promozione dello sportello in conformità dell'articolo 23. 
+    #. (lettera d) le attività connesse alla promozione dello sportello in conformità dell'articolo 23. 
 
 #. Nella preparazione del progetto di programma di lavoro annuale, la Commissione tiene conto delle statistiche relative agli utenti e del riscontro degli utenti raccolti a norma degli articoli 24 e 25, nonché delle proposte formulate dagli Stati membri. Prima dell'adozione la Commissione presenta il progetto di programma di lavoro annuale al gruppo di coordinamento dello sportello per la discussione.
 
@@ -677,11 +677,11 @@ Articolo 32 - Costi
 
 #. Il bilancio generale dell'Unione europea copre le spese per: 
 
-    #. lo sviluppo e la manutenzione degli strumenti TIC a sostegno dell'attuazione del  presente regolamento a livello dell'Unione; 
+    #. (lettera a) lo sviluppo e la manutenzione degli strumenti TIC a sostegno dell'attuazione del  presente regolamento a livello dell'Unione; 
 
-    #. la promozione dello sportello a livello dell'Unione; 
+    #. (lettera b) la promozione dello sportello a livello dell'Unione; 
 
-    #. la traduzione di informazioni, spiegazioni e istruzioni, conformemente all'articolo  12, entro un volume annuale massimo per Stato membro, fatta salva la possibilità di riassegnazione ove necessario per consentire il pieno utilizzo del bilancio disponibile. 
+    #. (lettera c) la traduzione di informazioni, spiegazioni e istruzioni, conformemente all'articolo  12, entro un volume annuale massimo per Stato membro, fatta salva la possibilità di riassegnazione ove necessario per consentire il pieno utilizzo del bilancio disponibile. 
 
 #. I costi relativi ai portali web nazionali, alle piattaforme di informazione, ai servizi di assistenza e alle procedure stabiliti a livello di Stato membro sono a carico dei rispettivi bilanci degli Stati membri, se non diversamente previsto dalla normativa dell'Unione.
 
@@ -863,7 +863,17 @@ Settori di informazione pertinenti per i cittadini:
 |                                                 |                                                                                                                                                                                                                                                                                                                                                                      |
 |                                                 |#. Attività di ricerca in un altro Stato membro nell'ambito di un programma d'istruzione                                                                                                                                                                                                                                                                              |
 +-------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|F. Sanità                                        |#. Assistenza sanitaria in un altro Stato membro                                                                                                                                                                                                                                                                                                                      |
 |                                                 |                                                                                                                                                                                                                                                                                                                                                                      |
+|                                                 |#. Acquisto, in linea o di persona, di prodotti farmaceutici su prescrizione medica in uno Stato membro diverso da quello in cui è stata rilasciata la prescrizione                                                                                                                                                                                                   |
+|                                                 |                                                                                                                                                                                                                                                                                                                                                                      |
+|                                                 |#. Norme in materia di assicurazione sanitaria applicabili a soggiorni di breve o lunga durata in un altro Stato membro, comprese le modalità per richiedere la tessera europea di assicurazione malattia                                                                                                                                                             |
+|                                                 |                                                                                                                                                                                                                                                                                                                                                                      |
+|                                                 |#. Informazioni generali i sui diritti di accesso o gli obblighi di partecipazione alle misure pubbliche disponibili in materia di prevenzione sanitaria                                                                                                                                                                                                              |
+|                                                 |                                                                                                                                                                                                                                                                                                                                                                      |
+|                                                 |#. Ser vizi forniti mediante i numeri di emergenza nazionali, compresi il 112 e il 116                                                                                                                                                                                                                                                                                |
+|                                                 |                                                                                                                                                                                                                                                                                                                                                                      |
+|                                                 |#. Diritti e condizioni relativi al trasferimento in un centro di assistenza residenziale                                                                                                                                                                                                                                                                             |
 +-------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 |                                                 |                                                                                                                                                                                                                                                                                                                                                                      |
 +-------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
