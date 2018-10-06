@@ -1,19 +1,19 @@
-\ |LINK1|\  
 
-.. _h16348695a764938365478479645865:
+.. _h692402407e9374e4068581311f26:
 
-REGOLAMENTO DEL PARLAMENTO EUROPEO E DEL CONSIGLIO
-##################################################
+REGOLAMENTO DEL PARLAMENTO EUROPEO E DEL CONSIGLIO CHE ISTITUISCE UNO SPORTELLO DIGITALE UNICO PER L'ACCESSO A INFORMAZIONI, PROCEDURE E SERVIZI DI ASSISTENZA E DI RISOLUZIONE DEI PROBLEMI E CHE MODIFICA IL REGOLAMENTO (UE) N.1024/2012
+###########################################################################################################################################################################################################################################
 
-.. _h44625c72253526fc714f6d592df53:
+\ |LINK1|\ 
 
-CHE ISTITUISCE UNO SPORTELLO DIGITALE UNICO PER L'ACCESSO A INFORMAZIONI, PROCEDURE E SERVIZI DI ASSISTENZA E DI RISOLUZIONE DEI PROBLEMI E CHE MODIFICA IL REGOLAMENTO (UE)
-############################################################################################################################################################################
+|
 
-.. _h253546652d5e515533660472f4c4635:
 
-N.1024/2012
-###########
+.. toctree::  
+    :maxdepth: 3
+    :caption: indice-regolamento
+
+    regolamento-ue-sportello-digitale-unico
 
 |
 
@@ -29,11 +29,11 @@ Articolo 1 - Oggetto
 
 #. Il presente regolamento stabilisce le norme per:
 
-    #. l'istituzione e la gestione di uno sportello digitale unico per offrire ai cittadini e alle imprese un facile accesso a informazioni di alta qualità, a procedure efficienti e a servizi di assistenza e di risoluzione dei problemi efficaci in relazione alle norme dell'Unione e nazionali applicabili ai cittadini e alle imprese che esercitano o che intendono esercitare i loro diritti derivanti dal diritto dell'Unione nell'ambito del mercato interno ai sensi dell'articolo 26, paragrafo 2, TFUE;
+        #. l'istituzione e la gestione di uno sportello digitale unico per offrire ai cittadini e alle imprese un facile accesso a informazioni di alta qualità, a procedure efficienti e a servizi di assistenza e di risoluzione dei problemi efficaci in relazione alle norme dell'Unione e nazionali applicabili ai cittadini e alle imprese che esercitano o che intendono esercitare i loro diritti derivanti dal diritto dell'Unione nell'ambito del mercato interno ai sensi dell'articolo 26, paragrafo 2, TFUE;
 
-    #. l'uso di procedure da parte di utenti transfrontalieri e l'applicazione del principio "una tantum" in relazione alle procedure riportate all'allegato II del presente regolamento e alle procedure previste dalle direttive 2005/3 6/CE, 2006/123/CE, 2014/24/UE e 2014/25/UE;
+        #. l'uso di procedure da parte di utenti transfrontalieri e l'applicazione del principio "una tantum" in relazione alle procedure riportate all'allegato II del presente regolamento e alle procedure previste dalle direttive 2005/3 6/CE, 2006/123/CE, 2014/24/UE e 2014/25/UE;
 
-    #. la segnalazione di ostacoli nel mercato interno in base alla raccolta di riscontri degli utenti e di statistiche provenienti dai servizi inclusi nello sportello.
+        #. la segnalazione di ostacoli nel mercato interno in base alla raccolta di riscontri degli utenti e di statistiche provenienti dai servizi inclusi nello sportello.
 
 #. Laddove il presente regolamento sia in conflitto con una disposizione di un altro atto dell'Unione che disciplina aspetti specifici della materia oggetto del presente regolamento, prevale la disposizione dell'altro atto del l'Unione.
 
@@ -231,15 +231,10 @@ Articolo 10 - Qualità delle informazioni sulle procedure
 
 #. Gli Stati membri rendono la spiegazione di cui al paragrafo 1 del presente articolo accessibile in una lingua ufficiale dell'Unione che sia ampiamente compresa dal maggior numero possibile di utenti transfrontalieri, conformemente all'articolo 12. 
 
-.. _h625f1314311d6a20773167466a294c71:
+.. _h7d246f6855b2a2a1f407c629711f3:
 
-Articolo 11 - Qualità delle informazioni sui servizi di assistenza 
-===================================================================
-
-.. _h32d3d7d1a657d6415217c2476385566:
-
-e di risoluzione dei problemi
-=============================
+Articolo 11 - Qualità delle informazioni sui servizi di assistenza e di risoluzione dei problemi
+================================================================================================
 
 #. Per conformarsi all'articolo 4, gli Stati membri e la Commissione garantiscono che gli utenti, prima di richiedere un servizio ai sensi dell'articolo 2, paragrafo 2, lettera c), abbiano accesso a una spiegazione chiara e di facile comprensione dei seguenti elementi: 
 
@@ -471,9 +466,7 @@ Articolo 21 - Responsabilità per le applicazioni TIC di supporto allo sportello
 
     #. lo strumento comune di reperimento di servizi di assistenza di cui all'articolo 20, paragrafo 1; 
 
-    #. gli strumenti di riscontro di cui all'articolo 25, paragrafo 1, e all'articolo 26, paragrafo 1, lettera a). 
-
-La Commissione lavora in stretta cooperazione con gli Stati membri per sviluppare le applicazioni TIC.
+    #. gli strumenti di riscontro di cui all'articolo 25, paragrafo 1, e all'articolo 26, paragrafo 1, lettera a).  La Commissione lavora in stretta cooperazione con gli Stati membri per sviluppare le applicazioni TIC.
 
 #. Gli Stati membri sono responsabili dello sviluppo, della messa a disposizione, del monitoraggio, dell'aggiornamento, della manutenzione e della sicurezza delle applicazioni TIC relative ai siti e alle pagine web nazionali che essi gestiscono e che sono connessi all'interfaccia utenti comune. 
 
@@ -569,9 +562,7 @@ Articolo 26 - Relazioni sul funzionamento del mercato interno
 Articolo 27 - Panoramiche sintetiche in linea
 =============================================
 
-La Commissione pubblica in forma anonima panoramiche sintetiche in linea dei problemi che emergono dalle informazioni raccolte a norma dell'articolo 26, paragrafo 1, dalle principali statistiche relative agli utenti di cui all'articolo
-
-24 e dai principali riscontri degli utenti di cui all'articolo 25.
+La Commissione pubblica in forma anonima panoramiche sintetiche in linea dei problemi che emergono dalle informazioni raccolte a norma dell'articolo 26, paragrafo 1, dalle principali statistiche relative agli utenti di cui all'articolo 24 e dai principali riscontri degli utenti di cui all'articolo 25.
 
 |
 
@@ -779,15 +770,11 @@ Il presente regolamento entra in vigore il ventesimo giorno successivo alla pubb
 
 Gazzetta ufficiale dell'Unione europea.
 
-L'articolo 2, l'articolo 4, gli articoli da 7 a 12, gli articoli 16 e 17, l'articolo 18, paragrafi da 1 a 4, l'articolo 19, l'articolo 20, l' articolo 24, paragrafi 1, 2 e 3, l'articolo 25, paragrafi da 1 a 4, l'articolo 26 e l'articolo 27 si applicano a decorrere da ... [due anni dopo l'entrata in vigore del
-
-presente regolamento].
+L'articolo 2, l'articolo 4, gli articoli da 7 a 12, gli articoli 16 e 17, l'articolo 18, paragrafi da 1 a 4, l'articolo 19, l'articolo 20, l' articolo 24, paragrafi 1, 2 e 3, l'articolo 25, paragrafi da 1 a 4, l'articolo 26 e l'articolo 27 si applicano a decorrere da ... [due anni dopo l'entrata in vigore del presente regolamento].
 
 L'articolo 6, l'articolo 13, l'articolo 14, paragrafi da 1 a 8, l'articolo 14, paragrafo 10, e l'articolo 15 si applicano a decorrere da ... [cinque anni dopo l'entrata in vigore del presente regolamento].
 
-Fatta salva la data di applicazione degli articoli 2, 9, 10 e 11, le autorità municipali rendono
-
-accessibili le informazioni, le spiegazioni e le istruzioni di cui ai detti articoli al più tardi entro … [cinque anni dopo l'entrata in vigore del presente regolamento].
+Fatta salva la data di applicazione degli articoli 2, 9, 10 e 11, le autorità municipali rendono accessibili le informazioni, le spiegazioni e le istruzioni di cui ai detti articoli al più tardi entro … [cinque anni dopo l'entrata in vigore del presente regolamento].
 
 Il presente regolamento è obbligatorio in tutti i suoi elementi e direttamente applicabile in ciascuno degli Stati membri.
 
@@ -804,21 +791,19 @@ Per il Consiglio, Il presidente
 ALLEGATO I
 **********
 
-Elenco dei settori di informazione che sono pertinenti per i cittadini e le imprese
-
-che esercitano i loro diritti nel mercato interno di cui all'articolo 2, paragrafo 2, lettera a)
+Elenco dei settori di informazione che sono pertinenti per i cittadini e le imprese che esercitano i loro diritti nel mercato interno di cui all'articolo 2, paragrafo 2, lettera a)
 
 Settori di informazione pertinenti per i cittadini:
 
 
 +-------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 |Settore                                          |INFORMAZIONI RELATIVE A DIRITTI, OBBLIGHI  E NORME DERIVANTI DAL DIRITTO DELL'UNIONE E DAL DIRITTO NAZIONALE                                                                                                                                                                                                                                                          |
-+=================================================+======================================================================================================================================================================================================================================================================================================================================================================+
-|A. Viaggiare                                     |#. Documenti richiesti ai cittadini dell'Unione, ai loro familiari che sono cittadini di paesi terzi, ai minori non accompagnati e ai cittadini di paesi terzi quando viaggiano fra Stati membri dell'Unione (carta di identità, visto, passaporto)                                                                                                                   |
++-------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|A. Viaggiare all'interno dell'Unione             |#. Documenti richiesti ai cittadini dell'Unione, ai loro familiari che sono cittadini di paesi terzi, ai minori non accompagnati e ai cittadini di paesi terzi quando viaggiano fra Stati membri dell'Unione (carta di identità, visto, passaporto)                                                                                                                   |
 |                                                 |                                                                                                                                                                                                                                                                                                                                                                      |
-|all'interno                                      |#. Diritti e obblighi di chi viaggia in aereo, treno, bus o nave nell'Unione e dall'Unione e di chi acquista pacchetti turistici o servizi turistici collegati                                                                                                                                                                                                        |
+|                                                 |#. Diritti e obblighi di chi viaggia in aereo, treno, bus o nave nell'Unione e dall'Unione e di chi acquista pacchetti turistici o servizi turistici collegati                                                                                                                                                                                                        |
 |                                                 |                                                                                                                                                                                                                                                                                                                                                                      |
-|dell'Unione                                      |#. Assistenza in caso di mobilità ridotta per i viaggi nell'Unione e dall'Unione                                                                                                                                                                                                                                                                                      |
+|                                                 |#. Assistenza in caso di mobilità ridotta per i viaggi nell'Unione e dall'Unione                                                                                                                                                                                                                                                                                      |
 |                                                 |                                                                                                                                                                                                                                                                                                                                                                      |
 |                                                 |#. Trasporto di animali, piante, alcol, tabacco, sigarette e altre merci quando si viaggia nell'Unione                                                                                                                                                                                                                                                                |
 |                                                 |                                                                                                                                                                                                                                                                                                                                                                      |
@@ -864,9 +849,9 @@ Settori di informazione pertinenti per i cittadini:
 |                                                 |                                                                                                                                                                                                                                                                                                                                                                      |
 |                                                 |#. Norme applicabili in caso di decesso, comprese norme in materia di rimpatrio della salma in un altro Stato membro                                                                                                                                                                                                                                                  |
 +-------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-|E. Studi o tirocini in un                        |#. Sistema di istruzione in un altro Stato membro, comprese l'educazione e la cura della prima infanzia, l'istruzione primaria e secondaria, l'istruzione superiore e l'istruzione degli adulti                                                                                                                                                                       |
+|E. Studi o tirocini in un altro Stato membro     |#. Sistema di istruzione in un altro Stato membro, comprese l'educazione e la cura della prima infanzia, l'istruzione primaria e secondaria, l'istruzione superiore e l'istruzione degli adulti                                                                                                                                                                       |
 |                                                 |                                                                                                                                                                                                                                                                                                                                                                      |
-|altro Stato membro                               |#. Volontariato in un altro Stato membro                                                                                                                                                                                                                                                                                                                              |
+|                                                 |#. Volontariato in un altro Stato membro                                                                                                                                                                                                                                                                                                                              |
 |                                                 |                                                                                                                                                                                                                                                                                                                                                                      |
 |                                                 |#. Tirocini in un altro Stato membro                                                                                                                                                                                                                                                                                                                                  |
 |                                                 |                                                                                                                                                                                                                                                                                                                                                                      |
