@@ -30,9 +30,12 @@ Agenda Digitale Palermo
 Uffici comunali connessi all'Anello Telematico
 ==============================================
 
-(\ |LINK2|\ )
 
 |REPLACE3|
+
+(\ |LINK2|\ )
+
+|REPLACE4|
 
 \ |LINK3|\ 
 
@@ -44,7 +47,7 @@ Wifi hotspot comunali di Palermo e accessi telematici alla ZTL
 ==============================================================
 
 
-|REPLACE4|
+|REPLACE5|
 
 \ |LINK4|\ 
 
@@ -56,7 +59,7 @@ Attuazione contenuti CAD e Piano Triennale per l'Informatica al comune di Palerm
 =================================================================================
 
 
-|REPLACE5|
+|REPLACE6|
 
 .. _h2c1d74277104e41780968148427e:
 
@@ -75,11 +78,14 @@ Attuazione contenuti CAD e Piano Triennale per l'Informatica al comune di Palerm
     <iframe width="100%" height="1900px" frameBorder="0" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTGYi5wDzJvq8niQDamscNpWpDriVCTcPSgnN-Z4C5kbUDHULrEq0NQDPp0rrxBkj7gmjb7Gt_9ctJf/pubhtml"></iframe>
 .. |REPLACE3| raw:: html
 
-    <iframe width="100%" height="2400px" frameBorder="0" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQACeLrlz3YiX7n5Hef6GFwuRsRGyNcF-qXQNk_p75cv8vJvmvBJk7gSwc8LG2E6-nur3040fPfPvGB/pubhtml"></iframe>
+    <img src="https://bit.ly/2PeW9xv" />
 .. |REPLACE4| raw:: html
 
-    <iframe width="100%" height="700px" frameBorder="0" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vS9KJJqfsn1zVqcb72XVzCdx9hg_W7tU4rbosQtEJAC9LUZX5kaQ3SxP0C7Eh7sW2inCo14yAffF68L/pubhtml"></iframe>
+    <iframe width="100%" height="2400px" frameBorder="0" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQACeLrlz3YiX7n5Hef6GFwuRsRGyNcF-qXQNk_p75cv8vJvmvBJk7gSwc8LG2E6-nur3040fPfPvGB/pubhtml"></iframe>
 .. |REPLACE5| raw:: html
+
+    <iframe width="100%" height="700px" frameBorder="0" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vS9KJJqfsn1zVqcb72XVzCdx9hg_W7tU4rbosQtEJAC9LUZX5kaQ3SxP0C7Eh7sW2inCo14yAffF68L/pubhtml"></iframe>
+.. |REPLACE6| raw:: html
 
     <iframe width="100%" height="3350px" frameBorder="0" src="https://docs.google.com/document/d/e/2PACX-1vRtzNeGRay4oLUd_kB3agGKhMAugAjG9ke-T5oQ2zW4M0054oqjl73nNz03HjHT3T7dXf9vd8c6IQwy/pub"></iframe>
 
