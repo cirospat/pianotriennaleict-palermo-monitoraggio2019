@@ -89,7 +89,7 @@ Attuazione contenuti CAD e Piano Triennale per l'Informatica al comune di Palerm
     <iframe width="100%" height="700px" frameBorder="0" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vS9KJJqfsn1zVqcb72XVzCdx9hg_W7tU4rbosQtEJAC9LUZX5kaQ3SxP0C7Eh7sW2inCo14yAffF68L/pubhtml"></iframe>
 .. |REPLACE6| raw:: html
 
-    <iframe width="100%" height="900px" frameBorder="0" allowfullscreen src="https://umap.openstreetmap.fr/it/map/hotspot-wifi-del-comune-di-palermo_211092?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false"></iframe><p><a href="http://umap.openstreetmap.fr/it/map/hotspot-wifi-del-comune-di-palermo_211092">Visualizza a schermo intero</a></p>
+    <iframe width="100%" height="700px" frameBorder="0" allowfullscreen src="https://umap.openstreetmap.fr/it/map/hotspot-wifi-del-comune-di-palermo_211092?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false"></iframe><p><a href="http://umap.openstreetmap.fr/it/map/hotspot-wifi-del-comune-di-palermo_211092">Visualizza a schermo intero</a></p>
 .. |REPLACE7| raw:: html
 
     <iframe width="100%" height="3350px" frameBorder="0" src="https://docs.google.com/document/d/e/2PACX-1vRtzNeGRay4oLUd_kB3agGKhMAugAjG9ke-T5oQ2zW4M0054oqjl73nNz03HjHT3T7dXf9vd8c6IQwy/pub"></iframe>
