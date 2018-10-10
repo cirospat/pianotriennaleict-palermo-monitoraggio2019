@@ -341,7 +341,7 @@ Art. 14 Corrispettivi, fatturazione e modalità di pagamento
 
 #. A fronte delle prestazioni rese, la Società fattura:
 
-#. per le prestazioni di conduzione tecnica, il corrispettivo complessivo contrattuale pari ad € _____________,con le seguenti modalità:   
+        A) per le prestazioni di conduzione tecnica, il corrispettivo complessivo contrattuale pari ad € _____________,con le seguenti modalità:   
 
     * a1\ |STYLE1|\  mensilmente, in via posticipata, il 90% del corrispondente canone mensile indicato nel relativo Piano Operativo Annuale. Il residuo 10% potrà essere fatturato a fine esercizio a seguito di verifica positiva dei rapporti trimestrali. 
 
@@ -349,7 +349,7 @@ Art. 14 Corrispettivi, fatturazione e modalità di pagamento
 
     * a3\ |STYLE3|\  nel caso in cui, alla data del 31 gennaio di ciascun anno, il Piano Operativo Annuale delle attività di conduzione tecnica non venga ancora approvato la Società procede alla fatturazione del servizio reso come indicato nel precedente punto a.1), assumendo come riferimento il canone dell’ultimo mese dell'anno precedente, ridotto del 10%. In questo caso, una volta approvato il Piano Operativo Annuale con il nuovo corrispettivo, la Società emette fatture di conguaglio delle mensilità già fatturate e riprende quindi la normale procedura di fatturazione di cui ai punti precedenti. 
 
-#. per le prestazioni di sviluppo, il corrispettivo pari all’importo definito nei progetti esecutivi di sviluppo accettati dall’Amministrazione e, comunque, nei limiti dei massimali previsti nel POA di riferimento, con le seguenti modalità:
+        B) per le prestazioni di sviluppo, il corrispettivo pari all’importo definito nei progetti esecutivi di sviluppo accettati dall’Amministrazione e, comunque, nei limiti dei massimali previsti nel POA di riferimento, con le seguenti modalità:
 
     * b.1- in relazione a ciascun progetto esecutivo definito nel POA, al termine delle attività di progetto, ovvero secondo le specifiche modalità stabile all’atto dell’affidamento del singolo progetto, la Società comunica il completamento dei lavori all’Amministrazione ed emette fattura;
 
@@ -357,7 +357,7 @@ Art. 14 Corrispettivi, fatturazione e modalità di pagamento
 
     * b.3-  L’amministrazione si impegna a comunicare gli esiti delle verifiche di congruità entro 90 giorni dal ricevimento del progetto esecutivo di sviluppo inviato dalla Società.
 
-2.   A fronte delle fatture emesse dalla Società, l’Amministrazione comunale procede alla liquidazione ed al pagamento degli importi fatturati nei termini ed alle condizioni previste dalle norme vigenti per i pagamenti delle pubbliche amministrazioni.
+2.  A fronte delle fatture emesse dalla Società, l’Amministrazione comunale procede alla liquidazione ed al pagamento degli importi fatturati nei termini ed alle condizioni previste dalle norme vigenti per i pagamenti delle pubbliche amministrazioni.
 
 .. _h3264792c4674261b1214b44b112513:
 
