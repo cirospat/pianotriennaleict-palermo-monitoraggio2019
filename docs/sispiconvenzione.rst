@@ -1,8 +1,8 @@
 
-.. _h7f5412b1e503858737d44121d12c2c:
+.. _h6e7773d6a267b475d6d396819274c2b:
 
-CONVENZIONE PER LO SVILUPPO E LA CONDUZIONE TECNICA DEL SISTEMA INFORMATICO E DEI SISTEMI DI TELECOMUNICAZIONE COMUNALI
-#######################################################################################################################
+Convenzione per lo sviluppo e la conduzione tecnica del sistema informatico e dei sistemi di telecomunicazione comunali 
+########################################################################################################################
 
 \ |STYLE0|\ 
 
@@ -13,9 +13,9 @@ CONVENZIONE PER LO SVILUPPO E LA CONDUZIONE TECNICA DEL SISTEMA INFORMATICO E DE
 
     sispiconvenzione
 
-.. _h2183050d5c3b2d3a726170577e7e64:
+.. _h2966561929702633946782010716211:
 
-CONVENZIONE 
+Convenzione 
 ############
 
 tra il  Comune di Palermo e SISPI S.p.A. per lo sviluppo e la conduzione tecnica del sistema informatico e di telecomunicazione  del Comune di Palermo
