@@ -4,7 +4,16 @@
 CONVENZIONE PER LO SVILUPPO E LA CONDUZIONE TECNICA DEL SISTEMA INFORMATICO E DEI SISTEMI DI TELECOMUNICAZIONE COMUNALI
 #######################################################################################################################
 
+.. _bookmark-kix-cxvc4lio2x8:
+
 \ |STYLE0|\ 
+
+
+.. toctree::  
+    :maxdepth: 3
+    :caption: indice Convenzione SISPI
+
+    SISPI_Convenzione_Bozza_postCommCons_2018
 
 .. _h2183050d5c3b2d3a726170577e7e64:
 
@@ -126,9 +135,9 @@ ed inoltre assicura:
 
         * Problem Resolution;
 
-        * Change Management;
+        * Change Management; 
 
-* Asset Management
+        * Asset Management
 
 .. _h2643c735444c2a542612b1c56545f:
 
@@ -139,23 +148,23 @@ Art. 4	Prestazioni della Società per lo sviluppo del SITEC
 
 #. Le prestazioni relative allo sviluppo del SITEC saranno definite nel Piano Industriale triennale predisposto dalla Società e sottoposto, secondo le previsioni statutarie e del “Regolamento sulle attività di vigilanza e controllo su Società ed enti partecipati”, all’approvazione del Consiglio Comunale di Palermo, secondo le modalità di cui al successivo art. 7. In particolare, tali prestazioni potranno comprendere le seguenti attività:
 
-* consulenza e assistenza tecnica all’Amministrazione comunale nella pianificazione dell’evoluzione del SITEC e nell’esecuzione di studi e di elaborazioni di dati su materie e problematiche concernenti lo stesso e, più in generale, le infrastrutture informatiche e di telecomunicazione della città, anche in riferimento ai servizi da rendere attraverso il sistema delle Società partecipate;
+    * consulenza e assistenza tecnica all’Amministrazione comunale nella pianificazione dell’evoluzione del SITEC e nell’esecuzione di studi e di elaborazioni di dati su materie e problematiche concernenti lo stesso e, più in generale, le infrastrutture informatiche e di telecomunicazione della città, anche in riferimento ai servizi da rendere attraverso il sistema delle Società partecipate;
 
-* sviluppo di applicazioni informatiche, telematiche e di architetture di telecomunicazione, integrazione di applicazioni prodotte da terzi e adeguamento dell’architettura tecnica dei sistemi per:
+    * sviluppo di applicazioni informatiche, telematiche e di architetture di telecomunicazione, integrazione di applicazioni prodotte da terzi e adeguamento dell’architettura tecnica dei sistemi per:
 
-* l’automazione di nuove aree di intervento;
+    * l’automazione di nuove aree di intervento;
 
-* la sostituzione di procedure obsolete;
+    * la sostituzione di procedure obsolete;
 
-* le modifiche e le integrazioni delle procedure, dell’architettura tecnica del Sistema Informatico e delle infrastrutture di telecomunicazione dell’Amministrazione Comunale anche con riferimento ai servizi innovativi, ivi compresi quelli erogati per il tramite del sistema delle Società partecipate, da erogare nei confronti della cittadinanza di tutta l’Area Metropolitana 
+    * le modifiche e le integrazioni delle procedure, dell’architettura tecnica del Sistema Informatico e delle infrastrutture di telecomunicazione dell’Amministrazione Comunale anche con riferimento ai servizi innovativi, ivi compresi quelli erogati per il tramite del sistema delle Società partecipate, da erogare nei confronti della cittadinanza di tutta l’Area Metropolitana; 
 
-* dotare l’Amministrazione di “strumenti e soluzioni tecniche hardware e software per l’accesso ad informazioni e servizi automatizzati da parte delle persone disabili” (L. 4 del 9/1/2004 – c.d. Legge Stanca)
+    * dotare l’Amministrazione di “strumenti e soluzioni tecniche hardware e software per l’accesso ad informazioni e servizi automatizzati da parte delle persone disabili” (L. 4 del 9/1/2004 – c.d. Legge Stanca);
 
-* installazione ed avviamento operativo delle nuove procedure automatizzate;
+    * installazione ed avviamento operativo delle nuove procedure automatizzate;
 
-* organizzazione di corsi di formazione, addestramento e aggiornamento tecnico, anche a distanza, con fornitura del relativo materiale didattico.
+    * organizzazione di corsi di formazione, addestramento e aggiornamento tecnico, anche a distanza, con fornitura del relativo materiale didattico;
 
-* immissione di nuove tecnologie a supporto della strategie evolutive e relative attività di prototipazione.
+    * immissione di nuove tecnologie a supporto della strategie evolutive e relative attività di prototipazione.
 
 #. Per lo sviluppo del SITEC la Società deve mettere a disposizione, obbligandosi ad adeguarli e aggiornarli, i sistemi elaborativi necessari, in ambiente mainframe, dipartimentale e personale, per lo sviluppo e la manutenzione del software. Tali sistemi di sviluppo s’intendono comprensivi delle apparecchiature hardware, del software specialistico, nonché dell’idoneo software di ambiente, del personale tecnico ed operativo addetto alla conduzione dei sistemi di sviluppo stesso e dei necessari materiali di consumo secondo le modalità e i quantitativi indicati nei progetti esecutivi di sviluppo di cui all’art.1.
 
@@ -269,33 +278,33 @@ Art. 10 Referente della Convenzione
 Art. 11 Adempimenti dell’Amministrazione comunale
 *************************************************
 
-    #. Per l’attuazione degli adempimenti previsti dalla presente Convenzione l’Amministrazione comunale, deve, in via esemplificativa e non esaustiva:
+Per l’attuazione degli adempimenti previsti dalla presente Convenzione l’Amministrazione comunale, deve, in via esemplificativa e non esaustiva:
 
 #. approvare il Piano Industriale triennale della Società per lo sviluppo e la conduzione del sistema informatico e di telecomunicazione del Comune;
 
 #. provvedere al riscontro della corrispondenza dei servizi erogati alle previsioni contrattuali a fronte dei report di cui al successivo art. 12 predisposti dalla Società al fine di:
 
-            #. verificare lo stato di avanzamento delle attività in relazione alle fasi del ciclo di vita del servizio;
+                        #. verificare lo stato di avanzamento delle attività in relazione alle fasi del ciclo di vita del servizio;
 
-            #. accertare la rispondenza dell’insieme di prodotti e delle architetture tecniche, alle specifiche di progetto;
+                        #. accertare la rispondenza dell’insieme di prodotti e delle architetture tecniche, alle specifiche di progetto;
 
-            #. accertare il rispetto, con riguardo anche alla tempistica prefissata, degli obiettivi di qualità perseguiti;
+                        #. accertare il rispetto, con riguardo anche alla tempistica prefissata, degli obiettivi di qualità perseguiti;
 
-            #. accertare il rispetto dei vincoli economici e tecnici;
+                        #. accertare il rispetto dei vincoli economici e tecnici;
 
-            #. accertare le esigenze di modifiche alla pianificazione dei servizi di sviluppo;
+                        #. accertare le esigenze di modifiche alla pianificazione dei servizi di sviluppo;
 
-            #. stabilire la partecipazione, del personale degli uffici comunali interessati, all’analisi delle procedure da automatizzare, alla predisposizione dei dati da acquisire per la costituzione degli archivi iniziali, nonché all’effettuazione delle operazioni ai terminali previste dalle nuove procedure automatizzate;
+                        #. stabilire la partecipazione, del personale degli uffici comunali interessati, all’analisi delle procedure da automatizzare, alla predisposizione dei dati da acquisire per la costituzione degli archivi iniziali, nonché all’effettuazione delle operazioni ai terminali previste dalle nuove procedure automatizzate;
 
-            #. mettere a disposizione della Società gli archivi, i dati e le informazioni necessarie per il conseguimento degli obiettivi previsti nell’ambito delle attività affidate, con le modalità e secondo le procedure operative che saranno definite da apposite specifiche di progetto;
+                        #. mettere a disposizione della Società gli archivi, i dati e le informazioni necessarie per il conseguimento degli obiettivi previsti nell’ambito delle attività affidate, con le modalità e secondo le procedure operative che saranno definite da apposite specifiche di progetto;
 
-            #. mettere a disposizione della Società i locali dell’Amministrazione comunale in cui dovranno essere installate le apparecchiature periferiche del SITEC.
+                        #. mettere a disposizione della Società i locali dell’Amministrazione comunale in cui dovranno essere installate le apparecchiature periferiche del SITEC.
 
-            #. programmare la partecipazione ai corsi di addestramento, tenuti dalla Società, del personale comunale che verrà destinato ad operare con le procedure automatizzate e con le strumentazioni tecniche predisposte o fornite dalla Società;
+                        #. programmare la partecipazione ai corsi di addestramento, tenuti dalla Società, del personale comunale che verrà destinato ad operare con le procedure automatizzate e con le strumentazioni tecniche predisposte o fornite dalla Società;
 
-            #. consentire al personale della Società preventivamente individuato, l’accesso ai locali, ai dati ed alle informazioni appartenenti all’Amministrazione comunale, necessari all’esatto adempimento delle prestazioni contrattuali;
+                        #. consentire al personale della Società preventivamente individuato, l’accesso ai locali, ai dati ed alle informazioni appartenenti all’Amministrazione comunale, necessari all’esatto adempimento delle prestazioni contrattuali;
 
-            #. provvedere all’adozione di adeguate misure di sicurezza fisica e logica dei locali di cui al precedente punto 9, in collaborazione con la Società. 
+                        #. provvedere all’adozione di adeguate misure di sicurezza fisica e logica dei locali di cui al precedente punto 9, in collaborazione con la Società. 
 
 .. _h5f6051658053725f1b7f392a3f7d5623:
 
@@ -336,11 +345,11 @@ Art. 14 Corrispettivi, fatturazione e modalità di pagamento
 
 #. per le prestazioni di conduzione tecnica, il corrispettivo complessivo contrattuale pari ad € _____________,con le seguenti modalità:   
 
-    * \ |STYLE1|\  mensilmente, in via posticipata, il 90% del corrispondente canone mensile indicato nel relativo Piano Operativo Annuale. Il residuo 10% potrà essere fatturato a fine esercizio a seguito di verifica positiva dei rapporti trimestrali. 
+    * a1\ |STYLE1|\  mensilmente, in via posticipata, il 90% del corrispondente canone mensile indicato nel relativo Piano Operativo Annuale. Il residuo 10% potrà essere fatturato a fine esercizio a seguito di verifica positiva dei rapporti trimestrali. 
 
-    * \ |STYLE2|\  nel caso in cui le verifiche dei rapporti trimestrali di cui al precedente art. 12 si concludano con la decisione di una riduzione motivata del corrispettivo, l’amministrazione comunale tratterrà la riduzione concordata dalla ritenuta di garanzia del 10%. Qualora tale riduzione dovesse eccedere la garanzia del 10% la Società provvederà ad emettere relativa nota di credito da conguagliare sulla prima liquidazione utile. 
+    * a2\ |STYLE2|\  nel caso in cui le verifiche dei rapporti trimestrali di cui al precedente art. 12 si concludano con la decisione di una riduzione motivata del corrispettivo, l’amministrazione comunale tratterrà la riduzione concordata dalla ritenuta di garanzia del 10%. Qualora tale riduzione dovesse eccedere la garanzia del 10% la Società provvederà ad emettere relativa nota di credito da conguagliare sulla prima liquidazione utile. 
 
-    * \ |STYLE3|\  nel caso in cui, alla data del 31 gennaio di ciascun anno, il Piano Operativo Annuale delle attività di conduzione tecnica non venga ancora approvato la Società procede alla fatturazione del servizio reso come indicato nel precedente punto a.1), assumendo come riferimento il canone dell’ultimo mese dell'anno precedente, ridotto del 10%. In questo caso, una volta approvato il Piano Operativo Annuale con il nuovo corrispettivo, la Società emette fatture di conguaglio delle mensilità già fatturate e riprende quindi la normale procedura di fatturazione di cui ai punti precedenti. 
+    * a3\ |STYLE3|\  nel caso in cui, alla data del 31 gennaio di ciascun anno, il Piano Operativo Annuale delle attività di conduzione tecnica non venga ancora approvato la Società procede alla fatturazione del servizio reso come indicato nel precedente punto a.1), assumendo come riferimento il canone dell’ultimo mese dell'anno precedente, ridotto del 10%. In questo caso, una volta approvato il Piano Operativo Annuale con il nuovo corrispettivo, la Società emette fatture di conguaglio delle mensilità già fatturate e riprende quindi la normale procedura di fatturazione di cui ai punti precedenti. 
 
 #. per le prestazioni di sviluppo, il corrispettivo pari all’importo definito nei progetti esecutivi di sviluppo accettati dall’Amministrazione e, comunque, nei limiti dei massimali previsti nel POA di riferimento, con le seguenti modalità:
 
@@ -410,7 +419,7 @@ Art 18 Livelli di servizio, monitoraggio e penali
 |D     |Classe non critica alla quale non sono associate penali.                                                    |
 +------+------------------------------------------------------------------------------------------------------------+
 
-#. Ciascun livello di servizio dovrà essere misurabile  in funzione dei seguenti parametri: 
+2. Ciascun livello di servizio dovrà essere misurabile  in funzione dei seguenti parametri: 
 
 * Definizione: descrizione del parametro di servizio
 
@@ -428,9 +437,9 @@ Art 18 Livelli di servizio, monitoraggio e penali
 
 * Fonte informativa: specifica la fonte da dove sono rilevati i dati per il calcolo del livello di servizio offerto
 
-#. Il mancato rispetto dei livelli di servizio comporterà l’applicazione delle penali differenziate in funzione della tipologia del servizio come definita nell’Allegato tecnico che costituisce parte integrante della presente Convenzione.
+3. Il mancato rispetto dei livelli di servizio comporterà l’applicazione delle penali differenziate in funzione della tipologia del servizio come definita nell’Allegato tecnico che costituisce parte integrante della presente Convenzione.
 
-#. Sono escluse dal calcolo dei livelli di servizio:
+4. Sono escluse dal calcolo dei livelli di servizio:
 
     * Le interruzioni dovute ad interventi concordati 
 
@@ -519,8 +528,8 @@ Le parti convengono di sottoscrivere specificatamente gli articoli 1, 2, 3, 4, 5
 
 .. |STYLE0| replace:: **Approvata con Deliberazione di Consiglio Comunale n. 42 del 20.04.2018**
 
-.. |STYLE1| replace:: **a1-**
+.. |STYLE1| replace:: **-**
 
-.. |STYLE2| replace:: **a2-**
+.. |STYLE2| replace:: **-**
 
-.. |STYLE3| replace:: **a3-**
+.. |STYLE3| replace:: **-**
