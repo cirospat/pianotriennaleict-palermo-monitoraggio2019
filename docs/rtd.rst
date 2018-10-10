@@ -38,7 +38,7 @@ catalogo Read the Docs a cura di Ciro Spataro
 +------------------------------------------------------------------------------------------+
 |\ |LINK16|\                                                                               |
 +------------------------------------------------------------------------------------------+
-|                                                                                          |
+|\ |LINK17|\  traduzione italiana del documento inglese                                    |
 +------------------------------------------------------------------------------------------+
 
 |
@@ -122,4 +122,8 @@ feed rss commenti Libro bianco innovazione PA 2018
 .. |LINK16| raw:: html
 
     <a href="https://formati-accessibili-comune-palermo.readthedocs.io/it/latest/" target="_blank">Formati accessibili dei documenti del comune di Palermo</a>
+
+.. |LINK17| raw:: html
+
+    <a href="https://vocabolario-controllato-servizi-pubblici.readthedocs.io" target="_blank">Profilo di applicazione del vocabolario dei servizi pubblici 2.2</a>
 
