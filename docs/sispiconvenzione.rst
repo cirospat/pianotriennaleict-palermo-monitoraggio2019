@@ -11,7 +11,7 @@ CONVENZIONE PER LO SVILUPPO E LA CONDUZIONE TECNICA DEL SISTEMA INFORMATICO E DE
     :maxdepth: 3
     :caption: indice Convenzione SISPI
 
-    SISPI_Convenzione_Bozza_postCommCons_2018
+    sispiconvenzione
 
 .. _h2183050d5c3b2d3a726170577e7e64:
 
