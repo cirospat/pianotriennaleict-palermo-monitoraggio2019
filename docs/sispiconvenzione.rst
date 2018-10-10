@@ -341,7 +341,7 @@ Art. 14 Corrispettivi, fatturazione e modalità di pagamento
 
 #. A fronte delle prestazioni rese, la Società fattura:
 
-        A) per le prestazioni di conduzione tecnica, il corrispettivo complessivo contrattuale pari ad € _____________,con le seguenti modalità:   
+        A) per le prestazioni di conduzione tecnica, il corrispettivo complessivo contrattuale pari ad € 11.291.100,00 IVA compresa, oltre a quanto stabilito con la Delibera G.M. 78 del 2/04/2017 e le Determinazioni Dirigenziali n. 112 del 15/05/2017 e n. 142 del 28/12/2017, con le seguenti modalità:   
 
     * a1\ |STYLE1|\  mensilmente, in via posticipata, il 90% del corrispondente canone mensile indicato nel relativo Piano Operativo Annuale. Il residuo 10% potrà essere fatturato a fine esercizio a seguito di verifica positiva dei rapporti trimestrali. 
 
