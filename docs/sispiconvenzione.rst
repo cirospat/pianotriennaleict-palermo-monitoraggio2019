@@ -4,8 +4,6 @@
 CONVENZIONE PER LO SVILUPPO E LA CONDUZIONE TECNICA DEL SISTEMA INFORMATICO E DEI SISTEMI DI TELECOMUNICAZIONE COMUNALI
 #######################################################################################################################
 
-.. _bookmark-kix-cxvc4lio2x8:
-
 \ |STYLE0|\ 
 
 
