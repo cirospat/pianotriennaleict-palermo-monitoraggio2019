@@ -85,7 +85,7 @@ Art. 2 Oggetto, efficacia e durata della Convenzione
 Art. 3 Prestazioni della Società per la conduzione tecnica del SITEC
 ********************************************************************
 
-#. La conduzione tecnica del SITEC da parte della Società dovrà articolarsi nelle seguenti prestazioni principali:
+La conduzione tecnica del SITEC da parte della Società dovrà articolarsi nelle seguenti prestazioni principali:
 
 * Servizi per la Conduzione Operativa del SITEC che dovranno comprendere:
 
