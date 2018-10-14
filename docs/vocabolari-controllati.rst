@@ -10,6 +10,8 @@ Definizione di interoperabilità semantica:
 
 (fonte: "\ |LINK1|\ ").
 
+--------
+
 .. _h312486d79423c3552b476c31f70c:
 
 \ |LINK2|\ 
