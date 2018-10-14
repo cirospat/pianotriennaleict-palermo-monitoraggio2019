@@ -4,7 +4,11 @@
 Vocabolari controllati per l'interoperabilità semantica
 #######################################################
 
-Definizione di interoperabilità semantica: "possibilità,  offerta alle  organizzazioni, di  elaborare informazioni  da  fonti  esterne  o secondarie  senza perdere il  reale  significato  delle  informazioni  stesse  nel  processo  di  elaborazione" (fonte: "\ |LINK1|\ ").
+Definizione di interoperabilità semantica: 
+
+"\ |STYLE0|\ " 
+
+(fonte: "\ |LINK1|\ ").
 
 .. _h312486d79423c3552b476c31f70c:
 
@@ -18,6 +22,9 @@ Definizione di interoperabilità semantica: "possibilità,  offerta alle  organi
 
 
 .. bottom of content
+
+
+.. |STYLE0| replace:: **possibilità,  offerta alle  organizzazioni, di  elaborare informazioni  da  fonti  esterne  o secondarie  senza perdere il  reale  significato  delle  informazioni  stesse  nel  processo  di  elaborazione**
 
 
 .. |LINK1| raw:: html
