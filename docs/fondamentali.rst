@@ -9,7 +9,7 @@ Fondamentali per la #PA digitale
 
 .. toctree::  
     :maxdepth: 3
-    :caption: indice-fondamentali
+    :caption: indice fondamentali #PA digitale
 
     fondamentali
 
