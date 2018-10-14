@@ -13,30 +13,12 @@ Fondamentali per la #PA digitale
 
     fondamentali
 
-.. _h7f37505a6b283765633f1437b4b615d:
-
-Core vocabulary degli eventi pubblici
-*************************************
-
-\ |LINK1|\  - un lavoro del gruppo italiano sulle ``ontologie`` della Pubblica Amministrazione
-
---------
-
-.. _h0237776314b3c14416597f2520433f:
-
-Open Agenda - Manuale d'uso dell'applicativo
-********************************************
-
-\ |LINK2|\  per la catalogazione e pubblicazione degli eventi pubblici, effettuata tramite l'uso di un ``vocabolario controllato`` (applicativo in uso e riuso nelle Pubbliche Amministrazioni)
-
---------
-
 .. _h2566d2644556c3b6358635c6a5f22:
 
 Developers Italia - i progetti su Github, the community of developers of Italian Public Services
 ************************************************************************************************
 
-\ |LINK3|\  repository di codice per i servizi pubblici digitali (a cura del Team Trasformazione DIgitale)
+\ |LINK1|\  repository di codice per i servizi pubblici digitali (a cura del Team Trasformazione DIgitale)
 
 --------
 
@@ -45,7 +27,7 @@ Developers Italia - i progetti su Github, the community of developers of Italian
 Forum sui servizi pubblici digitali della Pubblica Amministrazione italiana
 ***************************************************************************
 
-\ |LINK4|\ , uno spazio pubblico per lo scambio di conoscenza e buone prassi tra i soggetti della PA, (creato dal Team Trasformazione DIgitale)
+\ |LINK2|\ , uno spazio pubblico per lo scambio di conoscenza e buone prassi tra i soggetti della PA, (creato dal Team Trasformazione DIgitale)
 
 --------
 
@@ -54,7 +36,7 @@ Forum sui servizi pubblici digitali della Pubblica Amministrazione italiana
 DAF - Data Analytics Framework
 ******************************
 
-Pannello di visualizzazione dei dati delle Pubbliche Amministrazioni italiane - \ |LINK5|\ 
+Pannello di visualizzazione dei dati delle Pubbliche Amministrazioni italiane - \ |LINK3|\ 
 
 --------
 
@@ -63,7 +45,7 @@ Pannello di visualizzazione dei dati delle Pubbliche Amministrazioni italiane - 
 Dati.gov.it - catalogo nazionale dei metadati relativi ai dati rilasciati in formato aperto dalle pubbliche amministrazioni italiane
 ************************************************************************************************************************************
 
-\ |LINK6|\  
+\ |LINK4|\  
 
 --------
 
@@ -72,7 +54,7 @@ Dati.gov.it - catalogo nazionale dei metadati relativi ai dati rilasciati in for
 CAD - Codice dell’Amministrazione Digitale
 ******************************************
 
-\ |LINK7|\  include anche le versioni precedenti a cominciare dal 2005
+\ |LINK5|\  include anche le versioni precedenti a cominciare dal 2005
 
 --------
 
@@ -81,7 +63,7 @@ CAD - Codice dell’Amministrazione Digitale
 Piano Triennale per l'Informatica nella Pubblica Amministrazione 2017-19
 ************************************************************************
 
-\ |LINK8|\  
+\ |LINK6|\  
 
 --------
 
@@ -90,7 +72,7 @@ Piano Triennale per l'Informatica nella Pubblica Amministrazione 2017-19
 Linee Guida su acquisizione e riuso di software per le Pubbliche Amministrazioni
 ********************************************************************************
 
-\ |LINK9|\ 
+\ |LINK7|\ 
 
 					
 
@@ -101,7 +83,7 @@ Linee Guida su acquisizione e riuso di software per le Pubbliche Amministrazioni
 Linee guida 2018 modello di interoperabilità nelle Pubbliche Amministrazioni
 ****************************************************************************
 
-\ |LINK10|\ 
+\ |LINK8|\ 
 
 --------
 
@@ -110,13 +92,13 @@ Linee guida 2018 modello di interoperabilità nelle Pubbliche Amministrazioni
 Linee Guida per la valorizzazione del Patrimonio Informativo Pubblico (2017)
 ****************************************************************************
 
-\ |LINK11|\ 
+\ |LINK9|\ 
+
+* \ |LINK10|\ 
+
+* \ |LINK11|\  
 
 * \ |LINK12|\ 
-
-* \ |LINK13|\  
-
-* \ |LINK14|\ 
 
 --------
 
@@ -125,9 +107,9 @@ Linee Guida per la valorizzazione del Patrimonio Informativo Pubblico (2017)
 Censimento del Patrimonio ICT delle Pubbliche Amministrazioni
 *************************************************************
 
-\ |LINK15|\  
+\ |LINK13|\  
 
-\ |LINK16|\  (AGID)
+\ |LINK14|\  (AGID)
 
 --------
 
@@ -136,7 +118,7 @@ Censimento del Patrimonio ICT delle Pubbliche Amministrazioni
 Guida al linguaggio della Pubblica Amministrazione
 **************************************************
 
-\ |LINK17|\  
+\ |LINK15|\  
 
 --------
 
@@ -145,7 +127,7 @@ Guida al linguaggio della Pubblica Amministrazione
 Linee guida di design per i servizi digitali della PA
 *****************************************************
 
-\ |LINK18|\ 
+\ |LINK16|\ 
 
  
 
@@ -156,9 +138,9 @@ Linee guida di design per i servizi digitali della PA
 Linee guida competenze digitali e per l’armonizzazione delle qualificazioni professionali, delle professioni e dei profili in ambito ICT 
 *****************************************************************************************************************************************
 
-\ |LINK19|\   
+\ |LINK17|\   
 
-\ |LINK20|\  
+\ |LINK18|\  
 
 * Competenze di base
 
@@ -166,7 +148,7 @@ Linee guida competenze digitali e per l’armonizzazione delle qualificazioni pr
 
 * Competenze specialistiche
 
-\ |LINK21|\ 
+\ |LINK19|\ 
 
 --------
 
@@ -175,7 +157,7 @@ Linee guida competenze digitali e per l’armonizzazione delle qualificazioni pr
 Comune di Palermo - report IBM di Smarter Cities Challenge, edizione 2017
 *************************************************************************
 
-\ |LINK22|\  a cura di IBM Foundation, per la città di Palermo. Interessante per le raccomandazioni sul digitale
+\ |LINK20|\  a cura di IBM Foundation, per la città di Palermo. Interessante per le raccomandazioni sul digitale
 
 --------
 
@@ -184,7 +166,7 @@ Comune di Palermo - report IBM di Smarter Cities Challenge, edizione 2017
 Linee Guida SPID - Rilascio dell’identità digitale per uso professionale
 ************************************************************************
 
-\ |LINK23|\ 
+\ |LINK21|\ 
 
 #. \ |STYLE0|\ : identità digitale SPID contenente un attributo che dichiara tale caratteristica;
 
@@ -201,9 +183,13 @@ Linee Guida SPID - Rilascio dell’identità digitale per uso professionale
 Roadshow “Le iniziative Consip a supporto del Piano Triennale per l’informatica nella PA”
 *****************************************************************************************
 
-\ |LINK24|\  Palermo 12 giugno 2018 e slide interventi nelle città Bari, Milano, Napoli, Torino, Firenze, Cagliari
+\ |LINK22|\  Palermo 12 giugno 2018 e slide interventi nelle città Bari, Milano, Napoli, Torino, Firenze, Cagliari
 
 
++--------------+
+|* \ |LINK23|\ |
++--------------+
+|* \ |LINK24|\ |
 +--------------+
 |* \ |LINK25|\ |
 +--------------+
@@ -213,10 +199,6 @@ Roadshow “Le iniziative Consip a supporto del Piano Triennale per l’informat
 +--------------+
 |* \ |LINK28|\ |
 +--------------+
-|* \ |LINK29|\ |
-+--------------+
-|* \ |LINK30|\ |
-+--------------+
 
 --------
 
@@ -225,7 +207,7 @@ Roadshow “Le iniziative Consip a supporto del Piano Triennale per l’informat
 Linee Guida per la Promozione dei Servizi Digitali
 **************************************************
 
-\ |LINK31|\  che possano sostenere le pubbliche amministrazioni nella definizione di strategie di comunicazione, marketing e racconto sempre più rispondenti alla necessità di favorire la conoscenza e l’utilizzo dei servizi digitali da parte di cittadini e imprese.
+\ |LINK29|\  che possano sostenere le pubbliche amministrazioni nella definizione di strategie di comunicazione, marketing e racconto sempre più rispondenti alla necessità di favorire la conoscenza e l’utilizzo dei servizi digitali da parte di cittadini e imprese.
 
 --------
 
@@ -234,14 +216,14 @@ Linee Guida per la Promozione dei Servizi Digitali
 AGID, Regolamento per l'adozione di linee guida per l'attuazione del C.A.D.
 ***************************************************************************
 
-\ |LINK32|\ 
+\ |LINK30|\ 
 
 .. _h7652391a5a4f478683032737144156:
 
 AGID, Regolamento recante le modalità per l'esercizio del potere sanzionatorio ai sensi dell'art. 32-bis del decreto legislativo 7 marzo 2005, n. 82 e s.m. (C.A.D.)
 ********************************************************************************************************************************************************************
 
-\ |LINK33|\ 
+\ |LINK31|\ 
 
 --------
 
@@ -250,7 +232,7 @@ AGID, Regolamento recante le modalità per l'esercizio del potere sanzionatorio 
 La carta dei principi per la condotta tecnologica nel procurement della PA
 **************************************************************************
 
-\ |LINK34|\  che:
+\ |LINK32|\  che:
 
 * soddisfino le esigenze degli utenti/cittadini;
 
@@ -264,7 +246,7 @@ La carta dei principi per la condotta tecnologica nel procurement della PA
 
 Se inclusa e dettagliato nell’ambito di capitolati di gara di servizi tecnologici della Pubblica Amministrazione e in particolare nelle gare strategiche di Consip, la carta dei principi tecnologici del procurement può migliorare il rapporto tra fornitori e la Pubblica Amministrazione.
 
-\ |LINK35|\ .
+\ |LINK33|\ .
 
 --------
 
@@ -273,7 +255,7 @@ Se inclusa e dettagliato nell’ambito di capitolati di gara di servizi tecnolog
 Regolamento del Parlamento Europeo e del Consiglio che istituisce uno sportello digitale unico per l'accesso a informazioni, procedure e servizi di assistenza e di risoluzione dei problemi e che modifica il Regolamento (UE) n. 1024/2012
 ********************************************************************************************************************************************************************************************************************************************
 
-\ |LINK36|\  (formato RTD)
+\ |LINK34|\  (formato RTD)
 
 --------
 
@@ -326,145 +308,137 @@ Regolamento del Parlamento Europeo e del Consiglio che istituisce uno sportello 
 
 .. |LINK1| raw:: html
 
-    <a href="http://content-classes.readthedocs.io/it/latest/docs/Eventi%20pubblici%20(CPEV-AP_IT).html" target="_blank">Classi di contenuti</a>
+    <a href="https://github.com/italia" target="_blank">Github</a>
 
 .. |LINK2| raw:: html
 
-    <a href="http://manuale-openagenda.readthedocs.io" target="_blank">Manuale</a>
+    <a href="https://forum.italia.it/" target="_blank">Forum</a>
 
 .. |LINK3| raw:: html
 
-    <a href="https://github.com/italia" target="_blank">Github</a>
+    <a href="https://dataportal.daf.teamdigitale.it/dataset/search" target="_blank">DAF</a>
 
 .. |LINK4| raw:: html
 
-    <a href="https://forum.italia.it/" target="_blank">Forum</a>
+    <a href="https://www.dati.gov.it/" target="_blank">www.dati.gov.it</a>
 
 .. |LINK5| raw:: html
 
-    <a href="https://dataportal.daf.teamdigitale.it/dataset/search" target="_blank">DAF</a>
+    <a href="https://cad.readthedocs.io/it/v2017-12-13/" target="_blank">Versione v2017-12-13</a>
 
 .. |LINK6| raw:: html
 
-    <a href="https://www.dati.gov.it/" target="_blank">www.dati.gov.it</a>
+    <a href="https://pianotriennale-ict.readthedocs.io/it/latest/index.html" target="_blank">Piano</a>
 
 .. |LINK7| raw:: html
 
-    <a href="https://cad.readthedocs.io/it/v2017-12-13/" target="_blank">Versione v2017-12-13</a>
+    <a href="http://lg-acquisizione-e-riuso-software-per-la-pa.readthedocs.io/it/latest/" target="_blank">Linee Guida</a>
 
 .. |LINK8| raw:: html
 
-    <a href="https://pianotriennale-ict.readthedocs.io/it/latest/index.html" target="_blank">Piano</a>
+    <a href="http://lg-modellointeroperabilita.readthedocs.io/it/latest/index.html" target="_blank">Linee Guida</a>
 
 .. |LINK9| raw:: html
 
-    <a href="http://lg-acquisizione-e-riuso-software-per-la-pa.readthedocs.io/it/latest/" target="_blank">Linee Guida</a>
+    <a href="http://lg-patrimonio-pubblico.readthedocs.io" target="_blank">Linee Guida</a>
 
 .. |LINK10| raw:: html
 
-    <a href="http://lg-modellointeroperabilita.readthedocs.io/it/latest/index.html" target="_blank">Linee Guida</a>
+    <a href="https://linee-guida-cataloghi-dati-profilo-dcat-ap-it.readthedocs.io/it/latest/" target="_blank">Linee guida per i cataloghi dati</a>
 
 .. |LINK11| raw:: html
 
-    <a href="http://lg-patrimonio-pubblico.readthedocs.io" target="_blank">Linee Guida</a>
+    <a href="http://pianotri-schede-bdin.readthedocs.io/en/latest/" target="_blank">Schede descrittive delle basi dati di interesse nazionale</a>
 
 .. |LINK12| raw:: html
 
-    <a href="https://linee-guida-cataloghi-dati-profilo-dcat-ap-it.readthedocs.io/it/latest/" target="_blank">Linee guida per i cataloghi dati</a>
+    <a href="http://elenco-basi-di-dati-chiave.readthedocs.io/it/latest/" target="_blank">Elenco delle basi dati chiave</a>
 
 .. |LINK13| raw:: html
 
-    <a href="http://pianotri-schede-bdin.readthedocs.io/en/latest/" target="_blank">Schede descrittive delle basi dati di interesse nazionale</a>
+    <a href="https://censimentoict.italia.it" target="_blank">censimentoict.italia.it</a>
 
 .. |LINK14| raw:: html
 
-    <a href="http://elenco-basi-di-dati-chiave.readthedocs.io/it/latest/" target="_blank">Elenco delle basi dati chiave</a>
+    <a href="http://eventipa.formez.it/node/158577" target="_blank">Webinar (FormezPA) su Data Center e Cloud: la razionalizzazione delle infrastrutture fisiche nella PA</a>
 
 .. |LINK15| raw:: html
 
-    <a href="https://censimentoict.italia.it" target="_blank">censimentoict.italia.it</a>
+    <a href="http://guida-linguaggio-pubblica-amministrazione.readthedocs.io" target="_blank">guida-linguaggio-pubblica-amministrazione.readthedocs.io</a>
 
 .. |LINK16| raw:: html
 
-    <a href="http://eventipa.formez.it/node/158577" target="_blank">Webinar (FormezPA) su Data Center e Cloud: la razionalizzazione delle infrastrutture fisiche nella PA</a>
+    <a href="http://design-italia.readthedocs.io" target="_blank">linee guida design servizi digitali PA</a>
 
 .. |LINK17| raw:: html
 
-    <a href="http://guida-linguaggio-pubblica-amministrazione.readthedocs.io" target="_blank">guida-linguaggio-pubblica-amministrazione.readthedocs.io</a>
+    <a href="http://lg-competenzedigitali.readthedocs.io" target="_blank">lg-competenzedigitali.readthedocs.io</a>
 
 .. |LINK18| raw:: html
 
-    <a href="http://design-italia.readthedocs.io" target="_blank">linee guida design servizi digitali PA</a>
+    <a href="http://competenze-digitali-docs.readthedocs.io" target="_blank">competenze-digitali-docs.readthedocs.io</a>
 
 .. |LINK19| raw:: html
 
-    <a href="http://lg-competenzedigitali.readthedocs.io" target="_blank">lg-competenzedigitali.readthedocs.io</a>
+    <a href="https://www.agid.gov.it/sites/default/files/repository_files/professioni-ict.pdf" target="_blank">LINEE GUIDA (AgID) per la qualità delle competenze digitali nelle professionalità ICT - anno 2017</a>
 
 .. |LINK20| raw:: html
 
-    <a href="http://competenze-digitali-docs.readthedocs.io" target="_blank">competenze-digitali-docs.readthedocs.io</a>
+    <a href="https://palermo-smarter-city-challenge-2017-ibm.readthedocs.io" target="_blank">Report</a>
 
 .. |LINK21| raw:: html
 
-    <a href="https://www.agid.gov.it/sites/default/files/repository_files/professioni-ict.pdf" target="_blank">LINEE GUIDA (AgID) per la qualità delle competenze digitali nelle professionalità ICT - anno 2017</a>
+    <a href="https://lg-spid-rilascio-identita-digitale-uso-professionale.readthedocs.io" target="_blank">linee guida</a>
 
 .. |LINK22| raw:: html
 
-    <a href="https://palermo-smarter-city-challenge-2017-ibm.readthedocs.io" target="_blank">Report</a>
+    <a href="http://www.consip.it/media/approfondimenti/roadshow-le-iniziative-consip-a-supporto-del-piano-triennale-per-linformatica-nella-pa-i-prossimi-appuntamenti-e-il-calendario-completo" target="_blank">slide interventi</a>
 
 .. |LINK23| raw:: html
 
-    <a href="https://lg-spid-rilascio-identita-digitale-uso-professionale.readthedocs.io" target="_blank">linee guida</a>
+    <a href="http://www.consip.it/sites/consip.it/files/Il%20piano%20triennale%20ICT%20della%20PA%20e%20il%20ruolo%20di%20Consip%20-%20Ing.%20Renato%20Di%20Donna%20%28Consip%29_3.pdf" target="_blank">Il piano triennale ICT della PA e il ruolo di Consip</a>
 
 .. |LINK24| raw:: html
 
-    <a href="http://www.consip.it/media/approfondimenti/roadshow-le-iniziative-consip-a-supporto-del-piano-triennale-per-linformatica-nella-pa-i-prossimi-appuntamenti-e-il-calendario-completo" target="_blank">slide interventi</a>
+    <a href="http://www.consip.it/sites/consip.it/files/SPC%20%E2%80%9CCloud%E2%80%9D%20lotto%201%20%28cloud%20computing%29%20-%20Dott.%20Massimiliano%20Pucciarelli%20%28AgID%29_3.pdf" target="_blank">SPC “Cloud” lotto 1 (cloud computing)</a>
 
 .. |LINK25| raw:: html
 
-    <a href="http://www.consip.it/sites/consip.it/files/Il%20piano%20triennale%20ICT%20della%20PA%20e%20il%20ruolo%20di%20Consip%20-%20Ing.%20Renato%20Di%20Donna%20%28Consip%29_3.pdf" target="_blank">Il piano triennale ICT della PA e il ruolo di Consip</a>
+    <a href="http://www.consip.it/sites/consip.it/files/SPC%20%E2%80%9CCloud%E2%80%9D%20lotto%202%20%28servizi%20di%20sicurezza%29%20-%20Ing.%20Roberto%20Bettacchi%20%28Consip%29_2.pdf" target="_blank">SPC “Cloud” lotto 2 (servizi di sicurezza)</a>
 
 .. |LINK26| raw:: html
 
-    <a href="http://www.consip.it/sites/consip.it/files/SPC%20%E2%80%9CCloud%E2%80%9D%20lotto%201%20%28cloud%20computing%29%20-%20Dott.%20Massimiliano%20Pucciarelli%20%28AgID%29_3.pdf" target="_blank">SPC “Cloud” lotto 1 (cloud computing)</a>
+    <a href="http://www.consip.it/sites/consip.it/files/SPC%20%E2%80%9CCloud%E2%80%9D%20lotto%203%20%28interoperabilit%C3%A0%2C%20Open%20e%20Big%20Data%29%20-%20Dott.%20Ing.%20Roberto%20Bettacchi%20%28Consip%29.pdf" target="_blank">SPC “Cloud” lotto 3 (interoperabilità, Open e Big Data)</a>
 
 .. |LINK27| raw:: html
 
-    <a href="http://www.consip.it/sites/consip.it/files/SPC%20%E2%80%9CCloud%E2%80%9D%20lotto%202%20%28servizi%20di%20sicurezza%29%20-%20Ing.%20Roberto%20Bettacchi%20%28Consip%29_2.pdf" target="_blank">SPC “Cloud” lotto 2 (servizi di sicurezza)</a>
+    <a href="http://www.consip.it/sites/consip.it/files/SPC%20%E2%80%9CCloud%E2%80%9D%20lotto%204%20%28applicazioni%20Web%29%20-%20Dott.%20Gabriele%20Mezzacapo%20%28Consip%29.pdf" target="_blank">SPC “Cloud” lotto 4 (applicazioni Web)</a>
 
 .. |LINK28| raw:: html
 
-    <a href="http://www.consip.it/sites/consip.it/files/SPC%20%E2%80%9CCloud%E2%80%9D%20lotto%203%20%28interoperabilit%C3%A0%2C%20Open%20e%20Big%20Data%29%20-%20Dott.%20Ing.%20Roberto%20Bettacchi%20%28Consip%29.pdf" target="_blank">SPC “Cloud” lotto 3 (interoperabilità, Open e Big Data)</a>
+    <a href="http://www.consip.it/sites/consip.it/files/SGI%20%E2%80%9CSistemi%20Gestionali%20Integrati%E2%80%9D%20-%20Dott.%20Gabriele%20Mezzacapo%20%28Consip%29_2.pdf" target="_blank">SGI “Sistemi Gestionali Integrati”</a>
 
 .. |LINK29| raw:: html
 
-    <a href="http://www.consip.it/sites/consip.it/files/SPC%20%E2%80%9CCloud%E2%80%9D%20lotto%204%20%28applicazioni%20Web%29%20-%20Dott.%20Gabriele%20Mezzacapo%20%28Consip%29.pdf" target="_blank">SPC “Cloud” lotto 4 (applicazioni Web)</a>
+    <a href="https://comunica-lg.readthedocs.io" target="_blank">Linee guida</a>
 
 .. |LINK30| raw:: html
 
-    <a href="http://www.consip.it/sites/consip.it/files/SGI%20%E2%80%9CSistemi%20Gestionali%20Integrati%E2%80%9D%20-%20Dott.%20Gabriele%20Mezzacapo%20%28Consip%29_2.pdf" target="_blank">SGI “Sistemi Gestionali Integrati”</a>
+    <a href="https://trasparenza.agid.gov.it/archivio28_provvedimenti-amministrativi_0_121612_725_1.html" target="_blank">Linee guida</a>
 
 .. |LINK31| raw:: html
 
-    <a href="https://comunica-lg.readthedocs.io" target="_blank">Linee guida</a>
+    <a href="https://trasparenza.agid.gov.it/archivio28_provvedimenti-amministrativi_0_121613_725_1.html" target="_blank">Modalità esecuzione verifiche e Regolamento potere sanzionatorio</a>
 
 .. |LINK32| raw:: html
 
-    <a href="https://trasparenza.agid.gov.it/archivio28_provvedimenti-amministrativi_0_121612_725_1.html" target="_blank">Linee guida</a>
+    <a href="https://carta-dei-principi-tecnologici-del-procurement.readthedocs.io" target="_blank">Principi per lo sviluppo di servizi digitali della Pubblica Amministrazione</a>
 
 .. |LINK33| raw:: html
 
-    <a href="https://trasparenza.agid.gov.it/archivio28_provvedimenti-amministrativi_0_121613_725_1.html" target="_blank">Modalità esecuzione verifiche e Regolamento potere sanzionatorio</a>
-
-.. |LINK34| raw:: html
-
-    <a href="https://carta-dei-principi-tecnologici-del-procurement.readthedocs.io" target="_blank">Principi per lo sviluppo di servizi digitali della Pubblica Amministrazione</a>
-
-.. |LINK35| raw:: html
-
     <a href="https://medium.com/team-per-la-trasformazione-digitale/carta-dei-principi-tecnologici-del-procurement-pubblica-amministrazione-innovazione-dbdfcab2745" target="_blank">Articolo di Diego Piacentini sull'argomento</a>
 
-.. |LINK36| raw:: html
+.. |LINK34| raw:: html
 
     <a href="https://cirospat.readthedocs.io/it/latest/regolamento-ue-sportello-digitale-unico.html" target="_blank">Regolamento</a>
 
