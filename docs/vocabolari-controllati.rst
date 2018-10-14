@@ -34,9 +34,7 @@ Definizione di interoperabilità semantica:
 Ontologie e vocabolari controllati (AgID)
 *****************************************
 
-\ |LINK5|\ 
-
-Repository delle ontologie e dei vocabolari controllati sviluppati nell'ambito delle azioni previste dal piano triennale per l'informatica nella PA, e a supporto del lavoro da svolgere per l'\ |LINK6|\ .
+\ |LINK5|\  - repository delle ontologie e dei vocabolari controllati sviluppati nell'ambito delle azioni previste dal piano triennale per l'informatica nella PA, e a supporto del lavoro da svolgere per l'\ |LINK6|\ .
 
 |
 
