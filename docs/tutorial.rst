@@ -47,7 +47,7 @@ Webinar del FormezPA sui \ |LINK6|\  (data center - SPID - eProcurement - servic
 Manuali 
 ========
 
-\ |LINK7|\ 
+\ |LINK7|\  per la catalogazione e pubblicazione degli eventi pubblici, effettuata tramite l'uso di un ``vocabolario controllato`` (applicativo in uso e riuso nelle Pubbliche Amministrazioni)
 
 \ |LINK8|\  in uso al Comune di Palermo
 
