@@ -8,7 +8,10 @@ Definizione di interoperabilità semantica:
 
 "\ |STYLE0|\ " (fonte: "\ |LINK1|\ ").
 
-\ |LINK2|\  definisce i \ |STYLE1|\  come “un modo comune e condiviso per organizzare codici e nomenclature ricorrenti in maniera standardizzata e normalizzata (vocabolari controllati) e una concettualizzazione esaustiva e rigorosa nell’ambito di un dato dominio (ontologia o modello dei dati condiviso”).
+
+..  Note:: 
+
+    \ |LINK2|\  definisce i \ |STYLE1|\  come “un modo comune e condiviso per organizzare codici e nomenclature ricorrenti in maniera standardizzata e normalizzata (vocabolari controllati) e una concettualizzazione esaustiva e rigorosa nell’ambito di un dato dominio (ontologia o modello dei dati condiviso”).
 
 --------
 
