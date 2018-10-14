@@ -4,9 +4,7 @@
 Vocabolari controllati per l'interoperabilità semantica
 #######################################################
 
-Definizione di interoperabilità semantica: 
-
-"\ |STYLE0|\ " (fonte: "\ |LINK1|\ ").
+Definizione di interoperabilità semantica: "\ |STYLE0|\ " (fonte: "\ |LINK1|\ " AgID).
 
 
 ..  Note:: 
@@ -42,14 +40,14 @@ Ontologie e vocabolari controllati (AgID)
 .. bottom of content
 
 
-.. |STYLE0| replace:: **possibilità,  offerta alle  organizzazioni, di  elaborare informazioni  da  fonti  esterne  o secondarie  senza perdere il  reale  significato  delle  informazioni  stesse  nel  processo  di  elaborazione**
+.. |STYLE0| replace:: **possibilità, offerta alle organizzazioni, di  elaborare informazioni da fonti esterne o secondarie senza perdere il reale significato  delle informazioni stesse nel processo di elaborazione**
 
 .. |STYLE1| replace:: **vocabolari controllati e modelli dei dati**
 
 
 .. |LINK1| raw:: html
 
-    <a href="https://www.agid.gov.it/sites/default/files/repository_files/documentazione_trasparenza/cdc-spc-gdl6-interoperabilitasemopendata_v2.0_0.pdf" target="_blank">LINEE GUIDA PER L’INTEROPERABILITÀ SEMANTICA ATTRAVERSO I LINKED OPEN DATA</a>
+    <a href="https://www.agid.gov.it/sites/default/files/repository_files/documentazione_trasparenza/cdc-spc-gdl6-interoperabilitasemopendata_v2.0_0.pdf" target="_blank">Linee Guida per l'interoperabilità semantica attraverso i Linked Open Data</a>
 
 .. |LINK2| raw:: html
 
