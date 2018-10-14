@@ -83,7 +83,7 @@ Le iniziative di carattere \ |STYLE1|\ , vissute in spirito collaborativo insiem
 
 .. toctree::  
     :maxdepth: 2
-    :caption: External links
+    :caption: Pubblica Amministrazione Digitale
 
     fondamentali
     vocabolari-controllati
