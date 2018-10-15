@@ -21,7 +21,11 @@ Agenda Digitale Palermo
 
 \ |LINK1|\   (Asse 1 del PON METRO Palermo 2014-2020)
 
+
 |REPLACE2|
+
+
+|REPLACE3|
 
 |
 
@@ -31,11 +35,11 @@ Uffici comunali connessi all'Anello Telematico
 ==============================================
 
 
-|REPLACE3|
+|REPLACE4|
 
 (\ |LINK2|\ )
 
-|REPLACE4|
+|REPLACE5|
 
 \ |LINK3|\ 
 
@@ -47,11 +51,11 @@ Wifi hotspot comunali di Palermo e accessi telematici alla ZTL
 ==============================================================
 
 
-|REPLACE5|
+|REPLACE6|
 
 \ |LINK4|\ 
 
-|REPLACE6|
+|REPLACE7|
 
 |
 
@@ -61,7 +65,7 @@ Attuazione contenuti CAD e Piano Triennale per l'Informatica al comune di Palerm
 =================================================================================
 
 
-|REPLACE7|
+|REPLACE8|
 
 .. _h2c1d74277104e41780968148427e:
 
@@ -77,20 +81,24 @@ Attuazione contenuti CAD e Piano Triennale per l'Informatica al comune di Palerm
     <iframe width="100%" height="1500px" frameBorder="0" src="https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vRrShxVf6VZYXPeHR9e3NXsYZ_x8nrE1gGTuhqao4ERRm1XDYuXBO7G4vqDkk4u96BfLRAjekwZPk3K/pubhtml"></iframe>
 .. |REPLACE2| raw:: html
 
-    <iframe width="100%" height="1900px" frameBorder="0" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTGYi5wDzJvq8niQDamscNpWpDriVCTcPSgnN-Z4C5kbUDHULrEq0NQDPp0rrxBkj7gmjb7Gt_9ctJf/pubhtml"></iframe>
+    <iframe width="100%" height="500" src="https://www.youtube.com/embed/_K5hJClSHOA?t=863" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    Webinar sugli aspetti del PON METRO Palermo (Asse 1)
 .. |REPLACE3| raw:: html
 
-    <img src="https://lh3.googleusercontent.com/GKm3Qmvcqwu0ztm7gEkFATFNFMLGtz4_Z1VrnwQSb5aGgl7gYCwwv1Y8dry9BD5_ni1u13agPsC4-UAWPSHDTAlLYrPKbvjZ4g1CulOgQJet2MDF6xOb50muGH667k3A3cVWEJ5o9L231MNxpc5XwkMfOJuICP5oNL3Nux7PeZ_rN_0n-kwwOrSY-XyCxOL7HzJWIRP9dni00OmBw-4dDdNOhZF1Nw6o0j7MMOJszXfEcQ3aez6A2IfP60aRaujV0GbWKPrLs-MAI9pbjBEncNptN7VeS-6Xs8kQr05ZkL_trEbe7AVHDUlE0MCvB5SHO8jRKEZGe7qfBxwatt2qe69_Zq_v-uQ3K6LZtMQ4dXlhVOHalshC5_uqhose4TGikckzXmf5RqpIxt2rP8fGvYe4cZJZkKFGAXejBK-95aaRVqq7WvrzXPIUmviHC5siJ_TIm4KmjLzI11Vf825zosgDXl6rNlK9Hm_QKRyKfeXwIa1c73Mv3mCEBn2cYC9WWqNyYeGqX2BOHWy2GP9WXEI6wMfG4LS7EjeDIbiYAN6IfZPq4fqyYfd9ZGHjiUwlhFdG61bqcm0HZOG7oiakgAj6bhsoCg=s800-w800-h394-no" />
+    <iframe width="100%" height="1900px" frameBorder="0" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTGYi5wDzJvq8niQDamscNpWpDriVCTcPSgnN-Z4C5kbUDHULrEq0NQDPp0rrxBkj7gmjb7Gt_9ctJf/pubhtml"></iframe>
 .. |REPLACE4| raw:: html
 
-    <iframe width="100%" height="2400px" frameBorder="0" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQACeLrlz3YiX7n5Hef6GFwuRsRGyNcF-qXQNk_p75cv8vJvmvBJk7gSwc8LG2E6-nur3040fPfPvGB/pubhtml"></iframe>
+    <img src="https://lh3.googleusercontent.com/GKm3Qmvcqwu0ztm7gEkFATFNFMLGtz4_Z1VrnwQSb5aGgl7gYCwwv1Y8dry9BD5_ni1u13agPsC4-UAWPSHDTAlLYrPKbvjZ4g1CulOgQJet2MDF6xOb50muGH667k3A3cVWEJ5o9L231MNxpc5XwkMfOJuICP5oNL3Nux7PeZ_rN_0n-kwwOrSY-XyCxOL7HzJWIRP9dni00OmBw-4dDdNOhZF1Nw6o0j7MMOJszXfEcQ3aez6A2IfP60aRaujV0GbWKPrLs-MAI9pbjBEncNptN7VeS-6Xs8kQr05ZkL_trEbe7AVHDUlE0MCvB5SHO8jRKEZGe7qfBxwatt2qe69_Zq_v-uQ3K6LZtMQ4dXlhVOHalshC5_uqhose4TGikckzXmf5RqpIxt2rP8fGvYe4cZJZkKFGAXejBK-95aaRVqq7WvrzXPIUmviHC5siJ_TIm4KmjLzI11Vf825zosgDXl6rNlK9Hm_QKRyKfeXwIa1c73Mv3mCEBn2cYC9WWqNyYeGqX2BOHWy2GP9WXEI6wMfG4LS7EjeDIbiYAN6IfZPq4fqyYfd9ZGHjiUwlhFdG61bqcm0HZOG7oiakgAj6bhsoCg=s800-w800-h394-no" />
 .. |REPLACE5| raw:: html
 
-    <iframe width="100%" height="700px" frameBorder="0" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vS9KJJqfsn1zVqcb72XVzCdx9hg_W7tU4rbosQtEJAC9LUZX5kaQ3SxP0C7Eh7sW2inCo14yAffF68L/pubhtml"></iframe>
+    <iframe width="100%" height="2400px" frameBorder="0" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQACeLrlz3YiX7n5Hef6GFwuRsRGyNcF-qXQNk_p75cv8vJvmvBJk7gSwc8LG2E6-nur3040fPfPvGB/pubhtml"></iframe>
 .. |REPLACE6| raw:: html
 
-    <iframe width="100%" height="700px" frameBorder="0" allowfullscreen src="https://umap.openstreetmap.fr/it/map/hotspot-wifi-del-comune-di-palermo_211092?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false"></iframe><p><a href="http://umap.openstreetmap.fr/it/map/hotspot-wifi-del-comune-di-palermo_211092">Visualizza a schermo intero</a></p>
+    <iframe width="100%" height="700px" frameBorder="0" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vS9KJJqfsn1zVqcb72XVzCdx9hg_W7tU4rbosQtEJAC9LUZX5kaQ3SxP0C7Eh7sW2inCo14yAffF68L/pubhtml"></iframe>
 .. |REPLACE7| raw:: html
+
+    <iframe width="100%" height="700px" frameBorder="0" allowfullscreen src="https://umap.openstreetmap.fr/it/map/hotspot-wifi-del-comune-di-palermo_211092?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false"></iframe><p><a href="http://umap.openstreetmap.fr/it/map/hotspot-wifi-del-comune-di-palermo_211092">Visualizza a schermo intero</a></p>
+.. |REPLACE8| raw:: html
 
     <iframe width="100%" height="3350px" frameBorder="0" src="https://docs.google.com/document/d/e/2PACX-1vRtzNeGRay4oLUd_kB3agGKhMAugAjG9ke-T5oQ2zW4M0054oqjl73nNz03HjHT3T7dXf9vd8c6IQwy/pub"></iframe>
 
