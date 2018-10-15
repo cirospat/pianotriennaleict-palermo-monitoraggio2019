@@ -81,8 +81,8 @@ Attuazione contenuti CAD e Piano Triennale per l'Informatica al comune di Palerm
     <iframe width="100%" height="1500px" frameBorder="0" src="https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vRrShxVf6VZYXPeHR9e3NXsYZ_x8nrE1gGTuhqao4ERRm1XDYuXBO7G4vqDkk4u96BfLRAjekwZPk3K/pubhtml"></iframe>
 .. |REPLACE2| raw:: html
 
-    <iframe width="100%" height="500" src="https://www.youtube.com/embed/_K5hJClSHOA?t=863" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-    Webinar sugli aspetti del PON METRO Palermo (Asse 1)
+    <iframe width="100%" height="500" src="https://www.youtube.com/embed/_K5hJClSHOA?t=917" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    Webinar sugli aspetti del PON METRO Palermo (Asse 1) 
 .. |REPLACE3| raw:: html
 
     <iframe width="100%" height="1900px" frameBorder="0" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTGYi5wDzJvq8niQDamscNpWpDriVCTcPSgnN-Z4C5kbUDHULrEq0NQDPp0rrxBkj7gmjb7Gt_9ctJf/pubhtml"></iframe>
