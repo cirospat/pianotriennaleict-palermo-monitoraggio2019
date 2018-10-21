@@ -40,6 +40,8 @@ catalogo Read the Docs a cura di Ciro Spataro
 +------------------------------------------------------------------------------------------+
 |\ |LINK17|\  traduzione italiana del documento inglese                                    |
 +------------------------------------------------------------------------------------------+
+|\ |LINK18|\                                                                               |
++------------------------------------------------------------------------------------------+
 
 |
 
@@ -126,4 +128,8 @@ feed rss commenti Libro bianco innovazione PA 2018
 .. |LINK17| raw:: html
 
     <a href="https://vocabolario-controllato-servizi-pubblici.readthedocs.io" target="_blank">Profilo di applicazione del vocabolario dei servizi pubblici 2.2</a>
+
+.. |LINK18| raw:: html
+
+    <a href="https://palermo-sostenibile.readthedocs.io" target="_blank">https://palermo-sostenibile.readthedocs.io</a>
 
