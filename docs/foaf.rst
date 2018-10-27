@@ -8,9 +8,9 @@ Ontologia FOAF
 
 È un modo per descrivere te stesso -- il tuo nome, l'indirizzo di posta elettronica, ed i tuoi amici -- usando ``XML``  e ``RDF``. Ciò consente ad un software di elaborare queste descrizioni, magari all'interno di un motore di ricerca automatico, allo scopo di trovare informazioni su di te e sulle comunità delle quali fai parte. FOAF può portare a nuove interessanti possibilità di sviluppo per le comunità online.
 
-Copia semplicemente la descrizione FOAF che hai generato e incollala in un file. Pubblica questo file sul tuo sito web: è una buona idea chiamare questo file "foaf.rdf", in modo da permettere l'uso di una ricerca con Google per trovare file FOAF sul web.
+Copia semplicemente la descrizione FOAF che hai generato e incollala in un file. Pubblica questo file sul tuo sito web: è una buona idea chiamare questo file "\ |LINK2|\ ", in modo da permettere l'uso di una ricerca con Google per trovare file FOAF sul web.
 
-[\ |LINK2|\ ]  [\ |LINK3|\ ]
+[\ |LINK3|\ ]  [\ |LINK4|\ ]
 
 
 .. code:: 
@@ -52,7 +52,7 @@ Copia semplicemente la descrizione FOAF che hai generato e incollala in un file.
     <foaf:mbox_sha1sum>e1607678ab8d0d0b24f3bd42abb9278ea26cd2fc</foaf:mbox_sha1sum></foaf:Person></foaf:knows></foaf:Person>
     </rdf:RDF>
 
-Da un \ |LINK4|\ . 
+Da un \ |LINK5|\ . 
 
 |REPLACE1|
 
@@ -70,13 +70,17 @@ Da un \ |LINK4|\ .
 
 .. |LINK2| raw:: html
 
-    <a href="https://www.w3.org/XML/" target="_blank">XML</a>
+    <a href="https://github.com/cirospat/newproject/blob/master/docs/foaf.rdf" target="_blank">foaf.rdf</a>
 
 .. |LINK3| raw:: html
 
-    <a href="https://www.w3.org/RDF/" target="_blank">RDF</a>
+    <a href="https://www.w3.org/XML/" target="_blank">XML</a>
 
 .. |LINK4| raw:: html
+
+    <a href="https://www.w3.org/RDF/" target="_blank">RDF</a>
+
+.. |LINK5| raw:: html
 
     <a href="https://twitter.com/gpirrotta/status/1055845619019980801" target="_blank">input didattico di Giovanni Pirrotta</a>
 
