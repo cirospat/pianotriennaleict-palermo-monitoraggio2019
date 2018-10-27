@@ -6,6 +6,8 @@ FOAF
 
 \ |LINK1|\ 
 
+E' un modo per descrivere te stesso -- il tuo nome, l'indirizzo di posta elettronica, ed i tuoi amici -- usando XML e RDF. Ciò consente ad un software di elaborare queste descrizioni, magari all'interno di un motore di ricerca automatico, allo scopo di trovare informazioni su di te e sulle comunità delle quali fai parte. FOAF può portare a nuove interessanti possibilità di sviluppo per le comunità online.
+
 
 .. code:: 
 
@@ -52,5 +54,5 @@ FOAF
 
 .. |LINK1| raw:: html
 
-    <a href="http://www.ldodds.com/foaf/foaf-a-matic.it.html" target="_blank">friend of a friend</a>
+    <a href="http://www.ldodds.com/foaf/foaf-a-matic.it.html" target="_blank">Friend of a friend</a>
 
