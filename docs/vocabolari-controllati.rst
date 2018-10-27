@@ -84,7 +84,7 @@ Ontologie e vocabolari controllati (AgID)
 
 .. |LINK2| raw:: html
 
-    <a href="https://pianotriennale-ict.readthedocs.io/it/latest/doc/04_infrastrutture-immateriali.html#dati-della-pubblica-amministrazione" target="_blank">L’articolo 4 del Piano Triennale</a>
+    <a href="https://pianotriennale-ict.readthedocs.io/it/latest/doc/04_infrastrutture-immateriali.html#dati-della-pubblica-amministrazione" target="_blank">L’articolo 4 del Piano Triennale per l'informatica nella PA</a>
 
 .. |LINK3| raw:: html
 
