@@ -12,7 +12,7 @@ OpendataSicilia & communities
 
 |REPLACE1|
 
-\ |LINK1|\  su open data il 27 ottobre 2018 in occasione del Linux Day ai Cantieri Culturali della Zisa a Palermo.
+\ |LINK1|\  su open data il 27 ottobre 2018 in occasione del Linux Day ai Cantieri Culturali della Zisa a Palermo; registrazione a cura di Joska Arena.
 
 --------
 
