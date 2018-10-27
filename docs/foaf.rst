@@ -54,8 +54,15 @@ Copia semplicemente la descrizione FOAF che hai generato e incollala in un file.
 
 Da un \ |LINK4|\ . 
 
+|REPLACE1|
+
+
 .. bottom of content
 
+
+.. |REPLACE1| raw:: html
+
+    <img src="https://raw.githubusercontent.com/cirospat/newproject/master/docs/static/foaf.PNG" />
 
 .. |LINK1| raw:: html
 
