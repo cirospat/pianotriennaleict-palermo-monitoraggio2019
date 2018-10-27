@@ -18,12 +18,16 @@ Definizione di interoperabilità semantica: "\ |STYLE0|\ " (fonte: "\ |LINK1|\ "
 \ |LINK3|\ 
 ***********
 
+\ |LINK4|\  alla risorsa creata da Opencontent.
+
 |
 
-.. _h6f15a413cb3d267b3e4f1c74347521:
+.. _h506384e4438e4c26493b8112d2617:
 
-\ |LINK4|\ 
+\ |LINK5|\ 
 ***********
+
+\ |LINK6|\  alla risorsa, traduzione in italiano (attualmente in fase di implementazione) del documento denominato \ |LINK7|\ .
 
 |
 
@@ -32,7 +36,7 @@ Definizione di interoperabilità semantica: "\ |STYLE0|\ " (fonte: "\ |LINK1|\ "
 Ontologie e vocabolari controllati (AgID)
 *****************************************
 
-\ |LINK5|\  - repository delle ontologie e dei vocabolari controllati sviluppati nell'ambito delle azioni previste dal piano triennale per l'informatica nella PA, e a supporto del lavoro da svolgere per l'\ |LINK6|\ .
+\ |LINK8|\  - repository delle ontologie e dei vocabolari controllati sviluppati nell'ambito delle azioni previste dal piano triennale per l'informatica nella PA, e a supporto del lavoro da svolgere per l'\ |LINK9|\ .
 
 |
 
@@ -88,13 +92,25 @@ Ontologie e vocabolari controllati (AgID)
 
 .. |LINK4| raw:: html
 
-    <a href="https://vocabolario-controllato-servizi-pubblici.readthedocs.io" target="_blank">Vocabolario controllato dei servizi pubblici</a>
+    <a href="https://content-classes.readthedocs.io/it/latest/docs/Eventi%20pubblici%20(CPEV-AP_IT).html" target="_blank">Link</a>
 
 .. |LINK5| raw:: html
 
-    <a href="https://github.com/italia/daf-ontologie-vocabolari-controllati" target="_blank">https://github.com/italia/daf-ontologie-vocabolari-controllati</a>
+    <a href="https://vocabolario-controllato-servizi-pubblici.readthedocs.io" target="_blank">Vocabolario controllato dei servizi pubblici</a>
 
 .. |LINK6| raw:: html
+
+    <a href="https://vocabolario-controllato-servizi-pubblici.readthedocs.io" target="_blank">Link</a>
+
+.. |LINK7| raw:: html
+
+    <a href="https://joinup.ec.europa.eu/solution/core-public-service-vocabulary-application-profile/releases" target="_blank">Core Public Service Vocabulary Application Profile 2.2</a>
+
+.. |LINK8| raw:: html
+
+    <a href="https://github.com/italia/daf-ontologie-vocabolari-controllati" target="_blank">https://github.com/italia/daf-ontologie-vocabolari-controllati</a>
+
+.. |LINK9| raw:: html
 
     <a href="http://elenco-basi-di-dati-chiave.readthedocs.io/it/latest/" target="_blank">elenco delle basi di dati chiave</a>
 
