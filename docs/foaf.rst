@@ -106,7 +106,7 @@ Da un \ |LINK5|\ .
 
 .. |LINK2| raw:: html
 
-    <a href="https://github.com/cirospat/newproject/blob/master/docs/foaf.rdf" target="_blank">foaf.rdf</a>
+    <a href="https://raw.githubusercontent.com/cirospat/newproject/master/docs/foaf.rdf" target="_blank">foaf.rdf</a>
 
 .. |LINK3| raw:: html
 
