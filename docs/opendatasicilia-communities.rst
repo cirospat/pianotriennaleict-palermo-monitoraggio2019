@@ -7,6 +7,9 @@ OpendataSicilia & communities
 .. raw:: html
    :file: opendatasicilia.html
 
+
+|REPLACE1|
+
 --------
 
 .. _h5c545a492429339c4615585c52303c:
@@ -27,13 +30,16 @@ active citizenship & communities
 --------
 
 
-|REPLACE1|
+|REPLACE2|
 
 
 .. bottom of content
 
 
 .. |REPLACE1| raw:: html
+
+    <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2F1641756146130263%2Fvideos%2F1068409013326637%2F&show_text=0&width=267" width="267" height="676" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
+.. |REPLACE2| raw:: html
 
     <script id="dsq-count-scr" src="//guida-readthedocs.disqus.com/count.js" async></script>
     
