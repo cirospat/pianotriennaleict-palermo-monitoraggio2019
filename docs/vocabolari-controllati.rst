@@ -36,7 +36,7 @@ Definizione di interoperabilità semantica: "\ |STYLE0|\ " (fonte: "\ |LINK1|\ "
 Ontologie e vocabolari controllati (AgID)
 *****************************************
 
-\ |LINK8|\  - repository delle ontologie e dei vocabolari controllati sviluppati nell'ambito delle azioni previste dal piano triennale per l'informatica nella PA, e a supporto del lavoro da svolgere per l'\ |LINK9|\ .
+\ |LINK8|\  sviluppati nell'ambito delle azioni previste dal piano triennale per l'informatica nella PA, e a supporto del lavoro da svolgere per l'\ |LINK9|\ . A cura di Giorgia Lodi.
 
 |
 
@@ -108,7 +108,7 @@ Ontologie e vocabolari controllati (AgID)
 
 .. |LINK8| raw:: html
 
-    <a href="https://github.com/italia/daf-ontologie-vocabolari-controllati" target="_blank">https://github.com/italia/daf-ontologie-vocabolari-controllati</a>
+    <a href="https://github.com/italia/daf-ontologie-vocabolari-controllati" target="_blank">Repository delle ontologie e dei vocabolari controllati</a>
 
 .. |LINK9| raw:: html
 
