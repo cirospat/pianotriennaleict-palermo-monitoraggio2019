@@ -12,6 +12,8 @@ OpendataSicilia & communities
 
 |REPLACE1|
 
+\ |LINK1|\  su open data il 27 ottobre 2018 in occasione del Linux Day ai Cantieri Culturali della Zisa a Palermo.
+
 --------
 
 .. _h5c545a492429339c4615585c52303c:
@@ -19,15 +21,15 @@ OpendataSicilia & communities
 active citizenship & communities
 ================================
 
-\ |LINK1|\  [articoli sui dati aperti e pubblica amministrazione digitale]
+\ |LINK2|\  [articoli sui dati aperti e pubblica amministrazione digitale]
 
-\ |LINK2|\  [articoli pubblicati sulla community dell'innovazione della pubblica amministrazione]
+\ |LINK3|\  [articoli pubblicati sulla community dell'innovazione della pubblica amministrazione]
 
-\ |LINK3|\  [repository pubblico di dataset in formato aperto]
+\ |LINK4|\  [repository pubblico di dataset in formato aperto]
 
-\ |LINK4|\  [interazioni nel forum del Team Digitale per confronti sui servizi digitali della pubblica amministrazione]
+\ |LINK5|\  [interazioni nel forum del Team Digitale per confronti sui servizi digitali della pubblica amministrazione]
 
-\ |LINK5|\  [articoli sui dati aperti e riuso dei dati]
+\ |LINK6|\  [articoli sui dati aperti e riuso dei dati]
 
 --------
 
@@ -69,21 +71,25 @@ active citizenship & communities
 
 .. |LINK1| raw:: html
 
-    <a href="https://medium.com/@cirospat/latest" target="_blank">medium</a>
+    <a href="http://bit.ly/opendata-linuxday2018" target="_blank">Presentazione</a>
 
 .. |LINK2| raw:: html
 
-    <a href="http://www.innovatoripa.it/blogs/cirospataro" target="_blank">innovatoripa</a>
+    <a href="https://medium.com/@cirospat/latest" target="_blank">medium</a>
 
 .. |LINK3| raw:: html
 
-    <a href="https://data.world/cirospat" target="_blank">data.world</a>
+    <a href="http://www.innovatoripa.it/blogs/cirospataro" target="_blank">innovatoripa</a>
 
 .. |LINK4| raw:: html
 
-    <a href="https://forum.italia.it/u/cirospat/activity" target="_blank">servizi pubblici digitali</a>
+    <a href="https://data.world/cirospat" target="_blank">data.world</a>
 
 .. |LINK5| raw:: html
+
+    <a href="https://forum.italia.it/u/cirospat/activity" target="_blank">servizi pubblici digitali</a>
+
+.. |LINK6| raw:: html
 
     <a href="http://opendatasicilia.it/author/cirospat/" target="_blank">opendatasicilia</a>
 
