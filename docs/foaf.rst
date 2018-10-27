@@ -8,6 +8,8 @@ FOAF
 
 È un modo per descrivere te stesso -- il tuo nome, l'indirizzo di posta elettronica, ed i tuoi amici -- usando ``XML``  e ``RDF``. Ciò consente ad un software di elaborare queste descrizioni, magari all'interno di un motore di ricerca automatico, allo scopo di trovare informazioni su di te e sulle comunità delle quali fai parte. FOAF può portare a nuove interessanti possibilità di sviluppo per le comunità online.
 
+Copia semplicemente la descrizione FOAF che hai generato e incollala in un file. Pubblica questo file sul tuo sito web: è una buona idea chiamare questo file "foaf.rdf", in modo da permettere l'uso di una ricerca con Google per trovare file FOAF sul web.
+
 [\ |LINK2|\ ]  [\ |LINK3|\ ]
 
 
