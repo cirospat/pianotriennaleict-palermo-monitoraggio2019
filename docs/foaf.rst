@@ -71,5 +71,5 @@ Da un \ |LINK4|\ .
 
 .. |LINK4| raw:: html
 
-    <a href="https://twitter.com/gpirrotta/status/1055845619019980801" target="_blank">input di Giovanni Pirrotta</a>
+    <a href="https://twitter.com/gpirrotta/status/1055845619019980801" target="_blank">input didattico di Giovanni Pirrotta</a>
 
