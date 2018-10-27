@@ -53,8 +53,16 @@ Copia semplicemente la descrizione FOAF che hai generato e incollala in un file.
     </rdf:RDF>
 
 
+|REPLACE1|
+
+
 .. bottom of content
 
+
+.. |REPLACE1| raw:: html
+
+    <iframe width="100%" height="600px" frameBorder="0" src="https://twitter.com/gpirrotta/status/1055845619019980801"></iframe></br>
+    da un input di Giovanni Pirrotta
 
 .. |LINK1| raw:: html
 
