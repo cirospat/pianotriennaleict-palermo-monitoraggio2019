@@ -49,7 +49,15 @@ Copia semplicemente la descrizione FOAF che hai generato e incollala in un file.
     <foaf:knows>
     <foaf:Person>
     <foaf:name>Davide</foaf:name>
-    <foaf:mbox_sha1sum>e1607678ab8d0d0b24f3bd42abb9278ea26cd2fc</foaf:mbox_sha1sum></foaf:Person></foaf:knows></foaf:Person>
+    <foaf:mbox_sha1sum>e1607678ab8d0d0b24f3bd42abb9278ea26cd2fc</foaf:mbox_sha1sum></foaf:Person></foaf:knows>
+    <foaf:knows>
+    <foaf:Person>
+    <foaf:name>Giorgia</foaf:name>
+    <foaf:mbox_sha1sum>17dd6d7cfaff0f1127f1c032c497d0ee853c7b1f</foaf:mbox_sha1sum></foaf:Person></foaf:knows>
+    <foaf:knows>
+    <foaf:Person>
+    <foaf:name>Giovanna Roberta</foaf:name>
+    <foaf:mbox_sha1sum>30aab1a18394b61d9f68eee616c09084337ceea2</foaf:mbox_sha1sum></foaf:Person></foaf:knows></foaf:Person>
     </rdf:RDF>
 
 Da un \ |LINK5|\ . 
