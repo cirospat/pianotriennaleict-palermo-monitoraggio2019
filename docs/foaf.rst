@@ -59,7 +59,7 @@ Da un \ |LINK4|\ .
 
 .. |LINK1| raw:: html
 
-    <a href="http://www.ldodds.com/foaf/foaf-a-matic.it.html" target="_blank">Friend of a friend</a>
+    <a href="http://www.ldodds.com/foaf/foaf-a-matic.it.html" target="_blank">Friend Of A Friend</a>
 
 .. |LINK2| raw:: html
 
