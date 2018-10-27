@@ -52,17 +52,10 @@ Copia semplicemente la descrizione FOAF che hai generato e incollala in un file.
     <foaf:mbox_sha1sum>e1607678ab8d0d0b24f3bd42abb9278ea26cd2fc</foaf:mbox_sha1sum></foaf:Person></foaf:knows></foaf:Person>
     </rdf:RDF>
 
-
-|REPLACE1|
-
+Da un \ |LINK4|\ . 
 
 .. bottom of content
 
-
-.. |REPLACE1| raw:: html
-
-    <iframe width="100%" height="600px" frameBorder="0" src="https://twitter.com/gpirrotta/status/1055845619019980801"></iframe></br>
-    da un input di Giovanni Pirrotta
 
 .. |LINK1| raw:: html
 
@@ -75,4 +68,8 @@ Copia semplicemente la descrizione FOAF che hai generato e incollala in un file.
 .. |LINK3| raw:: html
 
     <a href="https://www.w3.org/RDF/" target="_blank">RDF</a>
+
+.. |LINK4| raw:: html
+
+    <a href="https://twitter.com/gpirrotta/status/1055845619019980801" target="_blank">input di Giovanni Pirrotta</a>
 
