@@ -43,6 +43,10 @@ Ontologie e vocabolari controllati (AgID)
 
 |
 
+--------
+
+Immagine in alto: \ |LINK10|\ . Licenza Public Domain
+
 
 |REPLACE2|
 
@@ -57,7 +61,7 @@ Ontologie e vocabolari controllati (AgID)
 
 .. |REPLACE1| raw:: html
 
-    <img src="https://images.metmuseum.org/CRDImages/as/original/DP142161.jpg" width="300" /> 
+    <img src="https://images.metmuseum.org/CRDImages/as/original/DP142161.jpg" width="400" /> 
 .. |REPLACE2| raw:: html
 
     <script id="dsq-count-scr" src="//guida-readthedocs.disqus.com/count.js" async></script>
@@ -119,4 +123,8 @@ Ontologie e vocabolari controllati (AgID)
 .. |LINK9| raw:: html
 
     <a href="http://elenco-basi-di-dati-chiave.readthedocs.io/it/latest/" target="_blank">elenco delle basi di dati chiave</a>
+
+.. |LINK10| raw:: html
+
+    <a href="https://www.metmuseum.org/art/collection/search/55465" target="_blank">魯西亜 Russians Reading and Writing, Utagawa Yoshikazu</a>
 
