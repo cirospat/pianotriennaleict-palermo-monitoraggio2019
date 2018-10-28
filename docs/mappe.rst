@@ -43,7 +43,7 @@ Immagine in alto: \ |LINK4|\ . Pubblicata dal Metropolitan Museum of Arts con li
     <img src="https://collectionapi.metmuseum.org/api/collection/v1/iiif/414808/775836/main-image" width="400" />
 .. |REPLACE2| raw:: html
 
-    <iframe height="2000px" src="https://cirospat.github.io/maps"></iframe>
+    <iframe width="100%" height="2000px" src="https://cirospat.github.io/maps"></iframe>
 .. |REPLACE3| raw:: html
 
     <script id="dsq-count-scr" src="//guida-readthedocs.disqus.com/count.js" async></script>
