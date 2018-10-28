@@ -4,6 +4,9 @@
 Ontologia FOAF ``RDF``
 ######################
 
+
+|REPLACE1|
+
 \ |LINK1|\ 
 
 È un modo per descrivere te stesso -- il tuo nome, l'indirizzo di posta elettronica, ed i tuoi amici -- usando ``XML``  e ``RDF``. Ciò consente ad un software di elaborare queste descrizioni, magari all'interno di un motore di ricerca automatico, allo scopo di trovare informazioni su di te e sulle comunità delle quali fai parte. FOAF può portare a nuove interessanti possibilità di sviluppo per le comunità online.
@@ -62,10 +65,14 @@ Copia semplicemente la descrizione FOAF che hai generato e incollala in un file.
 
 Da un \ |LINK5|\ . 
 
-|REPLACE1|
-
-
 |REPLACE2|
+
+--------
+
+Immagine in alto: \ |LINK6|\ . Pubblicato dal Metmuseum con Licenza Public Domain.
+
+
+|REPLACE3|
 
 
 .. bottom of content
@@ -73,8 +80,11 @@ Da un \ |LINK5|\ .
 
 .. |REPLACE1| raw:: html
 
-    <img src="https://raw.githubusercontent.com/cirospat/newproject/master/docs/static/foaf.PNG" />
+    <img src="https://collectionapi.metmuseum.org/api/collection/v1/iiif/392571/769337/main-image" width="400" />
 .. |REPLACE2| raw:: html
+
+    <img src="https://raw.githubusercontent.com/cirospat/newproject/master/docs/static/foaf.PNG" />
+.. |REPLACE3| raw:: html
 
     <script id="dsq-count-scr" src="//guida-readthedocs.disqus.com/count.js" async></script>
     
@@ -119,4 +129,8 @@ Da un \ |LINK5|\ .
 .. |LINK5| raw:: html
 
     <a href="https://twitter.com/gpirrotta/status/1055845619019980801" target="_blank">input didattico di Giovanni Pirrotta</a>
+
+.. |LINK6| raw:: html
+
+    <a href="https://www.metmuseum.org/art/collection/search/392571" target="_blank">John Bull and His Friends Commemorating the Peace</a>
 
