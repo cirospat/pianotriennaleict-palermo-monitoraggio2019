@@ -4,6 +4,9 @@
 Vocabolari controllati per l'interoperabilità semantica
 #######################################################
 
+
+|REPLACE1|
+
 Definizione di interoperabilità semantica: "\ |STYLE0|\ " (fonte: "\ |LINK1|\ " AgID).
 
 
@@ -41,7 +44,7 @@ Ontologie e vocabolari controllati (AgID)
 |
 
 
-|REPLACE1|
+|REPLACE2|
 
 
 .. bottom of content
@@ -53,6 +56,9 @@ Ontologie e vocabolari controllati (AgID)
 
 
 .. |REPLACE1| raw:: html
+
+    <img src="https://images.metmuseum.org/CRDImages/as/original/DP142161.jpg" width="300" /> 
+.. |REPLACE2| raw:: html
 
     <script id="dsq-count-scr" src="//guida-readthedocs.disqus.com/count.js" async></script>
     
