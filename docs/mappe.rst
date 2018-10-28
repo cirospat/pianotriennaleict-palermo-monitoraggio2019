@@ -27,6 +27,10 @@ Petrusino, catalogo mappe curato dalla community di \ |LINK2|\
 
 --------
 
+Immagine in alto: \ |LINK4|\ . Pubblicata dal Metropolitan Museum of Arts con licenza Public Domain.
+
+--------
+
 
 |REPLACE3|
 
@@ -77,6 +81,10 @@ Petrusino, catalogo mappe curato dalla community di \ |LINK2|\
 .. |LINK3| raw:: html
 
     <a href="http://petrusino.opendatasicilia.it/" target="_blank">Catalogo mappe di Petrusino</a>
+
+.. |LINK4| raw:: html
+
+    <a href="https://www.metmuseum.org/art/collection/search/414808" target="_blank">Plan of the City of Rome. Part 6 with the Aurelian city wall, the Porta Portuensis (Ostiensis?) and the Sepulcre of Caius Cestius</a>
 
 
 .. |IMG1| image:: static/mappe_1.png
