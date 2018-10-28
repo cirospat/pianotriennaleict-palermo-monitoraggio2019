@@ -80,7 +80,7 @@ Immagine in alto: \ |LINK6|\ . Pubblicato dal Metmuseum con Licenza Public Domai
 
 .. |REPLACE1| raw:: html
 
-    <img src="https://collectionapi.metmuseum.org/api/collection/v1/iiif/392571/769337/main-image" width="400" />
+    <img src="https://collectionapi.metmuseum.org/api/collection/v1/iiif/392571/769337/main-image" width="500" />
 .. |REPLACE2| raw:: html
 
     <img src="https://raw.githubusercontent.com/cirospat/newproject/master/docs/static/foaf.PNG" />
