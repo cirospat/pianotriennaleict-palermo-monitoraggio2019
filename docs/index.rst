@@ -4,12 +4,17 @@
 Ciro Spataro pro-file
 *********************
 
-\ |IMG1|\  ``cultura della documentazione`` 
+\ |IMG1|\  
+
+
+|REPLACE1|
+
+``cultura della documentazione`` 
 
 In questo spazio descrivo le principali \ |STYLE0|\  in cui sono impegnato per ``lavoro`` e per ``passione civica``. Lo faccio per condividere conoscenza, credo che ci aiuta, tutti, a migliorare l'ambiente in cui operiamo. Descrivo tutte le attività lavorative in cui sono coinvolto tenendo traccia delle diverse iniziative avviate e dei risultati raggiunti.
 
 
-|REPLACE1|
+|REPLACE2|
 
 * \ |LINK1|\ ;
 
@@ -18,10 +23,10 @@ In questo spazio descrivo le principali \ |STYLE0|\  in cui sono impegnato per `
 * \ |LINK3|\ .
 
 
-|REPLACE2|
-
-
 |REPLACE3|
+
+
+|REPLACE4|
 
 * i ``dati`` che resi ``pubblici`` valorizzano il patrimonio informativo della Pubblica Amministrazione, e ne consentono un riuso creativo anche a fini economici;
 
@@ -45,7 +50,7 @@ Le iniziative di carattere \ |STYLE1|\ , vissute in spirito collaborativo insiem
 |
 
 
-|REPLACE4|
+|REPLACE5|
 
 .. toctree::
   :maxdepth: 2
@@ -97,7 +102,7 @@ Le iniziative di carattere \ |STYLE1|\ , vissute in spirito collaborativo insiem
     privacy
 
 
-|REPLACE5|
+|REPLACE6|
 
 --------
 
@@ -116,19 +121,22 @@ Le iniziative di carattere \ |STYLE1|\ , vissute in spirito collaborativo insiem
 
 .. |REPLACE1| raw:: html
 
-    <strong><span style="background-color: #247a2e; color: #ffffff; display: inline-block; padding: 3px 8px; border-radius: 10px;">Reti di impegno</span></strong>
+    <img src="https://lh3.googleusercontent.com/MyRa6H8BVyl7Z0SQQbbcQVINA2QmiIvlAsLGBFUWfX6FOIwJCNs65Mf7f3IE2CPTv6avoEN9pK1er-oENVIZxtgHTQm3ysTvty6Wt-V3LO4bS0zGDOVgE5nUTsVYwh_GH_VoMERYFQBoDxd9l54wZdcWxjm_PqnCtHeIWCF5aldEwEQe8CskrjzfSInJ_E4dksPuLzlTEDvo1pyoa4-Eq5xeJf9nqn-2l47LPJwuLgW6mfYhIq_Hbu_M2Le1aW4CMV4_NtJ643njkHw3xHAPQOOxk7mAMEl-eLJg39L9GrFly1elOdmMzbkhEyVFLOzB_4FJR28LSIv9U2qDAxyQymeDhMItxZB4p7tDI0G4G7aXp4CFwVa5gvf2lQ71_9bQFeFVV74IvRGMkLZt7QS1O_IRip0Fu3ejgWHAFt11-tLEFnpb6DMespmtg8ssOOkE95vpAfl3prgq1m9p5HQ8HtbknaTOvTxkwZzYpd10FyPPivkEIocx5H8-pIQafRMooqorFVtyTKxnGWURsTiSpfoGUM4vE2jkfohxyvaRekPyeyBbVteGW_7-_o_xZTq-YvxeIynm_phwdva0qzTHTBf6L4yhfmnfcK2Ju9rJ2-lwuObxWsrQotPnPIj9I2tuh_47J-rSOk1_AbGl9FaU2oMBWIfhR1QULkNQwP1gUKB70PXm0v4gnWNY_qkfPc4zzJK3GRKQhWpwjUjUgw=w800-h566-no" width="150" /> <img src="https://images.metmuseum.org/CRDImages/as/original/DP142161.jpg" width="150" />
 .. |REPLACE2| raw:: html
+
+    <strong><span style="background-color: #247a2e; color: #ffffff; display: inline-block; padding: 3px 8px; border-radius: 10px;">Reti di impegno</span></strong>
+.. |REPLACE3| raw:: html
 
     <img src="https://user-images.githubusercontent.com/30607/46467008-06234d00-c7cd-11e8-93dd-04ef42e5c23d.png" /><br>
     <a href="http://ods2018.opendatasicilia.it">ods2018.opendatasicilia.it</a>
-.. |REPLACE3| raw:: html
+.. |REPLACE4| raw:: html
 
     <strong><span style="background-color: #247a2e; color: #ffffff; display: inline-block; padding: 3px 8px; border-radius: 10px;">Ambiti principali di questo spazio</span></strong>
     
-.. |REPLACE4| raw:: html
+.. |REPLACE5| raw:: html
 
     <h3><strong><span style="color: #ffffff;"><span style="background-color: #247a2e; display: inline-block; padding: 3px 8px; border-radius: 10px;">Indice dei contenuti</span></span></strong></h3>
-.. |REPLACE5| raw:: html
+.. |REPLACE6| raw:: html
 
     <script id="dsq-count-scr" src="//guida-readthedocs.disqus.com/count.js" async></script>
     
