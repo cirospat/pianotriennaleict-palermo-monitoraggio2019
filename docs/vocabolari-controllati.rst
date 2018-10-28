@@ -36,7 +36,7 @@ Definizione di interoperabilità semantica: "\ |STYLE0|\ " (fonte: "\ |LINK1|\ "
 Ontologie e vocabolari controllati (AgID)
 *****************************************
 
-\ |LINK8|\  sviluppati nell'ambito delle azioni previste dal piano triennale per l'informatica nella PA, e a supporto del lavoro da svolgere per l'\ |LINK9|\ . A cura di Giorgia Lodi.
+\ |LINK8|\  sviluppati nell'ambito delle azioni previste dal piano triennale per l'informatica nella PA, e a supporto del lavoro da svolgere per l_\ |LINK9|\ . A cura di Giorgia Lodi.
 
 |
 
