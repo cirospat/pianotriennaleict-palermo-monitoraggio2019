@@ -4,6 +4,9 @@
 Mappe
 *****
 
+
+|REPLACE1|
+
 .. _h731718451137537a2d1f10425f4ef8:
 
 Catalogo mappe elaborate da Ciro Spataro
@@ -11,7 +14,7 @@ Catalogo mappe elaborate da Ciro Spataro
 
 \ |LINK1|\ 
 
-|REPLACE1|
+|REPLACE2|
 
 |
 
@@ -25,7 +28,7 @@ Petrusino, catalogo mappe curato dalla community di \ |LINK2|\
 --------
 
 
-|REPLACE2|
+|REPLACE3|
 
 
 .. bottom of content
@@ -33,8 +36,11 @@ Petrusino, catalogo mappe curato dalla community di \ |LINK2|\
 
 .. |REPLACE1| raw:: html
 
-    <iframe width="100%" height="2000px" frameBorder="0" src="https://cirospat.github.io/maps/?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false"></iframe>
+    <img src="https://collectionapi.metmuseum.org/api/collection/v1/iiif/414808/775836/main-image" width="400" />
 .. |REPLACE2| raw:: html
+
+    <iframe width="100%" height="2000px" frameBorder="0" src="https://cirospat.github.io/maps/?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false"></iframe>
+.. |REPLACE3| raw:: html
 
     <script id="dsq-count-scr" src="//guida-readthedocs.disqus.com/count.js" async></script>
     
