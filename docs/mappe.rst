@@ -7,6 +7,9 @@ Mappe
 
 |REPLACE1|
 
+
+|REPLACE2|
+
 .. _h731718451137537a2d1f10425f4ef8:
 
 Catalogo mappe elaborate da Ciro Spataro
@@ -14,7 +17,7 @@ Catalogo mappe elaborate da Ciro Spataro
 
 \ |LINK1|\ 
 
-|REPLACE2|
+|REPLACE3|
 
 |
 
@@ -32,7 +35,7 @@ Immagine in alto: \ |LINK4|\ . Pubblicata dal Metropolitan Museum of Arts con li
 --------
 
 
-|REPLACE3|
+|REPLACE4|
 
 
 .. bottom of content
@@ -43,8 +46,22 @@ Immagine in alto: \ |LINK4|\ . Pubblicata dal Metropolitan Museum of Arts con li
     <img src="https://collectionapi.metmuseum.org/api/collection/v1/iiif/414808/775836/main-image" width="400" />
 .. |REPLACE2| raw:: html
 
-    <iframe width="100%" height="2000px" frameBorder="0" src="https://cirospat.github.io/maps"></iframe>
+    <table width="144" height="135" style="height: 135px; float: left;">
+    <tbody>
+    <tr>
+    <td style="width: 134px;"><img src="https://collectionapi.metmuseum.org/api/collection/v1/iiif/414808/775836/main-image" alt="" width="299" height="400" /></td>
+    </tr>
+    <tr>
+    <td style="width: 134px;">Immagine:&nbsp;<a href="https://www.metmuseum.org/art/collection/search/414808" target="_blank" rel="noopener">Plan of the City of Rome. Part 6 with the Aurelian city wall, the Porta Portuensis (Ostiensis?) and the Sepulcre of Caius Cestius</a>. Pubblicata dal Metropolitan Museum of Arts con licenza Public Domain.</td>
+    </tr>
+    </tbody>
+    </table>
+    <p></p>
+    <p></p>
 .. |REPLACE3| raw:: html
+
+    <iframe width="100%" height="2000px" frameBorder="0" src="https://cirospat.github.io/maps"></iframe>
+.. |REPLACE4| raw:: html
 
     <script id="dsq-count-scr" src="//guida-readthedocs.disqus.com/count.js" async></script>
     
