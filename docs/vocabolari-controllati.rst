@@ -45,7 +45,9 @@ Ontologie e vocabolari controllati (AgID)
 
 --------
 
-Immagine in alto: \ |LINK10|\ . Licenza Public Domain
+Immagine in alto: \ |LINK10|\ . Pubblicato dal Metmuseum con Licenza Public Domain.
+
+--------
 
 
 |REPLACE2|
