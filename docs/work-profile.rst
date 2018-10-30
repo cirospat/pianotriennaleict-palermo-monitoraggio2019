@@ -67,7 +67,7 @@ works
 
 \ |LINK23|\  ``cc by nc sa``
 
-\ |LINK24|\   (2018) ``cc by nc sa``
+\ |LINK24|\   (2018) ``cc by sa``
 
 --------
 
