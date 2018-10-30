@@ -67,6 +67,8 @@ works
 
 \ |LINK23|\  ``cc by nc sa``
 
+\ |LINK24|\   ``cc by nc sa``
+
 --------
 
 .. _h672e36365a5a6e3835651d314b6e1367:
@@ -74,15 +76,15 @@ works
 ue projects 
 ============
 
-\ |LINK24|\ 
-
 \ |LINK25|\ 
 
-\ |LINK26|\  
+\ |LINK26|\ 
 
 \ |LINK27|\  
 
-\ |LINK28|\ 
+\ |LINK28|\  
+
+\ |LINK29|\ 
 
 --------
 
@@ -91,7 +93,7 @@ ue projects
 tools for project management   
 ===============================
 
-\ |LINK29|\  (access required)
+\ |LINK30|\  (access required)
 
 --------
 
@@ -228,25 +230,29 @@ tools for project management
 
 .. |LINK24| raw:: html
 
-    <a href="http://poieinkaiprattein.org/cied/" target="_blank">cied</a>
+    <a href="https://palermo-sostenibile.readthedocs.io" target="_blank">Palermo sostenibile</a>
 
 .. |LINK25| raw:: html
 
-    <a href="http://ec.europa.eu/environment/life/project/Projects/index.cfm?fuseaction=search.dspPage&n_proj_id=778&docType=pdf" target="_blank">euro-emas</a>
+    <a href="http://poieinkaiprattein.org/cied/" target="_blank">cied</a>
 
 .. |LINK26| raw:: html
 
-    <a href="http://slideplayer.com/slide/4835066/" target="_blank">etiv</a>
+    <a href="http://ec.europa.eu/environment/life/project/Projects/index.cfm?fuseaction=search.dspPage&n_proj_id=778&docType=pdf" target="_blank">euro-emas</a>
 
 .. |LINK27| raw:: html
 
-    <a href="http://bit.ly/medclima" target="_blank">medclima</a>
+    <a href="http://slideplayer.com/slide/4835066/" target="_blank">etiv</a>
 
 .. |LINK28| raw:: html
 
-    <a href="http://www.eurocities.eu/eurocities/projects/URBAN-MATRIX-Targeted-Knowledge-Exchange-on-Urban-Sustainability&tpl=home" target="_blank">urban-matrix</a>
+    <a href="http://bit.ly/medclima" target="_blank">medclima</a>
 
 .. |LINK29| raw:: html
+
+    <a href="http://www.eurocities.eu/eurocities/projects/URBAN-MATRIX-Targeted-Knowledge-Exchange-on-Urban-Sustainability&tpl=home" target="_blank">urban-matrix</a>
+
+.. |LINK30| raw:: html
 
     <a href="https://sites.google.com/site/cirospatprojectmanagement/" target="_blank">project management</a>
 
