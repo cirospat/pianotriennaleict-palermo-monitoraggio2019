@@ -124,7 +124,7 @@ Immagine in alto: \ |LINK12|\ . Pubblicato dal Metmuseum con Licenza Public Doma
 
 .. |LINK8| raw:: html
 
-    <a href="https://github.com/italia/daf-ontologie-vocabolari-controllati" target="_blank">Repository delle ontologie e dei vocabolari controllati</a>
+    <a href="https://github.com/italia/daf-ontologie-vocabolari-controllati" target="_blank">Repository GitHub delle ontologie e dei vocabolari controllati</a>
 
 .. |LINK9| raw:: html
 
