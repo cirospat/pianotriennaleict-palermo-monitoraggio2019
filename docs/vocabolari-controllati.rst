@@ -41,11 +41,15 @@ Ontologie e vocabolari controllati (AgID)
 
 \ |LINK8|\  sviluppati nell'ambito delle azioni previste dal piano triennale per l'informatica nella PA, e a supporto del lavoro da svolgere per l_\ |LINK9|\ . A cura di Giorgia Lodi.
 
+\ |LINK10|\ .
+
+\ |LINK11|\ .
+
 |
 
 --------
 
-Immagine in alto: \ |LINK10|\ . Pubblicato dal Metmuseum con Licenza Public Domain.
+Immagine in alto: \ |LINK12|\ . Pubblicato dal Metmuseum con Licenza Public Domain.
 
 --------
 
@@ -127,6 +131,14 @@ Immagine in alto: \ |LINK10|\ . Pubblicato dal Metmuseum con Licenza Public Doma
     <a href="http://elenco-basi-di-dati-chiave.readthedocs.io/it/latest/" target="_blank">elenco delle basi di dati chiave</a>
 
 .. |LINK10| raw:: html
+
+    <a href="https://dataportal.daf.teamdigitale.it/dataset/search#/ontologies" target="_blank">Ontologie dal Data & Analytics Framework Italia</a>
+
+.. |LINK11| raw:: html
+
+    <a href="https://dataportal.daf.teamdigitale.it/dataset/search#/vocabularies" target="_blank">Vocabolari controllati dal Data & Analytics Framework Italia</a>
+
+.. |LINK12| raw:: html
 
     <a href="https://www.metmuseum.org/art/collection/search/55465" target="_blank">魯西亜 Russians Reading and Writing, Utagawa Yoshikazu</a>
 
