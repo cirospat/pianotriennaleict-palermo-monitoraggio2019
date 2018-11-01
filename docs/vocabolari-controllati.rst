@@ -47,11 +47,13 @@ Ontologie e vocabolari controllati
 
 \ |LINK12|\ . ISTAT.
 
+\ |LINK13|\  (quali ad esempio \ |LINK14|\ , con lo scopo di modellare i dati che caratterizzano gli istituti e i luoghi della cultura). MIBACT
+
 |
 
 --------
 
-Immagine in alto: \ |LINK13|\ . Pubblicato dal Metmuseum con Licenza Public Domain.
+Immagine in alto: \ |LINK15|\ . Pubblicato dal Metmuseum con Licenza Public Domain.
 
 --------
 
@@ -145,6 +147,14 @@ Immagine in alto: \ |LINK13|\ . Pubblicato dal Metmuseum con Licenza Public Doma
     <a href="http://datiopen.istat.it/ontologie.php" target="_blank">Ontologie dei Musei, del Territorio e delle Variabili Censuarie</a>
 
 .. |LINK13| raw:: html
+
+    <a href="http://dati.beniculturali.it/le-ontologie/" target="_blank">Ontologie del Ministero dei Beni Culturali</a>
+
+.. |LINK14| raw:: html
+
+    <a href="http://dati.beniculturali.it/cultural_on/" target="_blank">Cultural ONtology</a>
+
+.. |LINK15| raw:: html
 
     <a href="https://www.metmuseum.org/art/collection/search/55465" target="_blank">魯西亜 Russians Reading and Writing, Utagawa Yoshikazu</a>
 
