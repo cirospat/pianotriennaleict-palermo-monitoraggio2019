@@ -21,7 +21,7 @@ Definizione di interoperabilità semantica: "\ |STYLE0|\ " (fonte: "\ |LINK1|\ "
 Vocabolario controllato degli eventi pubblici
 *********************************************
 
-\ |LINK3|\  alla risorsa creata da Opencontent. Vocabolario allineato a \ |LINK4|\  del MInistero Beni Culturali.
+\ |LINK3|\  alla risorsa creata da Opencontent. Vocabolario allineato a \ |LINK4|\  del Ministero dei Beni Culturali.
 
 |
 
@@ -71,7 +71,7 @@ Immagine in alto: \ |LINK14|\ . Pubblicato dal Metmuseum con Licenza Public Doma
 
 .. |REPLACE1| raw:: html
 
-    <img src="https://images.metmuseum.org/CRDImages/as/original/DP142161.jpg" width="400" /> 
+    <img src="https://images.metmuseum.org/CRDImages/as/original/DP142161.jpg" width="350" /> 
 .. |REPLACE2| raw:: html
 
     <script id="dsq-count-scr" src="//guida-readthedocs.disqus.com/count.js" async></script>
