@@ -34,22 +34,24 @@ Definizione di interoperabilità semantica: "\ |STYLE0|\ " (fonte: "\ |LINK1|\ "
 
 |
 
-.. _h313f2a32b377435164634c3a394f3b:
+.. _h445a47311f603362366746401a5f161:
 
-Ontologie e vocabolari controllati (AgID)
-*****************************************
+Ontologie e vocabolari controllati 
+***********************************
 
-\ |LINK8|\  sviluppati nell'ambito delle azioni previste dal piano triennale per l'informatica nella PA, e a supporto del lavoro da svolgere per l_\ |LINK9|\ . A cura di Giorgia Lodi.
+\ |LINK8|\  sviluppati nell'ambito delle azioni previste dal piano triennale per l'informatica nella PA, e a supporto del lavoro da svolgere per l_\ |LINK9|\ . A cura di Giorgia Lodi, AGID.
 
-\ |LINK10|\ .
+\ |LINK10|\ . AGID.
 
-\ |LINK11|\ .
+\ |LINK11|\ . AGID.
+
+\ |LINK12|\ . ISTAT.
 
 |
 
 --------
 
-Immagine in alto: \ |LINK12|\ . Pubblicato dal Metmuseum con Licenza Public Domain.
+Immagine in alto: \ |LINK13|\ . Pubblicato dal Metmuseum con Licenza Public Domain.
 
 --------
 
@@ -139,6 +141,10 @@ Immagine in alto: \ |LINK12|\ . Pubblicato dal Metmuseum con Licenza Public Doma
     <a href="https://dataportal.daf.teamdigitale.it/dataset/search#/vocabularies" target="_blank">Vocabolari controllati dal Data & Analytics Framework Italia</a>
 
 .. |LINK12| raw:: html
+
+    <a href="http://datiopen.istat.it/ontologie.php" target="_blank">Ontologie dei Musei, del Territorio e delle Variabili Censuarie</a>
+
+.. |LINK13| raw:: html
 
     <a href="https://www.metmuseum.org/art/collection/search/55465" target="_blank">魯西亜 Russians Reading and Writing, Utagawa Yoshikazu</a>
 
