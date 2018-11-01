@@ -16,21 +16,21 @@ Definizione di interoperabilità semantica: "\ |STYLE0|\ " (fonte: "\ |LINK1|\ "
 
 --------
 
-.. _h5e6d61421a7146385259747a2661225:
+.. _h4b1f3928483538562e3d777d6c60246a:
 
-\ |LINK3|\ 
-***********
+Vocabolario controllato degli eventi pubblici
+*********************************************
 
-\ |LINK4|\  alla risorsa creata da Opencontent. Vocabolario allineato a \ |LINK5|\  del MInistero Beni Culturali.
+\ |LINK3|\  alla risorsa creata da Opencontent. Vocabolario allineato a \ |LINK4|\  del MInistero Beni Culturali.
 
 |
 
-.. _h20326962629564010537e76d3c6e77:
+.. _h027321e5a457d68c6158443c34762:
 
-\ |LINK6|\ 
-***********
+Vocabolario controllato dei servizi pubblici
+********************************************
 
-\ |LINK7|\  alla risorsa, traduzione in italiano (attualmente in fase di implementazione) del documento denominato \ |LINK8|\ .
+\ |LINK5|\  alla risorsa, traduzione in italiano (attualmente in fase di implementazione) del documento denominato \ |LINK6|\ .
 
 |
 
@@ -39,21 +39,21 @@ Definizione di interoperabilità semantica: "\ |STYLE0|\ " (fonte: "\ |LINK1|\ "
 Ontologie e vocabolari controllati 
 ***********************************
 
-\ |LINK9|\  sviluppati nell'ambito delle azioni previste dal piano triennale per l'informatica nella PA, e a supporto del lavoro da svolgere per l_\ |LINK10|\ . A cura di Giorgia Lodi, AGID.
+\ |LINK7|\  sviluppati nell'ambito delle azioni previste dal piano triennale per l'informatica nella PA, e a supporto del lavoro da svolgere per l_\ |LINK8|\ . A cura di Giorgia Lodi, AGID.
 
-\ |LINK11|\ . AGID.
+\ |LINK9|\ . AGID.
 
-\ |LINK12|\ . AGID.
+\ |LINK10|\ . AGID.
 
-\ |LINK13|\ . ISTAT.
+\ |LINK11|\ . ISTAT.
 
-\ |LINK14|\  (quali ad esempio \ |LINK15|\ , con lo scopo di modellare i dati che caratterizzano gli istituti e i luoghi della cultura). MIBACT
+\ |LINK12|\  (quali ad esempio \ |LINK13|\ , con lo scopo di modellare i dati che caratterizzano gli istituti e i luoghi della cultura). MIBACT
 
 |
 
 --------
 
-Immagine in alto: \ |LINK16|\ . Pubblicato dal Metmuseum con Licenza Public Domain.
+Immagine in alto: \ |LINK14|\ . Pubblicato dal Metmuseum con Licenza Public Domain.
 
 --------
 
@@ -108,57 +108,49 @@ Immagine in alto: \ |LINK16|\ . Pubblicato dal Metmuseum con Licenza Public Doma
 
 .. |LINK3| raw:: html
 
-    <a href="https://content-classes.readthedocs.io/it/latest/docs/Eventi%20pubblici%20(CPEV-AP_IT).html" target="_blank">Vocabolario controllato degli eventi pubblici</a>
+    <a href="https://content-classes.readthedocs.io/it/latest/docs/Eventi%20pubblici%20(CPEV-AP_IT).html" target="_blank">Link</a>
 
 .. |LINK4| raw:: html
 
-    <a href="https://content-classes.readthedocs.io/it/latest/docs/Eventi%20pubblici%20(CPEV-AP_IT).html" target="_blank">Link</a>
+    <a href="http://dati.beniculturali.it/cultural_on/" target="_blank">Cultural ONtology</a>
 
 .. |LINK5| raw:: html
 
-    <a href="http://dati.beniculturali.it/cultural_on/" target="_blank">Cultural ONtology</a>
+    <a href="https://vocabolario-controllato-servizi-pubblici.readthedocs.io" target="_blank">Link</a>
 
 .. |LINK6| raw:: html
 
-    <a href="https://vocabolario-controllato-servizi-pubblici.readthedocs.io" target="_blank">Vocabolario controllato dei servizi pubblici</a>
+    <a href="https://joinup.ec.europa.eu/solution/core-public-service-vocabulary-application-profile/releases" target="_blank">Core Public Service Vocabulary Application Profile 2.2</a>
 
 .. |LINK7| raw:: html
 
-    <a href="https://vocabolario-controllato-servizi-pubblici.readthedocs.io" target="_blank">Link</a>
+    <a href="https://github.com/italia/daf-ontologie-vocabolari-controllati" target="_blank">Repository GitHub delle ontologie e dei vocabolari controllati</a>
 
 .. |LINK8| raw:: html
 
-    <a href="https://joinup.ec.europa.eu/solution/core-public-service-vocabulary-application-profile/releases" target="_blank">Core Public Service Vocabulary Application Profile 2.2</a>
+    <a href="http://elenco-basi-di-dati-chiave.readthedocs.io/it/latest/" target="_blank">elenco delle basi di dati chiave</a>
 
 .. |LINK9| raw:: html
 
-    <a href="https://github.com/italia/daf-ontologie-vocabolari-controllati" target="_blank">Repository GitHub delle ontologie e dei vocabolari controllati</a>
+    <a href="https://dataportal.daf.teamdigitale.it/dataset/search#/ontologies" target="_blank">Ontologie dal Data & Analytics Framework Italia</a>
 
 .. |LINK10| raw:: html
 
-    <a href="http://elenco-basi-di-dati-chiave.readthedocs.io/it/latest/" target="_blank">elenco delle basi di dati chiave</a>
+    <a href="https://dataportal.daf.teamdigitale.it/dataset/search#/vocabularies" target="_blank">Vocabolari controllati dal Data & Analytics Framework Italia</a>
 
 .. |LINK11| raw:: html
 
-    <a href="https://dataportal.daf.teamdigitale.it/dataset/search#/ontologies" target="_blank">Ontologie dal Data & Analytics Framework Italia</a>
+    <a href="http://datiopen.istat.it/ontologie.php" target="_blank">Ontologie dei Musei, del Territorio e delle Variabili Censuarie</a>
 
 .. |LINK12| raw:: html
 
-    <a href="https://dataportal.daf.teamdigitale.it/dataset/search#/vocabularies" target="_blank">Vocabolari controllati dal Data & Analytics Framework Italia</a>
+    <a href="http://dati.beniculturali.it/le-ontologie/" target="_blank">Ontologie del Ministero dei Beni Culturali</a>
 
 .. |LINK13| raw:: html
 
-    <a href="http://datiopen.istat.it/ontologie.php" target="_blank">Ontologie dei Musei, del Territorio e delle Variabili Censuarie</a>
-
-.. |LINK14| raw:: html
-
-    <a href="http://dati.beniculturali.it/le-ontologie/" target="_blank">Ontologie del Ministero dei Beni Culturali</a>
-
-.. |LINK15| raw:: html
-
     <a href="http://dati.beniculturali.it/cultural_on/" target="_blank">Cultural ONtology</a>
 
-.. |LINK16| raw:: html
+.. |LINK14| raw:: html
 
     <a href="https://www.metmuseum.org/art/collection/search/55465" target="_blank">魯西亜 Russians Reading and Writing, Utagawa Yoshikazu</a>
 
