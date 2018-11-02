@@ -62,6 +62,9 @@ territorial mini guide
 
 |REPLACE1|
 
+
+|REPLACE2|
+
 --------
 
 ``cc by`` licenza Creative Commons, Attribuzione dell'opera  
@@ -73,6 +76,10 @@ territorial mini guide
 .. |REPLACE1| raw:: html
 
     <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTutfK7O5PJb41zPl-97_-j3pQai64hyRRTosVbd2rl5uZ5DwUJ1klOrMrCJlH4DGf4tFG6yZFV4gVQ/embed?start=false&loop=false&delayms=5000" frameborder="0" width="800" height="554" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+.. |REPLACE2| raw:: html
+
+    <iframe framespacing='0' frameborder='no' scrolling='no' src='https://video.corriere.it/video-embed/5cf628b6-de96-11e8-b2ec-2281f86eb2f8?refresh_ce-cp&playerType=embed' width='540' height='340' allowfullscreen></iframe></br>
+    Quinta sinfonia di Beethoven in grafica, dal CorriereTV
 
 .. |LINK1| raw:: html
 
