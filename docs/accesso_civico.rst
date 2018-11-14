@@ -7,6 +7,8 @@ Accesso Civico
 
 |REPLACE1|
 
+|
+
 .. _h44326131b807d633a6d3c3959256b27:
 
 Foia POP
@@ -25,7 +27,8 @@ Foia POP
     <img src="https://raw.githubusercontent.com/cirospat/newproject/master/docs/static/accesso_civico.jpg" /> grafica a cura di Marina Galluzzo
 .. |REPLACE2| raw:: html
 
-    <img src="http://www.foiapop.it/img/foia.jpg" /> a cura di Marina Galluzzo
+    <img src="http://www.foiapop.it/img/foia.jpg" /> </br>
+    a cura di Giovanni Pirrotta e Giuseppe Ragusa
 
 .. |LINK1| raw:: html
 
