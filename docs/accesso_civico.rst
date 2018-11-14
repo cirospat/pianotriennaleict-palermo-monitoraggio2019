@@ -16,6 +16,8 @@ Foia POP
 
 \ |LINK1|\  
 
+Cerca tra più di 20000 Pubbliche Amministrazioni italiane. Crea passo passo la tua richiesta di accesso civico semplice e generalizzato a partire dagli opendata. Scopri come le PA spendono i soldi e come si finanziano. Diventa un cittadino attivo
+
 |REPLACE2|
 
 
@@ -32,5 +34,5 @@ Foia POP
 
 .. |LINK1| raw:: html
 
-    <a href="http://www.foiapop.it/" target="_blank">http://www.foiapop.it/</a>
+    <a href="http://www.foiapop.it/" target="_blank">http://www.foiapop.it</a>
 
