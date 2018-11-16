@@ -13,15 +13,12 @@ In questo spazio descrivo le principali \ |STYLE0|\  in cui sono impegnato per `
 
 * \ |LINK1|\ ;
 
-* \ |LINK2|\ ;
+* \ |LINK2|\ ; \`\`\ |LINK3|\ \`\`;
 
-* \ |LINK3|\ .
+* \ |LINK4|\ .
 
 
 |REPLACE2|
-
-
-|REPLACE3|
 
 * i ``dati`` che resi ``pubblici`` valorizzano il patrimonio informativo della Pubblica Amministrazione, e ne consentono un riuso creativo anche a fini economici;
 
@@ -40,12 +37,12 @@ Le iniziative di carattere \ |STYLE1|\ , vissute in spirito collaborativo insiem
     
     su pagine di ``Google Doc``, che grazie al plugin ``GGeditor`` vengono pubblicate automaticamente in formato ``RST`` → su un progetto repository dentro ``Github``, che a sua volta espone i contenuti → su pagine HTML con il design ``Read the Docs``. 
     
-    \ |LINK4|\ .
+    \ |LINK5|\ .
 
 |
 
 
-|REPLACE4|
+|REPLACE3|
 
 .. toctree::
   :maxdepth: 2
@@ -98,11 +95,11 @@ Le iniziative di carattere \ |STYLE1|\ , vissute in spirito collaborativo insiem
     privacy
 
 
-|REPLACE5|
+|REPLACE4|
 
 --------
 
-[Immagine in alto, by \ |LINK5|\ , rilasciata con licenza CC BY 3.0]
+[Immagine in alto, by \ |LINK6|\ , rilasciata con licenza CC BY 3.0]
 
 
 .. bottom of content
@@ -120,16 +117,12 @@ Le iniziative di carattere \ |STYLE1|\ , vissute in spirito collaborativo insiem
     <strong><span style="background-color: #247a2e; color: #ffffff; display: inline-block; padding: 3px 8px; border-radius: 10px;">Reti di impegno</span></strong>
 .. |REPLACE2| raw:: html
 
-    <img src="https://user-images.githubusercontent.com/30607/46467008-06234d00-c7cd-11e8-93dd-04ef42e5c23d.png" /><br>
-    <a href="http://ods2018.opendatasicilia.it">ods2018.opendatasicilia.it</a>
-.. |REPLACE3| raw:: html
-
     <strong><span style="background-color: #247a2e; color: #ffffff; display: inline-block; padding: 3px 8px; border-radius: 10px;">Ambiti principali di questo spazio</span></strong>
     
-.. |REPLACE4| raw:: html
+.. |REPLACE3| raw:: html
 
     <h3><strong><span style="color: #ffffff;"><span style="background-color: #247a2e; display: inline-block; padding: 3px 8px; border-radius: 10px;">Indice dei contenuti</span></span></strong></h3>
-.. |REPLACE5| raw:: html
+.. |REPLACE4| raw:: html
 
     <script id="dsq-count-scr" src="//guida-readthedocs.disqus.com/count.js" async></script>
     
@@ -165,13 +158,17 @@ Le iniziative di carattere \ |STYLE1|\ , vissute in spirito collaborativo insiem
 
 .. |LINK3| raw:: html
 
-    <a href="https://forum.italia.it/" target="_blank">Developers Italia, forum nazionale sui servizi pubblici digitali</a>
+    <a href="http://ods2018.opendatasicilia.it/#presentazioni" target="_blank">raduno ODS 2018</a>
 
 .. |LINK4| raw:: html
 
-    <a href="http://googledocs.readthedocs.io/" target="_blank">A questo link il tutorial</a>
+    <a href="https://forum.italia.it/" target="_blank">Developers Italia, forum nazionale sui servizi pubblici digitali</a>
 
 .. |LINK5| raw:: html
+
+    <a href="http://googledocs.readthedocs.io/" target="_blank">A questo link il tutorial</a>
+
+.. |LINK6| raw:: html
 
     <a href="https://www.deviantart.com/superawesomevectors/gallery/" target="_blank">superawesomevectors</a>
 
