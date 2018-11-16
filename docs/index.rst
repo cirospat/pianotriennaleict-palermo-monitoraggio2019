@@ -13,7 +13,7 @@ In questo spazio descrivo le principali \ |STYLE0|\  in cui sono impegnato per `
 
 * \ |LINK1|\ ;
 
-* \ |LINK2|\ ; \`\`\ |LINK3|\ \`\`;
+* \ |LINK2|\ ; \ |LINK3|\ ;
 
 * \ |LINK4|\ .
 
