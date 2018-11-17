@@ -4,6 +4,7 @@
 Accesso Civico
 ##############
 
+L'\ |STYLE0|\  consente a chiunque di accedere a dati, documenti e informazioni delle pubbliche amministrazioni senza necessità di dimostrare un interesse legittimo (art. 5, \ |LINK1|\ ).
 
 |REPLACE1|
 
@@ -14,7 +15,7 @@ Accesso Civico
 Foia POP
 ********
 
-\ |LINK1|\  
+\ |LINK2|\  
 
 Cerca tra più di 20000 Pubbliche Amministrazioni italiane. Crea passo passo la tua richiesta di accesso civico semplice e generalizzato a partire dagli opendata. Scopri come le PA spendono i soldi e come si finanziano. Diventa un cittadino attivo
 
@@ -22,6 +23,9 @@ Cerca tra più di 20000 Pubbliche Amministrazioni italiane. Crea passo passo la 
 
 
 .. bottom of content
+
+
+.. |STYLE0| replace:: **accesso civico (semplice o generalizzato)**
 
 
 .. |REPLACE1| raw:: html
@@ -33,6 +37,10 @@ Cerca tra più di 20000 Pubbliche Amministrazioni italiane. Crea passo passo la 
     a cura di Giovanni Pirrotta e Giuseppe Ragusa
 
 .. |LINK1| raw:: html
+
+    <a href="http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2013-03-14;33" target="_blank">D.Lgs. 33/2013</a>
+
+.. |LINK2| raw:: html
 
     <a href="http://www.foiapop.it/" target="_blank">http://www.foiapop.it</a>
 
