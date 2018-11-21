@@ -4,11 +4,11 @@
 OpendataSicilia & communities
 #############################
 
-.. raw:: html
-   :file: opendatasicilia.html
-
 
 |REPLACE1|
+
+.. raw:: html
+   :file: opendatasicilia.html
 
 |
 
