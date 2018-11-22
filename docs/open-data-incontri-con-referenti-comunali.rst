@@ -2433,6 +2433,11 @@ E' stata, altresì, approfondita la questione della firma digitale che il Dirige
 
 --------
 
+.. _h8633f2b65b68136a7b75635165802:
+
+3 Quadrimestre 2018
+*******************
+
 66-
 
 .. _h2010351525386d31453432673f12285c:
