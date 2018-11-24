@@ -35,7 +35,7 @@ $.fn.euCookieLawPopup = (function() {
 		popupTitle : 'Questo sito web utilizza i cookie, anche di terze parti, per migliorare la vostra esperienza di navigazione web.',
 		popupText : 'Chiudendo questo banner, scorrendo questa pagina o cliccando su qualunque suo elemento acconsenti all&rsquo;uso dei cookie. Per maggiori informazioni o per negare il consenso a tutti o ad alcuni cookie, consulta l&rsquo;informativa.',
 		buttonContinueTitle : 'Chiudi!  ',
-	buttonLearnmoreTitle : 'Leggi l&rsquo;informatriva',
+	buttonLearnmoreTitle : 'Leggi l&rsquo;informativa',
 		buttonLearnmoreOpenInNewWindow : false,
 		agreementExpiresInDays : 30,
 		autoAcceptCookiePolicy : false,
