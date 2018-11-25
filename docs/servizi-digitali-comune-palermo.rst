@@ -83,14 +83,12 @@ Attuazione contenuti CAD e Piano Triennale per l'Informatica al comune di Palerm
     <iframe width="100%" height="500" src="https://www.youtube.com/embed/_K5hJClSHOA?t=917" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
     <span class="footer_small">Webinar del 10 ottobre 2018 sugli aspetti del PON METRO Palermo (Asse 1).</span>
     
-    
-    
 .. |REPLACE3| raw:: html
 
     <iframe width="100%" height="1900px" frameBorder="0" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTGYi5wDzJvq8niQDamscNpWpDriVCTcPSgnN-Z4C5kbUDHULrEq0NQDPp0rrxBkj7gmjb7Gt_9ctJf/pubhtml"></iframe>
 .. |REPLACE4| raw:: html
 
-    <img src="https://lh3.googleusercontent.com/GKm3Qmvcqwu0ztm7gEkFATFNFMLGtz4_Z1VrnwQSb5aGgl7gYCwwv1Y8dry9BD5_ni1u13agPsC4-UAWPSHDTAlLYrPKbvjZ4g1CulOgQJet2MDF6xOb50muGH667k3A3cVWEJ5o9L231MNxpc5XwkMfOJuICP5oNL3Nux7PeZ_rN_0n-kwwOrSY-XyCxOL7HzJWIRP9dni00OmBw-4dDdNOhZF1Nw6o0j7MMOJszXfEcQ3aez6A2IfP60aRaujV0GbWKPrLs-MAI9pbjBEncNptN7VeS-6Xs8kQr05ZkL_trEbe7AVHDUlE0MCvB5SHO8jRKEZGe7qfBxwatt2qe69_Zq_v-uQ3K6LZtMQ4dXlhVOHalshC5_uqhose4TGikckzXmf5RqpIxt2rP8fGvYe4cZJZkKFGAXejBK-95aaRVqq7WvrzXPIUmviHC5siJ_TIm4KmjLzI11Vf825zosgDXl6rNlK9Hm_QKRyKfeXwIa1c73Mv3mCEBn2cYC9WWqNyYeGqX2BOHWy2GP9WXEI6wMfG4LS7EjeDIbiYAN6IfZPq4fqyYfd9ZGHjiUwlhFdG61bqcm0HZOG7oiakgAj6bhsoCg=s800-w800-h394-no" />
+    <img src="https://lh3.googleusercontent.com/AFE9hd4FkXg7lBctDTFDbpVJYOg_ckL2hC8itQ91lEaKLCwC0Ns7YMKQHI_oF1Xd3gck9qPlL2Y-C-FzvCvcHvZOHFmNu1577g4h_XpZmMCgomAELuQ7_s-eMppIswrWqHlRvoQndVmzF2E-6hLnKDX_zf8MveE26TPootLvF1DDqz0tP9MSdCvGgQZYV71x8_yr7DC3lxhvW8yPRpzi06Z0Us1O-Pb3lXi3kAkskZMG1YgteYcwdvO0ig7rDj62kbznlxxk7_sNVFnQypGks5Sk2ioLfxLC9D__7mWXkL2Su3oxFAeQIpYzycYAeg-9JizvNO66J2EfOsP4Oz2tVETpT7VSh6wxWiAYZO_qvMjJU0EwlNXagUSirZFfaio5oGa2iLAH3ttd2Rjy3CUiAB08k51PxR9bdkPH9_YYg7TE6fupidxOkrMXgzixdXrq0k2o9OL-KlJ55J4WzrGjrNhZIPKPOVkABL0PyMQ-atFEmGNdFd0opLujcBrbqda5KSrgx8Xm7J-hoH93pSo87Sdc6TjWof44Cg_EKFhmfj--P6O3IFnWtfJGICXXZywcvYypwFrR1FtRlxvYKq5XvefK8Yg5bjk_bw4S92YIowmgwuryM1Y8K-AsTKdcF-EGjpENklJbzWhCDU3yPdDLkSun3SG7YadIdJK4DNPRWpQBpXDjYTCKQKF4dFCUcMtb5pup13nmChIYycu6yQ=w800-h394-no" />
 .. |REPLACE5| raw:: html
 
     <iframe width="100%" height="2400px" frameBorder="0" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQACeLrlz3YiX7n5Hef6GFwuRsRGyNcF-qXQNk_p75cv8vJvmvBJk7gSwc8LG2E6-nur3040fPfPvGB/pubhtml"></iframe>
