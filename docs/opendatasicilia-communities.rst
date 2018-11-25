@@ -15,7 +15,7 @@ OpendataSicilia & communities
 
 |REPLACE2|
 
-\ |LINK1|\  su open data il 27 ottobre 2018 in occasione del Linux Day ai Cantieri Culturali della Zisa a Palermo. Registrazione video a cura di Joska Arena.
+\ |LINK1|\  
 
 --------
 
@@ -50,7 +50,8 @@ active citizenship & communities
     
 .. |REPLACE2| raw:: html
 
-    <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2F1641756146130263%2Fvideos%2F1068409013326637%2F&show_text=0&width=267" width="267" height="476" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
+    <iframe width="100%" height="500" src="https://www.youtube.com/embed/fWQVfFhEPUA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    <span class="footer_small">Presentazione su open data il 27 ottobre 2018 in occasione del Linux Day ai Cantieri Culturali della Zisa a Palermo. Registrazione video a cura di Free Circle.</span>
 .. |REPLACE3| raw:: html
 
     <script id="dsq-count-scr" src="//guida-readthedocs.disqus.com/count.js" async></script>
