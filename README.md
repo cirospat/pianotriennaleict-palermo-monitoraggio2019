@@ -18,6 +18,6 @@ Licenza dei contenuti di questo repository: CC BY
 
 
 ---
-
+<p><img class="imageLeft" style="width: 33px; height: 30px;" src="https://sourcerer.io/icons/logo-bright.svg">
 https://sourcerer.io/cirospat
 
