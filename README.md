@@ -17,5 +17,7 @@ Inizialmente i documenti sono editati su Google Doc. Attraverso il plugin "compo
 Licenza dei contenuti di questo repository: CC BY
 
 
+---
 
+https://sourcerer.io/cirospat
 
