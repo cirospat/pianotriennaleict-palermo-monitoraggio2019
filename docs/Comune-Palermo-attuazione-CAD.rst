@@ -29,7 +29,7 @@ Approvazione schema di \ |STYLE0|\  - SISPI S.P.A. (Deliberazione GM 105 del 24.
 
 \ |STYLE1|\  - Approvazione del Piano di Informatizzazione, art. 24, comma 3 bis, DL 90/2014 - Atto di indirizzo (Deliberazione GM 64 del 14.04.2015).
 
--
+|
 
 \ |STYLE2|\  \ |LINK3|\  - Adesione al sistema dei pagamenti elettronici, a favore delle Pubbliche Amministrazioni e dei gestori di Pubblici Servizi, ai sensi del Codice dell'Amministrazione Digitale (D. LGS. N° 82 DEL 07.03.2005), e approvazione schema di Protocollo con l'AgID (Deliberazione di GM 215 del 15.12.2015). 
 
@@ -44,11 +44,11 @@ Approvazione schema di \ |STYLE0|\  - SISPI S.P.A. (Deliberazione GM 105 del 24.
 
 \ |STYLE3|\  di uffici comunali
 
--
+|
 
 \ |STYLE4|\  - Adozione negli uffici comunali dell'applicativo denominato "\ |LINK5|\ ", quale azione iniziale per la gestione del documento informatico e comunicazione in forma digitale dall'Amministrazione comunale verso l'esterno (Deliberazione di GM 148 del 25.08.2016).
 
--
+|
 
 \ |STYLE5|\  - Disciplinare d'Intesa per la realizzazione di infrastrutture per le telecomunicazioni in fibra ottica FTTH  sul territorio comunale di Palermo (Deliberazione di GM 225 del 10.11.2016).
 
@@ -61,37 +61,37 @@ Approvazione schema di \ |STYLE0|\  - SISPI S.P.A. (Deliberazione GM 105 del 24.
 
 \ |STYLE6|\  (banda ultra larga comunale) di uffici comunali.
 
--
+|
 
 \ |STYLE7|\  - Affidamento in house providing a SISPI SPA del Sistema integrato di Connettività Urbana (Determinazione Dirigenziale dell'Area Innovazione Tecnologica n. 112 del 15.05.2017).
 
--
+|
 
 \ |STYLE8|\  - Integrazione Determinazione Dirigenziale n° 112 DEL 15.05.17 Affidamento in house providing a SISPI SPA del Sistema integrato di Connettività Urbana (Determinazione Dirigenziale dell'Area Innovazione Tecnologica n. 146 del 28.06.2017).
 
--
+|
 
 \ |STYLE9|\  \ |LINK6|\  (Deliberazione di GM 97 del 04.05.2017) e realizzazione nuovo portale open data \ |LINK7|\  aderente al profilo dei metadati DCAT_AP_IT delle linee guida nazionali per la valorizzazione del patrimonio informativo pubblico per l'esposizione dei metadati comunali nel portale nazionale (\ |LINK8|\ ) ed europeo (\ |LINK9|\ ) dei dati aperti.
 
--
+|
 
 \ |STYLE10|\  - Affidamento alla Società in house (per i servizi informatici), SISPI SPA,  per la realizzazione dei servizi di Agenda Digitale, Asse 1 del Programma Operativo Nazionale Città Metropolitane 2014-2020 - \ |LINK10|\ , (Determinazione Dirigenziale dell'Area Innovazione Tecnologica n. 13 del 26/10/2017).
 
--
+|
 
 \ |STYLE11|\  - Protocollo di Intesa tra Comune di Palermo e Consorzio dei Comuni Trentini, Società Cooperativa, per il riuso gratuito dei microservizi della piattaforma "COMUNWEB" (\ |LINK11|\ ).  Il Comune di Palermo riusa il micro servizio denominato "\ |LINK12|\ " per la gestione e pubblicazione online degli eventi culturali.
 
--
+|
 
 \ |STYLE12|\  - il 10 luglio 2017 il Comune di Palermo, attraverso l'Ufficio Innovazione, sigla l'Accordo con l’AgID per l’adesione al sistema nazionale \ |LINK13|\ , Sistema Pubblico di Identità Digitale, (\ |LINK14|\ ).  
 
 L'\ |LINK15|\  al dicembre 2017 si paga con SPID.  
 
--
+|
 
 \ |STYLE13|\  - individuate nel  Regolamento comunale degli Uffici e Servizi le figure di Responsabile della Transizione al Digitale previste dal CAD (\ |LINK16|\ ), e di Responsabile della Conservazione documentale nel Capo Area Innovazione Tecnologica e Gestione Documentale nel Vice Segretario Generale (Deliberazione di GM 185 del 10.10.2017).
 
--
+|
 
 \ |STYLE14|\  per fine 2017:
 
@@ -114,49 +114,49 @@ L'\ |LINK15|\  al dicembre 2017 si paga con SPID.
 
 \ |LINK20|\  (banda ultra larga comunale) di uffici comunali.
 
--
+|
 
 \ |STYLE20|\  \ |LINK21|\  \ |STYLE21|\  per l'accesso dei cittadini ai servizi digitali del comune di Palermo.   \ |LINK22|\ .
 
--
+|
 
 \ |STYLE22|\   4-5-6 aprile. Infoday sul Codice dell’Amministrazione Digitale e sui servizi digitali del comune di Palermo, indirizzata ai Dirigenti comunali. \ |LINK23|\ .
 
--
+|
 
 \ |STYLE23|\  \ |LINK24|\ , Sistema informatico e telematico del Comune di Palermo, (Delibera di Consiglio Comunale n. 42 del 20.04.2018).
 
-    IL CONSIGLIO COMUNALE DELIBERA Per i motivi esposti in narrativa e che si intendono di seguito riportati: AFFIDARE in house alla SISPI S.p.A. il servizio di Sviluppo e Conduzione Tecnica del SITEC (Sistema lnformatico e Telematico del Comune di Palermo) con le modalità riportate in Convenzione secondo lo schema (allegato 9) che si intende approvato con il presente atto per la durata di cinque anni decorrenti dall'esecutività dello stesso; 
+IL CONSIGLIO COMUNALE DELIBERA, per i motivi esposti in narrativa e che si intendono di seguito riportati: AFFIDARE in house alla SISPI S.p.A. il servizio di Sviluppo e Conduzione Tecnica del SITEC (Sistema lnformatico e Telematico del Comune di Palermo) con le modalità riportate in Convenzione secondo lo schema (allegato 9) che si intende approvato con il presente atto per la durata di cinque anni decorrenti dall'esecutività dello stesso; 
 
-    DARE ATTO, che a fronte dei servizi resi per il servizio di conduzione tecnica del SISTEC, alla Società sarà corrisposto un corrispettivo annuo di € 11.291.100,00 (IVA compresa), che andrà a gravare sul cap. 3970/10 denominato "SISPI Conduzione Tecnica del SITEC - Informatizzazione Telematica del Comune di Palermo"; 
+DARE ATTO, che a fronte dei servizi resi per il servizio di conduzione tecnica del SISTEC, alla Società sarà corrisposto un corrispettivo annuo di € 11.291.100,00 (IVA compresa), che andrà a gravare sul cap. 3970/10 denominato "SISPI Conduzione Tecnica del SITEC - Informatizzazione Telematica del Comune di Palermo"; 
 
-    DARE, altresì, ATTO che a fronte di un immutato corrispettivo la SISPI S.p.A. implementerà i propri servizi, estendendo gli stessi anche al sistema delle Società Partecipate del Comune di Palermo e all'intera città Metropolitana secondo le modalità previste dalla vigente normativa.
+DARE, altresì, ATTO che a fronte di un immutato corrispettivo la SISPI S.p.A. implementerà i propri servizi, estendendo gli stessi anche al sistema delle Società Partecipate del Comune di Palermo e all'intera città Metropolitana secondo le modalità previste dalla vigente normativa.
 
--
+|
 
 \ |STYLE24|\  \ |LINK25|\  edizione 2017.
 
--
+|
 
 Approvazione del \ |STYLE25|\  (\ |LINK26|\ ).
 
--
+|
 
     Partecipazione all’area sperimentale della \ |STYLE26|\ \ |LINK27|\ \ |STYLE27|\  per l’accesso telematico ai servizi della Pubblica Amministrazione ai sensi dell’art. 64-bis del decreto legislativo 7 marzo 2005, n. 82 (20 luglio 2018).
 
-    -
+|
 
     In fase di avvio, il servizio di rilascio della \ |STYLE28|\  da parte del comune di Palermo (\ |LINK28|\ ). Tale obiettivo si raggiunge in seguito alle attività di subentro dell'anagrafe comunale all'Anagrafe Nazionale della Popolazione Residente (ANPR).
 
-    -
+|
 
     Novembre 2018, avvio della formazione per l'utilizzo dell'\ |STYLE29|\ , con il supporto formativo della società SISPI. Gestione documentale.
 
-    -
+    |
 
     Il 3,4,5 Dicembre 2018 lo staff del Responsabile Transizione al digitale effettua una \ |LINK29|\  \ |STYLE30|\  locali da attivare anche in relazione alle piattaforme ICT del PON METRO Palermo, Asse 1 (Agenda Digitale). Sessione formativa ai Dirigenti per l'utilizzo dell'\ |STYLE31|\ .
 
-    -
+    |
 
 --------
 
