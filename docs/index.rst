@@ -78,6 +78,7 @@ Le iniziative di carattere \ |STYLE1|\ , vissute in spirito collaborativo insiem
     Ciro-Spataro-su-open-data-e-innovazione
     open-data-incontri-con-referenti-comunali
     servizi-digitali-comune-palermo
+    Comune-Palermo-attuazione-CAD
 
 
 .. toctree::  
