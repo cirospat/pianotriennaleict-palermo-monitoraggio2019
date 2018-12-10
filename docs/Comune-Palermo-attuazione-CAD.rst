@@ -1,8 +1,17 @@
 
-.. _h614b48235225372e48482a343b1940:
+.. _h1f312d631f7c3535211c7b47786f6e38:
 
-Azioni svolte dal Comune di Palermo per l'attuazione del \ |LINK1|\  e del \ |LINK2|\ 
-######################################################################################
+Azioni svolte dal Comune di Palermo per l'attuazione del CAD e del Piano Triennale per l'Informatica nella PA
+#############################################################################################################
+
+
+..  Note:: 
+
+    \ |LINK1|\ 
+    
+    \ |LINK2|\ 
+
+|
 
 .. _h32182a493252554f293541d7b41445e:
 
