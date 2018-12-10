@@ -83,9 +83,7 @@ Approvazione schema di \ |STYLE0|\  - SISPI S.P.A. (Deliberazione GM 105 del 24.
 
 |
 
-\ |STYLE12|\  - il 10 luglio 2017 il Comune di Palermo, attraverso l'Ufficio Innovazione, sigla l'Accordo con l’AgID per l’adesione al sistema nazionale \ |LINK13|\ , Sistema Pubblico di Identità Digitale, (\ |LINK14|\ ).  
-
-L'\ |LINK15|\  al dicembre 2017 si paga con SPID.  
+\ |STYLE12|\  - il 10 luglio 2017 il Comune di Palermo, attraverso l'Ufficio Innovazione, sigla l'Accordo con l’AgID per l’adesione al sistema nazionale \ |LINK13|\ , Sistema Pubblico di Identità Digitale, (\ |LINK14|\ ).   L'\ |LINK15|\  al dicembre 2017 si paga con SPID.  
 
 |
 
