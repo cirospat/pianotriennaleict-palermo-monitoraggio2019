@@ -138,23 +138,23 @@ DARE, altresì, ATTO che a fronte di un immutato corrispettivo la SISPI S.p.A. i
 
 |
 
-Approvazione del \ |STYLE25|\  (\ |LINK26|\ ).
+Approvazione del \ |STYLE25|\  (\ |LINK26|\ ). 
 
 |
 
-    Partecipazione all’area sperimentale della \ |STYLE26|\ \ |LINK27|\ \ |STYLE27|\  per l’accesso telematico ai servizi della Pubblica Amministrazione ai sensi dell’art. 64-bis del decreto legislativo 7 marzo 2005, n. 82 (20 luglio 2018).
+Partecipazione all’area sperimentale della \ |STYLE26|\  (\ |LINK27|\ ) per l’accesso telematico ai servizi della Pubblica Amministrazione ai sensi dell’art. 64-bis del decreto legislativo 7 marzo 2005, n. 82 (20 luglio 2018).
 
 |
 
-    In fase di avvio, il servizio di rilascio della \ |STYLE28|\  da parte del comune di Palermo (\ |LINK28|\ ). Tale obiettivo si raggiunge in seguito alle attività di subentro dell'anagrafe comunale all'Anagrafe Nazionale della Popolazione Residente (ANPR).
+In fase di avvio, il servizio di rilascio della \ |STYLE27|\  da parte del comune di Palermo (\ |LINK28|\ ). Tale obiettivo si raggiunge in seguito alle attività di subentro dell'anagrafe comunale all'Anagrafe Nazionale della Popolazione Residente (ANPR).
 
 |
 
-    Novembre 2018, avvio della formazione per l'utilizzo dell'\ |STYLE29|\ , con il supporto formativo della società SISPI. Gestione documentale.
+Novembre 2018, avvio della formazione per l'utilizzo dell'\ |STYLE28|\ , con il supporto formativo della società SISPI. Gestione documentale.
 
     |
 
-    Il 3,4,5 Dicembre 2018 lo staff del Responsabile Transizione al digitale effettua una \ |LINK29|\  \ |STYLE30|\  locali da attivare anche in relazione alle piattaforme ICT del PON METRO Palermo, Asse 1 (Agenda Digitale). Sessione formativa ai Dirigenti per l'utilizzo dell'\ |STYLE31|\ .
+Il 3,4,5 Dicembre 2018 lo staff del Responsabile Transizione al digitale effettua una \ |LINK29|\  sul \ |STYLE29|\  anche in relazione alle piattaforme ICT del PON METRO Palermo, Asse 1 (Agenda Digitale). Sessione formativa ai Dirigenti per l'utilizzo dell'applicativo informatico per la gestione delle Determinazioni Dirigenziali.
 
     |
 
@@ -216,17 +216,13 @@ Approvazione del \ |STYLE25|\  (\ |LINK26|\ ).
 
 .. |STYLE25| replace:: **protocollo di Intesa tra Comune di Palermo e Comune di Genova per iniziative di collaborazione nello Sviluppo dell'Agenda Digitale**
 
-.. |STYLE26| replace:: **piattaforma Cittadinanza Digitale (**
+.. |STYLE26| replace:: **piattaforma Cittadinanza Digitale**
 
-.. |STYLE27| replace:: **)**
+.. |STYLE27| replace:: **Carta di Identità Elettronica**
 
-.. |STYLE28| replace:: **Carta di Identità Elettronica**
+.. |STYLE28| replace:: **applicativo informatico per la gestione digitale delle Determinazioni Dirigenziali**
 
-.. |STYLE29| replace:: **applicativo informatico per la gestione digitale delle Determinazioni Dirigenziali**
-
-.. |STYLE30| replace:: **sul Piano Triennale per l'Informatica 2017-19, sul CAD, e per illustrare la road map comunale al 2020 sui servizi digitali**
-
-.. |STYLE31| replace:: **applicativo informatico per la gestione delle Determinazioni Dirigenziali**
+.. |STYLE29| replace:: **Piano Triennale per l'Informatica 2017-19, sul CAD, e per illustrare la road map comunale al 2020 sui servizi digitali locali da attivare**
 
 
 .. |LINK1| raw:: html
