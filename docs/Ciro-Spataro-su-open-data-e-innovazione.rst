@@ -827,6 +827,13 @@ Avvio delle fasi di confronto tra i tecnici della Società Sispi e del comune di
 
 Necessaria per consentire l’accesso telematico ai servizi della Pubblica Amministrazione, ai sensi dell’art. 64-bis del decreto legislativo 7 marzo 2005, n. 82.
 
+.. _h11464c3f454c5a7f49721b67f735326:
+
+2018 - Infoday ai Dirigenti su attuazione CAD e Piano Triennale per l'Informatica.
+==================================================================================
+
+Il 3,4,5 Dicembre 2018 lo staff del Responsabile Transizione al digitale effettua una \ |LINK174|\  sul \ |STYLE23|\  anche in relazione alle piattaforme ICT del PON METRO Palermo, Asse 1 (Agenda Digitale). Sessione formativa ai Dirigenti per l’utilizzo dell’applicativo informatico per la gestione delle Determinazioni Dirigenziali.
+
 --------
 
 
@@ -881,6 +888,8 @@ Necessaria per consentire l’accesso telematico ai servizi della Pubblica Ammin
 .. |STYLE21| replace:: **Docs Italia**
 
 .. |STYLE22| replace:: *Ciò significa che i moduli e formulari, ma anche gli atti e i provvedimenti amministrativi oggetto di pubblicità legale, devono essere fruibili anche da persone con disabilità. Non è ammessa, pertanto, la pubblicazione di documenti-immagine, vale a dire scansioni digitali di documenti cartacei senza che si sia provveduto ad opportuna digitalizzazione del testo ivi contenuto*
+
+.. |STYLE23| replace:: **Piano Triennale per l’Informatica 2017-19, sul CAD, e per illustrare la road map comunale al 2020 sui servizi digitali locali da attivare**
 
 
 .. |REPLACE1| raw:: html
@@ -1600,4 +1609,8 @@ Necessaria per consentire l’accesso telematico ai servizi della Pubblica Ammin
 .. |LINK173| raw:: html
 
     <a href="https://io.italia.it/" target="_blank">progetto IO</a>
+
+.. |LINK174| raw:: html
+
+    <a href="http://bit.ly/infoday-cad-3-4-5-dic-2018" target="_blank">seconda sessione di sensibilizzazione ai Dirigenti</a>
 
