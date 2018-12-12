@@ -259,8 +259,18 @@ Regolamento del Parlamento Europeo e del Consiglio che istituisce uno sportello 
 
 --------
 
+.. _h181d8693e381a482a5b5d58267b12:
+
+Sicurezza Cibernetica: iniziative e azioni per amministrazioni più sicure (webinar FormezPA 11.12.2018)
+*******************************************************************************************************
+
 
 |REPLACE1|
+
+--------
+
+
+|REPLACE2|
 
 .. _h2c1d74277104e41780968148427e:
 
@@ -281,6 +291,11 @@ Regolamento del Parlamento Europeo e del Consiglio che istituisce uno sportello 
 
 
 .. |REPLACE1| raw:: html
+
+    <iframe width="100%" height="500" src="https://www.youtube.com/embed/j1PGeUthii0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    <span class="footer_small">Misure minime di sicurezza ICT (AgID) e ruolo del CERT-PA, Computer Emergency Response Team Pubblica Amministrazione, che opera all’interno di AgID e ha il compito di supportare le amministrazioni nella prevenzione e nella risposta agli incidenti di sicurezza informatica.</span>
+    
+.. |REPLACE2| raw:: html
 
     <script id="dsq-count-scr" src="//guida-readthedocs.disqus.com/count.js" async></script>
     
