@@ -40,6 +40,7 @@ Uffici comunali connessi all'Anello Telematico
 
 |REPLACE5|
 
+\ |LINK3|\ 
 
 |REPLACE6|
 
@@ -53,7 +54,7 @@ Wifi hotspot comunali di Palermo e accessi telematici alla ZTL
 
 |REPLACE7|
 
-\ |LINK3|\ 
+\ |LINK4|\ 
 
 |REPLACE8|
 
@@ -98,6 +99,10 @@ Wifi hotspot comunali di Palermo e accessi telematici alla ZTL
     <a href="http://umap.openstreetmap.fr/it/map/anello-telematico-comunale-palermo-wifi-comunale-v_71124" target="_blank">L'"anello telematico" è la banda ultra larga comunale</a>
 
 .. |LINK3| raw:: html
+
+    <a href="http://umap.openstreetmap.fr/it/map/anello-telematico-comunale-palermo-wifi-comunale-v_71124" target="_blank">Mappa degli uffici connessi all'anello telematico</a>
+
+.. |LINK4| raw:: html
 
     <a href="http://umap.openstreetmap.fr/it/map/hotspot-wifi-del-comune-di-palermo_211092" target="_blank">Mappa degli hotspot wifi comunali</a>
 
