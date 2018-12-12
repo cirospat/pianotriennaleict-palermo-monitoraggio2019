@@ -820,12 +820,12 @@ Nella \ |LINK172|\  si legge: “\ |STYLE22|\  .”
 
 Avvio delle fasi di confronto tra i tecnici della Società Sispi e del comune di Genova per l’attuazione di iniziative congiunte e cooperative sotto il profilo tecnologico e organizzativo, per la realizzazione dei comuni obiettivi di innovazione digitale delle rispettive strutture e di rafforzamento dell’Agenda Digitale a livello comunale.
 
-.. _h6677d30539572b7867374a454657:
+.. _h16d533a7a144494b164d542b507a29:
 
-2018 - Partecipazione all’area sperimentale della piattaforma Cittadinanza Digitale, \ |LINK173|\ , (20 luglio 2018).
-=====================================================================================================================
+2018 - Partecipazione all’area sperimentale della piattaforma Cittadinanza Digitale, progetto IO, (20 luglio 2018).
+===================================================================================================================
 
-Necessaria per consentire l’accesso telematico ai servizi della Pubblica Amministrazione, ai sensi dell’art. 64-bis del decreto legislativo 7 marzo 2005, n. 82.
+L'\ |LINK173|\  è necessaria per consentire l’accesso telematico ai servizi della Pubblica Amministrazione, ai sensi dell’art. 64-bis del decreto legislativo 7 marzo 2005, n. 82.
 
 .. _h11464c3f454c5a7f49721b67f735326:
 
@@ -1608,7 +1608,7 @@ Il 3,4,5 Dicembre 2018 lo staff del Responsabile Transizione al digitale effettu
 
 .. |LINK173| raw:: html
 
-    <a href="https://io.italia.it/" target="_blank">progetto IO</a>
+    <a href="https://io.italia.it/" target="_blank">applicazione nazionale dell'AgID IO</a>
 
 .. |LINK174| raw:: html
 
