@@ -267,6 +267,8 @@ Sicurezza Cibernetica: iniziative e azioni per amministrazioni più sicure (webi
 
 |REPLACE1|
 
+\ |LINK35|\ .
+
 --------
 
 
@@ -294,7 +296,6 @@ Sicurezza Cibernetica: iniziative e azioni per amministrazioni più sicure (webi
 
     <iframe width="100%" height="500" src="https://www.youtube.com/embed/j1PGeUthii0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
     <span class="footer_small">Misure minime di sicurezza ICT (AgID) e ruolo del CERT-PA, Computer Emergency Response Team Pubblica Amministrazione, che opera all’interno di AgID e ha il compito di supportare le amministrazioni nella prevenzione e nella risposta agli incidenti di sicurezza informatica.</span>
-    
 .. |REPLACE2| raw:: html
 
     <script id="dsq-count-scr" src="//guida-readthedocs.disqus.com/count.js" async></script>
@@ -456,4 +457,8 @@ Sicurezza Cibernetica: iniziative e azioni per amministrazioni più sicure (webi
 .. |LINK34| raw:: html
 
     <a href="https://cirospat.readthedocs.io/it/latest/regolamento-ue-sportello-digitale-unico.html" target="_blank">Regolamento</a>
+
+.. |LINK35| raw:: html
+
+    <a href="http://eventipa.formez.it/node/169855" target="_blank">Materiali del webinar</a>
 
