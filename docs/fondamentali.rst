@@ -74,10 +74,7 @@ Ciclo di webinar dedicati all'innovazione digitale organizzato da FormezPA nell'
 
 \ |LINK7|\ 
 
-.. _h2c1d74277104e41780968148427e:
-
-
-
+--------
 
 .. _h14614f513b7a3367673b534d56445240:
 
