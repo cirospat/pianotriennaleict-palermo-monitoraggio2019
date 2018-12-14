@@ -69,7 +69,7 @@ works
 
 \ |LINK24|\  e \ |LINK25|\  ``cc by nc sa``
 
-\ |LINK26|\   (2018) ``cc by sa``
+\ |LINK26|\   in collaborazione con l'architetto Paola Caselli (2018) ``cc by sa``
 
 --------
 
