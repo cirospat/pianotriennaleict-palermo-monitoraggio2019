@@ -28,6 +28,8 @@ engagement
 
 \ |LINK6|\ 
 
+\ |LINK7|\ 
+
 --------
 
 .. _h37933923a20121d397d541f306364:
@@ -35,39 +37,39 @@ engagement
 works
 =====
 
-\ |LINK7|\  ``cc by sa``
-
 \ |LINK8|\  ``cc by sa``
 
 \ |LINK9|\  ``cc by sa``
 
-\ |LINK10|\  repository codice ``cc by sa``
+\ |LINK10|\  ``cc by sa``
 
-\ |LINK11|\  (in collaborazione con webmaster) 2013-now ``cc by`` 
+\ |LINK11|\  repository codice ``cc by sa``
 
-\ |LINK12|\  ``cc by`` e  \ |LINK13|\  ``cc by sa``
+\ |LINK12|\  (in collaborazione con webmaster) 2013-now ``cc by`` 
 
-\ |LINK14|\  ``cc by sa``
+\ |LINK13|\  ``cc by`` e  \ |LINK14|\  ``cc by sa``
 
 \ |LINK15|\  ``cc by sa``
 
-\ |LINK16|\  ``cc by``
+\ |LINK16|\  ``cc by sa``
 
-\ |LINK17|\  (2007) ``cc by``
+\ |LINK17|\  ``cc by``
 
-\ |LINK18|\  (2006) ``cc by``
+\ |LINK18|\  (2007) ``cc by``
 
-\ |LINK19|\  (2008) ``cc by``
+\ |LINK19|\  (2006) ``cc by``
 
-\ |LINK20|\  ``cc by``
+\ |LINK20|\  (2008) ``cc by``
 
-\ |LINK21|\  ``cc by sa``
+\ |LINK21|\  ``cc by``
 
-\ |LINK22|\  ``cc by``
+\ |LINK22|\  ``cc by sa``
 
-\ |LINK23|\  e \ |LINK24|\  ``cc by nc sa``
+\ |LINK23|\  ``cc by``
 
-\ |LINK25|\   (2018) ``cc by sa``
+\ |LINK24|\  e \ |LINK25|\  ``cc by nc sa``
+
+\ |LINK26|\   (2018) ``cc by sa``
 
 --------
 
@@ -76,15 +78,15 @@ works
 ue projects 
 ============
 
-\ |LINK26|\ 
-
 \ |LINK27|\ 
 
-\ |LINK28|\  
+\ |LINK28|\ 
 
 \ |LINK29|\  
 
-\ |LINK30|\ 
+\ |LINK30|\  
+
+\ |LINK31|\ 
 
 --------
 
@@ -93,7 +95,7 @@ ue projects
 tools for project management   
 ===============================
 
-\ |LINK31|\  (access required)
+\ |LINK32|\  (access required)
 
 --------
 
@@ -162,101 +164,105 @@ tools for project management
 
 .. |LINK7| raw:: html
 
-    <a href="http://accussi.opendatasicilia.it/#eyJub3JtYWxpemVkIjp0cnVlLCJ0aXRsZSI6IkFjY3Vzc-wsIHBlcmNo6SBpIHR1dG9yaWFsIHNvbm8gaWwgc3Vkb3JlIGRlbGxlIHBlcnNvbmUgY2hlIGhhbm5vIGNvbmRpdmlzbyBsYSBjb25vc2NlbnphIHtTZWxlY3Qgb25seSBDaXJvIFNwYXRhcm8gaW4gZmFjZXQgQXV0b3JlfSIsInVybCI6Imh0dHA6Ly9hY2N1c3NpLm9wZW5kYXRhc2ljaWxpYS5pdC8iLCJoYXNoIjoiLi8vPyZfc3VpZD0xNTIzMDgyNjY1ODcyMDU3NTI4OTg5NDExMTc2OSIsImRhdGEiOnsiY29tcG9uZW50cyI6eyJmYWNldC10ZXh0LS1kZWZhdWx0LTAiOnsidHlwZSI6ImZhY2V0Iiwic3RhdGUiOnsidGV4dCI6bnVsbH19LCJmYWNldC1jbG91ZC0udGFnLWRlZmF1bHQtMSI6eyJ0eXBlIjoiZmFjZXQiLCJzdGF0ZSI6eyJzZWxlY3Rpb24iOltdLCJzZWxlY3RNaXNzaW5nIjpmYWxzZX19LCJmYWNldC1saXN0LS5hdXRvcmUtZGVmYXVsdC0yIjp7InR5cGUiOiJmYWNldCIsInN0YXRlIjp7InNlbGVjdGlvbiI6WyJDaXJvIFNwYXRhcm8iXSwic2VsZWN0TWlzc2luZyI6ZmFsc2V9fSwiZmFjZXQtbGlzdC0uZm9ybWF0by1kZWZhdWx0LTMiOnsidHlwZSI6ImZhY2V0Iiwic3RhdGUiOnsic2VsZWN0aW9uIjpbXSwic2VsZWN0TWlzc2luZyI6ZmFsc2V9fSwiZmFjZXQtbGlzdC0uY2F0ZWdvcmlhLWRlZmF1bHQtNCI6eyJ0eXBlIjoiZmFjZXQiLCJzdGF0ZSI6eyJzZWxlY3Rpb24iOltdLCJzZWxlY3RNaXNzaW5nIjpmYWxzZX19LCJ0YWJ1bGFyLWRlZmF1bHQtMCI6eyJ0eXBlIjoidmlldyIsInN0YXRlIjp7InBhZ2UiOjAsInNvcnRDb2x1bW4iOjQsInNvcnRBc2NlbmRpbmciOmZhbHNlfX0sInZpZXdQYW5lbC1kZWZhdWx0LTAiOnsidHlwZSI6InZpZXdQYW5lbCIsInN0YXRlIjp7InZpZXdJbmRleCI6MH19fSwic3RhdGUiOjEsImxlbmd0aHkiOnRydWV9LCJpZCI6IjE1MjMwODI2NjU4NzIwNTc1Mjg5ODk0MTExNzY5IiwiY2xlYW5VcmwiOiJodHRwOi8vYWNjdXNzaS5vcGVuZGF0YXNpY2lsaWEuaXQvIiwiaGFzaGVkVXJsIjoiaHR0cDovL2FjY3Vzc2kub3BlbmRhdGFzaWNpbGlhLml0Ly8_Jl9zdWlkPTE1MjMwODI2NjU4NzIwNTc1Mjg5ODk0MTExNzY5In0=" target="_blank">Accussì, catalogo di tutorial</a>
+    <a href="https://cirospat.readthedocs.io/it/latest/Comune-Palermo-attuazione-CAD.html" target="_blank">Azioni svolte dal Comune di Palermo per l’attuazione del C.A.D. e del Piano Triennale per l’Informatica nella PA</a>
 
 .. |LINK8| raw:: html
 
-    <a href="http://petrusino.opendatasicilia.it/" target="_blank">Petrusino, catalogo di mappe con dati aperti</a>
+    <a href="http://accussi.opendatasicilia.it/#eyJub3JtYWxpemVkIjp0cnVlLCJ0aXRsZSI6IkFjY3Vzc-wsIHBlcmNo6SBpIHR1dG9yaWFsIHNvbm8gaWwgc3Vkb3JlIGRlbGxlIHBlcnNvbmUgY2hlIGhhbm5vIGNvbmRpdmlzbyBsYSBjb25vc2NlbnphIHtTZWxlY3Qgb25seSBDaXJvIFNwYXRhcm8gaW4gZmFjZXQgQXV0b3JlfSIsInVybCI6Imh0dHA6Ly9hY2N1c3NpLm9wZW5kYXRhc2ljaWxpYS5pdC8iLCJoYXNoIjoiLi8vPyZfc3VpZD0xNTIzMDgyNjY1ODcyMDU3NTI4OTg5NDExMTc2OSIsImRhdGEiOnsiY29tcG9uZW50cyI6eyJmYWNldC10ZXh0LS1kZWZhdWx0LTAiOnsidHlwZSI6ImZhY2V0Iiwic3RhdGUiOnsidGV4dCI6bnVsbH19LCJmYWNldC1jbG91ZC0udGFnLWRlZmF1bHQtMSI6eyJ0eXBlIjoiZmFjZXQiLCJzdGF0ZSI6eyJzZWxlY3Rpb24iOltdLCJzZWxlY3RNaXNzaW5nIjpmYWxzZX19LCJmYWNldC1saXN0LS5hdXRvcmUtZGVmYXVsdC0yIjp7InR5cGUiOiJmYWNldCIsInN0YXRlIjp7InNlbGVjdGlvbiI6WyJDaXJvIFNwYXRhcm8iXSwic2VsZWN0TWlzc2luZyI6ZmFsc2V9fSwiZmFjZXQtbGlzdC0uZm9ybWF0by1kZWZhdWx0LTMiOnsidHlwZSI6ImZhY2V0Iiwic3RhdGUiOnsic2VsZWN0aW9uIjpbXSwic2VsZWN0TWlzc2luZyI6ZmFsc2V9fSwiZmFjZXQtbGlzdC0uY2F0ZWdvcmlhLWRlZmF1bHQtNCI6eyJ0eXBlIjoiZmFjZXQiLCJzdGF0ZSI6eyJzZWxlY3Rpb24iOltdLCJzZWxlY3RNaXNzaW5nIjpmYWxzZX19LCJ0YWJ1bGFyLWRlZmF1bHQtMCI6eyJ0eXBlIjoidmlldyIsInN0YXRlIjp7InBhZ2UiOjAsInNvcnRDb2x1bW4iOjQsInNvcnRBc2NlbmRpbmciOmZhbHNlfX0sInZpZXdQYW5lbC1kZWZhdWx0LTAiOnsidHlwZSI6InZpZXdQYW5lbCIsInN0YXRlIjp7InZpZXdJbmRleCI6MH19fSwic3RhdGUiOjEsImxlbmd0aHkiOnRydWV9LCJpZCI6IjE1MjMwODI2NjU4NzIwNTc1Mjg5ODk0MTExNzY5IiwiY2xlYW5VcmwiOiJodHRwOi8vYWNjdXNzaS5vcGVuZGF0YXNpY2lsaWEuaXQvIiwiaGFzaGVkVXJsIjoiaHR0cDovL2FjY3Vzc2kub3BlbmRhdGFzaWNpbGlhLml0Ly8_Jl9zdWlkPTE1MjMwODI2NjU4NzIwNTc1Mjg5ODk0MTExNzY5In0=" target="_blank">Accussì, catalogo di tutorial</a>
 
 .. |LINK9| raw:: html
 
-    <a href="https://sites.google.com/view/opendataformazione" target="_blank">Portale di formazione/informazione open data</a>
+    <a href="http://petrusino.opendatasicilia.it/" target="_blank">Petrusino, catalogo di mappe con dati aperti</a>
 
 .. |LINK10| raw:: html
 
-    <a href="https://github.com/cirospat?tab=repositories" target="_blank">Github</a>
+    <a href="https://sites.google.com/view/opendataformazione" target="_blank">Portale di formazione/informazione open data</a>
 
 .. |LINK11| raw:: html
 
-    <a href="http://opendata.comune.palermo.it" target="_blank">Portale open data del comune di Palermo</a>
+    <a href="https://github.com/cirospat?tab=repositories" target="_blank">Github</a>
 
 .. |LINK12| raw:: html
 
-    <a href="http://linee-guida-open-data-comune-palermo.readthedocs.io/it/latest/" target="_blank">Linee guida comunali open data Palermo versione partecipata 2017 pubblicate in stile Read the Docs</a>
+    <a href="http://opendata.comune.palermo.it" target="_blank">Portale open data del comune di Palermo</a>
 
 .. |LINK13| raw:: html
 
-    <a href="https://docs.google.com/document/d/1N_mN0KEb-wHLLP8TQfBryeYY_f--8cT6zbqcsYlf2AE" target="_blank">linee guida comunali open data 2017 Palermo in formato aperto</a>
+    <a href="http://linee-guida-open-data-comune-palermo.readthedocs.io/it/latest/" target="_blank">Linee guida comunali open data Palermo versione partecipata 2017 pubblicate in stile Read the Docs</a>
 
 .. |LINK14| raw:: html
 
-    <a href="https://cirospat.github.io/maps/index.html" target="_blank">Maps hub by cirospat</a>
+    <a href="https://docs.google.com/document/d/1N_mN0KEb-wHLLP8TQfBryeYY_f--8cT6zbqcsYlf2AE" target="_blank">linee guida comunali open data 2017 Palermo in formato aperto</a>
 
 .. |LINK15| raw:: html
 
-    <a href="https://sites.google.com/view/palermomaps" target="_blank">Palermo_maps, uno sguardo alla città attraverso le mappe</a>
+    <a href="https://cirospat.github.io/maps/index.html" target="_blank">Maps hub by cirospat</a>
 
 .. |LINK16| raw:: html
 
-    <a href="https://siciliahub.github.io/eventipalermo2018/" target="_blank">Palermo visualizzazione eventi culturali 2018 con funzioni avanzate di search</a>
+    <a href="https://sites.google.com/view/palermomaps" target="_blank">Palermo_maps, uno sguardo alla città attraverso le mappe</a>
 
 .. |LINK17| raw:: html
 
-    <a href="https://www.comune.palermo.it/js/server/uploads/trasparenza_all/_27012014112900.pdf" target="_blank">Piano strategico della mobilità sostenibile di Palermo</a>
+    <a href="https://siciliahub.github.io/eventipalermo2018/" target="_blank">Palermo visualizzazione eventi culturali 2018 con funzioni avanzate di search</a>
 
 .. |LINK18| raw:: html
 
-    <a href="https://www.comune.palermo.it/js/server/uploads/trasparenza_all/_27012014113000.pdf" target="_blank">1° Rapporto sullo stato dell'Ambiente della città di Palermo</a>
+    <a href="https://www.comune.palermo.it/js/server/uploads/trasparenza_all/_27012014112900.pdf" target="_blank">Piano strategico della mobilità sostenibile di Palermo</a>
 
 .. |LINK19| raw:: html
 
-    <a href="https://app.box.com/s/d2le0fdlqy4svt32gy5o" target="_blank">Piano strategico di Palermo</a>
+    <a href="https://www.comune.palermo.it/js/server/uploads/trasparenza_all/_27012014113000.pdf" target="_blank">1° Rapporto sullo stato dell'Ambiente della città di Palermo</a>
 
 .. |LINK20| raw:: html
 
-    <a href="http://documenti-comune-palermo.readthedocs.io/it/latest/" target="_blank">Pubblicazioni del comune di Palermo (regolamenti, linee guida) su Read the Docs</a>
+    <a href="https://app.box.com/s/d2le0fdlqy4svt32gy5o" target="_blank">Piano strategico di Palermo</a>
 
 .. |LINK21| raw:: html
 
-    <a href="http://come-creare-guida.readthedocs.io/it/latest/" target="_blank">Come creare una pubblicazione su Read the Docs, per documenti pubblici, con lo stile Docs Italia</a>
+    <a href="http://documenti-comune-palermo.readthedocs.io/it/latest/" target="_blank">Pubblicazioni del comune di Palermo (regolamenti, linee guida) su Read the Docs</a>
 
 .. |LINK22| raw:: html
 
-    <a href="http://samba-digitale-pa.readthedocs.io" target="_blank">Samba della transizione al digitale nella pubblica amministrazione</a>
+    <a href="http://come-creare-guida.readthedocs.io/it/latest/" target="_blank">Come creare una pubblicazione su Read the Docs, per documenti pubblici, con lo stile Docs Italia</a>
 
 .. |LINK23| raw:: html
 
-    <a href="http://forumpa-librobianco-innovazione-2018.readthedocs.io" target="_blank">Libro bianco sull'innovazione della Pubblica Amministrazione, 2018 (FPA)</a>
+    <a href="http://samba-digitale-pa.readthedocs.io" target="_blank">Samba della transizione al digitale nella pubblica amministrazione</a>
 
 .. |LINK24| raw:: html
 
-    <a href="https://librobianco-innovazione-pa2018-final.readthedocs.io" target="_blank">versione finale partecipata del Libro Bianco 2018</a>
+    <a href="http://forumpa-librobianco-innovazione-2018.readthedocs.io" target="_blank">Libro bianco sull'innovazione della Pubblica Amministrazione, 2018 (FPA)</a>
 
 .. |LINK25| raw:: html
 
-    <a href="https://palermo-sostenibile.readthedocs.io" target="_blank">Palermo sostenibile</a>
+    <a href="https://librobianco-innovazione-pa2018-final.readthedocs.io" target="_blank">versione finale partecipata del Libro Bianco 2018</a>
 
 .. |LINK26| raw:: html
 
-    <a href="http://poieinkaiprattein.org/cied/" target="_blank">cied</a>
+    <a href="https://palermo-sostenibile.readthedocs.io" target="_blank">Palermo sostenibile</a>
 
 .. |LINK27| raw:: html
 
-    <a href="http://ec.europa.eu/environment/life/project/Projects/index.cfm?fuseaction=search.dspPage&n_proj_id=778&docType=pdf" target="_blank">euro-emas</a>
+    <a href="http://poieinkaiprattein.org/cied/" target="_blank">cied</a>
 
 .. |LINK28| raw:: html
 
-    <a href="http://slideplayer.com/slide/4835066/" target="_blank">etiv</a>
+    <a href="http://ec.europa.eu/environment/life/project/Projects/index.cfm?fuseaction=search.dspPage&n_proj_id=778&docType=pdf" target="_blank">euro-emas</a>
 
 .. |LINK29| raw:: html
 
-    <a href="http://bit.ly/medclima" target="_blank">medclima</a>
+    <a href="http://slideplayer.com/slide/4835066/" target="_blank">etiv</a>
 
 .. |LINK30| raw:: html
 
-    <a href="http://www.eurocities.eu/eurocities/projects/URBAN-MATRIX-Targeted-Knowledge-Exchange-on-Urban-Sustainability&tpl=home" target="_blank">urban-matrix</a>
+    <a href="http://bit.ly/medclima" target="_blank">medclima</a>
 
 .. |LINK31| raw:: html
+
+    <a href="http://www.eurocities.eu/eurocities/projects/URBAN-MATRIX-Targeted-Knowledge-Exchange-on-Urban-Sustainability&tpl=home" target="_blank">urban-matrix</a>
+
+.. |LINK32| raw:: html
 
     <a href="https://sites.google.com/site/cirospatprojectmanagement/" target="_blank">project management</a>
 
