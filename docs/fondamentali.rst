@@ -280,6 +280,20 @@ Sicurezza Cibernetica: iniziative e azioni per amministrazioni più sicure (webi
 
 --------
 
+.. _h95f3b143f9312b21717141464705e:
+
+Linee guida dell’indice dei domicili digitali delle pubbliche amministrazioni e dei gestori di pubblici servizi (IPA)
+*********************************************************************************************************************
+
+\ |LINK37|\ 
+
+--------
+
+.. _h2c1d74277104e41780968148427e:
+
+
+
+
 
 |REPLACE2|
 
@@ -474,4 +488,8 @@ Sicurezza Cibernetica: iniziative e azioni per amministrazioni più sicure (webi
 .. |LINK36| raw:: html
 
     <a href="http://eventipa.formez.it/node/169855" target="_blank">Materiali del webinar</a>
+
+.. |LINK37| raw:: html
+
+    <a href="https://lineeguida-ipa.readthedocs.io/" target="_blank">Link alle linee guida</a>
 
