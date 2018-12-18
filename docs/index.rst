@@ -44,6 +44,11 @@ Le iniziative di carattere \ |STYLE1|\ , vissute in spirito collaborativo insiem
 
 |REPLACE3|
 
+|
+
+
+|REPLACE4|
+
 .. toctree::
   :maxdepth: 2
 
@@ -96,7 +101,7 @@ Le iniziative di carattere \ |STYLE1|\ , vissute in spirito collaborativo insiem
     privacy
 
 
-|REPLACE4|
+|REPLACE5|
 
 --------
 
@@ -122,8 +127,12 @@ Le iniziative di carattere \ |STYLE1|\ , vissute in spirito collaborativo insiem
     
 .. |REPLACE3| raw:: html
 
-    <h3><strong><span style="color: #ffffff;"><span style="background-color: #247a2e; display: inline-block; padding: 3px 8px; border-radius: 10px;">Indice dei contenuti</span></span></strong></h3>
+    <p data-height="392" data-theme-id="0" data-slug-hash="bOwojj" data-default-tab="html,result" data-user="cirospat" data-pen-title="Avatar Water Tribes" class="codepen">See the Pen <a href="https://codepen.io/cirospat/pen/bOwojj/">Avatar Water Tribes</a> by ciro spataro (<a href="https://codepen.io/cirospat">@cirospat</a>) on <a href="https://codepen.io">CodePen</a>.</p>
+    <script async src="https://static.codepen.io/assets/embed/ei.js"></script>
 .. |REPLACE4| raw:: html
+
+    <h3><strong><span style="color: #ffffff;"><span style="background-color: #247a2e; display: inline-block; padding: 3px 8px; border-radius: 10px;">Indice dei contenuti</span></span></strong></h3>
+.. |REPLACE5| raw:: html
 
     <script id="dsq-count-scr" src="//guida-readthedocs.disqus.com/count.js" async></script>
     
