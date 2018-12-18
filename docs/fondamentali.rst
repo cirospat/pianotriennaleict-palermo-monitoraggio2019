@@ -264,7 +264,9 @@ Se inclusa e dettagliato nell’ambito di capitolati di gara di servizi tecnolog
 Regolamento del Parlamento Europeo e del Consiglio che istituisce uno sportello digitale unico per l'accesso a informazioni, procedure e servizi di assistenza e di risoluzione dei problemi e che modifica il Regolamento (UE) n. 1024/2012
 ********************************************************************************************************************************************************************************************************************************************
 
-\ |LINK35|\  (formato RTD)
+\ |LINK35|\ : Sportello unico digitale: in vigore il regolamento europeo.
+
+\ |LINK36|\  (formato RTD).
 
 --------
 
@@ -276,7 +278,7 @@ Sicurezza Cibernetica: iniziative e azioni per amministrazioni più sicure (webi
 
 |REPLACE1|
 
-\ |LINK36|\ .
+\ |LINK37|\ .
 
 --------
 
@@ -285,7 +287,7 @@ Sicurezza Cibernetica: iniziative e azioni per amministrazioni più sicure (webi
 Linee guida dell’indice dei domicili digitali delle pubbliche amministrazioni e dei gestori di pubblici servizi (IPA)
 *********************************************************************************************************************
 
-\ |LINK37|\ 
+\ |LINK38|\ 
 
 --------
 
@@ -483,13 +485,17 @@ Linee guida dell’indice dei domicili digitali delle pubbliche amministrazioni 
 
 .. |LINK35| raw:: html
 
-    <a href="https://cirospat.readthedocs.io/it/latest/regolamento-ue-sportello-digitale-unico.html" target="_blank">Regolamento</a>
+    <a href="https://www.agid.gov.it/it/agenzia/stampa-e-comunicazione/notizie/2018/12/11/sportello-unico-digitale-vigore-il-regolamento-europeo" target="_blank">AGID</a>
 
 .. |LINK36| raw:: html
 
-    <a href="http://eventipa.formez.it/node/169855" target="_blank">Materiali del webinar</a>
+    <a href="https://cirospat.readthedocs.io/it/latest/regolamento-ue-sportello-digitale-unico.html" target="_blank">Regolamento</a>
 
 .. |LINK37| raw:: html
+
+    <a href="http://eventipa.formez.it/node/169855" target="_blank">Materiali del webinar</a>
+
+.. |LINK38| raw:: html
 
     <a href="https://lineeguida-ipa.readthedocs.io/" target="_blank">Link alle linee guida</a>
 
