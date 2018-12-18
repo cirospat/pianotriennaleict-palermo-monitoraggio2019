@@ -298,6 +298,8 @@ Linee guida per l'accessibilità dei contenuti Web (WCAG) 2.1
 
 \ |LINK39|\  / Coordinator of the translation: Roberto Scano - \ |LINK40|\  (\ |LINK41|\ ). 
 
+\ |LINK42|\ : gratuita la \ |LINK43|\ .
+
 --------
 
 
@@ -514,4 +516,12 @@ Linee guida per l'accessibilità dei contenuti Web (WCAG) 2.1
 .. |LINK41| raw:: html
 
     <a href="mailto:rscano@iwa.it">rscano@iwa.it</a>
+
+.. |LINK42| raw:: html
+
+    <a href="https://www.agid.gov.it/it/agenzia/stampa-e-comunicazione/notizie/2018/12/03/accessibilita-disponibile-forma-gratuita-norma-tecnica-en-sui-requisiti-prodotti" target="_blank">AGID</a>
+
+.. |LINK43| raw:: html
+
+    <a href="http://store.uni.com/catalogo/index.php/uni-en-301549-2018.html" target="_blank">norma tecnica Uni EN sui requisiti per prodotti e servizi online</a>
 
