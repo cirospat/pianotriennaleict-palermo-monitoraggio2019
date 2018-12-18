@@ -10,16 +10,27 @@ L'\ |STYLE0|\  consente a chiunque di accedere a dati, documenti e informazioni 
 
 |
 
-.. _h44326131b807d633a6d3c3959256b27:
+.. _h776c3a307e41e5c42d127974787b38:
 
-Foia POP
+FOIA POP
 ********
 
-\ |LINK2|\  
+[\ |LINK2|\ : Freedom Of Information Act]
 
-Cerca tra più di 20000 Pubbliche Amministrazioni italiane. Crea passo passo la tua richiesta di accesso civico semplice e generalizzato a partire dagli opendata. Scopri come le PA spendono i soldi e come si finanziano. Diventa un cittadino attivo
+\ |LINK3|\  
+
+Cerca tra più di 20000 Pubbliche Amministrazioni italiane. Crea passo passo la tua richiesta di accesso civico semplice e generalizzato a partire dagli opendata. Scopri come le PA spendono i soldi e come si finanziano. Diventa un cittadino attivo.
 
 |REPLACE2|
+
+|
+
+.. _h101d33733b64624d1175443a9216432:
+
+Anticorruzione, FOIA e trasparenza nella PA
+*******************************************
+
+\ |LINK4|\  a cura di \ |LINK5|\ .
 
 
 .. bottom of content
@@ -42,5 +53,17 @@ Cerca tra più di 20000 Pubbliche Amministrazioni italiane. Crea passo passo la 
 
 .. |LINK2| raw:: html
 
+    <a href="http://www.funzionepubblica.gov.it/foia-7" target="_blank">FOIA</a>
+
+.. |LINK3| raw:: html
+
     <a href="http://www.foiapop.it/" target="_blank">http://www.foiapop.it</a>
+
+.. |LINK4| raw:: html
+
+    <a href="http://www.francescoaddante.eu/anticorruzione/anticorruzione.html" target="_blank">Raccolta di norme, analisi di norme e articoli</a>
+
+.. |LINK5| raw:: html
+
+    <a href="https://www.facebook.com/francesco.addante.52" target="_blank">Francesco Addante</a>
 
