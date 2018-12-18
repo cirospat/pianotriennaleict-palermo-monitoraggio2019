@@ -41,7 +41,8 @@ Anticorruzione, FOIA e trasparenza nella PA
 
 .. |REPLACE1| raw:: html
 
-    <img src="https://raw.githubusercontent.com/cirospat/newproject/master/docs/static/accesso_civico.jpg" /> grafica a cura di Marina Galluzzo
+    <img src="https://raw.githubusercontent.com/cirospat/newproject/master/docs/static/accesso_civico.jpg" /> grafica a cura di
+    <a href="https://www.facebook.com/marina.galluzzo.7" target="_blank">Marina Galluzzo</a>
 .. |REPLACE2| raw:: html
 
     <img src="http://www.foiapop.it/img/foia.jpg" /> </br>
