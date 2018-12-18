@@ -291,10 +291,14 @@ Linee guida dell’indice dei domicili digitali delle pubbliche amministrazioni 
 
 --------
 
-.. _h2c1d74277104e41780968148427e:
+.. _h222468111d334a1b53721839551f152f:
 
+Linee guida per l'accessibilità dei contenuti Web (WCAG) 2.1
+************************************************************
 
+\ |LINK39|\  / Coordinator of the translation: Roberto Scano - \ |LINK40|\  (\ |LINK41|\ ). 
 
+--------
 
 
 |REPLACE2|
@@ -498,4 +502,16 @@ Linee guida dell’indice dei domicili digitali delle pubbliche amministrazioni 
 .. |LINK38| raw:: html
 
     <a href="https://lineeguida-ipa.readthedocs.io/" target="_blank">Link alle linee guida</a>
+
+.. |LINK39| raw:: html
+
+    <a href="https://www.w3.org/Translations/WCAG21-it/" target="_blank">W3C Recommendation 05 giugno 2018</a>
+
+.. |LINK40| raw:: html
+
+    <a href="http://www.iwa.it/" target="_blank">IWA Italy - International Web Association Italia</a>
+
+.. |LINK41| raw:: html
+
+    <a href="mailto:rscano@iwa.it">rscano@iwa.it</a>
 
