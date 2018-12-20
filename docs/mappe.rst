@@ -18,12 +18,12 @@ Catalogo mappe elaborate da Ciro Spataro
 
 |
 
-.. _h5844731680111133f685075e6dd19:
+.. _h2b3c5572b581522d5625845501771:
 
-Petrusino, catalogo mappe curato dalla community di \ |LINK2|\ 
-===============================================================
+Petrusino, catalogo mappe curato dalla community di Opendatasicilia
+===================================================================
 
-\ |IMG1|\  \ |LINK3|\  concentrato principalmente sul territorio della Sicilia e Palermo.
+\ |IMG1|\  \ |LINK2|\  concentrato principalmente sul territorio della Sicilia e Palermo -  a cura della comunità di \ |LINK3|\ .
 
 --------
 
@@ -76,11 +76,11 @@ Immagine in alto: \ |LINK4|\ . Pubblicata dal Metropolitan Museum of Arts con li
 
 .. |LINK2| raw:: html
 
-    <a href="http://opendatasicilia.it" target="_blank">Opendatasicilia</a>
+    <a href="http://petrusino.opendatasicilia.it/" target="_blank">Catalogo mappe di Petrusino</a>
 
 .. |LINK3| raw:: html
 
-    <a href="http://petrusino.opendatasicilia.it/" target="_blank">Catalogo mappe di Petrusino</a>
+    <a href="http://opendatasicilia.it" target="_blank">Opendatasicilia</a>
 
 .. |LINK4| raw:: html
 
