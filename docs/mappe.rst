@@ -4,9 +4,6 @@
 Mappe
 *****
 
-
-|REPLACE1|
-
 .. _h731718451137537a2d1f10425f4ef8:
 
 Catalogo mappe elaborate da Ciro Spataro
@@ -14,7 +11,7 @@ Catalogo mappe elaborate da Ciro Spataro
 
 \ |LINK1|\ 
 
-|REPLACE2|
+|REPLACE1|
 
 |
 
@@ -28,7 +25,7 @@ Petrusino, catalogo mappe curato dalla community di Opendatasicilia
 --------
 
 
-|REPLACE3|
+|REPLACE2|
 
 
 .. bottom of content
@@ -36,12 +33,8 @@ Petrusino, catalogo mappe curato dalla community di Opendatasicilia
 
 .. |REPLACE1| raw:: html
 
-    <img src="https://lh3.googleusercontent.com/aQLV6NUtM0uVWeeQS2NyhHC3crQ7WcIdCXS0MEDwT3wz0EXEMw0sR3ePOU4B9UTOUcfmq5CgZKXK4ajY_USDPhCegrguQbkFBkcOQfu5k7qAIomn89AoTuez0eLeB8-HSK7ebl1dng0xoz_a_1lmWeftXKb-T0P5lKvBm9DoZm0w4j3qNE5df6qSqXqkoZt8INik6ZiEqyLtBWoQMEECl5e7GO9Pacx4vPgrmjubTXE3j2zKFbzjhKQ_AN00OsAb4D2WarrkDSl5c8hKJ4aXc-FS5VcZ9-sr5opeLoDVNg6UkrtQnUrMvFOT19efo8IzmSk-3tVkR0aEaWDehRqyvrhVzlJ9K-EG4RUBhpDXAeyEhjMrg2oH509OkdgJJdz3vtQNpt6tCXus4ituJFj-2dDqFwSqXm5zVt4lQ9cMLq7Y4rToD6UKPYkukpUyRhpq8R9VHIpviI5nouAWq46vfhjZJdMszTlfjjZ-o5wcZO2SHd9MnAQAD3pOK8qDZobpW2v-b5NMNQsLOooGje71Ll76MGpfAqohCHD_o452olWG8wecYL3l41md4J5wt6CN1_1ckmipsn-UqaQ_06hEneRL5zhOOG-TxBDu2RMYWjKboidmnDxc6ybyI9SER5LPpO_vSvLu6EsB1qnotxkjyLr5=w692-h502-no" width="500" /> 
-    <br>Immagine dal titolo "antica mappa di Palermo"  tratta dal catalogo <a href="https://www.facebook.com/permalink.php?story_fbid=1892982204148740&id=666100436836929" target="_blank">"La Palermo di Claudio Pezzillo"</a></br>
-.. |REPLACE2| raw:: html
-
     <iframe width="100%" height="2000px" frameBorder="0" src="https://cirospat.github.io/maps"></iframe>
-.. |REPLACE3| raw:: html
+.. |REPLACE2| raw:: html
 
     <script id="dsq-count-scr" src="//guida-readthedocs.disqus.com/count.js" async></script>
     
