@@ -27,10 +27,6 @@ Petrusino, catalogo mappe curato dalla community di Opendatasicilia
 
 --------
 
-Immagine in alto dal titolo "antica mappa di Palermo"  tratta dal catalogo "\ |LINK4|\ ".
-
---------
-
 
 |REPLACE3|
 
@@ -82,10 +78,6 @@ Immagine in alto dal titolo "antica mappa di Palermo"  tratta dal catalogo "\ |L
 .. |LINK3| raw:: html
 
     <a href="http://opendatasicilia.it" target="_blank">Opendatasicilia</a>
-
-.. |LINK4| raw:: html
-
-    <a href="https://www.facebook.com/permalink.php?story_fbid=1892982204148740&id=666100436836929" target="_blank">La Palermo di Claudio Pezzillo</a>
 
 
 .. |IMG1| image:: static/mappe_1.png
