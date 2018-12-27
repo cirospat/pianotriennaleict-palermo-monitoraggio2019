@@ -903,7 +903,7 @@ Il 3,4,5 Dicembre 2018 lo staff del Responsabile Transizione al digitale effettu
 
 .. |REPLACE1| raw:: html
 
-    <img src="https://www.comune.palermo.it/js/server/uploads/220x220/_19122018082111.jpg" width="220 />
+    <img src="https://www.comune.palermo.it/js/server/uploads/220x220/_19122018082111.jpg" width="240 />
 .. |REPLACE2| raw:: html
 
     <script id="dsq-count-scr" src="//guida-readthedocs.disqus.com/count.js" async></script>
