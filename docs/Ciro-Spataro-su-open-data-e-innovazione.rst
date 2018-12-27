@@ -834,6 +834,13 @@ L'\ |LINK173|\  è necessaria per consentire l’accesso telematico ai servizi d
 
 Il 3,4,5 Dicembre 2018 lo staff del Responsabile Transizione al digitale effettua una \ |LINK174|\  sul \ |STYLE23|\  anche in relazione alle piattaforme ICT del PON METRO Palermo, Asse 1 (Agenda Digitale). Sessione formativa ai Dirigenti per l’utilizzo dell’applicativo informatico per la gestione delle Determinazioni Dirigenziali.
 
+.. _h523e1b3566a7c1636c3e2112408028:
+
+2018 - partecipazione dell'Ufficio Innovazione alla giornata 2018 della trasparenza del comune di Palermo.
+==========================================================================================================
+
+28 dicembre 2018 partecipazione alla giornata 2018 della trasparenza comunale con l'esposizione dei servizi digitali attivati e da attivare (\ |LINK175|\ ).
+
 --------
 
 
@@ -1613,4 +1620,8 @@ Il 3,4,5 Dicembre 2018 lo staff del Responsabile Transizione al digitale effettu
 .. |LINK174| raw:: html
 
     <a href="http://bit.ly/infoday-cad-3-4-5-dic-2018" target="_blank">seconda sessione di sensibilizzazione ai Dirigenti</a>
+
+.. |LINK175| raw:: html
+
+    <a href="https://www.comune.palermo.it/noticext.php?id=20742" target="_blank">comunicato stampa</a>
 
