@@ -45,21 +45,9 @@ catalogo Read the Docs a cura di Ciro Spataro
 
 |
 
-.. _h694745713691e4c27776959552b3e71:
-
-feed rss commenti Libro bianco innovazione PA 2018
-==================================================
-
-
-|REPLACE1|
-
 
 .. bottom of content
 
-
-.. |REPLACE1| raw:: html
-
-    <iframe width="100%" height="500px" frameBorder="0" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSWEb8M42_WhXppQr1UCIRXQ-7Cuw_xpBCCUyzr-t-mOqGbGmVCcM5Ckp5gQR7Uvqc_0K_wbqJIxrWB/pubhtml?gid=0&single=true"></iframe>
 
 .. |LINK1| raw:: html
 
