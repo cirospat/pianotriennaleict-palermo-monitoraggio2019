@@ -2451,6 +2451,22 @@ A questo \ |LINK184|\  verbale e slide del seminario.
 
 --------
 
+.. _h602c46641d36d3d68643b7d2c3c636a:
+
+1 Quadrimestre 2019
+*******************
+
+67-
+
+.. _h6ba4417592e502c44551e4953503e7:
+
+Area tecnica della Riqualificazione urbana e della pianificazione urbanistica
+=============================================================================
+
+Su richiesta da parte di un cittadino si è provveduto a pubblicare il dataset "\ |LINK185|\ ". Il dataset fornito in formato xlsx e aggregato dall'Ufficio di competenza è stato pulito e reso disponibile in formato CSV.
+
+--------
+
 
 .. bottom of content
 
@@ -3337,4 +3353,8 @@ A questo \ |LINK184|\  verbale e slide del seminario.
 .. |LINK184| raw:: html
 
     <a href="https://opendata.comune.palermo.it/opendata-attivita-dettaglio.php?id=12" target="_blank">link</a>
+
+.. |LINK185| raw:: html
+
+    <a href="https://opendata.comune.palermo.it/opendata-dataset.php?dataset=1050" target="_blank">Censimento annuale degli stalli auto nelle zone a sosta tariffata dal 2007 al 2017 (zone blu)</a>
 
