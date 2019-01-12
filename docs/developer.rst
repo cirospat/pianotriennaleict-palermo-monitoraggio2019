@@ -87,11 +87,11 @@ MAPPE PALERMO STORICA EFFETTO LENTE INGRANDIMENTO E ALTRE MAPPE INTERESSANTI
 SERVIZI DI WEBMAPPING ALTERNATIVI A UMAP
 ========================================
 
-\ |LINK27|\  (che preferisco)
+\ |LINK27|\  (che preferisco) 
 
-\ |LINK28|\  (intramontabile)
+\ |LINK28|\  (intramontabile) 
 
-\ |LINK29|\  (questo però è un plugin per wordpress)
+\ |LINK29|\  (questo però è un plugin per wordpress) 
 
 \ |LINK30|\ 
 
