@@ -198,6 +198,7 @@ Su fogli google spreadsheet
 
 * \ |STYLE0|\  API che usa la seguente formula: 
 
+
 .. code:: 
 
     =JOIN(",", ImportXML(CONCATENATE("http://nominatim.openstreetmap.org/search/?format=xml&q=",A2), "//place[1]/@lat | //place[1]/@lon"))
