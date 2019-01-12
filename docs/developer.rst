@@ -192,9 +192,9 @@ Query per Umap =
 GEOCODER PER TROVARE COORDINATE LATITUDINE E LONGITUDINE 
 =========================================================
 
-\ |STYLE0|\ 
+\ |STYLE0|\ :
 
-\ |LINK52|\  plug in come componente aggiuntivo da installare su spreadsheet di Google. Sfrutta API di Google e quindi i dati delle coordinate geografiche sono riusabili solo su mappe Google.
+⇒ \ |LINK52|\  plug in come componente aggiuntivo da installare su spreadsheet di Google. Sfrutta API di Google e quindi i dati delle coordinate geografiche sono riusabili solo su mappe Google.
 
 \ |STYLE1|\  API che usa la seguente formula: 
 
@@ -330,7 +330,7 @@ newscount= il numero delle news da visualizzare come output della query
 
 .. |STYLE0| replace:: **Su fogli google spreadsheet**
 
-.. |STYLE1| replace:: **Nominatim Openstreetmap**
+.. |STYLE1| replace:: **⇒ Nominatim Openstreetmap**
 
 .. |STYLE2| replace:: **Altri Geocoder**
 
