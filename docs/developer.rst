@@ -192,20 +192,19 @@ Query per Umap =
 GEOCODER PER TROVARE COORDINATE LATITUDINE E LONGITUDINE 
 =========================================================
 
-Su fogli google spreadsheet
+\ |STYLE0|\ 
 
-* \ |LINK52|\  plug in come componente aggiuntivo da installare su spreadsheet di Google. Sfrutta API di Google e quindi i dati delle coordinate geografiche sono riusabili solo su mappe Google.
+\ |LINK52|\  plug in come componente aggiuntivo da installare su spreadsheet di Google. Sfrutta API di Google e quindi i dati delle coordinate geografiche sono riusabili solo su mappe Google.
 
-* \ |STYLE0|\  API che usa la seguente formula: 
-
+\ |STYLE1|\  API che usa la seguente formula: 
 
 .. code:: 
 
     =JOIN(",", ImportXML(CONCATENATE("http://nominatim.openstreetmap.org/search/?format=xml&q=",A2), "//place[1]/@lat | //place[1]/@lon"))
 
-    dove A2 è la colonna dove è contenuto l'indirizzo. \ |LINK53|\ .
+dove A2 è la colonna dove è contenuto l'indirizzo. \ |LINK53|\ .
 
-Altri \ |STYLE1|\ :
+\ |STYLE2|\ :
 
 * \ |LINK54|\  con Openstreetmap tramite OnData
 
@@ -329,9 +328,11 @@ newscount= il numero delle news da visualizzare come output della query
 .. bottom of content
 
 
-.. |STYLE0| replace:: **Nominatim Openstreetmap**
+.. |STYLE0| replace:: **Su fogli google spreadsheet**
 
-.. |STYLE1| replace:: **Geocoder**
+.. |STYLE1| replace:: **Nominatim Openstreetmap**
+
+.. |STYLE2| replace:: **Altri Geocoder**
 
 
 .. |LINK1| raw:: html
