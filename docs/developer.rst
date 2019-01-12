@@ -574,7 +574,7 @@ newscount= il numero delle news da visualizzare come output della query
 
 .. |LINK59| raw:: html
 
-    <a href="http://developers.gbvitrano.it/geolocation/geolocation.html" target="_blank">http://developers.gbvitrano.it/geolocation/geolocation.html</a>
+    <a href="https://coseerobe.gbvitrano.it/geocodifica-il-tuo-indirizzo-utility.html" target="_blank">https://coseerobe.gbvitrano.it/geocodifica-il-tuo-indirizzo-utility.html</a>
 
 .. |LINK60| raw:: html
 
