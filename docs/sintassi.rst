@@ -43,10 +43,9 @@ Editor online per il linguaggio RST
 Sintassi del formato RST per Docs Italia (documento del gruppo di lavoro del Team Trasformazione Digitale per Docs-Italia)
 **************************************************************************************************************************
 
+un lavoro a cura di Davide Parrovecchio
 
 |REPLACE1|
-
-un lavoro a cura di Davide Parrovecchio
 
 
 .. bottom of content
