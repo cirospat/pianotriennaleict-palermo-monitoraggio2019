@@ -36,7 +36,7 @@ Tutorial: GoogleDrive spreadsheet to uMap
 Corsi online su 'competenze e servizi digitali'
 ===============================================
 
-Corsi online sulle \ |LINK5|\  nella PA, a cura del FormezPA (accountability - agenda Digitale - e-leadership - open data - partecipazione - qualità dei servizi web - soft skill per l’e-leadership).
+Corsi online sulle \ |LINK5|\  nella PA, a cura del FormezPA (accountability - agenda Digitale - e-leadership - open data - partecipazione - qualità dei servizi web - soft skill per l’e-leadership - web analytics - ….).
 
 |REPLACE1|
 
