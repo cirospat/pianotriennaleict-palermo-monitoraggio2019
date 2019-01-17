@@ -31,12 +31,14 @@ Tutorial: GoogleDrive spreadsheet to uMap
 
 |
 
-.. _h1330c267143784d355a15487b324b79:
+.. _h1b2b62c3191c59497c4f545d49924:
 
-Corsi online
-============
+Corsi online su 'competenze e servizi digitali'
+===============================================
 
 Corsi online sulle \ |LINK5|\  nella PA, a cura del FormezPA (accountability - agenda Digitale - e-leadership - open data - partecipazione - qualità dei servizi web - soft skill per l’e-leadership).
+
+|REPLACE1|
 
 Webinar del FormezPA sui \ |LINK6|\  (data center - SPID - eProcurement - service design - Intelligenza Artificiale per la PA - comunicazione con i servizi digitali - accessibilità digitale e usabilità - professioni e competenze ICT - PagoPA - Piano triennale informatica per la PA - Cybersecurity - CAD - Data Analytic Framework - responsabile protezione dati personali - responsabile gestione documentale - responsabile transizione al digitale)
 
@@ -56,7 +58,7 @@ Manuali
 \ |LINK10|\  (\ |STYLE0|\ , \ |STYLE1|\ ) è un ambiente informatico per la gestione di corsi, basato sull'ideologia \ |LINK11|\  secondo la quale ogni apprendimento sarebbe facilitato dalla produzione di oggetti tangibili. [\ |LINK12|\ ]
 
 
-|REPLACE1|
+|REPLACE2|
 
 
 .. bottom of content
@@ -68,6 +70,9 @@ Manuali
 
 
 .. |REPLACE1| raw:: html
+
+    <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vS3oThEALGZaWABTClkwrQuy_6ur50wvhgbl84dFsdbfQwXDjgABnHQvo0lUUqunrAg1c71iFI8067E/pubhtml?widget=true&amp;headers=false"></iframe>
+.. |REPLACE2| raw:: html
 
     <script id="dsq-count-scr" src="//guida-readthedocs.disqus.com/count.js" async></script>
     
