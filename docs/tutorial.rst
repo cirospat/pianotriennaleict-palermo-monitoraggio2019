@@ -4,12 +4,12 @@
 Tutorial, manuali, corsi/webinar
 ********************************
 
-.. _h610f1d13307a2f11a7a19146e57:
+.. _h283a4d79723466e614c5f2d503e2e1e:
 
-Catalogo di tutorial sul mondo dei dati curato dalla community di \ |LINK1|\ 
-=============================================================================
+Catalogo di tutorial sul mondo dei dati curato dalla community di Opendatasicilia
+=================================================================================
 
-\ |LINK2|\ 
+\ |LINK1|\ 
 
 |
 
@@ -18,7 +18,7 @@ Catalogo di tutorial sul mondo dei dati curato dalla community di \ |LINK1|\
 Tutorial: pubblicare documenti su Read the Docs utilizzando Google doc e il componente aggiuntivo GGeditor
 ==========================================================================================================
 
-\ |LINK3|\  per facilitare la vita a chi vuole pubblicare documenti su Read the Docs o Docs Italia. GGeditor esegue il "commit" sul progetto Github direttamente da Google doc.
+\ |LINK2|\  per facilitare la vita a chi vuole pubblicare documenti su Read the Docs o Docs Italia. GGeditor esegue il "commit" sul progetto Github direttamente da Google doc.
 
 |
 
@@ -27,7 +27,7 @@ Tutorial: pubblicare documenti su Read the Docs utilizzando Google doc e il comp
 Tutorial: GoogleDrive spreadsheet to uMap
 =========================================
 
-\ |LINK4|\ . Il mio primo tutorial (grazie ad Andrea Borruso). 
+\ |LINK3|\ . Il mio primo tutorial (grazie ad Andrea Borruso). 
 
 |
 
@@ -36,11 +36,11 @@ Tutorial: GoogleDrive spreadsheet to uMap
 Corsi online su 'competenze e servizi digitali'
 ===============================================
 
-Corsi online sulle \ |LINK5|\  nella PA, a cura del FormezPA (accountability - agenda Digitale - e-leadership - open data - partecipazione - qualità dei servizi web - soft skill per l’e-leadership - web analytics - ….).
+Corsi online sulle \ |LINK4|\  nella PA, a cura del FormezPA (accountability - agenda Digitale - e-leadership - open data - partecipazione - qualità dei servizi web - soft skill per l’e-leadership - web analytics - ….).
 
 |REPLACE1|
 
-Webinar del FormezPA sui \ |LINK6|\  (data center - SPID - eProcurement - service design - Intelligenza Artificiale per la PA - comunicazione con i servizi digitali - accessibilità digitale e usabilità - professioni e competenze ICT - PagoPA - Piano triennale informatica per la PA - Cybersecurity - CAD - Data Analytic Framework - responsabile protezione dati personali - responsabile gestione documentale - responsabile transizione al digitale)
+Webinar del FormezPA sui \ |LINK5|\  (data center - SPID - eProcurement - service design - Intelligenza Artificiale per la PA - comunicazione con i servizi digitali - accessibilità digitale e usabilità - professioni e competenze ICT - PagoPA - Piano triennale informatica per la PA - Cybersecurity - CAD - Data Analytic Framework - responsabile protezione dati personali - responsabile gestione documentale - responsabile transizione al digitale)
 
 |
 
@@ -49,13 +49,13 @@ Webinar del FormezPA sui \ |LINK6|\  (data center - SPID - eProcurement - servic
 Manuali 
 ========
 
-\ |LINK7|\  per la catalogazione e pubblicazione degli eventi pubblici, effettuata tramite l'uso di un ``vocabolario controllato`` (applicativo in uso e riuso nelle Pubbliche Amministrazioni)
+\ |LINK6|\  per la catalogazione e pubblicazione degli eventi pubblici, effettuata tramite l'uso di un ``vocabolario controllato`` (applicativo in uso e riuso nelle Pubbliche Amministrazioni)
 
-\ |LINK8|\  in uso al Comune di Palermo
+\ |LINK7|\  in uso al Comune di Palermo
 
-\ |LINK9|\  del comune di Palermo
+\ |LINK8|\  del comune di Palermo
 
-\ |LINK10|\  (\ |STYLE0|\ , \ |STYLE1|\ ) è un ambiente informatico per la gestione di corsi, basato sull'ideologia \ |LINK11|\  secondo la quale ogni apprendimento sarebbe facilitato dalla produzione di oggetti tangibili. [\ |LINK12|\ ]
+\ |LINK9|\  (\ |STYLE0|\ , \ |STYLE1|\ ) è un ambiente informatico per la gestione di corsi, basato sull'ideologia \ |LINK10|\  secondo la quale ogni apprendimento sarebbe facilitato dalla produzione di oggetti tangibili. [\ |LINK11|\ ]
 
 
 |REPLACE2|
@@ -100,49 +100,45 @@ Manuali
 
 .. |LINK1| raw:: html
 
-    <a href="http://opendatasicilia.it" target="_blank">Opendatasicilia</a>
+    <a href="http://accussi.opendatasicilia.it/" target="_blank">Catalogo di Tutorial</a>
 
 .. |LINK2| raw:: html
 
-    <a href="http://accussi.opendatasicilia.it/" target="_blank">Catalogo di Tutorial</a>
+    <a href="http://googledocs.readthedocs.io" target="_blank">Un componente aggiuntivo (GGeditor)</a>
 
 .. |LINK3| raw:: html
 
-    <a href="http://googledocs.readthedocs.io" target="_blank">Un componente aggiuntivo (GGeditor)</a>
+    <a href="http://cirospat.readthedocs.io/it/latest/tutorial-googledrive-to-umap.html" target="_blank">Creare mappe su UMAP che si aggiornano automaticamente da Google Drive</a>
 
 .. |LINK4| raw:: html
 
-    <a href="http://cirospat.readthedocs.io/it/latest/tutorial-googledrive-to-umap.html" target="_blank">Creare mappe su UMAP che si aggiornano automaticamente da Google Drive</a>
+    <a href="http://formazione.formez.it/content/corsi-online-competenze-digitali" target="_blank">competenze digitali</a>
 
 .. |LINK5| raw:: html
 
-    <a href="http://formazione.formez.it/content/corsi-online-competenze-digitali" target="_blank">competenze digitali</a>
+    <a href="http://eventipa.formez.it/progetto-formez-dettaglio-ms/17436" target="_blank">servizi digitali - Italia Login</a>
 
 .. |LINK6| raw:: html
 
-    <a href="http://eventipa.formez.it/progetto-formez-dettaglio-ms/17436" target="_blank">servizi digitali - Italia Login</a>
+    <a href="http://manuale-openagenda.readthedocs.io" target="_blank">Manuale d'uso dell'applicativo Open Agenda</a>
 
 .. |LINK7| raw:: html
 
-    <a href="http://manuale-openagenda.readthedocs.io" target="_blank">Manuale d'uso dell'applicativo Open Agenda</a>
+    <a href="http://libro-firma.readthedocs.io" target="_blank">Manuale d'uso dell'applicativo Libro Firma</a>
 
 .. |LINK8| raw:: html
 
-    <a href="http://libro-firma.readthedocs.io" target="_blank">Manuale d'uso dell'applicativo Libro Firma</a>
+    <a href="http://upload-dataset-comunepalermo.readthedocs.io" target="_blank">Manuale per il caricamento dei dataset sul portale open data</a>
 
 .. |LINK9| raw:: html
 
-    <a href="http://upload-dataset-comunepalermo.readthedocs.io" target="_blank">Manuale per il caricamento dei dataset sul portale open data</a>
+    <a href="https://cirospat.readthedocs.io/it/latest/come-usare-Moodle.html" target="_blank">Guida in italiano all'uso degli strumenti di Moodle, a cura del FormezPA</a>
 
 .. |LINK10| raw:: html
 
-    <a href="https://cirospat.readthedocs.io/it/latest/come-usare-Moodle.html" target="_blank">Guida in italiano all'uso degli strumenti di Moodle, a cura del FormezPA</a>
-
-.. |LINK11| raw:: html
-
     <a href="https://it.wikipedia.org/wiki/Costruzionismo_(teoria_dell%27apprendimento)" target="_blank">costruzionista</a>
 
-.. |LINK12| raw:: html
+.. |LINK11| raw:: html
 
     <a href="https://it.wikipedia.org/wiki/Moodle" target="_blank">Definizione di Wikipedia</a>
 
