@@ -71,7 +71,7 @@ Manuali
 
 .. |REPLACE1| raw:: html
 
-    <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vS3oThEALGZaWABTClkwrQuy_6ur50wvhgbl84dFsdbfQwXDjgABnHQvo0lUUqunrAg1c71iFI8067E/pubhtml?widget=true&amp;headers=false"></iframe>
+    <iframe width="100%" height="800px" frameBorder="0" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vS3oThEALGZaWABTClkwrQuy_6ur50wvhgbl84dFsdbfQwXDjgABnHQvo0lUUqunrAg1c71iFI8067E/pubhtml"></iframe>
 .. |REPLACE2| raw:: html
 
     <script id="dsq-count-scr" src="//guida-readthedocs.disqus.com/count.js" async></script>
