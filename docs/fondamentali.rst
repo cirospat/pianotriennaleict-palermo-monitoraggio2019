@@ -138,7 +138,7 @@ Linee guida di design per i servizi digitali della PA
 
 \ |LINK17|\ 
 
- 
+\ |LINK18|\ . \ |STYLE0|\ , in grado di promuovere le soluzioni più efficienti per i cittadini e favorire la collaborazione tra Comuni e tra enti: \ |STYLE1|\ .
 
 --------
 
@@ -147,9 +147,9 @@ Linee guida di design per i servizi digitali della PA
 Linee guida competenze digitali e per l’armonizzazione delle qualificazioni professionali, delle professioni e dei profili in ambito ICT 
 *****************************************************************************************************************************************
 
-\ |LINK18|\   
+\ |LINK19|\   
 
-\ |LINK19|\  
+\ |LINK20|\  
 
 * Competenze di base
 
@@ -157,7 +157,7 @@ Linee guida competenze digitali e per l’armonizzazione delle qualificazioni pr
 
 * Competenze specialistiche
 
-\ |LINK20|\ 
+\ |LINK21|\ 
 
 --------
 
@@ -166,7 +166,7 @@ Linee guida competenze digitali e per l’armonizzazione delle qualificazioni pr
 Comune di Palermo - report IBM di Smarter Cities Challenge, edizione 2017
 *************************************************************************
 
-\ |LINK21|\  a cura di IBM Foundation, per la città di Palermo. Interessante per le raccomandazioni sul digitale
+\ |LINK22|\  a cura di IBM Foundation, per la città di Palermo. Interessante per le raccomandazioni sul digitale
 
 --------
 
@@ -175,15 +175,15 @@ Comune di Palermo - report IBM di Smarter Cities Challenge, edizione 2017
 Linee Guida SPID - Rilascio dell’identità digitale per uso professionale
 ************************************************************************
 
-\ |LINK22|\ 
+\ |LINK23|\ 
 
-#. \ |STYLE0|\ : identità digitale SPID contenente un attributo che dichiara tale caratteristica;
+#. \ |STYLE2|\ : identità digitale SPID contenente un attributo che dichiara tale caratteristica;
 
-#. \ |STYLE1|\ : l’identità digitale che contiene gli attributi della persona fisica cui sono state rilasciate le credenziali di autenticazione;
+#. \ |STYLE3|\ : l’identità digitale che contiene gli attributi della persona fisica cui sono state rilasciate le credenziali di autenticazione;
 
-#. \ |STYLE2|\ : l’identità digitale che contiene gli attributi della persona giuridica e della persona fisica cui sono state rilasciate le credenziali di autenticazione;
+#. \ |STYLE4|\ : l’identità digitale che contiene gli attributi della persona giuridica e della persona fisica cui sono state rilasciate le credenziali di autenticazione;
 
-#. \ |STYLE3|\ : identità digitale utilizzabile esclusivamente per la gestione delle identità di cui alla precedente lettera c).
+#. \ |STYLE5|\ : identità digitale utilizzabile esclusivamente per la gestione delle identità di cui alla precedente lettera c).
 
 --------
 
@@ -192,11 +192,9 @@ Linee Guida SPID - Rilascio dell’identità digitale per uso professionale
 Roadshow “Le iniziative Consip a supporto del Piano Triennale per l’informatica nella PA”
 *****************************************************************************************
 
-\ |LINK23|\  Palermo 12 giugno 2018 e slide interventi nelle città Bari, Milano, Napoli, Torino, Firenze, Cagliari
+\ |LINK24|\  Palermo 12 giugno 2018 e slide interventi nelle città Bari, Milano, Napoli, Torino, Firenze, Cagliari
 
 
-+--------------+
-|* \ |LINK24|\ |
 +--------------+
 |* \ |LINK25|\ |
 +--------------+
@@ -208,6 +206,8 @@ Roadshow “Le iniziative Consip a supporto del Piano Triennale per l’informat
 +--------------+
 |* \ |LINK29|\ |
 +--------------+
+|* \ |LINK30|\ |
++--------------+
 
 --------
 
@@ -216,7 +216,7 @@ Roadshow “Le iniziative Consip a supporto del Piano Triennale per l’informat
 Linee Guida per la Promozione dei Servizi Digitali
 **************************************************
 
-\ |LINK30|\  che possano sostenere le pubbliche amministrazioni nella definizione di strategie di comunicazione, marketing e racconto sempre più rispondenti alla necessità di favorire la conoscenza e l’utilizzo dei servizi digitali da parte di cittadini e imprese.
+\ |LINK31|\  che possano sostenere le pubbliche amministrazioni nella definizione di strategie di comunicazione, marketing e racconto sempre più rispondenti alla necessità di favorire la conoscenza e l’utilizzo dei servizi digitali da parte di cittadini e imprese.
 
 --------
 
@@ -225,14 +225,14 @@ Linee Guida per la Promozione dei Servizi Digitali
 AGID, Regolamento per l'adozione di linee guida per l'attuazione del C.A.D.
 ***************************************************************************
 
-\ |LINK31|\ 
+\ |LINK32|\ 
 
 .. _h7652391a5a4f478683032737144156:
 
 AGID, Regolamento recante le modalità per l'esercizio del potere sanzionatorio ai sensi dell'art. 32-bis del decreto legislativo 7 marzo 2005, n. 82 e s.m. (C.A.D.)
 ********************************************************************************************************************************************************************
 
-\ |LINK32|\ 
+\ |LINK33|\ 
 
 --------
 
@@ -241,7 +241,7 @@ AGID, Regolamento recante le modalità per l'esercizio del potere sanzionatorio 
 La carta dei principi per la condotta tecnologica nel procurement della PA
 **************************************************************************
 
-\ |LINK33|\  che:
+\ |LINK34|\  che:
 
 * soddisfino le esigenze degli utenti/cittadini;
 
@@ -255,7 +255,7 @@ La carta dei principi per la condotta tecnologica nel procurement della PA
 
 Se inclusa e dettagliato nell’ambito di capitolati di gara di servizi tecnologici della Pubblica Amministrazione e in particolare nelle gare strategiche di Consip, la carta dei principi tecnologici del procurement può migliorare il rapporto tra fornitori e la Pubblica Amministrazione.
 
-\ |LINK34|\ .
+\ |LINK35|\ .
 
 --------
 
@@ -264,9 +264,9 @@ Se inclusa e dettagliato nell’ambito di capitolati di gara di servizi tecnolog
 Regolamento del Parlamento Europeo e del Consiglio che istituisce uno sportello digitale unico per l'accesso a informazioni, procedure e servizi di assistenza e di risoluzione dei problemi e che modifica il Regolamento (UE) n. 1024/2012
 ********************************************************************************************************************************************************************************************************************************************
 
-\ |LINK35|\ : Sportello unico digitale: in vigore il regolamento europeo.
+\ |LINK36|\ : Sportello unico digitale: in vigore il regolamento europeo.
 
-\ |LINK36|\  (formato RTD).
+\ |LINK37|\  (formato RTD).
 
 --------
 
@@ -278,7 +278,7 @@ Sicurezza Cibernetica: iniziative e azioni per amministrazioni più sicure (webi
 
 |REPLACE1|
 
-\ |LINK37|\ .
+\ |LINK38|\ .
 
 --------
 
@@ -287,7 +287,7 @@ Sicurezza Cibernetica: iniziative e azioni per amministrazioni più sicure (webi
 Linee guida dell’indice dei domicili digitali delle pubbliche amministrazioni e dei gestori di pubblici servizi (IPA)
 *********************************************************************************************************************
 
-\ |LINK38|\ 
+\ |LINK39|\ 
 
 --------
 
@@ -296,9 +296,9 @@ Linee guida dell’indice dei domicili digitali delle pubbliche amministrazioni 
 Linee guida per l'accessibilità dei contenuti Web (WCAG) 2.1
 ************************************************************
 
-\ |LINK39|\  / Coordinator of the translation: Roberto Scano - \ |LINK40|\  (\ |LINK41|\ ). 
+\ |LINK40|\  / Coordinator of the translation: Roberto Scano - \ |LINK41|\  (\ |LINK42|\ ). 
 
-\ |LINK42|\ : gratuita la \ |LINK43|\ .
+\ |LINK43|\ : gratuita la \ |LINK44|\ .
 
 --------
 
@@ -314,13 +314,17 @@ Linee guida per l'accessibilità dei contenuti Web (WCAG) 2.1
 .. bottom of content
 
 
-.. |STYLE0| replace:: **identità digitale uso professionale**
+.. |STYLE0| replace:: **Un modello di riferimento unico**
 
-.. |STYLE1| replace:: **identità digitale uso professionale della persona fisica**
+.. |STYLE1| replace:: **se parli la stessa lingua digitale è più facile collaborare e condividere esperienze**
 
-.. |STYLE2| replace:: **identità digitale uso professionale per la persona giuridica**
+.. |STYLE2| replace:: **identità digitale uso professionale**
 
-.. |STYLE3| replace:: **utenza master**
+.. |STYLE3| replace:: **identità digitale uso professionale della persona fisica**
+
+.. |STYLE4| replace:: **identità digitale uso professionale per la persona giuridica**
+
+.. |STYLE5| replace:: **utenza master**
 
 
 .. |REPLACE1| raw:: html
@@ -423,105 +427,109 @@ Linee guida per l'accessibilità dei contenuti Web (WCAG) 2.1
 
 .. |LINK18| raw:: html
 
-    <a href="http://lg-competenzedigitali.readthedocs.io" target="_blank">lg-competenzedigitali.readthedocs.io</a>
+    <a href="https://medium.com/team-per-la-trasformazione-digitale/modello-standard-sito-web-comuni-design-prototipo-mobile-first-open-source-organizzazione-contenuti-38b330e695a1" target="_blank">dal Team Trasformazione Digitale: prototipo di sito web per i Comuni italiani basato su alcune delle migliori esperienze locali</a>
 
 .. |LINK19| raw:: html
 
-    <a href="http://competenze-digitali-docs.readthedocs.io" target="_blank">competenze-digitali-docs.readthedocs.io</a>
+    <a href="http://lg-competenzedigitali.readthedocs.io" target="_blank">lg-competenzedigitali.readthedocs.io</a>
 
 .. |LINK20| raw:: html
 
-    <a href="https://www.agid.gov.it/sites/default/files/repository_files/professioni-ict.pdf" target="_blank">LINEE GUIDA (AgID) per la qualità delle competenze digitali nelle professionalità ICT - anno 2017</a>
+    <a href="http://competenze-digitali-docs.readthedocs.io" target="_blank">competenze-digitali-docs.readthedocs.io</a>
 
 .. |LINK21| raw:: html
 
-    <a href="https://palermo-smarter-city-challenge-2017-ibm.readthedocs.io" target="_blank">Report</a>
+    <a href="https://www.agid.gov.it/sites/default/files/repository_files/professioni-ict.pdf" target="_blank">LINEE GUIDA (AgID) per la qualità delle competenze digitali nelle professionalità ICT - anno 2017</a>
 
 .. |LINK22| raw:: html
 
-    <a href="https://lg-spid-rilascio-identita-digitale-uso-professionale.readthedocs.io" target="_blank">linee guida</a>
+    <a href="https://palermo-smarter-city-challenge-2017-ibm.readthedocs.io" target="_blank">Report</a>
 
 .. |LINK23| raw:: html
 
-    <a href="http://www.consip.it/media/approfondimenti/roadshow-le-iniziative-consip-a-supporto-del-piano-triennale-per-linformatica-nella-pa-i-prossimi-appuntamenti-e-il-calendario-completo" target="_blank">slide interventi</a>
+    <a href="https://lg-spid-rilascio-identita-digitale-uso-professionale.readthedocs.io" target="_blank">linee guida</a>
 
 .. |LINK24| raw:: html
 
-    <a href="http://www.consip.it/sites/consip.it/files/Il%20piano%20triennale%20ICT%20della%20PA%20e%20il%20ruolo%20di%20Consip%20-%20Ing.%20Renato%20Di%20Donna%20%28Consip%29_3.pdf" target="_blank">Il piano triennale ICT della PA e il ruolo di Consip</a>
+    <a href="http://www.consip.it/media/approfondimenti/roadshow-le-iniziative-consip-a-supporto-del-piano-triennale-per-linformatica-nella-pa-i-prossimi-appuntamenti-e-il-calendario-completo" target="_blank">slide interventi</a>
 
 .. |LINK25| raw:: html
 
-    <a href="http://www.consip.it/sites/consip.it/files/SPC%20%E2%80%9CCloud%E2%80%9D%20lotto%201%20%28cloud%20computing%29%20-%20Dott.%20Massimiliano%20Pucciarelli%20%28AgID%29_3.pdf" target="_blank">SPC “Cloud” lotto 1 (cloud computing)</a>
+    <a href="http://www.consip.it/sites/consip.it/files/Il%20piano%20triennale%20ICT%20della%20PA%20e%20il%20ruolo%20di%20Consip%20-%20Ing.%20Renato%20Di%20Donna%20%28Consip%29_3.pdf" target="_blank">Il piano triennale ICT della PA e il ruolo di Consip</a>
 
 .. |LINK26| raw:: html
 
-    <a href="http://www.consip.it/sites/consip.it/files/SPC%20%E2%80%9CCloud%E2%80%9D%20lotto%202%20%28servizi%20di%20sicurezza%29%20-%20Ing.%20Roberto%20Bettacchi%20%28Consip%29_2.pdf" target="_blank">SPC “Cloud” lotto 2 (servizi di sicurezza)</a>
+    <a href="http://www.consip.it/sites/consip.it/files/SPC%20%E2%80%9CCloud%E2%80%9D%20lotto%201%20%28cloud%20computing%29%20-%20Dott.%20Massimiliano%20Pucciarelli%20%28AgID%29_3.pdf" target="_blank">SPC “Cloud” lotto 1 (cloud computing)</a>
 
 .. |LINK27| raw:: html
 
-    <a href="http://www.consip.it/sites/consip.it/files/SPC%20%E2%80%9CCloud%E2%80%9D%20lotto%203%20%28interoperabilit%C3%A0%2C%20Open%20e%20Big%20Data%29%20-%20Dott.%20Ing.%20Roberto%20Bettacchi%20%28Consip%29.pdf" target="_blank">SPC “Cloud” lotto 3 (interoperabilità, Open e Big Data)</a>
+    <a href="http://www.consip.it/sites/consip.it/files/SPC%20%E2%80%9CCloud%E2%80%9D%20lotto%202%20%28servizi%20di%20sicurezza%29%20-%20Ing.%20Roberto%20Bettacchi%20%28Consip%29_2.pdf" target="_blank">SPC “Cloud” lotto 2 (servizi di sicurezza)</a>
 
 .. |LINK28| raw:: html
 
-    <a href="http://www.consip.it/sites/consip.it/files/SPC%20%E2%80%9CCloud%E2%80%9D%20lotto%204%20%28applicazioni%20Web%29%20-%20Dott.%20Gabriele%20Mezzacapo%20%28Consip%29.pdf" target="_blank">SPC “Cloud” lotto 4 (applicazioni Web)</a>
+    <a href="http://www.consip.it/sites/consip.it/files/SPC%20%E2%80%9CCloud%E2%80%9D%20lotto%203%20%28interoperabilit%C3%A0%2C%20Open%20e%20Big%20Data%29%20-%20Dott.%20Ing.%20Roberto%20Bettacchi%20%28Consip%29.pdf" target="_blank">SPC “Cloud” lotto 3 (interoperabilità, Open e Big Data)</a>
 
 .. |LINK29| raw:: html
 
-    <a href="http://www.consip.it/sites/consip.it/files/SGI%20%E2%80%9CSistemi%20Gestionali%20Integrati%E2%80%9D%20-%20Dott.%20Gabriele%20Mezzacapo%20%28Consip%29_2.pdf" target="_blank">SGI “Sistemi Gestionali Integrati”</a>
+    <a href="http://www.consip.it/sites/consip.it/files/SPC%20%E2%80%9CCloud%E2%80%9D%20lotto%204%20%28applicazioni%20Web%29%20-%20Dott.%20Gabriele%20Mezzacapo%20%28Consip%29.pdf" target="_blank">SPC “Cloud” lotto 4 (applicazioni Web)</a>
 
 .. |LINK30| raw:: html
 
-    <a href="https://comunica-lg.readthedocs.io" target="_blank">Linee guida</a>
+    <a href="http://www.consip.it/sites/consip.it/files/SGI%20%E2%80%9CSistemi%20Gestionali%20Integrati%E2%80%9D%20-%20Dott.%20Gabriele%20Mezzacapo%20%28Consip%29_2.pdf" target="_blank">SGI “Sistemi Gestionali Integrati”</a>
 
 .. |LINK31| raw:: html
 
-    <a href="https://trasparenza.agid.gov.it/archivio28_provvedimenti-amministrativi_0_121612_725_1.html" target="_blank">Linee guida</a>
+    <a href="https://comunica-lg.readthedocs.io" target="_blank">Linee guida</a>
 
 .. |LINK32| raw:: html
 
-    <a href="https://trasparenza.agid.gov.it/archivio28_provvedimenti-amministrativi_0_121613_725_1.html" target="_blank">Modalità esecuzione verifiche e Regolamento potere sanzionatorio</a>
+    <a href="https://trasparenza.agid.gov.it/archivio28_provvedimenti-amministrativi_0_121612_725_1.html" target="_blank">Linee guida</a>
 
 .. |LINK33| raw:: html
 
-    <a href="https://carta-dei-principi-tecnologici-del-procurement.readthedocs.io" target="_blank">Principi per lo sviluppo di servizi digitali della Pubblica Amministrazione</a>
+    <a href="https://trasparenza.agid.gov.it/archivio28_provvedimenti-amministrativi_0_121613_725_1.html" target="_blank">Modalità esecuzione verifiche e Regolamento potere sanzionatorio</a>
 
 .. |LINK34| raw:: html
 
-    <a href="https://medium.com/team-per-la-trasformazione-digitale/carta-dei-principi-tecnologici-del-procurement-pubblica-amministrazione-innovazione-dbdfcab2745" target="_blank">Articolo di Diego Piacentini sull'argomento</a>
+    <a href="https://carta-dei-principi-tecnologici-del-procurement.readthedocs.io" target="_blank">Principi per lo sviluppo di servizi digitali della Pubblica Amministrazione</a>
 
 .. |LINK35| raw:: html
 
-    <a href="https://www.agid.gov.it/it/agenzia/stampa-e-comunicazione/notizie/2018/12/11/sportello-unico-digitale-vigore-il-regolamento-europeo" target="_blank">AGID</a>
+    <a href="https://medium.com/team-per-la-trasformazione-digitale/carta-dei-principi-tecnologici-del-procurement-pubblica-amministrazione-innovazione-dbdfcab2745" target="_blank">Articolo di Diego Piacentini sull'argomento</a>
 
 .. |LINK36| raw:: html
 
-    <a href="https://cirospat.readthedocs.io/it/latest/regolamento-ue-sportello-digitale-unico.html" target="_blank">Regolamento</a>
+    <a href="https://www.agid.gov.it/it/agenzia/stampa-e-comunicazione/notizie/2018/12/11/sportello-unico-digitale-vigore-il-regolamento-europeo" target="_blank">AGID</a>
 
 .. |LINK37| raw:: html
 
-    <a href="http://eventipa.formez.it/node/169855" target="_blank">Materiali del webinar</a>
+    <a href="https://cirospat.readthedocs.io/it/latest/regolamento-ue-sportello-digitale-unico.html" target="_blank">Regolamento</a>
 
 .. |LINK38| raw:: html
 
-    <a href="https://lineeguida-ipa.readthedocs.io/" target="_blank">Link alle linee guida</a>
+    <a href="http://eventipa.formez.it/node/169855" target="_blank">Materiali del webinar</a>
 
 .. |LINK39| raw:: html
 
-    <a href="https://www.w3.org/Translations/WCAG21-it/" target="_blank">W3C Recommendation 05 giugno 2018</a>
+    <a href="https://lineeguida-ipa.readthedocs.io/" target="_blank">Link alle linee guida</a>
 
 .. |LINK40| raw:: html
 
-    <a href="http://www.iwa.it/" target="_blank">IWA Italy - International Web Association Italia</a>
+    <a href="https://www.w3.org/Translations/WCAG21-it/" target="_blank">W3C Recommendation 05 giugno 2018</a>
 
 .. |LINK41| raw:: html
 
-    <a href="mailto:rscano@iwa.it">rscano@iwa.it</a>
+    <a href="http://www.iwa.it/" target="_blank">IWA Italy - International Web Association Italia</a>
 
 .. |LINK42| raw:: html
 
-    <a href="https://www.agid.gov.it/it/agenzia/stampa-e-comunicazione/notizie/2018/12/03/accessibilita-disponibile-forma-gratuita-norma-tecnica-en-sui-requisiti-prodotti" target="_blank">AGID</a>
+    <a href="mailto:rscano@iwa.it">rscano@iwa.it</a>
 
 .. |LINK43| raw:: html
+
+    <a href="https://www.agid.gov.it/it/agenzia/stampa-e-comunicazione/notizie/2018/12/03/accessibilita-disponibile-forma-gratuita-norma-tecnica-en-sui-requisiti-prodotti" target="_blank">AGID</a>
+
+.. |LINK44| raw:: html
 
     <a href="http://store.uni.com/catalogo/index.php/uni-en-301549-2018.html" target="_blank">norma tecnica Uni EN sui requisiti per prodotti e servizi online</a>
 
