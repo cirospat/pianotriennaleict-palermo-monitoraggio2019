@@ -116,14 +116,14 @@ Le iniziative di carattere \ |STYLE1|\ , vissute in spirito collaborativo insiem
 
 .. |REPLACE1| raw:: html
 
-    <strong><span style="background-color: #247a2e; color: #ffffff; display: inline-block; padding: 3px 8px; border-radius: 10px;">Reti di impegno</span></strong>
+    <strong><span style="background-color: #0e6136; color: #ffffff; display: inline-block; padding: 3px 8px; border-radius: 10px;">Reti di impegno</span></strong>
 .. |REPLACE2| raw:: html
 
-    <strong><span style="background-color: #247a2e; color: #ffffff; display: inline-block; padding: 3px 8px; border-radius: 10px;">Ambiti principali di questo spazio</span></strong>
+    <strong><span style="background-color: #0e6136; color: #ffffff; display: inline-block; padding: 3px 8px; border-radius: 10px;">Ambiti principali di questo spazio</span></strong>
     
 .. |REPLACE3| raw:: html
 
-    <h3><strong><span style="color: #ffffff;"><span style="background-color: #247a2e; display: inline-block; padding: 3px 8px; border-radius: 10px;">Indice dei contenuti</span></span></strong></h3>
+    <h3><strong><span style="color: #ffffff;"><span style="background-color: #0e6136; display: inline-block; padding: 3px 8px; border-radius: 10px;">Indice dei contenuti</span></span></strong></h3>
 .. |REPLACE4| raw:: html
 
     <p data-height="392" data-theme-id="0" data-slug-hash="bOwojj" data-default-tab="html,result" data-user="cirospat" data-pen-title="Avatar Water Tribes" class="codepen">See the Pen <a href="https://codepen.io/cirospat/pen/bOwojj/">Avatar Water Tribes</a> by ciro spataro (<a href="https://codepen.io/cirospat">@cirospat</a>) on <a href="https://codepen.io">CodePen</a>.</p>
