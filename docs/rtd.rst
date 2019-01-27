@@ -42,6 +42,8 @@ catalogo Read the Docs a cura di Ciro Spataro
 +------------------------------------------------------------------------------------------+
 |\ |LINK18|\                                                                               |
 +------------------------------------------------------------------------------------------+
+|\ |LINK19|\                                                                               |
++------------------------------------------------------------------------------------------+
 
 |
 
@@ -120,4 +122,8 @@ catalogo Read the Docs a cura di Ciro Spataro
 .. |LINK18| raw:: html
 
     <a href="https://palermo-sostenibile.readthedocs.io" target="_blank">https://palermo-sostenibile.readthedocs.io</a>
+
+.. |LINK19| raw:: html
+
+    <a href="https://manuale-gestione-protocollo-documento-informatico-palermo.readthedocs.io" target="_blank">Manuale di gestione del protocollo informatico, dei documenti e dell’archivio del Comune di Palermo</a>
 
