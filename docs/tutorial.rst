@@ -4,6 +4,9 @@
 Tutorial, manuali, corsi/webinar
 ********************************
 
+
+|REPLACE1|
+
 .. _h283a4d79723466e614c5f2d503e2e1e:
 
 Catalogo di tutorial sul mondo dei dati curato dalla community di Opendatasicilia
@@ -38,7 +41,7 @@ Corsi online su 'competenze e servizi digitali'
 
 Corsi online sulle \ |LINK4|\  nella PA, a cura del FormezPA (accountability - agenda Digitale - e-leadership - open data - partecipazione - qualità dei servizi web - soft skill per l’e-leadership - web analytics - ….).
 
-|REPLACE1|
+|REPLACE2|
 
 Webinar del FormezPA sui \ |LINK5|\  (data center - SPID - eProcurement - service design - Intelligenza Artificiale per la PA - comunicazione con i servizi digitali - accessibilità digitale e usabilità - professioni e competenze ICT - PagoPA - Piano triennale informatica per la PA - Cybersecurity - CAD - Data Analytic Framework - responsabile protezione dati personali - responsabile gestione documentale - responsabile transizione al digitale)
 
@@ -58,7 +61,7 @@ Manuali
 \ |LINK9|\  (\ |STYLE0|\ , \ |STYLE1|\ ) è un ambiente informatico per la gestione di corsi, basato sull'ideologia \ |LINK10|\  secondo la quale ogni apprendimento sarebbe facilitato dalla produzione di oggetti tangibili. [\ |LINK11|\ ]
 
 
-|REPLACE2|
+|REPLACE3|
 
 
 .. bottom of content
@@ -71,8 +74,11 @@ Manuali
 
 .. |REPLACE1| raw:: html
 
-    <iframe width="100%" height="870px" frameBorder="0" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vS3oThEALGZaWABTClkwrQuy_6ur50wvhgbl84dFsdbfQwXDjgABnHQvo0lUUqunrAg1c71iFI8067E/pubhtml"></iframe>
+    <img src="https://raw.githubusercontent.com/cirospat/newproject/master/docs/static/chiavepertubi.jpg" width= 200 />
 .. |REPLACE2| raw:: html
+
+    <iframe width="100%" height="870px" frameBorder="0" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vS3oThEALGZaWABTClkwrQuy_6ur50wvhgbl84dFsdbfQwXDjgABnHQvo0lUUqunrAg1c71iFI8067E/pubhtml"></iframe>
+.. |REPLACE3| raw:: html
 
     <script id="dsq-count-scr" src="//guida-readthedocs.disqus.com/count.js" async></script>
     
