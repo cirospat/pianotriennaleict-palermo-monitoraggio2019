@@ -8,8 +8,10 @@ Ciro Spataro pro-file
 
 In questo spazio descrivo le principali \ |STYLE0|\  in cui sono impegnato per ``lavoro`` e per ``passione civica``. Lo faccio per condividere conoscenza, credo che ci aiuta, tutti, a migliorare l'ambiente in cui operiamo. Descrivo tutte le attività lavorative in cui sono coinvolto tenendo traccia delle diverse iniziative avviate e dei risultati raggiunti.
 
-
 |REPLACE1|
+
+
+|REPLACE2|
 
 * \ |LINK1|\ ;
 
@@ -18,7 +20,7 @@ In questo spazio descrivo le principali \ |STYLE0|\  in cui sono impegnato per `
 * \ |LINK4|\ .
 
 
-|REPLACE2|
+|REPLACE3|
 
 * i ``dati`` che resi ``pubblici`` valorizzano il patrimonio informativo della Pubblica Amministrazione, e ne consentono un riuso creativo anche a fini economici;
 
@@ -38,7 +40,7 @@ Le iniziative di carattere \ |STYLE1|\ , vissute in spirito collaborativo insiem
 |
 
 
-|REPLACE3|
+|REPLACE4|
 
 .. toctree::
   :maxdepth: 2
@@ -94,10 +96,10 @@ Le iniziative di carattere \ |STYLE1|\ , vissute in spirito collaborativo insiem
 |
 
 
-|REPLACE4|
-
-
 |REPLACE5|
+
+
+|REPLACE6|
 
 --------
 
@@ -116,19 +118,22 @@ Le iniziative di carattere \ |STYLE1|\ , vissute in spirito collaborativo insiem
 
 .. |REPLACE1| raw:: html
 
-    <strong><span style="background-color: #63796d; color: #ffffff; display: inline-block; padding: 3px 8px; border-radius: 10px;">Reti di impegno</span></strong>
+    <img src="https://raw.githubusercontent.com/cirospat/newproject/master/docs/static/einstein.PNG" width= 300 />
 .. |REPLACE2| raw:: html
+
+    <strong><span style="background-color: #63796d; color: #ffffff; display: inline-block; padding: 3px 8px; border-radius: 10px;">Reti di impegno</span></strong>
+.. |REPLACE3| raw:: html
 
     <strong><span style="background-color: #63796d; color: #ffffff; display: inline-block; padding: 3px 8px; border-radius: 10px;">Ambiti principali di questo spazio</span></strong>
     
-.. |REPLACE3| raw:: html
+.. |REPLACE4| raw:: html
 
     <h3><strong><span style="color: #ffffff;"><span style="background-color: #63796d; display: inline-block; padding: 3px 8px; border-radius: 10px;">Indice dei contenuti</span></span></strong></h3>
-.. |REPLACE4| raw:: html
+.. |REPLACE5| raw:: html
 
     <p data-height="392" data-theme-id="0" data-slug-hash="bOwojj" data-default-tab="html,result" data-user="cirospat" data-pen-title="Avatar Water Tribes" class="codepen">See the Pen <a href="https://codepen.io/cirospat/pen/bOwojj/">Avatar Water Tribes</a> by ciro spataro (<a href="https://codepen.io/cirospat">@cirospat</a>) on <a href="https://codepen.io">CodePen</a>.</p>
     <script async src="https://static.codepen.io/assets/embed/ei.js"></script>
-.. |REPLACE5| raw:: html
+.. |REPLACE6| raw:: html
 
     <script id="dsq-count-scr" src="//guida-readthedocs.disqus.com/count.js" async></script>
     
