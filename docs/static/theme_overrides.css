@@ -77,6 +77,10 @@ h1, h2, h3 {
 /* lo sfondo a dx dopo il testo, ma con il settaggio full-hd non si applica */
 .wy-body-for-nav {background: #ffffff; }
 
+/* lo sfondo del testo - è una prova del 29 gen 2019  */
+.wy-nav-content {background: #efefef; }
+
+
 /* vedi vari stili di formattazione a questo link: 
    https://github.com/gbvitrano/HfcQGIS/blob/master/static/theme_overrides.css */
 
