@@ -105,6 +105,8 @@ Le iniziative di carattere \ |STYLE1|\ , vissute in spirito collaborativo insiem
 
 [Immagine in alto, by \ |LINK6|\ , rilasciata con licenza CC BY 3.0]
 
+[immagine di A. Einstein di \ |LINK7|\  rilasciata con licenza CC BY NC SA 2.0]
+
 
 .. bottom of content
 
@@ -182,6 +184,10 @@ Le iniziative di carattere \ |STYLE1|\ , vissute in spirito collaborativo insiem
 .. |LINK6| raw:: html
 
     <a href="https://www.deviantart.com/superawesomevectors/gallery/" target="_blank">superawesomevectors</a>
+
+.. |LINK7| raw:: html
+
+    <a href="https://www.flickr.com/photos/krisolin/7512001702/" target="_blank">Kris Olin</a>
 
 
 .. |IMG1| image:: static/index-cirospat_1.jpeg
