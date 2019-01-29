@@ -69,7 +69,7 @@ h1, h2, h3 {
 
 /* #ccd8ab colore deciso per appattarlo al verdino della freccia, per versione mobile */
 /* quello di prima era il seguente */
-/* .wy-nav-top {background: linear-gradient(#ffaf05, #ffd105); } */
+/*    .wy-nav-top {background: linear-gradient(#ffaf05, #ffd105); }    */
 
 /* mobile settings */
 .wy-nav-top {background: #85a292; }
@@ -77,8 +77,8 @@ h1, h2, h3 {
 /* lo sfondo a dx dopo il testo, ma con il settaggio full-hd non si applica */
 .wy-body-for-nav {background: #ffffff; }
 
-/* lo sfondo del testo - è una prova del 29 gen 2019  */
-.wy-nav-content {background: #ffffff; }
+/* assegnare il colore allo sfondo del testo in tutte le pagine HTML del documnto - è una prova del 29 gen 2019  */
+/*   .wy-nav-content {background: #ffffff; }    */
 
 
 /* vedi vari stili di formattazione a questo link: 
