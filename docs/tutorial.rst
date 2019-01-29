@@ -74,7 +74,7 @@ Manuali
 
 .. |REPLACE1| raw:: html
 
-    <img src="https://raw.githubusercontent.com/cirospat/newproject/master/docs/static/chiavepertubi.jpg" width= 200 />
+    <img src="https://raw.githubusercontent.com/cirospat/newproject/master/docs/static/chiavepertubi.jpg" width= 250 />
 .. |REPLACE2| raw:: html
 
     <iframe width="100%" height="870px" frameBorder="0" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vS3oThEALGZaWABTClkwrQuy_6ur50wvhgbl84dFsdbfQwXDjgABnHQvo0lUUqunrAg1c71iFI8067E/pubhtml"></iframe>
