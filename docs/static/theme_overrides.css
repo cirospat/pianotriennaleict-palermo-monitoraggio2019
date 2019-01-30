@@ -78,7 +78,7 @@ h1, h2, h3 {
 .wy-body-for-nav {background: #ffffff; }
 
 /* assegnare il colore allo sfondo del testo in tutte le pagine HTML del documnto - è una prova del 29 gen 2019  */
-/*   .wy-nav-content {background: #ffffff; }    */
+.wy-nav-content {background: #ffffff; } 
 
 
 /* vedi vari stili di formattazione a questo link: 
