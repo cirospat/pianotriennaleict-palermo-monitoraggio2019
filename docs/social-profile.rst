@@ -22,7 +22,7 @@ social
 
 \ |LINK3|\ 
 
-\ |LINK4|\ 
+\ |LINK4|\   [articoli sui dati aperti e pubblica amministrazione digitale]
 
 \ |LINK5|\ 
 
@@ -80,15 +80,15 @@ territorial mini guide
 
 .. |LINK2| raw:: html
 
-    <a href="https://plus.google.com/116441269367387619785" target="_blank">google+</a>
+    <a href="https://www.youtube.com/user/cirospat/videos" target="_blank">youtube</a>
 
 .. |LINK3| raw:: html
 
-    <a href="https://www.youtube.com/user/cirospat/videos" target="_blank">youtube</a>
+    <a href="https://twitter.com/cirospat" target="_blank">twitter</a>
 
 .. |LINK4| raw:: html
 
-    <a href="https://twitter.com/cirospat" target="_blank">twitter</a>
+    <a href="https://medium.com/@cirospat/latest" target="_blank">medium</a>
 
 .. |LINK5| raw:: html
 
