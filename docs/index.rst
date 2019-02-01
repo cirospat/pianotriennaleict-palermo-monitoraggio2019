@@ -121,14 +121,13 @@ Le iniziative di carattere \ |STYLE1|\ , vissute in spirito collaborativo insiem
 .. |REPLACE1| raw:: html
 
     <img src="https://raw.githubusercontent.com/cirospat/newproject/master/docs/static/einstein.PNG" width= 380 />
-    </br><span class="footer_small">"Se non puoi spiegarlo semplicemente, non lo capisci abbastanza bene"</span>
+    </br><span class="footer_small">"Se non puoi spiegarlo semplicemente, non lo capisci abbastanza bene". Albert Einstein</span>
 .. |REPLACE2| raw:: html
 
     <strong><span style="background-color: #63796d; color: #ffffff; display: inline-block; padding: 3px 8px; border-radius: 10px;">Reti di impegno</span></strong>
 .. |REPLACE3| raw:: html
 
     <strong><span style="background-color: #63796d; color: #ffffff; display: inline-block; padding: 3px 8px; border-radius: 10px;">Ambiti principali di questo spazio</span></strong>
-    
 .. |REPLACE4| raw:: html
 
     <h3><strong><span style="color: #ffffff;"><span style="background-color: #63796d; display: inline-block; padding: 3px 8px; border-radius: 10px;">Indice dei contenuti</span></span></strong></h3>
