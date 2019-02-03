@@ -322,7 +322,7 @@ newscount= il numero delle news da visualizzare come output della query
 
 \ |LINK79|\ 
 
-Generatore di Feed: 
+\ |STYLE1|\  
 
 * \ |LINK80|\  
 
@@ -335,6 +335,8 @@ Generatore di Feed:
 
 
 .. |STYLE0| replace:: **⇒ Nominatim Openstreetmap**
+
+.. |STYLE1| replace:: **Generatore di Feed:**
 
 
 .. |REPLACE1| raw:: html
