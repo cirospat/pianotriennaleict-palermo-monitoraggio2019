@@ -322,11 +322,11 @@ newscount= il numero delle news da visualizzare come output della query
 
 \ |LINK79|\ 
 
-Generatore di Feed: \ |LINK80|\  
+Generatore di Feed: 
 
-Altro generatore di Feed: \ |LINK81|\ 
+* \ |LINK80|\  
 
-\ |LINK82|\  per costruire Feed per gli eventi Feltrinelli di Palermo
+* \ |LINK81|\  - \ |LINK82|\  per costruire Feed per gli eventi Feltrinelli di Palermo
 
 --------
 
