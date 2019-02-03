@@ -324,6 +324,12 @@ newscount= il numero delle news da visualizzare come output della query
 
 \ |LINK80|\  
 
+Altro generatore di Feed
+
+\ |LINK81|\ 
+
+\ |LINK82|\  per costruire Feed per gli eventi Feltrinelli di Palermo
+
 --------
 
 
@@ -659,4 +665,12 @@ newscount= il numero delle news da visualizzare come output della query
 .. |LINK80| raw:: html
 
     <a href="https://feedburner.google.com/fb/a/myfeeds" target="_blank">https://feedburner.google.com/fb/a/myfeeds</a>
+
+.. |LINK81| raw:: html
+
+    <a href="https://feed43.com/" target="_blank">Feed43</a>
+
+.. |LINK82| raw:: html
+
+    <a href="https://groups.google.com/forum/#!topic/opendatasicilia/mj4rOt3VUNg" target="_blank">vedi tutorial di Andrea Borruso</a>
 
