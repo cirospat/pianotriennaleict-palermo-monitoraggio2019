@@ -14,7 +14,7 @@ CV aggiornato al 31 gennaio 2019
 
 ..  Note:: 
 
-    Il CV che stai visualizzando è disponibile a questo \ |LINK1|\  per essere scaricato in diversi formati(pdf, odt, docx, …)
+    Il CV che stai visualizzando è disponibile a questo \ |LINK1|\  per essere scaricato in diversi formati (pdf, odt, docx, …)
 
 
 .. bottom of content
