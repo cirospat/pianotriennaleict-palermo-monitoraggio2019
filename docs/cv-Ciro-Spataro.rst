@@ -11,6 +11,12 @@ CV aggiornato al 31 gennaio 2019
 
 \ |STYLE0|\ 
 
+
+..  Note:: 
+
+    Il CV che stai visualizzando è disponibile a questo \ |LINK1|\  per essere scaricato in diversi formati(pdf, odt, docx, …)
+
+
 .. bottom of content
 
 
@@ -54,3 +60,9 @@ CV aggiornato al 31 gennaio 2019
     <tr><td style="background-color:#ffffff;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #b7b7b7"><p>attivo in reti / active in networking</p></td><td style="background-color:#ffffff;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #b7b7b7"><ul style="list-style:disc;list-style-image:inherit;padding:0px 40px;margin:initial"><li style="list-style:inherit;list-style-image:inherit"><a href="https://forum.italia.it/u/cirospat/activity" target="_blank">forum DocsItalia</a> AgID per l'attuazione dell'Agenda Digitale nella Pubblica Amministrazione</li><li style="list-style:inherit;list-style-image:inherit"><a href="http://opendatasicilia.it/author/cirospat/" target="_blank">opendatasicilia</a> open data network - <a href="https://groups.google.com/forum/#!forum/opendatasicilia" target="_blank">mailing list opendatasicilia</a></li><li style="list-style:inherit;list-style-image:inherit"><a href="https://medium.com/@cirospat/latest" target="_blank">medium.com/@cirospat</a> articoli sulla Pubblica Amministrazione digitale</li><li style="list-style:inherit;list-style-image:inherit"><a href="https://twitter.com/cirospat" target="_blank">twitter.com/cirospat</a> </li><li style="list-style:inherit;list-style-image:inherit"><a href="https://www.linkedin.com/in/cirospataro/" target="_blank">linkedin.com/in/cirospataro</a> </li><li style="list-style:inherit;list-style-image:inherit"><a href="https://www.facebook.com/groups/384577025038311/" target="_blank">Pubblica Amministrazione Digitale</a> e Agenda Digitale</li><li style="list-style:inherit;list-style-image:inherit"><a href="https://www.facebook.com/groups/cad.ancitel/" target="_blank">Codice Amministrazione Digitale</a> </li></ul></td></tr>
     <tr><td style="background-color:#ffffff;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #b7b7b7"><p>profilo / profile</p></td><td style="background-color:#ffffff;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #b7b7b7"><p><a href="https://cirospat.readthedocs.io" target="_blank">cirospat.readthedocs.io</a> </p></td></tr>
     </tbody></table>
+
+
+.. |LINK1| raw:: html
+
+    <a href="https://docs.google.com/document/d/1apRGDYexeQPDBWA-yOKEVsJOwQGYk5zUAs2-aJY50rA" target="_blank">link</a>
+
