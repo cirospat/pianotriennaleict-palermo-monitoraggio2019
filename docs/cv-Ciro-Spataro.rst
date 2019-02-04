@@ -14,7 +14,7 @@ CV aggiornato al 31 gennaio 2019
 .. bottom of content
 
 
-.. |STYLE0| replace:: *CV updated to january 31, 2018*
+.. |STYLE0| replace:: *CV updated to january 31, 2019*
 
 
 .. |REPLACE1| raw:: html
