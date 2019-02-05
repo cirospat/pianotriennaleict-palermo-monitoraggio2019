@@ -103,6 +103,9 @@ Le iniziative di carattere \ |STYLE1|\ , vissute in spirito collaborativo insiem
 
 |REPLACE7|
 
+
+|REPLACE8|
+
 --------
 
 [Immagine in alto, by \ |LINK6|\ , rilasciata con licenza CC BY 3.0]
@@ -165,6 +168,10 @@ Le iniziative di carattere \ |STYLE1|\ , vissute in spirito collaborativo insiem
     })();
     </script>
     <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+.. |REPLACE8| raw:: html
+
+    <img src="https://img.shields.io/badge/%22ReadtheDocs%22%20for%20publication-the%20right%20choise-blue.svg" />
+    </br><span class="footer_small">"Per una nuova cultura della documentazione online</span>
 
 .. |LINK1| raw:: html
 
