@@ -107,8 +107,6 @@ Le iniziative di carattere \ |STYLE1|\ , vissute in spirito collaborativo insiem
 
 [immagine di A. Einstein di \ |LINK7|\  rilasciata con licenza CC BY NC SA 2.0]
 
-|REPLACE7|
-
 
 .. bottom of content
 
@@ -162,9 +160,6 @@ Le iniziative di carattere \ |STYLE1|\ , vissute in spirito collaborativo insiem
     })();
     </script>
     <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-.. |REPLACE7| raw:: html
-
-    <img alt="undefined" src="https://img.shields.io/github/license/cirospat/newproject.svg?style=flat">
 
 .. |LINK1| raw:: html
 
