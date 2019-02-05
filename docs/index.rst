@@ -122,7 +122,7 @@ Le iniziative di carattere \ |STYLE1|\ , vissute in spirito collaborativo insiem
 
 .. |REPLACE1| raw:: html
 
-    <img alt="undefined" src="https://img.shields.io/github/last-commit/cirospat/newproject.svg?colorB=%85a292&label=last%20update&style=plastic">
+    <img alt="undefined" src="https://img.shields.io/github/last-commit/cirospat/newproject.svg?colorB=%2385a292&label=ultimo%20aggiornamento&style=plastic">
 .. |REPLACE2| raw:: html
 
     <img src="https://raw.githubusercontent.com/cirospat/newproject/master/docs/static/einstein.PNG" width= 380 />
