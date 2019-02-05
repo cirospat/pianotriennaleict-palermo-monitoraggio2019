@@ -39,10 +39,13 @@ Le iniziative di carattere \ |STYLE1|\ , vissute in spirito collaborativo insiem
 
     \ |STYLE2|\  → su pagine di ``Google Doc``, che grazie al plugin ``GGeditor`` vengono pubblicate automaticamente in formato ``RST`` → su un repository dentro ``Github``, che a sua volta espone i contenuti → su pagine HTML con il design ``Read the Docs``. \ |LINK5|\ .
 
+
+|REPLACE5|
+
 |
 
 
-|REPLACE5|
+|REPLACE6|
 
 .. toctree::
   :maxdepth: 2
@@ -98,10 +101,10 @@ Le iniziative di carattere \ |STYLE1|\ , vissute in spirito collaborativo insiem
 |
 
 
-|REPLACE6|
-
-
 |REPLACE7|
+
+
+|REPLACE8|
 
 --------
 
@@ -110,9 +113,6 @@ Le iniziative di carattere \ |STYLE1|\ , vissute in spirito collaborativo insiem
 [immagine di A. Einstein di \ |LINK7|\  rilasciata con licenza CC BY NC SA 2.0]
 
 --------
-
-
-|REPLACE8|
 
 
 .. bottom of content
@@ -140,12 +140,16 @@ Le iniziative di carattere \ |STYLE1|\ , vissute in spirito collaborativo insiem
     <strong><span style="background-color: #63796d; color: #ffffff; display: inline-block; padding: 3px 8px; border-radius: 10px;">Ambiti principali di questo spazio</span></strong>
 .. |REPLACE5| raw:: html
 
-    <h3><strong><span style="color: #ffffff;"><span style="background-color: #63796d; display: inline-block; padding: 3px 8px; border-radius: 10px;">Indice dei contenuti</span></span></strong></h3>
+    <img src="https://img.shields.io/badge/%22ReadtheDocs%22%20for%20publication-the%20right%20choise-blue.svg" />
+    </br><span class="footer_small">Nuova cultura per la documentazione online</span>
 .. |REPLACE6| raw:: html
+
+    <h3><strong><span style="color: #ffffff;"><span style="background-color: #63796d; display: inline-block; padding: 3px 8px; border-radius: 10px;">Indice dei contenuti</span></span></strong></h3>
+.. |REPLACE7| raw:: html
 
     <p data-height="392" data-theme-id="0" data-slug-hash="bOwojj" data-default-tab="html,result" data-user="cirospat" data-pen-title="Avatar Water Tribes" class="codepen">See the Pen <a href="https://codepen.io/cirospat/pen/bOwojj/">Avatar Water Tribes</a> by ciro spataro (<a href="https://codepen.io/cirospat">@cirospat</a>) on <a href="https://codepen.io">CodePen</a>.</p>
     <script async src="https://static.codepen.io/assets/embed/ei.js"></script>
-.. |REPLACE7| raw:: html
+.. |REPLACE8| raw:: html
 
     <script id="dsq-count-scr" src="//guida-readthedocs.disqus.com/count.js" async></script>
     
@@ -170,10 +174,6 @@ Le iniziative di carattere \ |STYLE1|\ , vissute in spirito collaborativo insiem
     })();
     </script>
     <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-.. |REPLACE8| raw:: html
-
-    <img src="https://img.shields.io/badge/%22ReadtheDocs%22%20for%20publication-the%20right%20choise-blue.svg" />
-    </br><span class="footer_small">Nuova cultura per la documentazione online</span>
 
 .. |LINK1| raw:: html
 
