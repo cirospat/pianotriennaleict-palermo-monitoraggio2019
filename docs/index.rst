@@ -173,7 +173,7 @@ Le iniziative di carattere \ |STYLE1|\ , vissute in spirito collaborativo insiem
 .. |REPLACE8| raw:: html
 
     <img src="https://img.shields.io/badge/%22ReadtheDocs%22%20for%20publication-the%20right%20choise-blue.svg" />
-    </br><span class="footer_small">Per una nuova cultura della documentazione online</span>
+    </br><span class="footer_small">Nuova cultura per la documentazione online</span>
 
 .. |LINK1| raw:: html
 
