@@ -6,10 +6,9 @@ Ciro Spataro pro-file
 
 \ |IMG1|\  ``cultura della documentazione`` 
 
-In questo spazio descrivo le principali \ |STYLE0|\  in cui sono impegnato per ``lavoro`` e per ``passione civica``. Lo faccio per condividere conoscenza, credo che ci aiuta, tutti, a migliorare l'ambiente in cui operiamo. Descrivo tutte le attività lavorative in cui sono coinvolto tenendo traccia delle diverse iniziative avviate e dei risultati raggiunti.
-
 |REPLACE1|
 
+In questo spazio descrivo le principali \ |STYLE0|\  in cui sono impegnato per ``lavoro`` e per ``passione civica``. Lo faccio per condividere conoscenza, credo che ci aiuta, tutti, a migliorare l'ambiente in cui operiamo. Descrivo tutte le attività lavorative in cui sono coinvolto tenendo traccia delle diverse iniziative avviate e dei risultati raggiunti.
 
 |REPLACE2|
 
@@ -123,11 +122,11 @@ Le iniziative di carattere \ |STYLE1|\ , vissute in spirito collaborativo insiem
 
 .. |REPLACE1| raw:: html
 
-    <img src="https://raw.githubusercontent.com/cirospat/newproject/master/docs/static/einstein.PNG" width= 380 />
-    </br><span class="footer_small">"Se non puoi spiegarlo semplicemente, non lo capisci abbastanza bene". Albert Einstein</span>
+    <img alt="undefined" src="https://img.shields.io/github/last-commit/cirospat/newproject.svg?colorB=%23ff8000&label=last%20update&style=plastic">
 .. |REPLACE2| raw:: html
 
-    <img alt="undefined" src="https://img.shields.io/github/last-commit/cirospat/newproject.svg?colorB=%23ff8000&label=last%20update&style=plastic">
+    <img src="https://raw.githubusercontent.com/cirospat/newproject/master/docs/static/einstein.PNG" width= 380 />
+    </br><span class="footer_small">"Se non puoi spiegarlo semplicemente, non lo capisci abbastanza bene". Albert Einstein</span>
 .. |REPLACE3| raw:: html
 
     <strong><span style="background-color: #63796d; color: #ffffff; display: inline-block; padding: 3px 8px; border-radius: 10px;">Reti di impegno</span></strong>
