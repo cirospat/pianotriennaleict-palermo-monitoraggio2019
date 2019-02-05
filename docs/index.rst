@@ -103,14 +103,14 @@ Le iniziative di carattere \ |STYLE1|\ , vissute in spirito collaborativo insiem
 
 |REPLACE7|
 
-
-|REPLACE8|
-
 --------
 
 [Immagine in alto, by \ |LINK6|\ , rilasciata con licenza CC BY 3.0]
 
 [immagine di A. Einstein di \ |LINK7|\  rilasciata con licenza CC BY NC SA 2.0]
+
+
+|REPLACE8|
 
 
 .. bottom of content
@@ -171,7 +171,7 @@ Le iniziative di carattere \ |STYLE1|\ , vissute in spirito collaborativo insiem
 .. |REPLACE8| raw:: html
 
     <img src="https://img.shields.io/badge/%22ReadtheDocs%22%20for%20publication-the%20right%20choise-blue.svg" />
-    </br><span class="footer_small">"Per una nuova cultura della documentazione online</span>
+    </br><span class="footer_small">Per una nuova cultura della documentazione online</span>
 
 .. |LINK1| raw:: html
 
