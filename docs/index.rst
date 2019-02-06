@@ -140,7 +140,7 @@ Le iniziative di carattere \ |STYLE1|\ , vissute in spirito collaborativo insiem
     <strong><span style="background-color: #63796d; color: #ffffff; display: inline-block; padding: 3px 8px; border-radius: 10px;">Ambiti principali di questo spazio</span></strong>
 .. |REPLACE5| raw:: html
 
-    <img src="https://raw.githubusercontent.com/cirospat/googledocs-to-readthedocs/master/static/gdocs-rtd_6.png" width= 170 />
+    <img src="https://raw.githubusercontent.com/cirospat/googledocs-to-readthedocs/master/static/gdocs-rtd_6.png" width= 100 />
     <img src="https://img.shields.io/badge/%22ReadtheDocs%22%20for%20publication-the%20right%20choise-blue.svg" />
     </br><span class="footer_small">Nuova cultura per la documentazione online</span>
 .. |REPLACE6| raw:: html
