@@ -11,6 +11,8 @@ email
 
 \ |LINK1|\ 
 
+|REPLACE1|
+
 --------
 
 .. _h3663a193d737e5a2864411c22135a78:
@@ -60,7 +62,7 @@ territorial mini guide
 
 \ |LINK14|\  ``cc by``
 
-|REPLACE1|
+|REPLACE2|
 
 --------
 
@@ -71,6 +73,9 @@ territorial mini guide
 
 
 .. |REPLACE1| raw:: html
+
+    <img src="https://img.shields.io/badge/email-cirospat@gmail.com-blue.svg" />
+.. |REPLACE2| raw:: html
 
     <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTutfK7O5PJb41zPl-97_-j3pQai64hyRRTosVbd2rl5uZ5DwUJ1klOrMrCJlH4DGf4tFG6yZFV4gVQ/embed?start=false&loop=false&delayms=5000" frameborder="0" width="800" height="554" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
