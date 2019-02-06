@@ -316,9 +316,7 @@ Bootstrap Italia, tema per lo sviluppo di applicazioni web per la pubblica ammin
 Guida per attivare il Login eIDAS per le PA (a cura di AgID), che consente l’interoperabilità transfrontaliera delle identità digitali (eID).
 *********************************************************************************************************************************************
 
-La sua implementazione permette la circolarità delle eID italiane fra gli stati membri dell’UE.
-
-\ |LINK46|\  a cura dell'AgID.
+La sua implementazione permette la circolarità delle eID italiane fra gli stati membri dell’UE. \ |LINK46|\  a cura dell'AgID.
 
 
 |REPLACE2|
