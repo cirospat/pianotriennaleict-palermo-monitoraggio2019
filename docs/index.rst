@@ -35,9 +35,14 @@ In questo spazio descrivo le principali \ |STYLE0|\  in cui sono impegnato per `
 Le iniziative di carattere \ |STYLE1|\ , vissute in spirito collaborativo insieme ad altre persone, contribuiscono a migliorare le competenze digitali, utili nell'ambiente di lavoro al comune di Palermo.
 
 
++---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|\ |STYLE2|\  → su pagine di ``Google Doc``, che grazie al plugin ``GGeditor`` vengono pubblicate automaticamente in formato ``RST`` → su un repository dentro ``Github``, che a sua volta espone i contenuti → su pagine HTML con il design ``Read the Docs``. \ |LINK5|\ .|
++---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+
 ..  Important:: 
 
-    \ |STYLE2|\  → su pagine di ``Google Doc``, che grazie al plugin ``GGeditor`` vengono pubblicate automaticamente in formato ``RST`` → su un repository dentro ``Github``, che a sua volta espone i contenuti → su pagine HTML con il design ``Read the Docs``. \ |LINK5|\ .
+    \ |STYLE3|\  → su pagine di ``Google Doc``, che grazie al plugin ``GGeditor`` vengono pubblicate automaticamente in formato ``RST`` → su un repository dentro ``Github``, che a sua volta espone i contenuti → su pagine HTML con il design ``Read the Docs``. \ |LINK6|\ .
 
 
 |REPLACE5|
@@ -103,9 +108,9 @@ Le iniziative di carattere \ |STYLE1|\ , vissute in spirito collaborativo insiem
 
 |REPLACE7|
 
-[Immagine in alto, by \ |LINK6|\ , rilasciata con licenza CC BY 3.0]
+[Immagine in alto, by \ |LINK7|\ , rilasciata con licenza CC BY 3.0]
 
-[immagine di A. Einstein di \ |LINK7|\  rilasciata con licenza CC BY NC SA 2.0]
+[immagine di A. Einstein di \ |LINK8|\  rilasciata con licenza CC BY NC SA 2.0]
 
 .. bottom of content
 
@@ -115,6 +120,8 @@ Le iniziative di carattere \ |STYLE1|\ , vissute in spirito collaborativo insiem
 .. |STYLE1| replace:: **civico**
 
 .. |STYLE2| replace:: **La visualizzazione dei contenuti su questo portale è costruita**
+
+.. |STYLE3| replace:: **La visualizzazione dei contenuti su questo portale è costruita**
 
 
 .. |REPLACE1| raw:: html
@@ -185,9 +192,13 @@ Le iniziative di carattere \ |STYLE1|\ , vissute in spirito collaborativo insiem
 
 .. |LINK6| raw:: html
 
-    <a href="https://www.deviantart.com/superawesomevectors/gallery/" target="_blank">superawesomevectors</a>
+    <a href="http://googledocs.readthedocs.io/" target="_blank">A questo link il tutorial</a>
 
 .. |LINK7| raw:: html
+
+    <a href="https://www.deviantart.com/superawesomevectors/gallery/" target="_blank">superawesomevectors</a>
+
+.. |LINK8| raw:: html
 
     <a href="https://www.flickr.com/photos/krisolin/7512001702/" target="_blank">Kris Olin</a>
 
