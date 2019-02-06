@@ -311,6 +311,15 @@ Bootstrap Italia, tema per lo sviluppo di applicazioni web per la pubblica ammin
 
 --------
 
+.. _h20317f541333bf387b4e14f297f6e:
+
+Guida per attivare il Login eIDAS per le PA (a cura di AgID), che consente l’interoperabilità transfrontaliera delle identità digitali (eID).
+*********************************************************************************************************************************************
+
+La sua implementazione permette la circolarità delle eID italiane fra gli stati membri dell’UE.
+
+\ |LINK46|\  a cura dell'AgID.
+
 
 |REPLACE2|
 
@@ -545,4 +554,8 @@ Bootstrap Italia, tema per lo sviluppo di applicazioni web per la pubblica ammin
 .. |LINK45| raw:: html
 
     <a href="https://italia.github.io/bootstrap-italia/" target="_blank">Link</a>
+
+.. |LINK46| raw:: html
+
+    <a href="https://www.agid.gov.it/it/agenzia/stampa-e-comunicazione/notizie/2019/02/05/attivare-il-login-eidas-ecco-guida-pa-cura-agid" target="_blank">Link</a>
 
