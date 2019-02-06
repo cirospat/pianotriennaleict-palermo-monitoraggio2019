@@ -7,6 +7,9 @@ Curriculum Vitae
 
 |REPLACE1|
 
+
+|REPLACE2|
+
 CV aggiornato al 31 gennaio 2019
 
 \ |STYLE0|\ 
@@ -61,6 +64,9 @@ CV aggiornato al 31 gennaio 2019
     <tr><td style="background-color:#ffffff;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #b7b7b7"><p>profilo / profile</p></td><td style="background-color:#ffffff;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #b7b7b7"><p><a href="https://cirospat.readthedocs.io" target="_blank">cirospat.readthedocs.io</a> </p></td></tr>
     </tbody></table>
 
+.. |REPLACE2| raw:: html
+
+    <img alt="undefined" src="https://img.shields.io/badge/CV-Ciro%20Spataro-blue.svg" />
 
 .. |LINK1| raw:: html
 
