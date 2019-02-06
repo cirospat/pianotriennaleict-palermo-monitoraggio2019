@@ -302,6 +302,15 @@ Linee guida per l'accessibilità dei contenuti Web (WCAG) 2.1
 
 --------
 
+.. _h49313272325134192d61764a3d3f2c5e:
+
+Bootstrap Italia, tema per lo sviluppo di applicazioni web per la pubblica amministrazione
+******************************************************************************************
+
+\ |LINK45|\ , a cura del Team Trasformazione Digitale + AgID.
+
+--------
+
 
 |REPLACE2|
 
@@ -532,4 +541,8 @@ Linee guida per l'accessibilità dei contenuti Web (WCAG) 2.1
 .. |LINK44| raw:: html
 
     <a href="http://store.uni.com/catalogo/index.php/uni-en-301549-2018.html" target="_blank">norma tecnica Uni EN sui requisiti per prodotti e servizi online</a>
+
+.. |LINK45| raw:: html
+
+    <a href="https://italia.github.io/bootstrap-italia/" target="_blank">Link</a>
 
