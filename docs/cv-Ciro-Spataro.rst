@@ -10,10 +10,6 @@ Curriculum Vitae
 
 |REPLACE2|
 
-CV aggiornato al 31 gennaio 2019
-
-\ |STYLE0|\ 
-
 
 ..  Note:: 
 
@@ -21,9 +17,6 @@ CV aggiornato al 31 gennaio 2019
 
 
 .. bottom of content
-
-
-.. |STYLE0| replace:: *CV updated to january 31, 2019*
 
 
 .. |REPLACE1| raw:: html
@@ -66,7 +59,7 @@ CV aggiornato al 31 gennaio 2019
 
 .. |REPLACE2| raw:: html
 
-    <img alt="undefined" src="https://img.shields.io/badge/CV-Ciro%20Spataro-blue.svg" />
+    <img alt="undefined" src="https://img.shields.io/badge/CV-Ciro%20Spataro-blue.svg" /> aggiornato al 31 gennaio 2019 / updated to january 31, 2019
 
 .. |LINK1| raw:: html
 
