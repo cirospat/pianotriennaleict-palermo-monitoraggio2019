@@ -59,7 +59,7 @@ Curriculum Vitae
 
 .. |REPLACE2| raw:: html
 
-    <img alt="undefined" src="https://img.shields.io/badge/CV-Ciro%20Spataro-blue.svg" /> aggiornato al 31 gennaio 2019 / updated to january 31, 2019
+    <img alt="undefined" src="https://img.shields.io/badge/CV-Ciro%20Spataro-blue.svg" /> <b>aggiornato al 31 gennaio 2019 / updated to january 31, 2019</b>
 
 .. |LINK1| raw:: html
 
