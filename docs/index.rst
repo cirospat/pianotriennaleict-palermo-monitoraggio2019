@@ -101,11 +101,11 @@ Le iniziative di carattere \ |STYLE1|\ , vissute in spirito collaborativo insiem
 |
 
 
-+-------------------------------------------------------------------------------+
-|[Immagine in alto, by \ |LINK6|\ , rilasciata con licenza CC BY 3.0]           |
-|                                                                               |
-|[immagine di A. Einstein di \ |LINK7|\  rilasciata con licenza CC BY NC SA 2.0]|
-+-------------------------------------------------------------------------------+
++---------------------------------------------------------------------------------------------------+
+|[Immagine, in alto, del libro, by \ |LINK6|\ , rilasciata con licenza CC BY 3.0]                   |
+|                                                                                                   |
+|[Immagine, in alto, di A.Einstein elaborata by \ |LINK7|\ , rilasciata con licenza CC BY NC SA 2.0]|
++---------------------------------------------------------------------------------------------------+
 
 
 |REPLACE7|
