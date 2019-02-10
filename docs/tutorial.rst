@@ -16,12 +16,21 @@ Catalogo di tutorial sul mondo dei dati curato dalla community di Opendatasicili
 
 |
 
+.. _h5589565311393f3a207507d765267:
+
+Tansignari
+==========
+
+\ |LINK2|\  è un'idea di Andrea Borruso, ed è un patrimonio culturale della comunità opendatasicilia. Chiunque vuole conoscere come funziona qualcosa concernente qualsiasi cosa abbia relazione con lo sviluppo informatico, crea una \ |LINK3|\  su un repository di GitHub, così che una volta fornita la risposta (da parte di qualcuno che conosce la materia), si creano delle \ |LINK4|\  in un unico contenitore condiviso online che rappresentano la conoscenza.
+
+|
+
 .. _h29261b7f1c264404b19385c75c4a3f:
 
 Tutorial: pubblicare documenti su Read the Docs utilizzando Google doc e il componente aggiuntivo GGeditor
 ==========================================================================================================
 
-\ |LINK2|\  per facilitare la vita a chi vuole pubblicare documenti su Read the Docs o Docs Italia. GGeditor esegue il "commit" sul progetto Github direttamente da Google doc.
+\ |LINK5|\  per facilitare la vita a chi vuole pubblicare documenti su Read the Docs o Docs Italia. GGeditor esegue il "commit" sul progetto Github direttamente da Google doc.
 
 |
 
@@ -30,7 +39,7 @@ Tutorial: pubblicare documenti su Read the Docs utilizzando Google doc e il comp
 Tutorial: GoogleDrive spreadsheet to uMap
 =========================================
 
-\ |LINK3|\ . Il mio primo tutorial (grazie ad Andrea Borruso). 
+\ |LINK6|\ . Il mio primo tutorial (grazie ad Andrea Borruso). 
 
 |
 
@@ -39,13 +48,13 @@ Tutorial: GoogleDrive spreadsheet to uMap
 Corsi online su 'competenze e servizi digitali'
 ===============================================
 
-\ |STYLE0|\  \ |LINK4|\  \ |STYLE1|\  (accountability - agenda Digitale - e-leadership - open data - partecipazione - qualità dei servizi web - soft skill per l’e-leadership - web analytics - ….).
+\ |STYLE0|\  \ |LINK7|\  \ |STYLE1|\  (accountability - agenda Digitale - e-leadership - open data - partecipazione - qualità dei servizi web - soft skill per l’e-leadership - web analytics - ….).
 
 |REPLACE2|
 
-\ |STYLE2|\  sui \ |LINK5|\  (data center - SPID - eProcurement - service design - Intelligenza Artificiale per la PA - comunicazione con i servizi digitali - accessibilità digitale e usabilità - professioni e competenze ICT - PagoPA - Piano triennale informatica per la PA - Cybersecurity - CAD - Data Analytic Framework - responsabile protezione dati personali - responsabile gestione documentale - responsabile transizione al digitale)
+\ |STYLE2|\  sui \ |LINK8|\  (data center - SPID - eProcurement - service design - Intelligenza Artificiale per la PA - comunicazione con i servizi digitali - accessibilità digitale e usabilità - professioni e competenze ICT - PagoPA - Piano triennale informatica per la PA - Cybersecurity - CAD - Data Analytic Framework - responsabile protezione dati personali - responsabile gestione documentale - responsabile transizione al digitale)
 
-\ |STYLE3|\ . \ |LINK6|\ . Posta elettronica certificata, PDF e firma digitale (Pades e Cades) - i formati dei files (doc, odt, xls, ods, docx, xlsx, jpg, bmp, pdf, xml, zip, 7z ecc....) e la loro gestione e conservazione - la creazione dei fascicoli elettronici e la denominazione di cartelle e files - i programmi open source e freeware più diffusi ed utili (libreoffice, 7z, gimp, ecc...) - ricerca di norme, sentenze e dottrina in rete - informatica giuridica (dall'analogico al digitale e viceversa, copie analogiche e copie digitali, conservazione degli atti) - ottimizzazione dei browser (preferiti, links ecc...).
+\ |STYLE3|\ . \ |LINK9|\ . Posta elettronica certificata, PDF e firma digitale (Pades e Cades) - i formati dei files (doc, odt, xls, ods, docx, xlsx, jpg, bmp, pdf, xml, zip, 7z ecc....) e la loro gestione e conservazione - la creazione dei fascicoli elettronici e la denominazione di cartelle e files - i programmi open source e freeware più diffusi ed utili (libreoffice, 7z, gimp, ecc...) - ricerca di norme, sentenze e dottrina in rete - informatica giuridica (dall'analogico al digitale e viceversa, copie analogiche e copie digitali, conservazione degli atti) - ottimizzazione dei browser (preferiti, links ecc...).
 
 |
 
@@ -54,13 +63,13 @@ Corsi online su 'competenze e servizi digitali'
 Manuali 
 ========
 
-\ |LINK7|\  per la catalogazione e pubblicazione degli eventi pubblici, effettuata tramite l'uso di un ``vocabolario controllato`` (applicativo in uso e riuso nelle Pubbliche Amministrazioni)
+\ |LINK10|\  per la catalogazione e pubblicazione degli eventi pubblici, effettuata tramite l'uso di un ``vocabolario controllato`` (applicativo in uso e riuso nelle Pubbliche Amministrazioni)
 
-\ |LINK8|\  in uso al Comune di Palermo
+\ |LINK11|\  in uso al Comune di Palermo
 
-\ |LINK9|\  del comune di Palermo
+\ |LINK12|\  del comune di Palermo
 
-\ |LINK10|\  (\ |STYLE4|\ , \ |STYLE5|\ ) è un ambiente informatico per la gestione di corsi, basato sull'ideologia \ |LINK11|\  secondo la quale ogni apprendimento sarebbe facilitato dalla produzione di oggetti tangibili. [\ |LINK12|\ ]
+\ |LINK13|\  (\ |STYLE4|\ , \ |STYLE5|\ ) è un ambiente informatico per la gestione di corsi, basato sull'ideologia \ |LINK14|\  secondo la quale ogni apprendimento sarebbe facilitato dalla produzione di oggetti tangibili. [\ |LINK15|\ ]
 
 
 |REPLACE3|
@@ -120,45 +129,57 @@ Manuali
 
 .. |LINK2| raw:: html
 
-    <a href="http://googledocs.readthedocs.io" target="_blank">Un componente aggiuntivo (GGeditor)</a>
+    <a href="https://github.com/opendatasicilia/tansignari" target="_blank">Tansignari</a>
 
 .. |LINK3| raw:: html
 
-    <a href="http://cirospat.readthedocs.io/it/latest/tutorial-googledrive-to-umap.html" target="_blank">Creare mappe su UMAP che si aggiornano automaticamente da Google Drive</a>
+    <a href="https://github.com/opendatasicilia/tansignari/issues" target="_blank">issue</a>
 
 .. |LINK4| raw:: html
 
-    <a href="http://formazione.formez.it/content/corsi-online-competenze-digitali" target="_blank">competenze digitali</a>
+    <a href="https://github.com/opendatasicilia/tansignari/tree/master/ricette" target="_blank">ricette</a>
 
 .. |LINK5| raw:: html
 
-    <a href="http://eventipa.formez.it/progetto-formez-dettaglio-ms/17436" target="_blank">servizi digitali - Italia Login</a>
+    <a href="http://googledocs.readthedocs.io" target="_blank">Un componente aggiuntivo (GGeditor)</a>
 
 .. |LINK6| raw:: html
 
-    <a href="https://www.youtube.com/playlist?list=PLnc9N-ztTF5fxGBBYR1JDpd_VoAyJ_H2p" target="_blank">Link</a>
+    <a href="http://cirospat.readthedocs.io/it/latest/tutorial-googledrive-to-umap.html" target="_blank">Creare mappe su UMAP che si aggiornano automaticamente da Google Drive</a>
 
 .. |LINK7| raw:: html
 
-    <a href="http://manuale-openagenda.readthedocs.io" target="_blank">Manuale d'uso dell'applicativo Open Agenda</a>
+    <a href="http://formazione.formez.it/content/corsi-online-competenze-digitali" target="_blank">competenze digitali</a>
 
 .. |LINK8| raw:: html
 
-    <a href="http://libro-firma.readthedocs.io" target="_blank">Manuale d'uso dell'applicativo Libro Firma</a>
+    <a href="http://eventipa.formez.it/progetto-formez-dettaglio-ms/17436" target="_blank">servizi digitali - Italia Login</a>
 
 .. |LINK9| raw:: html
 
-    <a href="http://upload-dataset-comunepalermo.readthedocs.io" target="_blank">Manuale per il caricamento dei dataset sul portale open data</a>
+    <a href="https://www.youtube.com/playlist?list=PLnc9N-ztTF5fxGBBYR1JDpd_VoAyJ_H2p" target="_blank">Link</a>
 
 .. |LINK10| raw:: html
 
-    <a href="https://cirospat.readthedocs.io/it/latest/come-usare-Moodle.html" target="_blank">Guida in italiano all'uso degli strumenti di Moodle, a cura del FormezPA</a>
+    <a href="http://manuale-openagenda.readthedocs.io" target="_blank">Manuale d'uso dell'applicativo Open Agenda</a>
 
 .. |LINK11| raw:: html
 
-    <a href="https://it.wikipedia.org/wiki/Costruzionismo_(teoria_dell%27apprendimento)" target="_blank">costruzionista</a>
+    <a href="http://libro-firma.readthedocs.io" target="_blank">Manuale d'uso dell'applicativo Libro Firma</a>
 
 .. |LINK12| raw:: html
+
+    <a href="http://upload-dataset-comunepalermo.readthedocs.io" target="_blank">Manuale per il caricamento dei dataset sul portale open data</a>
+
+.. |LINK13| raw:: html
+
+    <a href="https://cirospat.readthedocs.io/it/latest/come-usare-Moodle.html" target="_blank">Guida in italiano all'uso degli strumenti di Moodle, a cura del FormezPA</a>
+
+.. |LINK14| raw:: html
+
+    <a href="https://it.wikipedia.org/wiki/Costruzionismo_(teoria_dell%27apprendimento)" target="_blank">costruzionista</a>
+
+.. |LINK15| raw:: html
 
     <a href="https://it.wikipedia.org/wiki/Moodle" target="_blank">Definizione di Wikipedia</a>
 
