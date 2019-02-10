@@ -318,6 +318,17 @@ Guida per attivare il Login eIDAS per le PA (a cura di AgID), che consente l’i
 
 La sua implementazione permette la circolarità delle eID italiane fra gli stati membri dell’UE. \ |LINK46|\  a cura dell'AgID.
 
+--------
+
+.. _h7e6e703d15473d6b4f4c5d56b1d2c68:
+
+Conoscere i fabbisogni, le consultazioni di mercato, gli appalti innovativi delle Pubbliche Amministrazioni  e proporre le tue soluzioni
+****************************************************************************************************************************************
+
+\ |LINK47|\ .
+
+--------
+
 
 |REPLACE2|
 
@@ -556,4 +567,8 @@ La sua implementazione permette la circolarità delle eID italiane fra gli stati
 .. |LINK46| raw:: html
 
     <a href="https://www.agid.gov.it/it/agenzia/stampa-e-comunicazione/notizie/2019/02/05/attivare-il-login-eidas-ecco-guida-pa-cura-agid" target="_blank">Link</a>
+
+.. |LINK47| raw:: html
+
+    <a href="https://appaltinnovativi.gov.it/" target="_blank">Link appalti innovativi</a>
 
