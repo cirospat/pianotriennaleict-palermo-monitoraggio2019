@@ -28,12 +28,9 @@ Definizione di interoperabilità semantica: "\ |STYLE0|\ " (fonte: "\ |LINK1|\ "
 Ontologia OPENARS (Parlamento Regionale Siciliano)
 **************************************************
 
-\ |LINK3|\  a cura di Davide Taibi e Giovanni Pirrotta (\ |LINK4|\ ).
+\ |LINK3|\  a cura di Davide Taibi e Giovanni Pirrotta (\ |LINK4|\ ). Guarda le relazioni in \ |LINK5|\ .
 
 |REPLACE2|
-
-
-|REPLACE3|
 
 |
 
@@ -42,7 +39,7 @@ Ontologia OPENARS (Parlamento Regionale Siciliano)
 Vocabolario controllato degli eventi pubblici
 *********************************************
 
-\ |LINK5|\  alla risorsa creata da Opencontent. Vocabolario allineato a \ |LINK6|\  del Ministero dei Beni Culturali.
+\ |LINK6|\  alla risorsa creata da Opencontent. Vocabolario allineato a \ |LINK7|\  del Ministero dei Beni Culturali.
 
 |
 
@@ -51,9 +48,9 @@ Vocabolario controllato degli eventi pubblici
 Vocabolario controllato dei servizi pubblici
 ********************************************
 
-\ |LINK7|\  alla risorsa, traduzione in italiano (attualmente in fase di implementazione) del documento denominato \ |LINK8|\ .
+\ |LINK8|\  alla risorsa, traduzione in italiano (attualmente in fase di implementazione) del documento denominato \ |LINK9|\ .
 
-|REPLACE4|
+|REPLACE3|
 
 |
 
@@ -62,11 +59,11 @@ Vocabolario controllato dei servizi pubblici
 Ontologie e vocabolari controllati del Data & Analytics Framework - AGID (OntoPiA) 
 ***********************************************************************************
 
-\ |LINK9|\  sviluppati nell'ambito delle azioni previste dal piano triennale per l'informatica nella PA, e a supporto del lavoro da svolgere per l_\ |LINK10|\ . A cura di Giorgia Lodi, AGID.
-
-\ |LINK11|\ . AGID.
+\ |LINK10|\  sviluppati nell'ambito delle azioni previste dal piano triennale per l'informatica nella PA, e a supporto del lavoro da svolgere per l_\ |LINK11|\ . A cura di Giorgia Lodi, AGID.
 
 \ |LINK12|\ . AGID.
+
+\ |LINK13|\ . AGID.
 
 |
 
@@ -75,7 +72,7 @@ Ontologie e vocabolari controllati del Data & Analytics Framework - AGID (OntoPi
 Ontologie ISTAT
 ***************
 
-\ |LINK13|\ . ISTAT.
+\ |LINK14|\ . ISTAT.
 
 |
 
@@ -84,12 +81,12 @@ Ontologie ISTAT
 Ontologie Ministero Beni Culturali
 **********************************
 
-\ |LINK14|\  (quali ad esempio \ |LINK15|\ , con lo scopo di modellare i dati che caratterizzano gli istituti e i luoghi della cultura). MIBACT
+\ |LINK15|\  (quali ad esempio \ |LINK16|\ , con lo scopo di modellare i dati che caratterizzano gli istituti e i luoghi della cultura). MIBACT
 
 |
 
 
-|REPLACE5|
+|REPLACE4|
 
 
 .. bottom of content
@@ -112,13 +109,10 @@ Ontologie Ministero Beni Culturali
     <span class="footer_small"><a href="http://www.openars.org/" target="_blank">Ontologia OpenArs</a>.</span>
 .. |REPLACE3| raw:: html
 
-    <iframe align="center" width="100%" height="700px" src="https://www.openars.org/core/webvowl/index.html#ontology"></iframe>
-.. |REPLACE4| raw:: html
-
     <img src="https://raw.githubusercontent.com/cirospat/-vocabolario-controllato-servizi-pubblici/master/static/CPSV-AP_Specification%20v2.2.png" /> 
     </br>
     <span class="footer_small"><a href="https://vocabolario-controllato-servizi-pubblici.readthedocs.io" target="_blank">Vocabolario controllato dei servizi pubblici</a> (traduzione del "Core Public Service Vocabulary Application Profile 2.2").</span>
-.. |REPLACE5| raw:: html
+.. |REPLACE4| raw:: html
 
     <script id="dsq-count-scr" src="//guida-readthedocs.disqus.com/count.js" async></script>
     
@@ -162,45 +156,49 @@ Ontologie Ministero Beni Culturali
 
 .. |LINK5| raw:: html
 
-    <a href="https://content-classes.readthedocs.io/it/latest/docs/Eventi%20pubblici%20(CPEV-AP_IT).html" target="_blank">Link</a>
+    <a href="http://www.openars.org/core/webvowl/index.html#ontology" target="_blank">questo schema dinamico</a>
 
 .. |LINK6| raw:: html
 
-    <a href="http://dati.beniculturali.it/cultural_on/" target="_blank">Cultural ONtology</a>
+    <a href="https://content-classes.readthedocs.io/it/latest/docs/Eventi%20pubblici%20(CPEV-AP_IT).html" target="_blank">Link</a>
 
 .. |LINK7| raw:: html
 
-    <a href="https://vocabolario-controllato-servizi-pubblici.readthedocs.io" target="_blank">Link</a>
+    <a href="http://dati.beniculturali.it/cultural_on/" target="_blank">Cultural ONtology</a>
 
 .. |LINK8| raw:: html
 
-    <a href="https://joinup.ec.europa.eu/solution/core-public-service-vocabulary-application-profile/releases" target="_blank">Core Public Service Vocabulary Application Profile 2.2</a>
+    <a href="https://vocabolario-controllato-servizi-pubblici.readthedocs.io" target="_blank">Link</a>
 
 .. |LINK9| raw:: html
 
-    <a href="https://github.com/italia/daf-ontologie-vocabolari-controllati" target="_blank">Repository GitHub delle ontologie e dei vocabolari controllati</a>
+    <a href="https://joinup.ec.europa.eu/solution/core-public-service-vocabulary-application-profile/releases" target="_blank">Core Public Service Vocabulary Application Profile 2.2</a>
 
 .. |LINK10| raw:: html
 
-    <a href="http://elenco-basi-di-dati-chiave.readthedocs.io/it/latest/" target="_blank">elenco delle basi di dati chiave</a>
+    <a href="https://github.com/italia/daf-ontologie-vocabolari-controllati" target="_blank">Repository GitHub delle ontologie e dei vocabolari controllati</a>
 
 .. |LINK11| raw:: html
 
-    <a href="https://dataportal.daf.teamdigitale.it/dataset/search#/ontologies" target="_blank">Ontologie dal Data & Analytics Framework Italia</a>
+    <a href="http://elenco-basi-di-dati-chiave.readthedocs.io/it/latest/" target="_blank">elenco delle basi di dati chiave</a>
 
 .. |LINK12| raw:: html
 
-    <a href="https://dataportal.daf.teamdigitale.it/dataset/search#/vocabularies" target="_blank">Vocabolari controllati dal Data & Analytics Framework Italia</a>
+    <a href="https://dataportal.daf.teamdigitale.it/dataset/search#/ontologies" target="_blank">Ontologie dal Data & Analytics Framework Italia</a>
 
 .. |LINK13| raw:: html
 
-    <a href="http://datiopen.istat.it/ontologie.php" target="_blank">Ontologie dei Musei, del Territorio e delle Variabili Censuarie</a>
+    <a href="https://dataportal.daf.teamdigitale.it/dataset/search#/vocabularies" target="_blank">Vocabolari controllati dal Data & Analytics Framework Italia</a>
 
 .. |LINK14| raw:: html
 
-    <a href="http://dati.beniculturali.it/le-ontologie/" target="_blank">Ontologie del Ministero dei Beni Culturali</a>
+    <a href="http://datiopen.istat.it/ontologie.php" target="_blank">Ontologie dei Musei, del Territorio e delle Variabili Censuarie</a>
 
 .. |LINK15| raw:: html
+
+    <a href="http://dati.beniculturali.it/le-ontologie/" target="_blank">Ontologie del Ministero dei Beni Culturali</a>
+
+.. |LINK16| raw:: html
 
     <a href="http://dati.beniculturali.it/cultural_on/" target="_blank">Cultural ONtology</a>
 
