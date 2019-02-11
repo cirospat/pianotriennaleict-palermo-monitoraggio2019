@@ -94,7 +94,7 @@ Immagine in alto: \ |LINK16|\ . Pubblicato dal Metmuseum con Licenza Public Doma
 
 .. |REPLACE1| raw:: html
 
-    <img src="https://images.metmuseum.org/CRDImages/as/original/DP142161.jpg" width="350" /> 
+    <img src="https://raw.githubusercontent.com/cirospat/newproject/master/docs/static/vocabolari-controllati-architettura-informazione.png" /> 
 .. |REPLACE2| raw:: html
 
     <script id="dsq-count-scr" src="//guida-readthedocs.disqus.com/count.js" async></script>
