@@ -7,6 +7,8 @@ Vocabolari controllati e ontologie per l'interoperabilità semantica
 
 |REPLACE1|
 
+|
+
 Definizione di interoperabilità semantica: "\ |STYLE0|\ " (fonte: "\ |LINK1|\ " AgID).
 
 
