@@ -30,6 +30,8 @@ Ontologia OPENARS (Parlamento Regionale Siciliano)
 
 \ |LINK3|\  a cura di Davide Taibi e Giovanni Pirrotta (\ |LINK4|\ ).
 
+|REPLACE2|
+
 |
 
 .. _h4b1f3928483538562e3d777d6c60246a:
@@ -48,7 +50,7 @@ Vocabolario controllato dei servizi pubblici
 
 \ |LINK7|\  alla risorsa, traduzione in italiano (attualmente in fase di implementazione) del documento denominato \ |LINK8|\ .
 
-|REPLACE2|
+|REPLACE3|
 
 |
 
@@ -84,7 +86,7 @@ Ontologie Ministero Beni Culturali
 |
 
 
-|REPLACE3|
+|REPLACE4|
 
 
 .. bottom of content
@@ -102,10 +104,15 @@ Ontologie Ministero Beni Culturali
     <span class="footer_small"><a href="https://docs.italia.it/italia/daf/lg-patrimonio-pubblico/it/bozza/arch.html" target="_blank">Architettura di riferimento per l’informazione del settore pubblico</a> (Linee guida nazionali per la valorizzazione del patrimonio informativo pubblico, AgID).</span>
 .. |REPLACE2| raw:: html
 
+    <img src="http://www.openars.org/images/openars.jpg" /> 
+    </br>
+    <span class="footer_small"><a href="http://www.openars.org/" target="_blank">Ontologia OpenArs</a>.</span>
+.. |REPLACE3| raw:: html
+
     <img src="https://raw.githubusercontent.com/cirospat/-vocabolario-controllato-servizi-pubblici/master/static/CPSV-AP_Specification%20v2.2.png" /> 
     </br>
     <span class="footer_small"><a href="https://vocabolario-controllato-servizi-pubblici.readthedocs.io" target="_blank">Vocabolario controllato dei servizi pubblici</a> (traduzione del "Core Public Service Vocabulary Application Profile 2.2").</span>
-.. |REPLACE3| raw:: html
+.. |REPLACE4| raw:: html
 
     <script id="dsq-count-scr" src="//guida-readthedocs.disqus.com/count.js" async></script>
     
