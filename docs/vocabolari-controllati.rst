@@ -21,7 +21,7 @@ Definizione di interoperabilità semantica: "\ |STYLE0|\ " (fonte: "\ |LINK1|\ "
 
     \ |LINK2|\  definisce i \ |STYLE1|\  come “un modo comune e condiviso per organizzare codici e nomenclature ricorrenti in maniera standardizzata e normalizzata (vocabolari controllati) e una concettualizzazione esaustiva e rigorosa nell’ambito di un dato dominio (ontologia o modello dei dati condiviso”).
 
---------
+|
 
 .. _h3660506523f3f4d24406f381230f71:
 
@@ -80,12 +80,6 @@ Ontologie Ministero Beni Culturali
 \ |LINK14|\  (quali ad esempio \ |LINK15|\ , con lo scopo di modellare i dati che caratterizzano gli istituti e i luoghi della cultura). MIBACT
 
 |
-
---------
-
-Immagine in alto: \ |LINK16|\ . Pubblicato dal Metmuseum con Licenza Public Domain.
-
---------
 
 
 |REPLACE2|
@@ -189,8 +183,4 @@ Immagine in alto: \ |LINK16|\ . Pubblicato dal Metmuseum con Licenza Public Doma
 .. |LINK15| raw:: html
 
     <a href="http://dati.beniculturali.it/cultural_on/" target="_blank">Cultural ONtology</a>
-
-.. |LINK16| raw:: html
-
-    <a href="https://www.metmuseum.org/art/collection/search/55465" target="_blank">魯西亜 Russians Reading and Writing, Utagawa Yoshikazu</a>
 
