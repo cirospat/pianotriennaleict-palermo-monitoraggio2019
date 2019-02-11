@@ -9,6 +9,11 @@ Vocabolari controllati e ontologie per l'interoperabilità semantica
 
 |
 
+.. _h5d45975e596c6b3e1b1f53332163b:
+
+Interoperabilità semantica
+**************************
+
 Definizione di interoperabilità semantica: "\ |STYLE0|\ " (fonte: "\ |LINK1|\ " AgID).
 
 
