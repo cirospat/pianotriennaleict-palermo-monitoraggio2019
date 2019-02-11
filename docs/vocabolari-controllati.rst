@@ -104,7 +104,7 @@ Ontologie Ministero Beni Culturali
 
     <img src="https://raw.githubusercontent.com/cirospat/-vocabolario-controllato-servizi-pubblici/master/static/CPSV-AP_Specification%20v2.2.png" /> 
     </br>
-    <span class="footer_small"><a href="https://vocabolario-controllato-servizi-pubblici.readthedocs.io" target="_blank">Vocabolario controllato dei servizi pubblici</a> (tradizione del "Core Public Service Vocabulary Application Profile 2.2").</span>
+    <span class="footer_small"><a href="https://vocabolario-controllato-servizi-pubblici.readthedocs.io" target="_blank">Vocabolario controllato dei servizi pubblici</a> (traduzione del "Core Public Service Vocabulary Application Profile 2.2").</span>
 .. |REPLACE3| raw:: html
 
     <script id="dsq-count-scr" src="//guida-readthedocs.disqus.com/count.js" async></script>
