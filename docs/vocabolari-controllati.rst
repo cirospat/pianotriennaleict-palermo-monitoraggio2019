@@ -32,6 +32,9 @@ Ontologia OPENARS (Parlamento Regionale Siciliano)
 
 |REPLACE2|
 
+
+|REPLACE3|
+
 |
 
 .. _h4b1f3928483538562e3d777d6c60246a:
@@ -50,7 +53,7 @@ Vocabolario controllato dei servizi pubblici
 
 \ |LINK7|\  alla risorsa, traduzione in italiano (attualmente in fase di implementazione) del documento denominato \ |LINK8|\ .
 
-|REPLACE3|
+|REPLACE4|
 
 |
 
@@ -86,7 +89,7 @@ Ontologie Ministero Beni Culturali
 |
 
 
-|REPLACE4|
+|REPLACE5|
 
 
 .. bottom of content
@@ -109,10 +112,13 @@ Ontologie Ministero Beni Culturali
     <span class="footer_small"><a href="http://www.openars.org/" target="_blank">Ontologia OpenArs</a>.</span>
 .. |REPLACE3| raw:: html
 
+    <iframe align="center" width="100%" height="700px" src="http://www.openars.org/core/webvowl/index.html#ontology"></iframe>
+.. |REPLACE4| raw:: html
+
     <img src="https://raw.githubusercontent.com/cirospat/-vocabolario-controllato-servizi-pubblici/master/static/CPSV-AP_Specification%20v2.2.png" /> 
     </br>
     <span class="footer_small"><a href="https://vocabolario-controllato-servizi-pubblici.readthedocs.io" target="_blank">Vocabolario controllato dei servizi pubblici</a> (traduzione del "Core Public Service Vocabulary Application Profile 2.2").</span>
-.. |REPLACE4| raw:: html
+.. |REPLACE5| raw:: html
 
     <script id="dsq-count-scr" src="//guida-readthedocs.disqus.com/count.js" async></script>
     
