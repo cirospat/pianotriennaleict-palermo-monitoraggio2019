@@ -95,8 +95,8 @@ Immagine in alto: \ |LINK16|\ . Pubblicato dal Metmuseum con Licenza Public Doma
 .. |REPLACE1| raw:: html
 
     <img src="https://raw.githubusercontent.com/cirospat/newproject/master/docs/static/vocabolari-controllati-architettura-informazione.png" /> 
-    </br><span class="footer_small">architettura di riferimento per l’informazione del settore pubblico</span> 
-    https://docs.italia.it/italia/daf/lg-patrimonio-pubblico/it/bozza/arch.html
+    </br>
+    <span class="footer_small"><a href="https://docs.italia.it/italia/daf/lg-patrimonio-pubblico/it/bozza/arch.html">architettura di riferimento per l’informazione del settore pubblico</a></span>
 .. |REPLACE2| raw:: html
 
     <script id="dsq-count-scr" src="//guida-readthedocs.disqus.com/count.js" async></script>
