@@ -98,7 +98,7 @@ Immagine in alto: \ |LINK16|\ . Pubblicato dal Metmuseum con Licenza Public Doma
 
     <img src="https://raw.githubusercontent.com/cirospat/newproject/master/docs/static/vocabolari-controllati-architettura-informazione.png" /> 
     </br>
-    <span class="footer_small"><a href="https://docs.italia.it/italia/daf/lg-patrimonio-pubblico/it/bozza/arch.html" target="_blank">Architettura di riferimento per l’informazione del settore pubblico</a> (Linee guida nazionali per la valorizzazione del patrimonio informativo pubblico, AgID)</span>
+    <span class="footer_small"><a href="https://docs.italia.it/italia/daf/lg-patrimonio-pubblico/it/bozza/arch.html" target="_blank">Architettura di riferimento per l’informazione del settore pubblico</a> (Linee guida nazionali per la valorizzazione del patrimonio informativo pubblico, AgID).</span>
 .. |REPLACE2| raw:: html
 
     <script id="dsq-count-scr" src="//guida-readthedocs.disqus.com/count.js" async></script>
