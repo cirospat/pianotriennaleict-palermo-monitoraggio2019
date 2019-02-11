@@ -112,7 +112,7 @@ Ontologie Ministero Beni Culturali
     <span class="footer_small"><a href="http://www.openars.org/" target="_blank">Ontologia OpenArs</a>.</span>
 .. |REPLACE3| raw:: html
 
-    <iframe align="center" width="100%" height="700px" src="http://www.openars.org/core/webvowl/index.html#ontology"></iframe>
+    <iframe align="center" width="100%" height="700px" src="https://www.openars.org/core/webvowl/index.html#ontology"></iframe>
 .. |REPLACE4| raw:: html
 
     <img src="https://raw.githubusercontent.com/cirospat/-vocabolario-controllato-servizi-pubblici/master/static/CPSV-AP_Specification%20v2.2.png" /> 
