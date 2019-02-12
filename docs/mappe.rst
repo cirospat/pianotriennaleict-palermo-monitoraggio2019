@@ -39,7 +39,7 @@ Petrusino, catalogo mappe curato dalla community di Opendatasicilia
 .. |REPLACE1| raw:: html
 
     <iframe width="760" height="515" src="https://mapire.eu/en/map/sicily/embed/?layers=osm%2C74&bbox=1478051.5536786849%2C4592460.945943761%2C1503829.9414678607%2C4600104.648772278" frameborder="0" allowfullscreen></iframe>
-    </br><span class="footer_small" style="color: #ff0000;"><strong>Schmettau-map of Sicily</strong> <span style="color: #0000ff;">(1719-1721)</span> <span style="color: #333333;">by</span> <a href="https://mapire.eu" target="_blank" rel="noopener">mapire.eu</a> (zoom in e out).</span> 
+    </br><span class="footer_small" style="color: #ff0000;"><strong>Schmettau-map of Sicily</strong> (1719-1721) <span style="color: #333333;">by</span> <a href="https://mapire.eu" target="_blank" rel="noopener">mapire.eu</a>&nbsp;<span style="color: #000000;">(zoom in e out).</span></span>
 .. |REPLACE2| raw:: html
 
     <iframe width="100%" height="2000px" frameBorder="0" src="https://cirospat.github.io/maps"></iframe>
