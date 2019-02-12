@@ -46,8 +46,7 @@ Petrusino, catalogo mappe curato dalla community di Opendatasicilia
 .. |REPLACE2| raw:: html
 
     <iframe width="100%" height="600px" frameBorder="0" src="https://siciliahub.github.io/palermohub/index_atlante.html"></iframe>
-    <span class="footer_small" style="color: #ff0000;"><a href="http://siciliahub.github.io/palermohub/index_atlante.html" title="Visualizza l’Atlante delle carte tecniche storiche di Palermo a schermo intero">Visualizza a schermo intero</a></span>
-    </br><span class="footer_small" style="color: #ff0000;"><strong>Schmettau-map of Sicily</strong> (1719-1721) <span style="color: #333333;">by</span> <a href="https://mapire.eu" target="_blank" rel="noopener">mapire.eu</a>&nbsp;<span style="color: #000000;">(zoom in e out).</span></span>
+    <span class="footer_small" style="color: #ff0000;"><a href="https://siciliahub.github.io/palermohub/index_atlante.html" title="Visualizza l’Atlante delle carte tecniche storiche di Palermo a schermo intero">Visualizza a schermo intero</a></span>
 .. |REPLACE3| raw:: html
 
     <iframe width="100%" height="2000px" frameBorder="0" src="https://cirospat.github.io/maps"></iframe>
