@@ -29,18 +29,17 @@ Petrusino, catalogo mappe curato dalla community di Opendatasicilia
 
 |
 
-.. _h7f2b67148786c65604a786e4518a5e:
+.. _h451469755c20602b4f3f56783b164f27:
 
-Palermohub, atlante storico di Palermo
-======================================
+Palermo-hub, atlante storico di Palermo
+=======================================
 
-
-|REPLACE3|
+\ |LINK4|\ .
 
 --------
 
 
-|REPLACE4|
+|REPLACE3|
 
 
 .. bottom of content
@@ -54,9 +53,6 @@ Palermohub, atlante storico di Palermo
 
     <iframe width="100%" height="2000px" frameBorder="0" src="https://cirospat.github.io/maps"></iframe>
 .. |REPLACE3| raw:: html
-
-    <iframe width="100%" height="700px" frameBorder="0" src="https://siciliahub.github.io/palermohub/index_atlante.html"></iframe><a href="http://siciliahub.github.io/palermohub/index_atlante.html" title="Visualizza l’Atlante delle carte tecniche storiche di Palermo a schermo intero">Visualizza a schermo intero l'atlante storico di Palermo</a>
-.. |REPLACE4| raw:: html
 
     <script id="dsq-count-scr" src="//guida-readthedocs.disqus.com/count.js" async></script>
     
@@ -93,6 +89,10 @@ Palermohub, atlante storico di Palermo
 .. |LINK3| raw:: html
 
     <a href="http://opendatasicilia.it" target="_blank">Opendatasicilia</a>
+
+.. |LINK4| raw:: html
+
+    <a href="http://siciliahub.github.io/palermohub/index_atlante.html" target="_blank">Atlante delle carte tecniche storiche di Palermo</a>
 
 
 .. |IMG1| image:: static/mappe_1.png
