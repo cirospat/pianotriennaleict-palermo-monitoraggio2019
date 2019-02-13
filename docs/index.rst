@@ -12,9 +12,6 @@ In questo spazio descrivo le principali \ |STYLE0|\  in cui sono impegnato per `
 
 |REPLACE2|
 
-
-|REPLACE3|
-
 * \ |LINK1|\ ;
 
 * \ |LINK2|\ ; \ |LINK3|\ ;
@@ -22,7 +19,7 @@ In questo spazio descrivo le principali \ |STYLE0|\  in cui sono impegnato per `
 * \ |LINK4|\ .
 
 
-|REPLACE4|
+|REPLACE3|
 
 * i ``dati`` che resi ``pubblici`` valorizzano il patrimonio informativo della Pubblica Amministrazione, e ne consentono un riuso creativo anche a fini economici;
 
@@ -40,12 +37,12 @@ Le iniziative di carattere \ |STYLE1|\ , vissute in spirito collaborativo insiem
     \ |STYLE2|\  → su pagine di ``Google Doc``, che grazie al plugin ``GGeditor`` vengono pubblicate automaticamente in formato ``RST`` → su un repository dentro ``Github``, che a sua volta espone i contenuti → su pagine HTML con il design ``Read the Docs``. \ |LINK5|\ .
 
 
-|REPLACE5|
+|REPLACE4|
 
 |
 
 
-|REPLACE6|
+|REPLACE5|
 
 .. toctree::
   :maxdepth: 2
@@ -108,7 +105,7 @@ Le iniziative di carattere \ |STYLE1|\ , vissute in spirito collaborativo insiem
 +---------------------------------------------------------------------------------------------------+
 
 
-|REPLACE7|
+|REPLACE6|
 
 
 .. bottom of content
@@ -126,22 +123,18 @@ Le iniziative di carattere \ |STYLE1|\ , vissute in spirito collaborativo insiem
     <img alt="undefined" src="https://img.shields.io/github/last-commit/cirospat/newproject.svg?colorB=%2385a292&label=ultimo%20aggiornamento&style=plastic"> 
 .. |REPLACE2| raw:: html
 
-    <img src="https://raw.githubusercontent.com/cirospat/newproject/master/docs/static/einstein.PNG" width= 380 />
-    </br><span class="footer_small">"Se non puoi spiegarlo semplicemente, non lo capisci abbastanza bene". Albert Einstein</span>
+    <strong><span style="background-color: #63796d; color: #ffffff; display: inline-block; padding: 3px 8px; border-radius: 10px;">Reti di impegno</span></strong>
 .. |REPLACE3| raw:: html
 
-    <strong><span style="background-color: #63796d; color: #ffffff; display: inline-block; padding: 3px 8px; border-radius: 10px;">Reti di impegno</span></strong>
-.. |REPLACE4| raw:: html
-
     <strong><span style="background-color: #63796d; color: #ffffff; display: inline-block; padding: 3px 8px; border-radius: 10px;">Ambiti principali di questo spazio</span></strong>
-.. |REPLACE5| raw:: html
+.. |REPLACE4| raw:: html
 
     <img src="https://img.shields.io/badge/%22Read_the_Docs%22-for_publication_online-blue.svg" />
     <span class="footer_small">Nuova cultura per la documentazione online</span>
-.. |REPLACE6| raw:: html
+.. |REPLACE5| raw:: html
 
     <h3><strong><span style="color: #ffffff;"><span style="background-color: #63796d; display: inline-block; padding: 3px 8px; border-radius: 10px;">Indice dei contenuti</span></span></strong></h3>
-.. |REPLACE7| raw:: html
+.. |REPLACE6| raw:: html
 
     <script id="dsq-count-scr" src="//guida-readthedocs.disqus.com/count.js" async></script>
     
