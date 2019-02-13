@@ -34,7 +34,7 @@ Petrusino, catalogo mappe curato dalla community di Opendatasicilia
 Palermo-hub, atlante storico di Palermo
 =======================================
 
-\ |LINK4|\ .
+\ |LINK4|\  (a cura di \ |LINK5|\ ).
 
 --------
 
@@ -93,6 +93,10 @@ Palermo-hub, atlante storico di Palermo
 .. |LINK4| raw:: html
 
     <a href="http://siciliahub.github.io/palermohub/index_atlante.html" target="_blank">Atlante delle carte tecniche storiche di Palermo</a>
+
+.. |LINK5| raw:: html
+
+    <a href="https://coseerobe.gbvitrano.it/" target="_blank">Giovan Battista Vitrano</a>
 
 
 .. |IMG1| image:: static/mappe_1.png
