@@ -48,7 +48,7 @@ h1, h2, h3 {
 }
 
 /* testo caption menu sx - setta i colori dell'indice nel menu a sx */
-.wy-nav-side {color: #4dc6ac;}
+.wy-nav-side {color: #4dc6ac !important;}
 
 /*background colore colonna sx */
 /* .wy-side-scroll {background: #1c300f;} */
@@ -61,11 +61,12 @@ h1, h2, h3 {
 .wy-side-nav-search>div.version {    display: none;}
 
 /* disativa il testo "edit on Github" in alto a destra */
+/*
 .wy-breadcrumbs li.wy-breadcrumbs-aside {
     float: right;
     display: none;
 }
-
+*/
 
 /* #ccd8ab colore deciso per appattarlo al verdino della freccia, per versione mobile */
 /* quello di prima era il seguente */
@@ -77,7 +78,7 @@ h1, h2, h3 {
 /* lo sfondo a dx dopo il testo, ma con il settaggio full-hd non si applica */
 .wy-body-for-nav {background: #ffffff; }
 
-/* assegnare il colore allo sfondo del testo in tutte le pagine HTML del documnto - è una prova del 29 gen 2019  */
+/* assegnare il colore (bianco) allo sfondo del testo in tutte le pagine HTML del documnto - è una prova del 29 gen 2019  */
 .wy-nav-content {background: #ffffff; } 
 
 
