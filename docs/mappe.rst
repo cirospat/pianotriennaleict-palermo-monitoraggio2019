@@ -27,10 +27,20 @@ Petrusino, catalogo mappe curato dalla community di Opendatasicilia
 
 \ |IMG1|\  \ |LINK2|\  concentrato principalmente sul territorio della Sicilia e Palermo -  a cura della comunità di \ |LINK3|\ .
 
---------
+|
+
+.. _h7f2b67148786c65604a786e4518a5e:
+
+Palermohub, atlante storico di Palermo
+======================================
 
 
 |REPLACE3|
+
+--------
+
+
+|REPLACE4|
 
 
 .. bottom of content
@@ -44,6 +54,9 @@ Petrusino, catalogo mappe curato dalla community di Opendatasicilia
 
     <iframe width="100%" height="2000px" frameBorder="0" src="https://cirospat.github.io/maps"></iframe>
 .. |REPLACE3| raw:: html
+
+    <iframe width="100%" height="700px" frameBorder="0" src="https://siciliahub.github.io/palermohub/index_atlante.html"></iframe><a href="http://siciliahub.github.io/palermohub/index_atlante.html" title="Visualizza l’Atlante delle carte tecniche storiche di Palermo a schermo intero">Visualizza a schermo intero l'atlante storico di Palermo</a>
+.. |REPLACE4| raw:: html
 
     <script id="dsq-count-scr" src="//guida-readthedocs.disqus.com/count.js" async></script>
     
