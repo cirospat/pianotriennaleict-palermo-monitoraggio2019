@@ -43,6 +43,9 @@ works
 
 \ |LINK10|\  ``cc by sa``
 
+
+|REPLACE1|
+
 \ |LINK11|\  repository codice ``cc by sa``
 
 \ |LINK12|\  (in collaborazione con webmaster) 2013-now ``cc by`` 
@@ -106,13 +109,16 @@ tools for project management
 ``cc by nc sa`` licenza Creative Commons, Attribuzione dell'opera, Condividi allo stesso modo, non per usi commerciali 
 
 
-|REPLACE1|
+|REPLACE2|
 
 
 .. bottom of content
 
 
 .. |REPLACE1| raw:: html
+
+    <img src="https://raw.githubusercontent.com/cirospat/newproject/master/docs/static/github.png" /> <a href="https://github.com/cirospat?tab=repositories">Github</a> repository codice ``cc by sa``
+.. |REPLACE2| raw:: html
 
     <script id="dsq-count-scr" src="//guida-readthedocs.disqus.com/count.js" async></script>
     
