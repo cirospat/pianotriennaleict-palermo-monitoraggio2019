@@ -18,6 +18,8 @@ In questo spazio descrivo le principali \ |STYLE0|\  in cui sono impegnato per `
 
 * \ |LINK4|\ .
 
+|
+
 
 |REPLACE3|
 
@@ -30,6 +32,8 @@ In questo spazio descrivo le principali \ |STYLE0|\  in cui sono impegnato per `
 * la ``cultura digitale``.
 
 Le iniziative di carattere \ |STYLE1|\ , vissute in spirito collaborativo insieme ad altre persone, contribuiscono a migliorare le competenze digitali, utili nell'ambiente di lavoro al comune di Palermo.
+
+|
 
 
 |REPLACE4|
@@ -129,9 +133,9 @@ Le iniziative di carattere \ |STYLE1|\ , vissute in spirito collaborativo insiem
     <strong><span style="background-color: #63796d; color: #ffffff; display: inline-block; padding: 3px 8px; border-radius: 10px;">Il formato di questo portale</span></strong>
 .. |REPLACE5| raw:: html
 
-    <img src="https://ggeditor.readthedocs.io/en/latest/_images/index_1.png" />
-    </br>
     <img src="https://img.shields.io/badge/%22Read_the_Docs%22-for_documentation_online-blue.svg" />
+    </br>
+    <img src="https://ggeditor.readthedocs.io/en/latest/_images/index_1.png" />
 .. |REPLACE6| raw:: html
 
     <h3><strong><span style="color: #ffffff;"><span style="background-color: #63796d; display: inline-block; padding: 3px 8px; border-radius: 10px;">Indice dei contenuti</span></span></strong></h3>
