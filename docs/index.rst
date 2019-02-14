@@ -131,7 +131,7 @@ Le iniziative di carattere \ |STYLE1|\ , vissute in spirito collaborativo insiem
     <strong><span style="background-color: #63796d; color: #ffffff; display: inline-block; padding: 3px 8px; border-radius: 10px;">Ambiti principali di questo spazio</span></strong>
 .. |REPLACE4| raw:: html
 
-    <strong><span style="background-color: #63796d; color: #ffffff; display: inline-block; padding: 3px 8px; border-radius: 10px;">Il formato di questo portale</span></strong>
+    <strong><span style="background-color: #63796d; color: #ffffff; display: inline-block; padding: 3px 8px; border-radius: 10px;">Lo stile di questo portale</span></strong>
     </br>
     <img src="https://img.shields.io/badge/%22Read_the_Docs%22-for_documentation_online-blue.svg" />
 .. |REPLACE5| raw:: html
