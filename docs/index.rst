@@ -32,17 +32,16 @@ In questo spazio descrivo le principali \ |STYLE0|\  in cui sono impegnato per `
 Le iniziative di carattere \ |STYLE1|\ , vissute in spirito collaborativo insieme ad altre persone, contribuiscono a migliorare le competenze digitali, utili nell'ambiente di lavoro al comune di Palermo.
 
 
-..  Important:: 
-
-    \ |STYLE2|\  → su pagine di ``Google Doc``, che grazie al plugin ``GGeditor`` vengono pubblicate automaticamente in formato ``RST`` → su un repository dentro ``Github``, che a sua volta espone i contenuti → su pagine HTML con il design ``Read the Docs``. \ |LINK5|\ .
-
-
 |REPLACE4|
+
+\ |STYLE2|\  → su pagine di ``Google Doc``, che grazie al plugin ``GGeditor`` vengono pubblicate automaticamente in formato ``RST`` → su un repository dentro ``Github``, che a sua volta espone i contenuti → su pagine HTML con il design ``Read the Docs``. \ |LINK5|\ .
+
+|REPLACE5|
 
 |
 
 
-|REPLACE5|
+|REPLACE6|
 
 .. toctree::
   :maxdepth: 2
@@ -98,14 +97,12 @@ Le iniziative di carattere \ |STYLE1|\ , vissute in spirito collaborativo insiem
 |
 
 
-+---------------------------------------------------------------------------------------------------+
-|[Immagine, in alto, del libro, by \ |LINK6|\ , rilasciata con licenza CC BY 3.0]                   |
-|                                                                                                   |
-|[Immagine, in alto, di A.Einstein elaborata by \ |LINK7|\ , rilasciata con licenza CC BY NC SA 2.0]|
-+---------------------------------------------------------------------------------------------------+
++--------------------------------------------------------------------------------+
+|[Immagine, in alto, del libro, by \ |LINK6|\ , rilasciata con licenza CC BY 3.0]|
++--------------------------------------------------------------------------------+
 
 
-|REPLACE6|
+|REPLACE7|
 
 
 .. bottom of content
@@ -129,11 +126,16 @@ Le iniziative di carattere \ |STYLE1|\ , vissute in spirito collaborativo insiem
     <strong><span style="background-color: #63796d; color: #ffffff; display: inline-block; padding: 3px 8px; border-radius: 10px;">Ambiti principali di questo spazio</span></strong>
 .. |REPLACE4| raw:: html
 
-    <img src="https://img.shields.io/badge/%22Read_the_Docs%22-for_documentation_online-blue.svg" />
+    <strong><span style="background-color: #63796d; color: #ffffff; display: inline-block; padding: 3px 8px; border-radius: 10px;">Il formato di questo portale</span></strong>
 .. |REPLACE5| raw:: html
 
-    <h3><strong><span style="color: #ffffff;"><span style="background-color: #63796d; display: inline-block; padding: 3px 8px; border-radius: 10px;">Indice dei contenuti</span></span></strong></h3>
+    <img src="https://ggeditor.readthedocs.io/en/latest/_images/index_1.png" />
+    </br>
+    <img src="https://img.shields.io/badge/%22Read_the_Docs%22-for_documentation_online-blue.svg" />
 .. |REPLACE6| raw:: html
+
+    <h3><strong><span style="color: #ffffff;"><span style="background-color: #63796d; display: inline-block; padding: 3px 8px; border-radius: 10px;">Indice dei contenuti</span></span></strong></h3>
+.. |REPLACE7| raw:: html
 
     <script id="dsq-count-scr" src="//guida-readthedocs.disqus.com/count.js" async></script>
     
@@ -182,10 +184,6 @@ Le iniziative di carattere \ |STYLE1|\ , vissute in spirito collaborativo insiem
 .. |LINK6| raw:: html
 
     <a href="https://www.deviantart.com/superawesomevectors/gallery/" target="_blank">superawesomevectors</a>
-
-.. |LINK7| raw:: html
-
-    <a href="https://www.flickr.com/photos/krisolin/7512001702/" target="_blank">Kris Olin</a>
 
 
 .. |IMG1| image:: static/index-cirospat_1.jpeg
