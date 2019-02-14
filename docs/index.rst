@@ -101,8 +101,6 @@ Le iniziative di carattere \ |STYLE1|\ , vissute in spirito collaborativo insiem
 
     privacy
 
-|
-
 
 +--------------------------------------------------------------------------------+
 |[Immagine, in alto, del libro, by \ |LINK6|\ , rilasciata con licenza CC BY 3.0]|
