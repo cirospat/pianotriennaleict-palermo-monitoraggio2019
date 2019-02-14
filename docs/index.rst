@@ -45,7 +45,7 @@ Le iniziative di carattere \ |STYLE1|\ , vissute in spirito collaborativo insiem
 
 |REPLACE5|
 
-|
+--------
 
 
 |REPLACE6|
