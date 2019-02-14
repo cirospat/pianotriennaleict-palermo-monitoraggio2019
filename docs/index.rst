@@ -131,10 +131,10 @@ Le iniziative di carattere \ |STYLE1|\ , vissute in spirito collaborativo insiem
 .. |REPLACE4| raw:: html
 
     <strong><span style="background-color: #63796d; color: #ffffff; display: inline-block; padding: 3px 8px; border-radius: 10px;">Il formato di questo portale</span></strong>
+    </br>
+    <img src="https://img.shields.io/badge/%22Read_the_Docs%22-for_documentation_online-blue.svg" />
 .. |REPLACE5| raw:: html
 
-    <img src="https://img.shields.io/badge/%22Read_the_Docs%22-for_documentation_online-blue.svg" />
-    </br>
     <img src="https://ggeditor.readthedocs.io/en/latest/_images/index_1.png" />
 .. |REPLACE6| raw:: html
 
