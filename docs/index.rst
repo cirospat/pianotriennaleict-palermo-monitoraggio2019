@@ -127,20 +127,20 @@ Le iniziative di carattere \ |STYLE1|\ , vissute in spirito collaborativo insiem
     <img alt="undefined" src="https://img.shields.io/github/last-commit/cirospat/newproject.svg?colorB=%2385a292&label=ultimo%20aggiornamento&style=plastic"> 
 .. |REPLACE2| raw:: html
 
-    <strong><span style="background-color: #63796d; color: #ffffff; display: inline-block; padding: 3px 8px; border-radius: 10px;">Reti di impegno</span></strong>
+    <strong><span style="background-color: #63796d; color: #ffffff; display: inline-block; padding: 1px 9px; border-radius: 4px;">Reti di impegno</span></strong>
 .. |REPLACE3| raw:: html
 
-    <strong><span style="background-color: #63796d; color: #ffffff; display: inline-block; padding: 3px 8px; border-radius: 10px;">Ambiti principali di questo spazio</span></strong>
+    <strong><span style="background-color: #63796d; color: #ffffff; display: inline-block; padding: 1px 9px; border-radius: 4px;">Ambiti principali di questo spazio</span></strong>
 .. |REPLACE4| raw:: html
 
-    <strong><span style="background-color: #63796d; color: #ffffff; display: inline-block; padding: 3px 8px; border-radius: 10px;">Lo stile di questo portale</span></strong> 
+    <strong><span style="background-color: #63796d; color: #ffffff; display: inline-block; padding: 1px 9px; border-radius: 4px;">Lo stile di questo portale</span></strong> 
     <img src="https://img.shields.io/badge/%22Read_the_Docs%22-for_documentation_online-blue.svg" />
 .. |REPLACE5| raw:: html
 
     <img src="https://ggeditor.readthedocs.io/en/latest/_images/index_1.png" />
 .. |REPLACE6| raw:: html
 
-    <h3><strong><span style="color: #ffffff;"><span style="background-color: #63796d; display: inline-block; padding: 3px 8px; border-radius: 10px;">Indice dei contenuti</span></span></strong></h3>
+    <h3><strong><span style="color: #ffffff;"><span style="background-color: #63796d; display: inline-block; padding: 1px 9px; border-radius: 4px;">Indice dei contenuti</span></span></strong></h3>
 .. |REPLACE7| raw:: html
 
     <script id="dsq-count-scr" src="//guida-readthedocs.disqus.com/count.js" async></script>
