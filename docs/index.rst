@@ -41,7 +41,7 @@ Le iniziative di carattere \ |STYLE1|\ , vissute in spirito collaborativo insiem
 
 |REPLACE4|
 
-\ |STYLE2|\  → su pagine di ``Google Doc``, che grazie al plugin ``GGeditor`` vengono pubblicate automaticamente in formato ``RST`` → su un repository dentro ``Github``, che a sua volta espone i contenuti → su pagine HTML con il design ``Read the Docs``. \ |LINK5|\ .
+\ |STYLE2|\  → su pagine di ``Google Doc``, che grazie al plugin ``GGeditor`` vengono pubblicate automaticamente in formato ``RST`` → su un repository dentro ``Github``, che a sua volta espone i contenuti → su pagine HTML con il design ``Read the Docs``. \ |LINK5|\ . "\ |STYLE3|\ " è un format che si presta ottimamente alla rappresentazione e pubblicazione online di manuali e documentazione dove si rende necessario fornire spiegazioni e approfondimenti. 
 
 |REPLACE5|
 
@@ -119,6 +119,8 @@ Le iniziative di carattere \ |STYLE1|\ , vissute in spirito collaborativo insiem
 
 .. |STYLE2| replace:: **La visualizzazione dei contenuti su questo portale è costruita**
 
+.. |STYLE3| replace:: **Read the Docs**
+
 
 .. |REPLACE1| raw:: html
 
@@ -183,7 +185,7 @@ Le iniziative di carattere \ |STYLE1|\ , vissute in spirito collaborativo insiem
 
 .. |LINK5| raw:: html
 
-    <a href="http://googledocs.readthedocs.io/" target="_blank">A questo link il tutorial</a>
+    <a href="http://googledocs.readthedocs.io/" target="_blank">A questo link un tutorial che spiega in maniera facile come usare questi strumenti</a>
 
 .. |LINK6| raw:: html
 
