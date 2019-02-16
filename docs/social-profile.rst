@@ -22,18 +22,6 @@ social
 
 |REPLACE2|
 
-\ |LINK1|\ 
-
-\ |LINK2|\ 
-
-\ |LINK3|\   [articoli sui dati aperti e pubblica amministrazione digitale]
-
-\ |LINK4|\ 
-
-\ |LINK5|\ 
-
-skype: cirospat
-
 --------
 
 .. _h2a71b4354a2b7b67063506a6f6478:
@@ -41,19 +29,25 @@ skype: cirospat
 photos
 ======
 
-\ |LINK6|\   ``cc by``
+.. _h2c1d74277104e41780968148427e:
 
-\ |LINK7|\  ``cc by``
 
-\ |LINK8|\  ``cc by``
 
-\ |LINK9|\  ``cc by``
 
-\ |LINK10|\  ``cc by``
 
-\ |LINK11|\  ``cc by``
+|REPLACE3|
 
-\ |LINK12|\  ``cc by``
+\ |LINK1|\   ``cc by``
+
+\ |LINK2|\  ``cc by``
+
+\ |LINK3|\  ``cc by``
+
+\ |LINK4|\  ``cc by``
+
+\ |LINK5|\  ``cc by``
+
+\ |LINK6|\  ``cc by``
 
 --------
 
@@ -62,13 +56,16 @@ photos
 territorial mini guide
 ======================
 
-\ |LINK13|\  ``cc by``
 
-|REPLACE3|
+|REPLACE4|
+
+\ |LINK7|\  ``cc by``
+
+|REPLACE5|
 
 --------
 
-``cc by`` licenza Creative Commons, Attribuzione dell'opera  
+``cc by`` \ |LINK8|\   
 
 
 .. bottom of content
@@ -81,63 +78,59 @@ territorial mini guide
 
     <p><a href="https://www.youtube.com/user/cirospat/videos" target="_blank" rel="noopener" title="youtube cirospat"><img src="https://img.shields.io/badge/youtube-cirospat-blue.svg" /></a></p>
     <p><a href="https://twitter.com/cirospat" target="_blank" rel="noopener" title="twitter cirospat"><img src="https://img.shields.io/badge/twitter-cirospat-blueviolet.svg" /></a></p>
-    <p><a href="https://medium.com/@cirospat/latest" target="_blank" rel="noopener" title="medium cirospat"><img src="https://img.shields.io/badge/medium-cirospat-orange.svg" /></a>[articoli sui dati aperti e pubblica amministrazione digitale]</p>
+    <p><a href="https://medium.com/@cirospat/latest" target="_blank" rel="noopener" title="medium cirospat"><img src="https://img.shields.io/badge/medium-cirospat-orange.svg" /></a> [articoli sui dati aperti e pubblica amministrazione digitale] <span style="color: #ff0000;"><code>licenza CC BY</code></span></p>
     <p><a href="http://www.linkedin.com/in/cirospataro" target="_blank" rel="noopener" title="linkedin cirospat"><img src="https://img.shields.io/badge/linkedin-cirospat-red.svg" /></a></p>
     <p><a href="https://www.facebook.com/ciro.spataro.3" target="_blank" rel="noopener" title="facebook cirospat"><img src="https://img.shields.io/badge/facebook-cirospat-brightgreen.svg" /></a></p>
     <p><img src="https://img.shields.io/badge/skype-cirospat-blue.svg" /></p>
 .. |REPLACE3| raw:: html
 
+    <p><a href="https://www.flickr.com/photos/cirospat/albums" target="_blank" rel="noopener" title="flickr cirospat"><img src="https://img.shields.io/badge/flickr-cirospat-blue.svg" /></a><span style="color: #ff0000;"><code>licenza CC BY</code></span></p>
+    
+    <p><a href="https://www.instagram.com/cirospat" target="_blank" rel="noopener" title="instagram cirospat"><img src="https://img.shields.io/badge/instagram-cirospat-orange.svg" /></a><span style="color: #ff0000;"><code>licenza CC BY</code></span></p>
+    
+    <p><a href="https://it.pinterest.com/cirospat" target="_blank" rel="noopener" title="pinterest cirospat"><img src="https://img.shields.io/badge/pinterest-cirospat-red.svg" /></a><span style="color: #ff0000;"><code>licenza CC BY</code></span></p>
+    
+    <p><a href="http://bit.ly/inmypalermo" target="_blank" rel="noopener" title="in_my_palermo by cirospat"><img src="https://img.shields.io/badge/in_my_palermo-cirospat-brightgreen.svg" /></a><span style="color: #ff0000;"><code>licenza CC BY</code></span></p>
+    
+    <p><a href="http://cirospat.aminus3.com/portfolio" target="_blank" rel="noopener" title="a_view_of_world_children by cirospat"><img src="https://img.shields.io/badge/a_view_of_world_children-cirospat-blueviolet.svg" /></a><span style="color: #ff0000;"><code>licenza CC BY</code></span></p>
+    
+    <p><a href="http://bit.ly/inbaltikforest" target="_blank" rel="noopener" title="in_baltik_forest by cirospat"><img src="https://img.shields.io/badge/in_baltik_forest-cirospat-orange.svg" /></a><span style="color: #ff0000;"><code>licenza CC BY</code></span></p>
+.. |REPLACE4| raw:: html
+
+    <p><a href="https://docs.google.com/presentation/d/1FnQJYBtHa6kslcHStOp838BPU8cskQC1Ko-yFKgAPhQ/edit" target="_blank" rel="noopener" title="sicilia_sud_est by cirospat"><img src="https://img.shields.io/badge/sicilia_sud_est-cirospat-important.svg" /></a><span style="color: #ff0000;"><code>licenza CC BY</code></span></p>
+.. |REPLACE5| raw:: html
+
     <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTutfK7O5PJb41zPl-97_-j3pQai64hyRRTosVbd2rl5uZ5DwUJ1klOrMrCJlH4DGf4tFG6yZFV4gVQ/embed?start=false&loop=false&delayms=5000" frameborder="0" width="800" height="554" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 .. |LINK1| raw:: html
 
-    <a href="https://www.youtube.com/user/cirospat/videos" target="_blank">youtube</a>
+    <a href="https://www.flickr.com/photos/cirospat/albums" target="_blank">flickr</a>
 
 .. |LINK2| raw:: html
 
-    <a href="https://twitter.com/cirospat" target="_blank">twitter</a>
+    <a href="https://www.instagram.com/cirospat/" target="_blank">instagram</a>
 
 .. |LINK3| raw:: html
 
-    <a href="https://medium.com/@cirospat/latest" target="_blank">medium</a>
+    <a href="https://it.pinterest.com/cirospat/" target="_blank">pinterest</a>
 
 .. |LINK4| raw:: html
 
-    <a href="http://www.linkedin.com/in/cirospataro" target="_blank">linkedin</a>
+    <a href="http://bit.ly/inmypalermo" target="_blank">in my Palermo</a>
 
 .. |LINK5| raw:: html
 
-    <a href="https://www.facebook.com/ciro.spataro.3" target="_blank">facebook</a>
+    <a href="http://cirospat.aminus3.com/portfolio/" target="_blank">a view of world children</a>
 
 .. |LINK6| raw:: html
 
-    <a href="https://www.flickr.com/photos/cirospat/albums" target="_blank">flickr</a>
+    <a href="https://get.google.com/albumarchive/116441269367387619785/album/AF1QipMHCHW-j5u0Z9CXRwefUNroCW0xVuc4AHcMnaD2" target="_blank">in baltik forests</a>
 
 .. |LINK7| raw:: html
 
-    <a href="https://www.instagram.com/cirospat/" target="_blank">instagram</a>
+    <a href="https://docs.google.com/presentation/d/1FnQJYBtHa6kslcHStOp838BPU8cskQC1Ko-yFKgAPhQ/edit" target="_blank">Sicilia sud-est</a>
 
 .. |LINK8| raw:: html
 
-    <a href="https://it.pinterest.com/cirospat/" target="_blank">pinterest</a>
-
-.. |LINK9| raw:: html
-
-    <a href="http://www.imagesagainstwar.com/582.html?" target="_blank">imagesagainstwar</a>
-
-.. |LINK10| raw:: html
-
-    <a href="http://bit.ly/inmypalermo" target="_blank">in my Palermo</a>
-
-.. |LINK11| raw:: html
-
-    <a href="http://cirospat.aminus3.com/portfolio/" target="_blank">a view of world children</a>
-
-.. |LINK12| raw:: html
-
-    <a href="https://get.google.com/albumarchive/116441269367387619785/album/AF1QipMHCHW-j5u0Z9CXRwefUNroCW0xVuc4AHcMnaD2" target="_blank">in baltik forests</a>
-
-.. |LINK13| raw:: html
-
-    <a href="https://docs.google.com/presentation/d/1FnQJYBtHa6kslcHStOp838BPU8cskQC1Ko-yFKgAPhQ/edit" target="_blank">Sicilia sud-est</a>
+    <a href="https://creativecommons.org/licenses/by/2.0/it/" target="_blank">licenza Creative Commons, Attribuzione dell'opera</a>
 
