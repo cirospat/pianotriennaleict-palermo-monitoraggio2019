@@ -83,7 +83,7 @@ territorial mini guide
     <p><a href="https://twitter.com/cirospat" target="_blank" rel="noopener" title="twitter cirospat"><img src="https://img.shields.io/badge/twitter-cirospat-blueviolet.svg" /></a></p>
     <p><a href="https://medium.com/@cirospat/latest" target="_blank" rel="noopener" title="medium cirospat"><img src="https://img.shields.io/badge/medium-cirospat-orange.svg" /></a>[articoli sui dati aperti e pubblica amministrazione digitale]</p>
     <p><a href="http://www.linkedin.com/in/cirospataro" target="_blank" rel="noopener" title="linkedin cirospat"><img src="https://img.shields.io/badge/linkedin-cirospat-red.svg" /></a></p>
-    <p><a href="https://www.facebook.com/ciro.spataro.3" target="_blank" rel="noopener" title="facebook cirospat"><img src="https://img.shields.io/badge/facebook-cirospat-informational.svg" /></a></p>
+    <p><a href="https://www.facebook.com/ciro.spataro.3" target="_blank" rel="noopener" title="facebook cirospat"><img src="https://img.shields.io/badge/facebook-cirospat-brightgreen.svg" /></a></p>
     <p><img src="https://img.shields.io/badge/skype-cirospat-blue.svg" /></p>
 .. |REPLACE3| raw:: html
 
