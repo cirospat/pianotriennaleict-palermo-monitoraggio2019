@@ -37,18 +37,6 @@ photos
 
 |REPLACE3|
 
-\ |LINK1|\   ``cc by``
-
-\ |LINK2|\  ``cc by``
-
-\ |LINK3|\  ``cc by``
-
-\ |LINK4|\  ``cc by``
-
-\ |LINK5|\  ``cc by``
-
-\ |LINK6|\  ``cc by``
-
 --------
 
 .. _h0195728f3f691836ce263913701c:
@@ -59,13 +47,12 @@ territorial mini guide
 
 |REPLACE4|
 
-\ |LINK7|\  ``cc by``
 
 |REPLACE5|
 
 --------
 
-``cc by`` \ |LINK8|\   
+``cc by`` \ |LINK1|\   
 
 
 .. bottom of content
@@ -103,34 +90,6 @@ territorial mini guide
     <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTutfK7O5PJb41zPl-97_-j3pQai64hyRRTosVbd2rl5uZ5DwUJ1klOrMrCJlH4DGf4tFG6yZFV4gVQ/embed?start=false&loop=false&delayms=5000" frameborder="0" width="800" height="554" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 .. |LINK1| raw:: html
-
-    <a href="https://www.flickr.com/photos/cirospat/albums" target="_blank">flickr</a>
-
-.. |LINK2| raw:: html
-
-    <a href="https://www.instagram.com/cirospat/" target="_blank">instagram</a>
-
-.. |LINK3| raw:: html
-
-    <a href="https://it.pinterest.com/cirospat/" target="_blank">pinterest</a>
-
-.. |LINK4| raw:: html
-
-    <a href="http://bit.ly/inmypalermo" target="_blank">in my Palermo</a>
-
-.. |LINK5| raw:: html
-
-    <a href="http://cirospat.aminus3.com/portfolio/" target="_blank">a view of world children</a>
-
-.. |LINK6| raw:: html
-
-    <a href="https://get.google.com/albumarchive/116441269367387619785/album/AF1QipMHCHW-j5u0Z9CXRwefUNroCW0xVuc4AHcMnaD2" target="_blank">in baltik forests</a>
-
-.. |LINK7| raw:: html
-
-    <a href="https://docs.google.com/presentation/d/1FnQJYBtHa6kslcHStOp838BPU8cskQC1Ko-yFKgAPhQ/edit" target="_blank">Sicilia sud-est</a>
-
-.. |LINK8| raw:: html
 
     <a href="https://creativecommons.org/licenses/by/2.0/it/" target="_blank">licenza Creative Commons, Attribuzione dell'opera</a>
 
