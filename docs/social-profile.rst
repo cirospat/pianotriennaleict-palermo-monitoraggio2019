@@ -19,6 +19,9 @@ email
 social
 ======
 
+
+|REPLACE2|
+
 \ |LINK1|\ 
 
 \ |LINK2|\ 
@@ -61,7 +64,7 @@ territorial mini guide
 
 \ |LINK13|\  ``cc by``
 
-|REPLACE2|
+|REPLACE3|
 
 --------
 
@@ -75,6 +78,14 @@ territorial mini guide
 
     <a href="mailto:cirospat@gmail.com" target="_blank" rel="noopener" title="email cirospat"><img src="https://img.shields.io/badge/email-cirospat@gmail.com-blue.svg" /></a>
 .. |REPLACE2| raw:: html
+
+    <p><a href="https://www.youtube.com/user/cirospat/videos" target="_blank" rel="noopener" title="youtube cirospat"><img src="https://img.shields.io/badge/youtube-cirospat-blue.svg" /></a></p>
+    <p><a href="https://twitter.com/cirospat" target="_blank" rel="noopener" title="twitter cirospat"><img src="https://img.shields.io/badge/twitter-cirospat-blueviolet.svg" /></a></p>
+    <p><a href="https://medium.com/@cirospat/latest" target="_blank" rel="noopener" title="medium cirospat"><img src="https://img.shields.io/badge/medium-cirospat-orange.svg" /></a></p>
+    <p><a href="http://www.linkedin.com/in/cirospataro" target="_blank" rel="noopener" title="linkedin cirospat"><img src="https://img.shields.io/badge/linkedin-cirospat-red.svg" /></a></p>
+    <p><a href="https://www.facebook.com/ciro.spataro.3" target="_blank" rel="noopener" title="facebook cirospat"><img src="https://img.shields.io/badge/facebook-cirospat-informational.svg" /></a></p>
+    <p><img src="https://img.shields.io/badge/skype-cirospat-blue.svg" /></p>
+.. |REPLACE3| raw:: html
 
     <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTutfK7O5PJb41zPl-97_-j3pQai64hyRRTosVbd2rl5uZ5DwUJ1klOrMrCJlH4DGf4tFG6yZFV4gVQ/embed?start=false&loop=false&delayms=5000" frameborder="0" width="800" height="554" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
