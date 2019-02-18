@@ -86,6 +86,9 @@ works
 ue projects 
 ============
 
+
+|REPLACE5|
+
 \ |LINK25|\ 
 
 \ |LINK26|\ 
@@ -103,9 +106,13 @@ ue projects
 tools for project management   
 ===============================
 
-\ |LINK30|\  (access required)
+
+|REPLACE6|
 
 --------
+
+
+|REPLACE7|
 
 ``cc by`` licenza Creative Commons, Attribuzione dell'opera  
 
@@ -114,7 +121,7 @@ tools for project management
 ``cc by nc sa`` licenza Creative Commons, Attribuzione dell'opera, Condividi allo stesso modo, non per usi commerciali 
 
 
-|REPLACE5|
+|REPLACE8|
 
 
 .. bottom of content
@@ -129,7 +136,6 @@ tools for project management
 .. |REPLACE2| raw:: html
 
     <p>click on <a href="https://cirospat.readthedocs.io/it/latest/cv-Ciro-Spataro.html" target="_blank" rel="noopener" title="CV cirospat"><img src="https://img.shields.io/badge/CV-cirospat-blue.svg" /></a></p>
-    
 .. |REPLACE3| raw:: html
 
     <img src="https://raw.githubusercontent.com/cirospat/newproject/master/docs/static/github.png" /> <a href="https://github.com/cirospat?tab=repositories" target="_blank">Github</a> repository codice <code><span style="color: #ff0000;">cc by sa</span></code>
@@ -137,6 +143,19 @@ tools for project management
 
     <strong>↓</strong> <img src="https://img.shields.io/badge/Pubblicazioni-Read_the_Docs-blue.svg" /></a>
 .. |REPLACE5| raw:: html
+
+    <p><a href="http://poieinkaiprattein.org/cied" target="_blank" rel="noopener" title="project-cied"><img src="https://img.shields.io/badge/project-cied-blue.svg" /></a></p>
+    <p><a href="http://ec.europa.eu/environment/life/project/Projects/index.cfm?fuseaction=search.dspPage&n_proj_id=778&docType=pdf" target="_blank" rel="noopener" title="project-euro emas"><img src="https://img.shields.io/badge/project-euro_emas-blue.svg" /></a></p>
+    <p><a href="http://slideplayer.com/slide/4835066/" target="_blank" rel="noopener" title="project-etiv"><img src="https://img.shields.io/badge/project-etiv-blue.svg" /></a></p>
+    <p><a href="http://bit.ly/medclima" target="_blank" rel="noopener" title="project-medclima"><img src="https://img.shields.io/badge/project-medclima-blue.svg" /></a></p>
+    <p><a href="http://www.eurocities.eu/eurocities/projects/URBAN-MATRIX-Targeted-Knowledge-Exchange-on-Urban-Sustainability&tpl=home" target="_blank" rel="noopener" title="project-urban matrix"><img src="https://img.shields.io/badge/project-urban_matrix-blue.svg" /></a></p>
+.. |REPLACE6| raw:: html
+
+    <p><a href="https://sites.google.com/site/cirospatprojectmanagement" target="_blank" rel="noopener" title="Project management"><img src="https://img.shields.io/badge/project-management-violet.svg" /></a></p> (access required)
+.. |REPLACE7| raw:: html
+
+    <p><img src="https://img.shields.io/badge/licence-open-red.svg" /></a></p>
+.. |REPLACE8| raw:: html
 
     <script id="dsq-count-scr" src="//guida-readthedocs.disqus.com/count.js" async></script>
     
@@ -277,8 +296,4 @@ tools for project management
 .. |LINK29| raw:: html
 
     <a href="http://www.eurocities.eu/eurocities/projects/URBAN-MATRIX-Targeted-Knowledge-Exchange-on-Urban-Sustainability&tpl=home" target="_blank">urban-matrix</a>
-
-.. |LINK30| raw:: html
-
-    <a href="https://sites.google.com/site/cirospatprojectmanagement/" target="_blank">project management</a>
 
