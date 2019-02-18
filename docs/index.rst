@@ -142,8 +142,7 @@ Le iniziative di carattere \ |STYLE1|\ , vissute in spirito collaborativo insiem
     <img src="https://img.shields.io/badge/%22GitHub%22-for_code_setting-red.svg?style=popout&logo=GitHub&logoColor=orange" />
     </br>
     <img src="https://img.shields.io/badge/%22Read_the_Docs%22-for_publishing_online-blue.svg?style=popout&logo=Read%20the%20Docs" />
-    </br>
-    <a href="http://googledocs.readthedocs.io" target="_blank" rel="noopener" title="tutorial: Google docs to Read the Docs"><img src="https://ggeditor.readthedocs.io/en/latest/_images/index_1.png" /></a>
+    <p><a href="http://googledocs.readthedocs.io" target="_blank" rel="noopener" title="tutorial: Google docs to Read the Docs"><img src="https://ggeditor.readthedocs.io/en/latest/_images/index_1.png" /></a></p>
 .. |REPLACE6| raw:: html
 
     <h3><strong><span style="color: #ffffff;"><span style="background-color: #63796d; display: inline-block; padding: 1px 9px; border-radius: 4px;">Indice dei contenuti</span></span></strong></h3>
