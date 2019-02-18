@@ -89,16 +89,6 @@ UE projects
 
 |REPLACE5|
 
-\ |LINK25|\ 
-
-\ |LINK26|\ 
-
-\ |LINK27|\  
-
-\ |LINK28|\  
-
-\ |LINK29|\ 
-
 --------
 
 
@@ -263,24 +253,4 @@ UE projects
 .. |LINK24| raw:: html
 
     <a href="https://palermo-sostenibile.readthedocs.io" target="_blank">Palermo sostenibile</a>
-
-.. |LINK25| raw:: html
-
-    <a href="http://poieinkaiprattein.org/cied/" target="_blank">cied</a>
-
-.. |LINK26| raw:: html
-
-    <a href="http://ec.europa.eu/environment/life/project/Projects/index.cfm?fuseaction=search.dspPage&n_proj_id=778&docType=pdf" target="_blank">euro-emas</a>
-
-.. |LINK27| raw:: html
-
-    <a href="http://slideplayer.com/slide/4835066/" target="_blank">etiv</a>
-
-.. |LINK28| raw:: html
-
-    <a href="http://bit.ly/medclima" target="_blank">medclima</a>
-
-.. |LINK29| raw:: html
-
-    <a href="http://www.eurocities.eu/eurocities/projects/URBAN-MATRIX-Targeted-Knowledge-Exchange-on-Urban-Sustainability&tpl=home" target="_blank">urban-matrix</a>
 
