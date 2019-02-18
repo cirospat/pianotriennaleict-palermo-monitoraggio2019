@@ -4,6 +4,7 @@
 Ontologia FOAF ``RDF``
 ######################
 
+\ |STYLE0|\ 
 
 |REPLACE1|
 
@@ -78,6 +79,9 @@ Immagine in alto: \ |LINK6|\ . Pubblicato dal Metmuseum con Licenza Public Domai
 
 
 .. bottom of content
+
+
+.. |STYLE0| replace:: **FOAF (Friend Of A Friend)**
 
 
 .. |REPLACE1| raw:: html
