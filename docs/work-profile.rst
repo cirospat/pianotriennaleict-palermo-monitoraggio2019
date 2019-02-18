@@ -91,9 +91,6 @@ UE projects
 
 --------
 
-
-|REPLACE6|
-
 ``cc by`` licenza Creative Commons, Attribuzione dell'opera  
 
 ``cc by sa`` licenza Creative Commons, Attribuzione dell'opera, Condividi allo stesso modo 
@@ -101,7 +98,7 @@ UE projects
 ``cc by nc sa`` licenza Creative Commons, Attribuzione dell'opera, Condividi allo stesso modo, non per usi commerciali 
 
 
-|REPLACE7|
+|REPLACE6|
 
 
 .. bottom of content
@@ -130,9 +127,6 @@ UE projects
     <p><a href="http://bit.ly/medclima" target="_blank" rel="noopener" title="project-medclima"><img src="https://img.shields.io/badge/project-medclima-blue.svg" /></a></p>
     <p><a href="http://www.eurocities.eu/eurocities/projects/URBAN-MATRIX-Targeted-Knowledge-Exchange-on-Urban-Sustainability&tpl=home" target="_blank" rel="noopener" title="project-urban matrix"><img src="https://img.shields.io/badge/project-urban_matrix-blue.svg" /></a></p>
 .. |REPLACE6| raw:: html
-
-    <p><img src="https://img.shields.io/badge/licence-open-red.svg" /></a></p>
-.. |REPLACE7| raw:: html
 
     <script id="dsq-count-scr" src="//guida-readthedocs.disqus.com/count.js" async></script>
     
