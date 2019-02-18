@@ -52,10 +52,15 @@ territorial mini guide
 
 --------
 
+\ |STYLE0|\ :
+
 ``cc by`` \ |LINK1|\   
 
 
 .. bottom of content
+
+
+.. |STYLE0| replace:: **Tipologie di licenze aperte**
 
 
 .. |REPLACE1| raw:: html
