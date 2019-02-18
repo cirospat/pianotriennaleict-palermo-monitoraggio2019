@@ -91,6 +91,8 @@ UE projects
 
 --------
 
+\ |STYLE1|\ :
+
 ``cc by`` licenza Creative Commons, Attribuzione dell'opera  
 
 ``cc by sa`` licenza Creative Commons, Attribuzione dell'opera, Condividi allo stesso modo 
@@ -105,6 +107,8 @@ UE projects
 
 
 .. |STYLE0| replace:: **⤷**
+
+.. |STYLE1| replace:: **Tipologie di licenze aperte**
 
 
 .. |REPLACE1| raw:: html
