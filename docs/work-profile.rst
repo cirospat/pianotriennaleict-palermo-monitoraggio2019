@@ -122,7 +122,7 @@ UE projects
     <img src="https://raw.githubusercontent.com/cirospat/newproject/master/docs/static/github.png" /> <a href="https://github.com/cirospat?tab=repositories" target="_blank">Github</a> repository codice <code><span style="color: #ff0000;">cc by sa</span></code>
 .. |REPLACE4| raw:: html
 
-    <strong>↓</strong> <img src="https://img.shields.io/badge/Pubblicazioni-Read_the_Docs-blue.svg" /></a>
+    <strong>↓</strong> <img src="https://img.shields.io/badge/Pubblicazioni-Read_the_Docs-blue.svg?style=popout&logo=Read%20the%20Docs" /></a>
 .. |REPLACE5| raw:: html
 
     <p><a href="http://poieinkaiprattein.org/cied" target="_blank" rel="noopener" title="project-cied"><img src="https://img.shields.io/badge/project-cied-blue.svg" /></a></p>
