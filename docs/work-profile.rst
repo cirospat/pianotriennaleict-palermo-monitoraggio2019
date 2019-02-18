@@ -93,11 +93,11 @@ UE projects
 
 \ |STYLE1|\ :
 
-``cc by`` licenza Creative Commons, Attribuzione dell'opera  
+``cc by`` licenza Creative Commons, Attribuzione dell'opera.  
 
-``cc by sa`` licenza Creative Commons, Attribuzione dell'opera, Condividi allo stesso modo 
+``cc by sa`` licenza Creative Commons, Attribuzione dell'opera, Condividi allo stesso modo. 
 
-``cc by nc sa`` licenza Creative Commons, Attribuzione dell'opera, Condividi allo stesso modo, non per usi commerciali 
+``cc by nc sa`` licenza Creative Commons, Attribuzione dell'opera, Condividi allo stesso modo, non per usi commerciali. 
 
 
 |REPLACE6|
