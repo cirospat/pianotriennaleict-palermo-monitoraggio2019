@@ -151,7 +151,7 @@ tools for project management
     <p><a href="http://www.eurocities.eu/eurocities/projects/URBAN-MATRIX-Targeted-Knowledge-Exchange-on-Urban-Sustainability&tpl=home" target="_blank" rel="noopener" title="project-urban matrix"><img src="https://img.shields.io/badge/project-urban_matrix-blue.svg" /></a></p>
 .. |REPLACE6| raw:: html
 
-    <p><a href="https://sites.google.com/site/cirospatprojectmanagement" target="_blank" rel="noopener" title="Project management"><img src="https://img.shields.io/badge/project-management-violet.svg" /></a></p> (access required)
+    <p><a href="https://sites.google.com/site/cirospatprojectmanagement" target="_blank" rel="noopener" title="Project management"><img src="https://img.shields.io/badge/project-management-violet.svg" /></a> (access required)</p> 
 .. |REPLACE7| raw:: html
 
     <p><img src="https://img.shields.io/badge/licence-open-red.svg" /></a></p>
