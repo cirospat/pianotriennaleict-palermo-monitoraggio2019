@@ -124,7 +124,7 @@ Le iniziative di carattere \ |STYLE1|\ , vissute in spirito collaborativo insiem
 
 .. |REPLACE1| raw:: html
 
-    <img alt="undefined" src="https://img.shields.io/github/last-commit/cirospat/newproject.svg?colorB=%2385a292&label=ultimo%20aggiornamento&style=plastic"> 
+    <img alt="undefined" src="https://img.shields.io/github/last-commit/cirospat/newproject.svg?colorB=orange&label=ultimo%20aggiornamento&?style=social&logo=appveyor">
 .. |REPLACE2| raw:: html
 
     <strong><span style="background-color: #63796d; color: #ffffff; display: inline-block; padding: 1px 9px; border-radius: 4px;">Reti di impegno</span></strong>
