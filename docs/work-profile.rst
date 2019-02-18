@@ -4,7 +4,10 @@
 Work profile
 ************
 
-Comune di Palermo ↳ Area Servizi alla città ↳ Servizio Innovazione  ↳ \ |LINK1|\ . Sede: Via dello Spirito Santo n. 35, Palermo (\ |LINK2|\ ) - +39.0917407340 - \ |LINK3|\ 
+
+|REPLACE1|
+
+\ |STYLE0|\  \ |LINK1|\ . Sede: Via dello Spirito Santo n. 35 / Palermo / \ |LINK2|\  / +39.0917407340 / \ |LINK3|\ 
 
 --------
 
@@ -14,7 +17,7 @@ skills-cv
 ==========
 
 
-|REPLACE1|
+|REPLACE2|
 
 --------
 
@@ -45,7 +48,7 @@ works
 \ |LINK9|\  ``cc by sa``
 
 
-|REPLACE2|
+|REPLACE3|
 
 \ |LINK10|\  (in collaborazione con il webmaster) 2013-now ``cc by`` 
 
@@ -108,20 +111,26 @@ tools for project management
 ``cc by nc sa`` licenza Creative Commons, Attribuzione dell'opera, Condividi allo stesso modo, non per usi commerciali 
 
 
-|REPLACE3|
+|REPLACE4|
 
 
 .. bottom of content
 
 
+.. |STYLE0| replace:: **⤷**
+
+
 .. |REPLACE1| raw:: html
+
+    <img src="https://img.shields.io/badge/Comune_Palermo-Servizio_Innovazione-red.svg" /></a>
+.. |REPLACE2| raw:: html
 
     <p>click on <a href="https://cirospat.readthedocs.io/it/latest/cv-Ciro-Spataro.html" target="_blank" rel="noopener" title="CV cirospat"><img src="https://img.shields.io/badge/CV-cirospat-blue.svg" /></a></p>
     
-.. |REPLACE2| raw:: html
+.. |REPLACE3| raw:: html
 
     <img src="https://raw.githubusercontent.com/cirospat/newproject/master/docs/static/github.png" /> <a href="https://github.com/cirospat?tab=repositories" target="_blank">Github</a> repository codice <code><span style="color: #ff0000;">cc by sa</span></code>
-.. |REPLACE3| raw:: html
+.. |REPLACE4| raw:: html
 
     <script id="dsq-count-scr" src="//guida-readthedocs.disqus.com/count.js" async></script>
     
