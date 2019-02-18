@@ -52,19 +52,22 @@ works
 
 \ |LINK10|\  (in collaborazione con il webmaster) 2013-now ``cc by`` 
 
-\ |LINK11|\  ``cc by`` e  \ |LINK12|\  ``cc by sa``
+\ |LINK11|\  ``cc by sa``
 
-\ |LINK13|\  ``cc by sa``
+\ |LINK12|\  ``cc by sa``
 
-\ |LINK14|\  ``cc by sa``
+\ |LINK13|\  ``cc by``
 
-\ |LINK15|\  ``cc by``
+\ |LINK14|\  (2007) ``cc by``
 
-\ |LINK16|\  (2007) ``cc by``
+\ |LINK15|\  (2006) ``cc by``
 
-\ |LINK17|\  (2006) ``cc by``
+\ |LINK16|\  (2008) ``cc by``
 
-\ |LINK18|\  (2008) ``cc by``
+
+|REPLACE4|
+
+\ |LINK17|\  ``cc by`` e  \ |LINK18|\  ``cc by sa``
 
 \ |LINK19|\  ``cc by``
 
@@ -111,7 +114,7 @@ tools for project management
 ``cc by nc sa`` licenza Creative Commons, Attribuzione dell'opera, Condividi allo stesso modo, non per usi commerciali 
 
 
-|REPLACE4|
+|REPLACE5|
 
 
 .. bottom of content
@@ -131,6 +134,9 @@ tools for project management
 
     <img src="https://raw.githubusercontent.com/cirospat/newproject/master/docs/static/github.png" /> <a href="https://github.com/cirospat?tab=repositories" target="_blank">Github</a> repository codice <code><span style="color: #ff0000;">cc by sa</span></code>
 .. |REPLACE4| raw:: html
+
+    <strong>↓</strong> <img src="https://img.shields.io/badge/Pubblicazioni-Read_the_Docs-blue.svg" /></a>
+.. |REPLACE5| raw:: html
 
     <script id="dsq-count-scr" src="//guida-readthedocs.disqus.com/count.js" async></script>
     
@@ -198,35 +204,35 @@ tools for project management
 
 .. |LINK11| raw:: html
 
-    <a href="http://linee-guida-open-data-comune-palermo.readthedocs.io/it/latest/" target="_blank">Linee guida comunali open data Palermo versione partecipata 2017 pubblicate in stile Read the Docs</a>
+    <a href="https://cirospat.github.io/maps/index.html" target="_blank">Maps hub by cirospat</a>
 
 .. |LINK12| raw:: html
 
-    <a href="https://docs.google.com/document/d/1N_mN0KEb-wHLLP8TQfBryeYY_f--8cT6zbqcsYlf2AE" target="_blank">Linee guida comunali open data 2017 Palermo in formato aperto</a>
+    <a href="https://sites.google.com/view/palermomaps" target="_blank">Palermo_maps, uno sguardo alla città attraverso le mappe</a>
 
 .. |LINK13| raw:: html
 
-    <a href="https://cirospat.github.io/maps/index.html" target="_blank">Maps hub by cirospat</a>
+    <a href="https://siciliahub.github.io/eventipalermo2018/" target="_blank">Palermo visualizzazione eventi culturali 2018 con funzioni avanzate di search</a>
 
 .. |LINK14| raw:: html
 
-    <a href="https://sites.google.com/view/palermomaps" target="_blank">Palermo_maps, uno sguardo alla città attraverso le mappe</a>
+    <a href="https://www.comune.palermo.it/js/server/uploads/trasparenza_all/_27012014112900.pdf" target="_blank">Piano strategico della mobilità sostenibile di Palermo</a>
 
 .. |LINK15| raw:: html
 
-    <a href="https://siciliahub.github.io/eventipalermo2018/" target="_blank">Palermo visualizzazione eventi culturali 2018 con funzioni avanzate di search</a>
+    <a href="https://www.comune.palermo.it/js/server/uploads/trasparenza_all/_27012014113000.pdf" target="_blank">1° Rapporto sullo stato dell'Ambiente della città di Palermo</a>
 
 .. |LINK16| raw:: html
 
-    <a href="https://www.comune.palermo.it/js/server/uploads/trasparenza_all/_27012014112900.pdf" target="_blank">Piano strategico della mobilità sostenibile di Palermo</a>
+    <a href="https://app.box.com/s/d2le0fdlqy4svt32gy5o" target="_blank">Piano strategico di Palermo</a>
 
 .. |LINK17| raw:: html
 
-    <a href="https://www.comune.palermo.it/js/server/uploads/trasparenza_all/_27012014113000.pdf" target="_blank">1° Rapporto sullo stato dell'Ambiente della città di Palermo</a>
+    <a href="http://linee-guida-open-data-comune-palermo.readthedocs.io/it/latest/" target="_blank">Linee guida comunali open data Palermo versione partecipata 2017 pubblicate in stile Read the Docs</a>
 
 .. |LINK18| raw:: html
 
-    <a href="https://app.box.com/s/d2le0fdlqy4svt32gy5o" target="_blank">Piano strategico di Palermo</a>
+    <a href="https://docs.google.com/document/d/1N_mN0KEb-wHLLP8TQfBryeYY_f--8cT6zbqcsYlf2AE" target="_blank">Linee guida comunali open data 2017 Palermo in formato aperto</a>
 
 .. |LINK19| raw:: html
 
