@@ -137,7 +137,7 @@ Le iniziative di carattere \ |STYLE1|\ , vissute in spirito collaborativo insiem
     <a href="https://readthedocs.org" target="_blank" rel="noopener" title="Read the Docs"><img src="https://img.shields.io/badge/%22Read_the_Docs%22-for_documentation_online-blue.svg" /></a>
 .. |REPLACE5| raw:: html
 
-    <img src="https://ggeditor.readthedocs.io/en/latest/_images/index_1.png" />
+    <a href="http://googledocs.readthedocs.io" target="_blank" rel="noopener" title="Google doc to Read the Docs"><img src="https://ggeditor.readthedocs.io/en/latest/_images/index_1.png" /></a>
 .. |REPLACE6| raw:: html
 
     <h3><strong><span style="color: #ffffff;"><span style="background-color: #63796d; display: inline-block; padding: 1px 9px; border-radius: 4px;">Indice dei contenuti</span></span></strong></h3>
