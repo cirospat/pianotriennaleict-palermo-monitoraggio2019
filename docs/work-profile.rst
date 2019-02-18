@@ -101,18 +101,8 @@ UE projects
 
 --------
 
-.. _h5d2831667175b21355e4031e4a21:
-
-tools for project management   
-===============================
-
 
 |REPLACE6|
-
---------
-
-
-|REPLACE7|
 
 ``cc by`` licenza Creative Commons, Attribuzione dell'opera  
 
@@ -121,7 +111,7 @@ tools for project management
 ``cc by nc sa`` licenza Creative Commons, Attribuzione dell'opera, Condividi allo stesso modo, non per usi commerciali 
 
 
-|REPLACE8|
+|REPLACE7|
 
 
 .. bottom of content
@@ -151,11 +141,8 @@ tools for project management
     <p><a href="http://www.eurocities.eu/eurocities/projects/URBAN-MATRIX-Targeted-Knowledge-Exchange-on-Urban-Sustainability&tpl=home" target="_blank" rel="noopener" title="project-urban matrix"><img src="https://img.shields.io/badge/project-urban_matrix-blue.svg" /></a></p>
 .. |REPLACE6| raw:: html
 
-    <p><a href="https://sites.google.com/site/cirospatprojectmanagement" target="_blank" rel="noopener" title="Project management"><img src="https://img.shields.io/badge/project-management-violet.svg" /></a> (access required)</p> 
-.. |REPLACE7| raw:: html
-
     <p><img src="https://img.shields.io/badge/licence-open-red.svg" /></a></p>
-.. |REPLACE8| raw:: html
+.. |REPLACE7| raw:: html
 
     <script id="dsq-count-scr" src="//guida-readthedocs.disqus.com/count.js" async></script>
     
