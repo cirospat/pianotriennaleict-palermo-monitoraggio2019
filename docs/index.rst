@@ -43,12 +43,16 @@ Le iniziative di carattere \ |STYLE1|\ , vissute in spirito collaborativo insiem
 
 \ |STYLE2|\  → su pagine di ``Google Doc``, che grazie al plugin ``GGeditor`` vengono pubblicate automaticamente in formato ``RST`` → su un repository dentro ``Github``, che a sua volta espone i contenuti → su pagine HTML con il design ``Read the Docs``. \ |LINK5|\ . "\ |STYLE3|\ " è un format che si presta ottimamente alla rappresentazione e pubblicazione online di manuali e documentazione dove si rende necessario fornire spiegazioni e approfondimenti. 
 
+
 |REPLACE5|
+
+
+|REPLACE6|
 
 --------
 
 
-|REPLACE6|
+|REPLACE7|
 
 .. toctree::
   :maxdepth: 2
@@ -107,7 +111,7 @@ Le iniziative di carattere \ |STYLE1|\ , vissute in spirito collaborativo insiem
 +--------------------------------------------------------------------------------+
 
 
-|REPLACE7|
+|REPLACE8|
 
 
 .. bottom of content
@@ -137,11 +141,18 @@ Le iniziative di carattere \ |STYLE1|\ , vissute in spirito collaborativo insiem
     <a href="https://readthedocs.org" target="_blank" rel="noopener" title="Read the Docs"><img src="https://img.shields.io/badge/%22Read_the_Docs%22-for_documentation_online-blue.svg?style=popout&logo=Read%20the%20Docs" /></a>
 .. |REPLACE5| raw:: html
 
-    <a href="http://googledocs.readthedocs.io" target="_blank" rel="noopener" title="tutorial: Google docs to Read the Docs"><img src="https://ggeditor.readthedocs.io/en/latest/_images/index_1.png" /></a>
+    <img src="https://img.shields.io/badge/%22Google_doc%22-for_text_editing-green.svg?style=popout&logo=google%20drive&logoColor=green" />
+    </br>
+    <img src="https://img.shields.io/badge/%22GitHub%22-for_code_setting-red.svg?style=popout&logo=GitHub&logoColor=orange" />
+    </br>
+    <img src="https://img.shields.io/badge/%22Read_the_Docs%22-for_publishing_online-blue.svg?style=popout&logo=Read%20the%20Docs" />
 .. |REPLACE6| raw:: html
 
-    <h3><strong><span style="color: #ffffff;"><span style="background-color: #63796d; display: inline-block; padding: 1px 9px; border-radius: 4px;">Indice dei contenuti</span></span></strong></h3>
+    <a href="http://googledocs.readthedocs.io" target="_blank" rel="noopener" title="tutorial: Google docs to Read the Docs"><img src="https://ggeditor.readthedocs.io/en/latest/_images/index_1.png" /></a>
 .. |REPLACE7| raw:: html
+
+    <h3><strong><span style="color: #ffffff;"><span style="background-color: #63796d; display: inline-block; padding: 1px 9px; border-radius: 4px;">Indice dei contenuti</span></span></strong></h3>
+.. |REPLACE8| raw:: html
 
     <script id="dsq-count-scr" src="//guida-readthedocs.disqus.com/count.js" async></script>
     
