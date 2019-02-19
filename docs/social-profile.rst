@@ -104,7 +104,7 @@ territorial mini guide
     <p><a href="http://cirospat.aminus3.com/portfolio" target="_blank" rel="noopener" title="a_view_of_world_children by cirospat"><img src="https://img.shields.io/badge/a_view_of_world_children-cirospat-blueviolet.svg" /></a><span style="color: #ff0000;"><code>licenza CC BY</code></span></p>
 .. |REPLACE4| raw:: html
 
-    <p><a href="https://docs.google.com/presentation/d/1FnQJYBtHa6kslcHStOp838BPU8cskQC1Ko-yFKgAPhQ/edit" target="_blank" rel="noopener" title="sicilia_sud_est by cirospat"><img src="https://img.shields.io/badge/sicilia_sud_est-cirospat-important.svg" /></a><span style="color: #ff0000;"><code>licenza CC BY</code></span></p>
+    <p><a href="https://docs.google.com/presentation/d/1FnQJYBtHa6kslcHStOp838BPU8cskQC1Ko-yFKgAPhQ/edit" target="_blank" rel="noopener" title="sicilia_sud_est by cirospat"><img src="https://img.shields.io/badge/sicilia_sud_est-cirospat-blue.svg?style=popout&logo=google%20drive&logoColor=blue" /></a><span style="color: #ff0000;"><code>licenza CC BY</code></span></p>
 .. |REPLACE5| raw:: html
 
     <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTutfK7O5PJb41zPl-97_-j3pQai64hyRRTosVbd2rl5uZ5DwUJ1klOrMrCJlH4DGf4tFG6yZFV4gVQ/embed?start=false&loop=false&delayms=5000" frameborder="0" width="800" height="554" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
