@@ -70,10 +70,6 @@ territorial mini guide
     <p><a href="https://twitter.com/cirospat" target="_blank" rel="noopener" title="cirospat"><img src="https://img.shields.io/badge/twitter-cirospat-lightgray
     .svg?style=popout&amp;logo=twitter&amp;logoColor=9cf" /></a></p>
     
-    <p><a href="https://www.facebook.com/ciro.spataro.3" target="_blank" rel="noopener" title="cirospat"><img src="https://img.shields.io/badge/facebook
-    -ciro.spataro.3-lightgray
-    .svg?style=popout&amp;logo=facebook&amp;logoColor=informational" /></a></p>
-    
     <p><a href="https://www.linkedin.com/in/cirospataro/" target="_blank" rel="noopener" title="cirospat"><img src="https://img.shields.io/badge/linkedin
     -cirospataro-lightgray
     .svg?style=popout&amp;logo=linkedin&amp;logoColor=blue" /></a></p>
