@@ -12,8 +12,6 @@ email
 
 |REPLACE1|
 
---------
-
 .. _h3663a193d737e5a2864411c22135a78:
 
 social
