@@ -65,7 +65,7 @@ territorial mini guide
 
 .. |REPLACE1| raw:: html
 
-    <a href="mailto:cirospat@gmail.com" target="_blank" rel="noopener" title="email cirospat"><img src="https://img.shields.io/badge/email-cirospat@gmail.com-blue.svg" /></a>
+    <a href="mailto:cirospat@gmail.com" target="_blank" rel="noopener" title="email cirospat"><img src="https://img.shields.io/badge/email-cirospat@gmail.com-red.svg?style=popout&logo=gmail&logoColor=red" /></a>
 .. |REPLACE2| raw:: html
 
     <p><a href="https://twitter.com/cirospat" target="_blank" rel="noopener" title="cirospat"><img src="https://img.shields.io/badge/twitter-cirospat-lightgray
