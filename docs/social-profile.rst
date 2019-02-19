@@ -111,4 +111,4 @@ territorial mini guide
     <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTutfK7O5PJb41zPl-97_-j3pQai64hyRRTosVbd2rl5uZ5DwUJ1klOrMrCJlH4DGf4tFG6yZFV4gVQ/embed?start=false&loop=false&delayms=5000" frameborder="0" width="800" height="554" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 .. |REPLACE6| raw:: html
 
-    <p><a href="https://creativecommons.org/licenses/by/2.0/it/" target="_blank" rel="noopener"><img src="https://upload.wikimedia.org/wikipedia/commons/1/11/Cc-by_new_white.svg" width="30" /></a> <a href="https://creativecommons.org/licenses/by/2.0/it/" target="_blank" rel="noopener">licenza Creative Commons, attribuzione dell'opera <code>"CC BY"</code></a></p>
+    <p><a href="https://creativecommons.org/licenses/by/2.0/it/" target="_blank" rel="noopener"><img src="https://upload.wikimedia.org/wikipedia/commons/1/11/Cc-by_new_white.svg" width="22" /></a> <a href="https://creativecommons.org/licenses/by/2.0/it/" target="_blank" rel="noopener">licenza Creative Commons, attribuzione dell'opera <code>"CC BY"</code></a></p>
