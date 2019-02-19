@@ -22,9 +22,6 @@ social
 
 |REPLACE2|
 
-
-|REPLACE3|
-
 --------
 
 .. _h2a71b4354a2b7b67063506a6f6478:
@@ -38,7 +35,7 @@ photos
 
 
 
-|REPLACE4|
+|REPLACE3|
 
 --------
 
@@ -48,10 +45,10 @@ territorial mini guide
 ======================
 
 
+|REPLACE4|
+
+
 |REPLACE5|
-
-
-|REPLACE6|
 
 --------
 
@@ -96,14 +93,6 @@ territorial mini guide
     
 .. |REPLACE3| raw:: html
 
-    <p><a href="https://www.youtube.com/user/cirospat/videos" target="_blank" rel="noopener" title="youtube cirospat"><img src="https://img.shields.io/badge/youtube-cirospat-blue.svg" /></a></p>
-    <p><a href="https://twitter.com/cirospat" target="_blank" rel="noopener" title="twitter cirospat"><img src="https://img.shields.io/badge/twitter-cirospat-blueviolet.svg" /></a></p>
-    <p><a href="https://medium.com/@cirospat/latest" target="_blank" rel="noopener" title="medium cirospat"><img src="https://img.shields.io/badge/medium-cirospat-orange.svg" /></a> [articoli sui dati aperti e pubblica amministrazione digitale] <span style="color: #ff0000;"><code>licenza CC BY</code></span></p>
-    <p><a href="http://www.linkedin.com/in/cirospataro" target="_blank" rel="noopener" title="linkedin cirospat"><img src="https://img.shields.io/badge/linkedin-cirospat-red.svg" /></a></p>
-    <p><a href="https://www.facebook.com/ciro.spataro.3" target="_blank" rel="noopener" title="facebook cirospat"><img src="https://img.shields.io/badge/facebook-cirospat-brightgreen.svg" /></a></p>
-    <p><img src="https://img.shields.io/badge/skype-cirospat-blue.svg" /></p>
-.. |REPLACE4| raw:: html
-
     <p><a href="https://www.flickr.com/photos/cirospat/albums" target="_blank" rel="noopener" title="flickr cirospat"><img src="https://img.shields.io/badge/flickr-cirospat-blue.svg" /></a><span style="color: #ff0000;"><code>licenza CC BY</code></span></p>
     
     <p><a href="https://www.instagram.com/cirospat" target="_blank" rel="noopener" title="instagram cirospat"><img src="https://img.shields.io/badge/instagram-cirospat-orange.svg" /></a><span style="color: #ff0000;"><code>licenza CC BY</code></span></p>
@@ -115,10 +104,10 @@ territorial mini guide
     <p><a href="http://cirospat.aminus3.com/portfolio" target="_blank" rel="noopener" title="a_view_of_world_children by cirospat"><img src="https://img.shields.io/badge/a_view_of_world_children-cirospat-blueviolet.svg" /></a><span style="color: #ff0000;"><code>licenza CC BY</code></span></p>
     
     <p><a href="http://bit.ly/inbaltikforest" target="_blank" rel="noopener" title="in_baltik_forest by cirospat"><img src="https://img.shields.io/badge/in_baltik_forest-cirospat-orange.svg" /></a><span style="color: #ff0000;"><code>licenza CC BY</code></span></p>
-.. |REPLACE5| raw:: html
+.. |REPLACE4| raw:: html
 
     <p><a href="https://docs.google.com/presentation/d/1FnQJYBtHa6kslcHStOp838BPU8cskQC1Ko-yFKgAPhQ/edit" target="_blank" rel="noopener" title="sicilia_sud_est by cirospat"><img src="https://img.shields.io/badge/sicilia_sud_est-cirospat-important.svg" /></a><span style="color: #ff0000;"><code>licenza CC BY</code></span></p>
-.. |REPLACE6| raw:: html
+.. |REPLACE5| raw:: html
 
     <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTutfK7O5PJb41zPl-97_-j3pQai64hyRRTosVbd2rl5uZ5DwUJ1klOrMrCJlH4DGf4tFG6yZFV4gVQ/embed?start=false&loop=false&delayms=5000" frameborder="0" width="800" height="554" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
