@@ -93,10 +93,14 @@ UE projects
 
 \ |STYLE1|\ :
 
+\ |LINK25|\  ``CC BY``.
+
+\ |LINK26|\  ``CC BY SA``.
+
+\ |LINK27|\  ``CC BY NC SA``.
+
+
 |REPLACE6|
-
-
-|REPLACE7|
 
 
 .. bottom of content
@@ -127,13 +131,6 @@ UE projects
     <p><a href="http://bit.ly/medclima" target="_blank" rel="noopener" title="project-medclima"><img src="https://img.shields.io/badge/project-medclima-blue.svg" /></a></p>
     <p><a href="http://www.eurocities.eu/eurocities/projects/URBAN-MATRIX-Targeted-Knowledge-Exchange-on-Urban-Sustainability&tpl=home" target="_blank" rel="noopener" title="project-urban matrix"><img src="https://img.shields.io/badge/project-urban_matrix-blue.svg" /></a></p>
 .. |REPLACE6| raw:: html
-
-    <p><a href="https://creativecommons.org/licenses/by/2.0/it/" target="_blank" rel="noopener"><img src="https://lh5.googleusercontent.com/WNMkYof6StF9IavqpfOPxfAgLHBkE_vhYr7ygle2ZUSgy0YA4FjYR2D-2sLC-B55cm9JclHzSQx6nStKut8PhL1YnLF0JgKnX6DeM6nTI-yA2arcgEA=w170" /></a> <a href="https://creativecommons.org/licenses/by/2.0/it/" target="_blank" rel="noopener">licenza Creative Commons, attribuzione dell'opera </a><code>"CC BY"</code></p>
-    
-    <p><a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="noopener"><img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Cc-by-sa_%281%29.svg" width="90" /></a> <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="noopener">licenza Creative Commons, attribuzione dell'opera, condividi allo stesso modo </a><code>"CC BY SA"</code></p>
-    
-    <p><a href="https://creativecommons.org/licenses/by-nc-sa/3.0/it/" target="_blank" rel="noopener"><img src="https://lh5.googleusercontent.com/5TUC0KtyYzk55xl3jMuQY0f9U1pDJJkXgkX_ltJiQZ6K7Sm_6gkTz9CFXWq18n7cM1OXJGLec70Be9ocsNVPfbnBdquy38a7d5GaYZMz0nvCfYvEEdSk=w170" /></a> <a href="https://creativecommons.org/licenses/by-nc-sa/3.0/it/" target="_blank" rel="noopener">licenza Creative Commons, attribuzione dell'opera, condividi allo stesso modo, non per usi commerciali </a><code>"CC BY NC SA"</code></p>
-.. |REPLACE7| raw:: html
 
     <script id="dsq-count-scr" src="//guida-readthedocs.disqus.com/count.js" async></script>
     
@@ -254,4 +251,16 @@ UE projects
 .. |LINK24| raw:: html
 
     <a href="https://palermo-sostenibile.readthedocs.io" target="_blank">Palermo sostenibile</a>
+
+.. |LINK25| raw:: html
+
+    <a href="https://creativecommons.org/licenses/by/2.0/it/" target="_blank">licenza Creative Commons, attribuzione dell'opera</a>
+
+.. |LINK26| raw:: html
+
+    <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank">licenza Creative Commons, attribuzione dell'opera, condividi allo stesso modo</a>
+
+.. |LINK27| raw:: html
+
+    <a href="https://creativecommons.org/licenses/by-nc-sa/3.0/it/" target="_blank">licenza Creative Commons, attribuzione dell'opera, condividi allo stesso modo, non per usi commerciali</a>
 
