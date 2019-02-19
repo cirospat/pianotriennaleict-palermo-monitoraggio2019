@@ -91,11 +91,11 @@ territorial mini guide
     
 .. |REPLACE3| raw:: html
 
-    <p><a href="https://www.flickr.com/photos/cirospat/albums" target="_blank" rel="noopener" title="flickr cirospat"><img src="https://img.shields.io/badge/flickr-cirospat-blue.svg" /></a><span style="color: #ff0000;"><code>licenza CC BY</code></span></p>
+    <p><a href="https://www.flickr.com/photos/cirospat/albums" target="_blank" rel="noopener" title="flickr cirospat"><img src="https://img.shields.io/badge/flickr-cirospat-red.svg?style=popout&logo=flickr&logoColor=red" /></a><span style="color: #ff0000;"><code>licenza CC BY</code></span></p>
     
-    <p><a href="https://www.instagram.com/cirospat" target="_blank" rel="noopener" title="instagram cirospat"><img src="https://img.shields.io/badge/instagram-cirospat-orange.svg" /></a><span style="color: #ff0000;"><code>licenza CC BY</code></span></p>
+    <p><a href="https://www.instagram.com/cirospat" target="_blank" rel="noopener" title="instagram cirospat"><img src="https://img.shields.io/badge/instagram-cirospat-blue.svg?style=popout&logo=instagram&logoColor=blue" /></a><span style="color: #ff0000;"><code>licenza CC BY</code></span></p>
     
-    <p><a href="https://it.pinterest.com/cirospat" target="_blank" rel="noopener" title="pinterest cirospat"><img src="https://img.shields.io/badge/pinterest-cirospat-red.svg" /></a><span style="color: #ff0000;"><code>licenza CC BY</code></span></p>
+    <p><a href="https://it.pinterest.com/cirospat" target="_blank" rel="noopener" title="pinterest cirospat"><img src="https://img.shields.io/badge/pinterest-cirospat-red.svg?style=popout&logo=pinterest&logoColor=red" /></a><span style="color: #ff0000;"><code>licenza CC BY</code></span></p>
     
     <p><a href="http://bit.ly/inmypalermo" target="_blank" rel="noopener" title="in_my_palermo by cirospat"><img src="https://img.shields.io/badge/in_my_palermo-cirospat-brightgreen.svg" /></a><span style="color: #ff0000;"><code>licenza CC BY</code></span></p>
     
