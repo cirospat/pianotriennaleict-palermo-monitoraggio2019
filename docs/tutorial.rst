@@ -56,6 +56,8 @@ Corsi online su 'competenze e servizi digitali'
 
 \ |STYLE3|\ . \ |LINK9|\ . Posta elettronica certificata, PDF e firma digitale (Pades e Cades) - i formati dei files (doc, odt, xls, ods, docx, xlsx, jpg, bmp, pdf, xml, zip, 7z ecc....) e la loro gestione e conservazione - la creazione dei fascicoli elettronici e la denominazione di cartelle e files - i programmi open source e freeware più diffusi ed utili (libreoffice, 7z, gimp, ecc...) - ricerca di norme, sentenze e dottrina in rete - informatica giuridica (dall'analogico al digitale e viceversa, copie analogiche e copie digitali, conservazione degli atti) - ottimizzazione dei browser (preferiti, links ecc...).
 
+\ |STYLE4|\ . Un validissimo \ |LINK10|\  e \ |LINK11|\  a cura della Fondazione IFEL - ANCI.
+
 |
 
 .. _h5231154d48564c132e542693d1d1d5f:
@@ -63,13 +65,13 @@ Corsi online su 'competenze e servizi digitali'
 Manuali 
 ========
 
-\ |LINK10|\  per la catalogazione e pubblicazione degli eventi pubblici, effettuata tramite l'uso di un ``vocabolario controllato`` (applicativo in uso e riuso nelle Pubbliche Amministrazioni)
+\ |LINK12|\  per la catalogazione e pubblicazione degli eventi pubblici, effettuata tramite l'uso di un ``vocabolario controllato`` (applicativo in uso e riuso nelle Pubbliche Amministrazioni)
 
-\ |LINK11|\  in uso al Comune di Palermo
+\ |LINK13|\  in uso al Comune di Palermo
 
-\ |LINK12|\  del comune di Palermo
+\ |LINK14|\  del comune di Palermo
 
-\ |LINK13|\  (\ |STYLE4|\ , \ |STYLE5|\ ) è un ambiente informatico per la gestione di corsi, basato sull'ideologia \ |LINK14|\  secondo la quale ogni apprendimento sarebbe facilitato dalla produzione di oggetti tangibili. [\ |LINK15|\ ]
+\ |LINK15|\  (\ |STYLE5|\ , \ |STYLE6|\ ) è un ambiente informatico per la gestione di corsi, basato sull'ideologia \ |LINK16|\  secondo la quale ogni apprendimento sarebbe facilitato dalla produzione di oggetti tangibili. [\ |LINK17|\ ]
 
 
 |REPLACE3|
@@ -86,9 +88,11 @@ Manuali
 
 .. |STYLE3| replace:: **Videocorsi di informatica di base, a cura di Simone Chiarelli**
 
-.. |STYLE4| replace:: *Modular Object-Oriented Dynamic Learning Environment*
+.. |STYLE4| replace:: **Come si scrive bene un progetto europeo**
 
-.. |STYLE5| replace:: *ambiente per l'apprendimento modulare, dinamico, orientato ad oggetti*
+.. |STYLE5| replace:: *Modular Object-Oriented Dynamic Learning Environment*
+
+.. |STYLE6| replace:: *ambiente per l'apprendimento modulare, dinamico, orientato ad oggetti*
 
 
 .. |REPLACE1| raw:: html
@@ -161,25 +165,33 @@ Manuali
 
 .. |LINK10| raw:: html
 
-    <a href="http://manuale-openagenda.readthedocs.io" target="_blank">Manuale d'uso dell'applicativo Open Agenda</a>
+    <a href="https://www.fondazioneifel.it/documenti-e-pubblicazioni/item/9640-video-come-si-scrive-bene-un-progetto-europeo" target="_blank">Webinar</a>
 
 .. |LINK11| raw:: html
 
-    <a href="http://libro-firma.readthedocs.io" target="_blank">Manuale d'uso dell'applicativo Libro Firma</a>
+    <a href="https://www.fondazioneifel.it/documenti-e-pubblicazioni/item/9639-slide-come-si-scrive-bene-un-progetto-europeo" target="_blank">Materiali didattici</a>
 
 .. |LINK12| raw:: html
 
-    <a href="http://upload-dataset-comunepalermo.readthedocs.io" target="_blank">Manuale per il caricamento dei dataset sul portale open data</a>
+    <a href="http://manuale-openagenda.readthedocs.io" target="_blank">Manuale d'uso dell'applicativo Open Agenda</a>
 
 .. |LINK13| raw:: html
 
-    <a href="https://cirospat.readthedocs.io/it/latest/come-usare-Moodle.html" target="_blank">Guida in italiano all'uso degli strumenti di Moodle, a cura del FormezPA</a>
+    <a href="http://libro-firma.readthedocs.io" target="_blank">Manuale d'uso dell'applicativo Libro Firma</a>
 
 .. |LINK14| raw:: html
 
-    <a href="https://it.wikipedia.org/wiki/Costruzionismo_(teoria_dell%27apprendimento)" target="_blank">costruzionista</a>
+    <a href="http://upload-dataset-comunepalermo.readthedocs.io" target="_blank">Manuale per il caricamento dei dataset sul portale open data</a>
 
 .. |LINK15| raw:: html
+
+    <a href="https://cirospat.readthedocs.io/it/latest/come-usare-Moodle.html" target="_blank">Guida in italiano all'uso degli strumenti di Moodle, a cura del FormezPA</a>
+
+.. |LINK16| raw:: html
+
+    <a href="https://it.wikipedia.org/wiki/Costruzionismo_(teoria_dell%27apprendimento)" target="_blank">costruzionista</a>
+
+.. |LINK17| raw:: html
 
     <a href="https://it.wikipedia.org/wiki/Moodle" target="_blank">Definizione di Wikipedia</a>
 
