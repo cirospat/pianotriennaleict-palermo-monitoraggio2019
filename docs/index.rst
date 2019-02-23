@@ -124,8 +124,7 @@ Le iniziative di carattere \ |STYLE1|\ , vissute in spirito collaborativo insiem
 
 .. |REPLACE1| raw:: html
 
-    <img src="https://img.shields.io/github/last-commit/cirospat/newproject.svg?colorB=blue&label=ultimo%20aggiornamento&style=popout&logo=GitHub&logoColor=green" />
-    </br>
+    <img src="https://img.shields.io/github/last-commit/cirospat/newproject.svg?colorB=blue&label=ultimo%20aggiornamento&style=popout&logo=GitHub&logoColor=green" /> 
     <img src="https://img.shields.io/github/commit-activity/m/cirospat/newproject.svg?label=numero%20attivit%C3%A0&style=plastic" />
 .. |REPLACE2| raw:: html
 
