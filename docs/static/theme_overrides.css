@@ -51,6 +51,11 @@ h1, h2, h3 {
 /* ricordarsi che il massimo dei caratteri per le voci di macro menù è di 30 */
 /* .wy-nav-side {color: #4dc6ac;} */
 
+/* setta il colore del testo caption menu sx */
+.wy-menu-vertical p.caption {
+color: #a9ccc4;
+} 
+
 /*background colore colonna sx */
 /* .wy-side-scroll {background: #1c300f;} */
 
