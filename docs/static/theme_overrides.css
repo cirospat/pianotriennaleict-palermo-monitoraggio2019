@@ -56,6 +56,12 @@ h1, h2, h3 {
 color: #51bcbc;
 } 
 
+
+/* per applicare underline e colore a voci di menu attive */
+li.current > a {text-decoration: underline; color: green !important;}
+/* per applicare underline e colore a voci di menu attive */
+
+
 /*background colore colonna sx */
 /* .wy-side-scroll {background: #1c300f;} */
 
