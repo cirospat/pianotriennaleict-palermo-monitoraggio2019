@@ -17,39 +17,42 @@
 
 .admonition > *:not(:first-child){
     /* draw a boder around a admonition */
-    border-left: solid 0px #b59e9e;
-    border-right: solid 0px #b59e9e;
+    border-left: solid 0px #b59e9e;   /* 0 px = tabelle degli admonition senza bordi */
+    border-right: solid 0px #b59e9e;  /* 0 px = tabelle degli admonition senza bordi */
     padding: 12px;
     margin: -12px -12px -12px -12px;
     margin-bottom: -12px !important;
 }
 .admonition > .last, .admonition- > .last{
     /* draw a boder around a admonition */
-    border-bottom: solid 0px #b59e9e !important;
+    border-bottom: solid 0px #b59e9e !important;  /* 0 px = tabelle degli admonition senza bordi */
 }
 
 
-/* pagina avanti/indietro */
+/* pagina avanti - indietro */
 .btn-neutral {
     background-color: #b6c5be !important;
     color: #fff !important;
 }
 
-/* setta i colori dei titoli dei capitoli, paragrafi, ecc. */
+
+/*  setta i colori dei titoli dei capitoli, paragrafi, ecc.  */
 h1, h2, h3 {
     color: #0e6136 !important;
 }
 
-/* reattangolo in alto a sinistra dove c'è il logo e il titolo del RTD */
+
+/* colore del reattangolo in alto a sinistra dove c'è il logo e il titolo del RTD */
 .wy-side-nav-search {
     background-color: #85a292; 
 }
 
-/* testo caption menu sx - setta i colori dell'indice nel menu a sx */
-/* ricordarsi che il massimo dei caratteri per le voci di macro menù è di 30 */
+
+/* impostazione vecchia del testo caption menu sx che setta i colori dell'indice nel macro menù a sx */
 /* .wy-nav-side {color: #4dc6ac;} */
 
-/* setta il colore del testo caption menu sx */
+/* setta il colore del testo caption menu a sx */
+/* ricordarsi che il massimo dei caratteri per le voci di macro menù è di 30 */
 .wy-menu-vertical p.caption {
 color: #51bcbc;
 } 
@@ -59,23 +62,24 @@ color: #51bcbc;
 .wy-nav-side  {background: #193a33;} 
 
 
-/* colore del piccolo pannello sx in basso VERSION (Download & Github) */
+/* setta il colore del piccolo pannello sx in basso VERSION RTD (Download & Github) */
 .rst-versions .rst-current-version {background: #193a33;}
 
 
 /* per applicare underline e colore a voci di menu attive */
 li.current > a {text-decoration: underline; color: green !important;}
-/* per applicare underline e colore a voci di menu attive */
 
 
-/*background colore colonna sx */
+
+/* impostazione vecchia = background colore colonna sx */
 /* .wy-side-scroll {background: #1c300f;} */
+
 
 /* adatta il nav-content a fullhd e si elimina lo spazio vuoto piccolo a destra */
 .wy-nav-content {max-width: 1920px;} 
 
 
-/* disattiva il testo "latest"  menu a sx */
+/* disattiva il testo "latest"  menu a sx sotto search */
 .wy-side-nav-search>div.version {    display: none;}
 
 
@@ -86,34 +90,42 @@ li.current > a {text-decoration: underline; color: green !important;}
 }
 
 
-/* #ccd8ab colore deciso per appattarlo al verdino della freccia, per versione mobile */
+
+/* colore dell'header nella versione mobile con effetto sfumatura */
 /*    .wy-nav-top {background: linear-gradient(#ffaf05, #ffd105); }    */
 
 /* mobile settings */
 .wy-nav-top {background: #85a292; }
 
-/* lo sfondo a dx dopo il testo, ma con il settaggio full-hd non si applica */
+/* colore dello sfondo a dx dopo il testo, ma con il settaggio full-hd non si applica */
 .wy-body-for-nav {background: #ffffff; }
 
-/* assegnare il colore (bianco) allo sfondo del testo in tutte le pagine HTML del documnto - è una prova del 29 gen 2019  */
+/* assegnare il colore (bianco) allo sfondo del testo in tutte le pagine HTML del documento - è una prova riuscita del 29.01.2019  */
 .wy-nav-content {background: #ffffff; } 
 
 
-/* vedi vari stili di formattazione a questo link: 
-   https://github.com/gbvitrano/HfcQGIS/blob/master/static/theme_overrides.css */
+/* 
+vedi vari stili di formattazione grafica del layout a questo link: 
+https://github.com/gbvitrano/HfcQGIS/blob/master/static/theme_overrides.css 
+*/
 
-/* formattare la barra del codice [`` ... ``] quella inclusa tra i doppi apici */
-/* code {
+/* 
+formattare la barra del codice [`` ... ``] quella inclusa tra i doppi apici 
+code {
 white-space: normal !important;
 border: 0px !important;
 background-color: #f2f2f2 !important;
-}  */
+}  
+*/
+
 
 /* dare il colore di sfondo al blocco pbubblicita */
 .wy-body-for-nav .keep-us-sustainable {color: #404040; background-color: #404040;}
 
-/* spegne numero revisione nel footer */
+
+/* spegne il numero della revisione nel footer */
 span.commit {display: none;}
+
 
  /* testo sphinx footer */
 .footer_small {font-size: small!important;}
