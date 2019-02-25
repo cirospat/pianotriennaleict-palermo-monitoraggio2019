@@ -13,11 +13,6 @@ servizi di opendatasicilia
 
 |REPLACE1|
 
-.. _h2c1d74277104e41780968148427e:
-
-
-
-
 |
 
 .. _h436b5279535ab39574d944c194c5b:
@@ -51,6 +46,7 @@ buttons colorati con testo
 
 |
 
+\ |STYLE0|\ \ |LINK1|\ \ |STYLE1|\  
 
 |REPLACE2|
 
@@ -253,6 +249,11 @@ Tabella con http://truben.no/table
 .. bottom of content
 
 
+.. |STYLE0| replace:: **Pulsanti (**
+
+.. |STYLE1| replace:: **)**
+
+
 .. |REPLACE1| raw:: html
 
     <p><strong><span style="background-color: #ffffff;">Servizi di <a href="http://opendatasicilia.it/" target="_blank" rel="noopener">opendatasicilia</a></span></strong></p>
@@ -283,3 +284,8 @@ Tabella con http://truben.no/table
 .. |REPLACE7| raw:: html
 
     <iframe width="100%" height="500px" frameBorder="0" src="http://umap.openstreetmap.fr/it/map/hotspot-wifi-del-comune-di-palermo_211092?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false"></iframe>
+
+.. |LINK1| raw:: html
+
+    <a href="https://www.html.it/pag/363656/pulsanti/" target="_blank">https://www.html.it/pag/363656/pulsanti/</a>
+
