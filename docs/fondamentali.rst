@@ -329,6 +329,13 @@ Conoscere i fabbisogni, le consultazioni di mercato, gli appalti innovativi dell
 
 --------
 
+.. _h711f146e164741184e4619424197438:
+
+Linee guida per l’erogazione del servizio pubblico wifi free
+************************************************************
+
+\ |LINK48|\  a cura dell'AgID.
+
 
 |REPLACE2|
 
@@ -571,4 +578,8 @@ Conoscere i fabbisogni, le consultazioni di mercato, gli appalti innovativi dell
 .. |LINK47| raw:: html
 
     <a href="https://appaltinnovativi.gov.it/" target="_blank">Link appalti innovativi</a>
+
+.. |LINK48| raw:: html
+
+    <a href="https://docs.italia.it/AgID/documenti-in-consultazione/lg-pubblicowififree/it/bozza/" target="_blank">Linee Guida in consultazione</a>
 
