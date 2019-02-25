@@ -57,6 +57,10 @@ color: #51bcbc;
 } 
 
 
+/* colore del piccolo pannello sx in basso VERSION (Download & Github) */
+.rst-versions .rst-current-version {background: #193a33;}
+
+
 /* per applicare underline e colore a voci di menu attive */
 li.current > a {text-decoration: underline; color: green !important;}
 /* per applicare underline e colore a voci di menu attive */
