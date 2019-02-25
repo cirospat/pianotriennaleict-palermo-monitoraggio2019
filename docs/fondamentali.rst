@@ -4,6 +4,9 @@
 Fondamentali per la #PA digitale 
 #################################
 
+
+|REPLACE1|
+
 .. _bookmark-id-5ak5khujvzst:
 
 
@@ -12,9 +15,6 @@ Fondamentali per la #PA digitale
     :caption: indice fondamentali #PA digitale
 
     fondamentali
-
-
-|REPLACE1|
 
 .. _h2566d2644556c3b6358635c6a5f22:
 
