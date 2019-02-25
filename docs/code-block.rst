@@ -264,8 +264,7 @@ Tabella con http://truben.no/table
 .. |REPLACE2| raw:: html
 
     <div class="w3-container">
-      <button class="w3-button w3-black">cirospat</button>
-      <a href="https://cirospat.readthedocs.io" class="w3-button w3-black">cirospat</a>
+       <a href="https://cirospat.readthedocs.io" class="w3-button w3-black" <button class="w3-button w3-black">Button Button</button>cirospat</a>
     </div>
 .. |REPLACE3| raw:: html
 
