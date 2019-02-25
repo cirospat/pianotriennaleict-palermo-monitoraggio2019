@@ -264,8 +264,10 @@ Tabella con http://truben.no/table
 .. |REPLACE2| raw:: html
 
     <div class="w3-container">
-       <a href="https://cirospat.readthedocs.io" class="w3-button w3-black" <button class="w3-button w3-black">Button Button</button>cirospat</a>
+      <button class="w3-button w3-black">Button Button</button>
+      <a href="https://cirospat.readthedocs.io" class="w3-button w3-black">cirospat</a>
     </div>
+    <div class="w3-container"><input type="button" class="w3-button w3-purple" "w3-button w3-round-xlarge" value="cirospat" /> <a href="https://cirospat.readthedocs.io" target="_blank" rel="noopener"></a></div>
 .. |REPLACE3| raw:: html
 
     <iframe width="100%" height="1000px" frameBorder="0" src="https://medium.com/@cirospat/latest"></iframe>
