@@ -58,10 +58,7 @@ color: #51bcbc;
 
 
 /* setta il colore dell'area di sfondo dove è il menù menu a sx */
-.wy-nav-side  {
-color: #193a33;
-} 
-
+.wy-nav-side  {background: color: #193a33;} 
 
 
 /* colore del piccolo pannello sx in basso VERSION (Download & Github) */
