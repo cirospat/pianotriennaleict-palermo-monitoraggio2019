@@ -54,14 +54,14 @@ Corsi online su 'competenze e servizi digitali'
 
 \ |STYLE3|\ . \ |LINK9|\ . Posta elettronica certificata, PDF e firma digitale (Pades e Cades) - i formati dei files (doc, odt, xls, ods, docx, xlsx, jpg, bmp, pdf, xml, zip, 7z ecc....) e la loro gestione e conservazione - la creazione dei fascicoli elettronici e la denominazione di cartelle e files - i programmi open source e freeware più diffusi ed utili (libreoffice, 7z, gimp, ecc...) - ricerca di norme, sentenze e dottrina in rete - informatica giuridica (dall'analogico al digitale e viceversa, copie analogiche e copie digitali, conservazione degli atti) - ottimizzazione dei browser (preferiti, links ecc...).
 
-\ |STYLE4|\ 
+|
 
 .. _h4c532ed753b3e587f215a596b72211f:
 
 Webinar sulla costruzione di un 'progetto europeo'
 ==================================================
 
-\ |STYLE5|\ . Un validissimo \ |LINK10|\  e \ |LINK11|\  a cura della Fondazione IFEL - ANCI.
+\ |STYLE4|\ . Un validissimo \ |LINK10|\  e \ |LINK11|\  a cura della Fondazione IFEL - ANCI.
 
 |
 
@@ -76,7 +76,7 @@ Manuali vari
 
 \ |LINK14|\  del comune di Palermo
 
-\ |LINK15|\  (\ |STYLE6|\ , \ |STYLE7|\ ) è un ambiente informatico per la gestione di corsi, basato sull'ideologia \ |LINK16|\  secondo la quale ogni apprendimento sarebbe facilitato dalla produzione di oggetti tangibili. [\ |LINK17|\ ]
+\ |LINK15|\  (\ |STYLE5|\ , \ |STYLE6|\ ) è un ambiente informatico per la gestione di corsi, basato sull'ideologia \ |LINK16|\  secondo la quale ogni apprendimento sarebbe facilitato dalla produzione di oggetti tangibili. [\ |LINK17|\ ]
 
 
 |REPLACE2|
@@ -93,13 +93,11 @@ Manuali vari
 
 .. |STYLE3| replace:: **Videocorsi di informatica di base, a cura di Simone Chiarelli**
 
-.. |STYLE4| replace:: **|**
+.. |STYLE4| replace:: **Come si scrive bene un progetto europeo**
 
-.. |STYLE5| replace:: **Come si scrive bene un progetto europeo**
+.. |STYLE5| replace:: *Modular Object-Oriented Dynamic Learning Environment*
 
-.. |STYLE6| replace:: *Modular Object-Oriented Dynamic Learning Environment*
-
-.. |STYLE7| replace:: *ambiente per l'apprendimento modulare, dinamico, orientato ad oggetti*
+.. |STYLE6| replace:: *ambiente per l'apprendimento modulare, dinamico, orientato ad oggetti*
 
 
 .. |REPLACE1| raw:: html
