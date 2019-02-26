@@ -50,8 +50,6 @@ Corsi online su 'competenze e servizi digitali'
 
 \ |STYLE0|\  \ |LINK7|\  \ |STYLE1|\  (accountability - agenda Digitale - e-leadership - open data - partecipazione - qualità dei servizi web - soft skill per l’e-leadership - web analytics - ….).
 
-|REPLACE2|
-
 \ |STYLE2|\  sui \ |LINK8|\  (data center - SPID - eProcurement - service design - Intelligenza Artificiale per la PA - comunicazione con i servizi digitali - accessibilità digitale e usabilità - professioni e competenze ICT - PagoPA - Piano triennale informatica per la PA - Cybersecurity - CAD - Data Analytic Framework - responsabile protezione dati personali - responsabile gestione documentale - responsabile transizione al digitale).
 
 \ |STYLE3|\ . \ |LINK9|\ . Posta elettronica certificata, PDF e firma digitale (Pades e Cades) - i formati dei files (doc, odt, xls, ods, docx, xlsx, jpg, bmp, pdf, xml, zip, 7z ecc....) e la loro gestione e conservazione - la creazione dei fascicoli elettronici e la denominazione di cartelle e files - i programmi open source e freeware più diffusi ed utili (libreoffice, 7z, gimp, ecc...) - ricerca di norme, sentenze e dottrina in rete - informatica giuridica (dall'analogico al digitale e viceversa, copie analogiche e copie digitali, conservazione degli atti) - ottimizzazione dei browser (preferiti, links ecc...).
@@ -74,7 +72,7 @@ Manuali
 \ |LINK15|\  (\ |STYLE5|\ , \ |STYLE6|\ ) è un ambiente informatico per la gestione di corsi, basato sull'ideologia \ |LINK16|\  secondo la quale ogni apprendimento sarebbe facilitato dalla produzione di oggetti tangibili. [\ |LINK17|\ ]
 
 
-|REPLACE3|
+|REPLACE2|
 
 
 .. bottom of content
@@ -99,9 +97,6 @@ Manuali
 
     <img src="https://raw.githubusercontent.com/cirospat/newproject/master/docs/static/chiavepertubi.jpg" width= 250 />
 .. |REPLACE2| raw:: html
-
-    <iframe width="100%" height="870px" frameBorder="0" src="https://eventipa.formez.it/progetto-formez-dettaglio-ms/17436"></iframe>
-.. |REPLACE3| raw:: html
 
     <script id="dsq-count-scr" src="//guida-readthedocs.disqus.com/count.js" async></script>
     
