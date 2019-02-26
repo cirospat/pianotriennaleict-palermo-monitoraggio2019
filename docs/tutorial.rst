@@ -16,10 +16,10 @@ Catalogo di tutorial sul mondo dei dati curato dalla community di Opendatasicili
 
 |
 
-.. _h5589565311393f3a207507d765267:
+.. _h6527707c271969926595f157a742026:
 
-Tansignari
-==========
+Tansignari, quando le cose spiegate in 2 minuti non si perdono
+==============================================================
 
 \ |LINK2|\  è un'idea di Andrea Borruso, ed è un patrimonio culturale della comunità opendatasicilia. Chiunque vuole conoscere come funziona qualcosa concernente qualsiasi cosa abbia relazione con lo sviluppo informatico, crea una \ |LINK3|\  su un repository di GitHub, così che una volta fornita la risposta (da parte di qualcuno che conosce la materia), si creano delle \ |LINK4|\  in un unico contenitore condiviso online che rappresentano la conoscenza.
 
@@ -34,12 +34,12 @@ Tutorial: pubblicare documenti su Read the Docs utilizzando Google doc e il comp
 
 |
 
-.. _h484f4548251a737775d2c7014541949:
+.. _h773b5f76543a1c2f18b2c6a47c7369:
 
-Tutorial: GoogleDrive spreadsheet to uMap
-=========================================
+Tutorial: dai fogli di GoogleDrive alle mappe openstreetmap di uMap
+===================================================================
 
-\ |LINK6|\ . Il mio primo tutorial (grazie ad Andrea Borruso). 
+\ |LINK6|\ . Il mio primo tutorial di sempre (grazie ad Andrea Borruso). 
 
 |
 
@@ -54,14 +54,21 @@ Corsi online su 'competenze e servizi digitali'
 
 \ |STYLE3|\ . \ |LINK9|\ . Posta elettronica certificata, PDF e firma digitale (Pades e Cades) - i formati dei files (doc, odt, xls, ods, docx, xlsx, jpg, bmp, pdf, xml, zip, 7z ecc....) e la loro gestione e conservazione - la creazione dei fascicoli elettronici e la denominazione di cartelle e files - i programmi open source e freeware più diffusi ed utili (libreoffice, 7z, gimp, ecc...) - ricerca di norme, sentenze e dottrina in rete - informatica giuridica (dall'analogico al digitale e viceversa, copie analogiche e copie digitali, conservazione degli atti) - ottimizzazione dei browser (preferiti, links ecc...).
 
-\ |STYLE4|\ . Un validissimo \ |LINK10|\  e \ |LINK11|\  a cura della Fondazione IFEL - ANCI.
+\ |STYLE4|\ 
+
+.. _h4c532ed753b3e587f215a596b72211f:
+
+Webinar sulla costruzione di un 'progetto europeo'
+==================================================
+
+\ |STYLE5|\ . Un validissimo \ |LINK10|\  e \ |LINK11|\  a cura della Fondazione IFEL - ANCI.
 
 |
 
-.. _h5231154d48564c132e542693d1d1d5f:
+.. _h505b6e366a7a5e6521631c4577585a:
 
-Manuali 
-========
+Manuali vari 
+=============
 
 \ |LINK12|\  per la catalogazione e pubblicazione degli eventi pubblici, effettuata tramite l'uso di un ``vocabolario controllato`` (applicativo in uso e riuso nelle Pubbliche Amministrazioni)
 
@@ -69,7 +76,7 @@ Manuali
 
 \ |LINK14|\  del comune di Palermo
 
-\ |LINK15|\  (\ |STYLE5|\ , \ |STYLE6|\ ) è un ambiente informatico per la gestione di corsi, basato sull'ideologia \ |LINK16|\  secondo la quale ogni apprendimento sarebbe facilitato dalla produzione di oggetti tangibili. [\ |LINK17|\ ]
+\ |LINK15|\  (\ |STYLE6|\ , \ |STYLE7|\ ) è un ambiente informatico per la gestione di corsi, basato sull'ideologia \ |LINK16|\  secondo la quale ogni apprendimento sarebbe facilitato dalla produzione di oggetti tangibili. [\ |LINK17|\ ]
 
 
 |REPLACE2|
@@ -86,11 +93,13 @@ Manuali
 
 .. |STYLE3| replace:: **Videocorsi di informatica di base, a cura di Simone Chiarelli**
 
-.. |STYLE4| replace:: **Come si scrive bene un progetto europeo**
+.. |STYLE4| replace:: **|**
 
-.. |STYLE5| replace:: *Modular Object-Oriented Dynamic Learning Environment*
+.. |STYLE5| replace:: **Come si scrive bene un progetto europeo**
 
-.. |STYLE6| replace:: *ambiente per l'apprendimento modulare, dinamico, orientato ad oggetti*
+.. |STYLE6| replace:: *Modular Object-Oriented Dynamic Learning Environment*
+
+.. |STYLE7| replace:: *ambiente per l'apprendimento modulare, dinamico, orientato ad oggetti*
 
 
 .. |REPLACE1| raw:: html
@@ -144,7 +153,7 @@ Manuali
 
 .. |LINK6| raw:: html
 
-    <a href="http://cirospat.readthedocs.io/it/latest/tutorial-googledrive-to-umap.html" target="_blank">Creare mappe su UMAP che si aggiornano automaticamente da Google Drive</a>
+    <a href="http://cirospat.readthedocs.io/it/latest/tutorial-googledrive-to-umap.html" target="_blank">Creare mappe su UMAP che si aggiornano automaticamente dagli spreadsheet di Google Drive</a>
 
 .. |LINK7| raw:: html
 
