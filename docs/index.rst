@@ -177,10 +177,10 @@ Le iniziative di carattere \ |STYLE1|\ , vissute in spirito collaborativo insiem
 .. |REPLACE8| raw:: html
 
     <span class="footer_small">
-    Per visualizzare e consultare correttamente i contenuti su questo portale sono necessari i seguenti requisiti minimi:
-    Risoluzione <strong>video desktop</strong>: PC con scheda video SVGA. Monitor a risoluzione minima di 1024x768 pixel con almeno 65.536 colori.
-    Navigazione su <strong>Mobile</strong>: Risoluzione minima di 360 x 640 px (modello di riferimento "Samsung Galaxy S3"). 
-    Navigazione su <strong>PC</strong>: ottimizzazione per Microsoft Internet Explorer vers. 11.0 e successive vers., Microsoft Edge vers. 25.1 e immediatamente successive, Mozilla Firefox vers. 50.0 e successive, Chrome vers. 40.0 o successiva, Opera vers. 48.0 o successiva e Safari vers.9.0 o successiva.
+    Per visualizzare e consultare correttamente i contenuti su questo portale sono necessari i seguenti requisiti minimi.
+    Risoluzione video desktop: PC con scheda video SVGA. Monitor a risoluzione minima di 1024x768 pixel con almeno 65.536 colori.
+    Navigazione su Mobile: Risoluzione minima di 360 x 640 px (modello di riferimento "Samsung Galaxy S3"). 
+    Navigazione su PC: ottimizzazione per Microsoft Internet Explorer vers. 11.0 e successive vers., Microsoft Edge vers. 25.1 e immediatamente successive, Mozilla Firefox vers. 50.0 e successive, Chrome vers. 40.0 o successiva, Opera vers. 48.0 o successiva e Safari vers.9.0 o successiva.
     </span>
 
 .. |LINK1| raw:: html
