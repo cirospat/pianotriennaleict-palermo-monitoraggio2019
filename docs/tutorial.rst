@@ -25,10 +25,10 @@ Tansignari, quando le cose spiegate in 2 minuti non si perdono
 
 |
 
-.. _h29261b7f1c264404b19385c75c4a3f:
+.. _h29f113a4f4d45f36e3f2041374d68:
 
-Tutorial: pubblicare documenti su Read the Docs utilizzando Google doc e il componente aggiuntivo GGeditor
-==========================================================================================================
+Tutorial: pubblicare documenti su 'Read the Docs' utilizzando Google doc e il componente aggiuntivo 'GGeditor'
+==============================================================================================================
 
 \ |LINK5|\  per facilitare la vita a chi vuole pubblicare documenti su Read the Docs o Docs Italia. GGeditor esegue il "commit" sul progetto Github direttamente da Google doc.
 
