@@ -7,10 +7,10 @@ Tutorial, manuali, corsi/webinar
 
 |REPLACE1|
 
-.. _h283a4d79723466e614c5f2d503e2e1e:
+.. _h40241d213d5b5c7b6935740233457b:
 
-Catalogo di tutorial sul mondo dei dati curato dalla community di Opendatasicilia
-=================================================================================
+Accussì, catalogo di tutorial sul mondo dei dati curato dalla community di Opendatasicilia
+==========================================================================================
 
 \ |LINK1|\ 
 
@@ -131,7 +131,7 @@ Manuali vari
 
 .. |LINK1| raw:: html
 
-    <a href="http://accussi.opendatasicilia.it/" target="_blank">Catalogo di Tutorial</a>
+    <a href="http://accussi.opendatasicilia.it/" target="_blank">Accussì - catalogo di Tutorial</a>
 
 .. |LINK2| raw:: html
 
