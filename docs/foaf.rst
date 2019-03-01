@@ -14,7 +14,9 @@ Ontologia FOAF ``RDF``
 
 Copia semplicemente la descrizione FOAF che hai generato e incollala in un file. Pubblica questo file sul tuo sito web: è una buona idea chiamare questo file "\ |LINK2|\ ", in modo da permettere l'uso di una ricerca con Google per trovare file FOAF sul web.
 
-[\ |LINK3|\ ]  [\ |LINK4|\ ]
+[\ |LINK3|\ ]  
+
+[\ |LINK4|\ ] 
 
 
 .. code:: 
@@ -125,11 +127,11 @@ Da un \ |LINK5|\ .
 
 .. |LINK3| raw:: html
 
-    <a href="https://www.w3.org/XML/" target="_blank">XML</a>
+    <a href="https://www.w3.org/XML/" target="_blank">XML - Extensible Markup Language</a>
 
 .. |LINK4| raw:: html
 
-    <a href="https://www.w3.org/RDF/" target="_blank">RDF</a>
+    <a href="https://www.w3.org/RDF/" target="_blank">RDF - Resource Description Framework</a>
 
 .. |LINK5| raw:: html
 
