@@ -165,13 +165,7 @@ Il 3,4,5 Dicembre 2018 lo staff del Responsabile Transizione al digitale effettu
 2019
 ----
 
-Il comune di Palermo è stato analizzato in un'\ |LINK30|\ .
-
-L'indagine ha dato vita ad una classifica che raggruppa le città capoluogo in 3 aree e Palermo si è classificata tra le migliori.
-
-Nel report sono descritte le variabili analizzate per ciascuna delle tre dimensioni considerate e la metodologia utilizzata per attribuire punteggi e livelli di maturità.
-
-Palermo si colloca tra le città con maturità alta, e in particolare tra quelle "omogenee" (almeno una dimensione a livello alto e nessuna a livello basso). Nel dettaglio:
+Il comune di Palermo è stato analizzato in un'\ |LINK30|\ . L'indagine ha dato vita ad una classifica che raggruppa le città capoluogo in 3 aree e Palermo si è classificata tra le migliori. Nel report sono descritte le variabili analizzate per ciascuna delle tre dimensioni considerate e la metodologia utilizzata per attribuire punteggi e livelli di maturità. Palermo si colloca tra le città con maturità alta, e in particolare tra quelle "omogenee" (almeno una dimensione a livello alto e nessuna a livello basso). Nel dettaglio:
 
 * fascia alta nella dimensione Digital Openness (addirittura tra le prime 5 città in assoluto)
 
