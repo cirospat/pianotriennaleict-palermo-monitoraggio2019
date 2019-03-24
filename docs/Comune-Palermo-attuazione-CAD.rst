@@ -167,11 +167,11 @@ Il 3,4,5 Dicembre 2018 lo staff del Responsabile Transizione al digitale effettu
 
 Il comune di Palermo è stato analizzato in una \ |LINK30|\ . L'indagine ha dato vita ad una classifica che raggruppa le città capoluogo in 3 aree e Palermo si è classificata tra le migliori. Nel report sono descritte le variabili analizzate per ciascuna delle tre dimensioni considerate e la metodologia utilizzata per attribuire punteggi e livelli di maturità. Palermo si colloca tra le città con maturità alta, e in particolare tra quelle "omogenee" (almeno una dimensione a livello alto e nessuna a livello basso). Nel dettaglio:
 
-* fascia alta nella dimensione Digital Openness (addirittura tra le prime 5 città in assoluto)
+* \ |STYLE30|\  (addirittura tra le prime 5 città in assoluto)
 
-* fascia media per quanto riguarda servizi online (dimensione Digital Public Services)
+* \ |STYLE31|\  (dimensione Digital Public Services)
 
-* fascia media per integrazione con le piattaforme abilitanti (dimensione Digital PA), ma molto vicina alla soglia di maturità più elevata.
+* \ |STYLE32|\  (dimensione Digital PA), ma molto vicina alla soglia di maturità più elevata.
 
 |
 
@@ -238,6 +238,12 @@ Il comune di Palermo è stato analizzato in una \ |LINK30|\ . L'indagine ha dato
 .. |STYLE28| replace:: **applicativo informatico per la gestione digitale delle Determinazioni Dirigenziali**
 
 .. |STYLE29| replace:: **Piano Triennale per l'Informatica 2017-19, sul CAD, e per illustrare la road map comunale al 2020 sui servizi digitali locali da attivare**
+
+.. |STYLE30| replace:: **fascia alta nella dimensione Digital Openness**
+
+.. |STYLE31| replace:: **fascia media per quanto riguarda servizi online**
+
+.. |STYLE32| replace:: **fascia media per integrazione con le piattaforme abilitanti**
 
 
 .. |LINK1| raw:: html
