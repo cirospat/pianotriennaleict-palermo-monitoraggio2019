@@ -158,6 +158,29 @@ Il 3,4,5 Dicembre 2018 lo staff del Responsabile Transizione al digitale effettu
 
 --------
 
+ 
+
+.. _h166b2e523425557f4d453a396558c:
+
+2019
+----
+
+Il comune di Palermo è stato analizzato in un'\ |LINK30|\ .
+
+L'indagine ha dato vita ad una classifica che raggruppa le città capoluogo in 3 aree e Palermo si è classificata tra le migliori.
+
+Nel report sono descritte le variabili analizzate per ciascuna delle tre dimensioni considerate e la metodologia utilizzata per attribuire punteggi e livelli di maturità.
+
+Palermo si colloca tra le città con maturità alta, e in particolare tra quelle "omogenee" (almeno una dimensione a livello alto e nessuna a livello basso). Nel dettaglio:
+
+* fascia alta nella dimensione Digital Openness (addirittura tra le prime 5 città in assoluto)
+
+* fascia media per quanto riguarda servizi online (dimensione Digital Public Services)
+
+* fascia media per integrazione con le piattaforme abilitanti (dimensione Digital PA), ma molto vicina alla soglia di maturità più elevata.
+
+|
+
 
 .. bottom of content
 
@@ -338,4 +361,8 @@ Il 3,4,5 Dicembre 2018 lo staff del Responsabile Transizione al digitale effettu
 .. |LINK29| raw:: html
 
     <a href="http://bit.ly/infoday-cad-3-4-5-dic-2018" target="_blank">seconda sessione di sensibilizzazione ai Dirigenti</a>
+
+.. |LINK30| raw:: html
+
+    <a href="https://www.forumpa.it/pa-digitale/servizi-piattaforme-e-openness-tre-dimensioni-per-scoprire-quanto-sono-digitali-i-comuni-italiani/" target="_blank">indagine nazionale di FPA sulla maturità dei servizi digitali</a>
 
