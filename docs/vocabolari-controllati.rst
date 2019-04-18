@@ -83,6 +83,8 @@ Ontologie Ministero Beni Culturali
 
 \ |LINK15|\  (quali ad esempio \ |LINK16|\ , con lo scopo di modellare i dati che caratterizzano gli istituti e i luoghi della cultura). MIBACT
 
+Ontologie e vocabolari controllati del Ministero dei Beni Culturali. \ |LINK17|\ .
+
 |
 
 
@@ -201,4 +203,8 @@ Ontologie Ministero Beni Culturali
 .. |LINK16| raw:: html
 
     <a href="http://dati.beniculturali.it/cultural_on/" target="_blank">Cultural ONtology</a>
+
+.. |LINK17| raw:: html
+
+    <a href="http://www.iccd.beniculturali.it/it/150/archivio-news/4618/" target="_blank">Slide del progetto ARCO e il catalogo dei beni culturali</a>
 
