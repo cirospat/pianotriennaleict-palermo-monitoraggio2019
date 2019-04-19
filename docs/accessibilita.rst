@@ -9,7 +9,7 @@ Obblighi per il procurement dei prodotti ICT, dall’hardware al Web
 .. admonition:: Materiali didattici curati da Roberto Scano
 
     \ |LINK1|\ .
-    I materiali sono stati prodotti in occasione del raduno dei Responsabili della transizione al Digitale a Matera l’8 aprile 2019, organizzato da Maggioli Editore nell’ambito dell’iniziativa LaPaDigitale.
+    I materiali sono stati prodotti da \ |LINK2|\  in occasione del raduno dei Responsabili della Transizione al Digitale, a Matera l’8 aprile 2019, organizzato nell’ambito dell’iniziativa LaPaDigitale.
 
 .. _h414f54446f3f159698196d14134075:
 
@@ -114,7 +114,7 @@ Accessibilità in Europa: la direttiva per il Web (WAD)
 
 Il 2 dicembre 2016 è stata pubblicata la Direttiva (UE) 2016/2102 del Parlamento europeo e del Consiglio, del 26 ottobre 2016, relativa all’accessibilità dei siti web e delle applicazioni mobili degli enti pubblici entrata in vigore il 22 dicembre 2016.
 
-\ |LINK2|\  
+\ |LINK3|\  
 
 .. _h4b775024321573626586d683e68321b:
 
@@ -136,7 +136,7 @@ In assenza della pubblicazione della specifica tecnica dovrà essere presa come 
 
 A   partire dai sei mesi successivi alla pubblicazione della direttiva, la Commissione potrà aggiornare il riferimento alla norma europea EN  301 549 V1.1.2 (2015-04) in modo da far riferimento ad una versione più recente di questo standard, o ad una norma europea che la sostituisce, rispondente ai requisiti di accessibilità di cui all’articolo 4 e garantire almeno un livello di accessibilità equivalente a quello garantito dalla norma europea EN 301 549 V1.1.2 (2015-04). 
 
-\ |LINK3|\  
+\ |LINK4|\  
 
 .. _h27657d2946297d6335603e5a3161350:
 
@@ -173,7 +173,7 @@ Norma tecnica EN 301 549 v. 2.1.2 (08-2018)
 
     * Determinazione della conformità
 
-\ |LINK4|\  
+\ |LINK5|\  
 
 .. _h635c3e3d3a9204c145579667a5c3366:
 
@@ -226,7 +226,7 @@ La direttiva, all’articolo 5, introduce anche il concetto di onere sproporzion
 Direttiva UE su accessibilità Web: la dichiarazione di accessibilità
 ====================================================================
 
-\ |LINK5|\ 
+\ |LINK6|\ 
 
 La dichiarazione di accessibilità includerà:
 
@@ -250,7 +250,7 @@ I corsi saranno progettati per insegnare come creare, gestire e aggiornare il co
 Direttiva UE su accessibilità Web: il Monitoraggio
 ==================================================
 
-\ |LINK6|\ 
+\ |LINK7|\ 
 
 Entro ventiquattro mesi dall’entrata in vigore della direttiva, la Commissione Europea fornirà una metodologia per effettuare il monitoraggio di siti web e applicazioni mobili (incluso un modello di report) e dopo cinque anni dall’entrata in vigore della direttiva (e successivamente ogni tre anni), gli Stati membri presenteranno alla Commissione una relazione sui risultati del monitoraggio. Gli Stati membri informeranno la Commissione sull’Ente che si occuperà del monitoraggio e dei report e sull’Ente che si occuperà dell’applicazione della direttiva.
 
@@ -321,7 +321,7 @@ Legge Stanca: cosa cambia (in sintesi)
 
 * Eliminati i decreti a favore di linee guida (art. 10 e 11).
 
-\ |LINK7|\ 
+\ |LINK8|\ 
 
 .. _h6a294539682573106570283445204948:
 
@@ -341,7 +341,7 @@ L’organizzazione sarà sicuramente un fattore critico per rispettare le nuove 
 
 Per questo motivo, è cruciale il ruolo dei nuovi responsabili della transizione digitale (che dovrebbero essere già stati nominati da ciascuna amministrazione ai sensi del nuovo art. 17 CAD) con l’obiettivo di curare la transizione alla modalità operativa digitale e i conseguenti processi di riorganizzazione finalizzati alla realizzazione di un’amministrazione digitale e aperta, di servizi facilmente utilizzabili e di qualità, attraverso una maggiore efficienza ed economicità.
 
-\ |LINK8|\  
+\ |LINK9|\  
 
 .. _h3f4d1d4348197757ea476c17673853:
 
@@ -352,7 +352,7 @@ A seguito dell’istruttoria effettuata dagli Uffici dell’Agenzia e delle rela
 
 Si ritiene, pertanto, fondata la richiamata Segnalazione e si invita il Comune di Palermo “a porvi rimedio tempestivamente e comunque non oltre trenta giorni.”, rendendo accessibili i documenti emessi dai propri uffici e pubblicati in albo pretorio del proprio sito istituzionale, dandone conferma alla scrivente Agenzia. 
 
-\ |LINK9|\  
+\ |LINK10|\  
 
 .. _h2774727b804273776175302a40557a:
 
@@ -361,7 +361,7 @@ Il documento originale non è quello cartaceo ma quello informatico (art. 23 ter
 
 Gli atti formati dalle pubbliche amministrazioni con strumenti informatici, nonché i   dati e i documenti informatici detenuti dalle stesse, costituiscono informazione primaria ed originale da cui è possibile effettuare, su diversi o identici tipi di supporto, duplicazioni e copie per gli usi consentiti dalla legge.
 
-\ |LINK10|\  
+\ |LINK11|\  
 
 Non possiamo più sostenere la tesi che i documenti formati con le tecnologie ICT per essere validi devono essere sempre sostenuti da un documento cartaceo.
 
@@ -372,7 +372,7 @@ Art. 23-ter CAD comma 5 bis: documenti amministrativi informatici
 
 I documenti di cui al presente articolo devono essere fruibili indipendentemente dalla condizione di disabilità personale, applicando i criteri di accessibilità definiti dai requisiti tecnici di cui all'articolo 11 della legge 9 gennaio 2004, n. 4.
 
-\ |LINK11|\  
+\ |LINK12|\  
 
 Oltre ad essere obbligatoriamente in formato digitale, il documento amministrativo prodotto dalle PA DEVE essere accessibile.
 
@@ -404,7 +404,7 @@ A far data dal 1º gennaio 2011, gli obblighi di pubblicazione di atti e provved
 
 Valutazione della performance individuale   dei   dirigenti responsabili.
 
-\ |LINK12|\  
+\ |LINK13|\  
 
 .. _h56207820242955515f237f637d59403e:
 
@@ -433,14 +433,14 @@ I dati che presentano le seguenti caratteristiche:
 PDF «scansionato» e trasparenza amministrativa
 ==============================================
 
-Un PDF generato da una PA e scansionato non è una buona soluzione né per la gestione quotidiana, né per la pubblicazione all’albo o in amministrazione trasparente. \ |LINK13|\  
+Un PDF generato da una PA e scansionato non è una buona soluzione né per la gestione quotidiana, né per la pubblicazione all’albo o in amministrazione trasparente. \ |LINK14|\  
 
 .. _h605283363127101f4916686062782d:
 
 Faq AgID su Accessibilità
 =========================
 
-\ |LINK14|\  
+\ |LINK15|\  
 
 .. _h162a1c527340644075241e6506d745a:
 
@@ -483,39 +483,39 @@ Evitiamo questi «orrori» di accessibilità
 
 .. |LINK2| raw:: html
 
-    <a href="http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=OJ:L:2016:327:TOC" target="_blank">http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=OJ:L:2016:327:TOC</a>
+    <a href="https://twitter.com/rscano" target="_blank">Roberto Scano</a>
 
 .. |LINK3| raw:: html
 
-    <a href="http://www.etsi.org/deliver/etsi_en/301500_301599/301549/01.01.02_60/en_301549v010102p.pdf" target="_blank">http://www.etsi.org/deliver/etsi_en/301500_301599/301549/01.01.02_60/en_301549v010102p.pdf</a>
+    <a href="http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=OJ:L:2016:327:TOC" target="_blank">http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=OJ:L:2016:327:TOC</a>
 
 .. |LINK4| raw:: html
 
-    <a href="https://www.etsi.org/deliver/etsi_en/301500_301599/301549/02.01.02_60/en_301549v020102p.pdf" target="_blank">https://www.etsi.org/deliver/etsi_en/301500_301599/301549/02.01.02_60/en_301549v020102p.pdf</a>
+    <a href="http://www.etsi.org/deliver/etsi_en/301500_301599/301549/01.01.02_60/en_301549v010102p.pdf" target="_blank">http://www.etsi.org/deliver/etsi_en/301500_301599/301549/01.01.02_60/en_301549v010102p.pdf</a>
 
 .. |LINK5| raw:: html
 
-    <a href="https://eur-lex.europa.eu/legal-content/IT/TXT/HTML/?uri=CELEX:32018D1523&from=IT" target="_blank">Decisione di esecuzione (UE) 2018/1523 della Commissione, dell’11 ottobre 2018, che istituisce un modello di dichiarazione di accessibilità conformemente alla direttiva (UE) 2016/2102 del Parlamento europeo e del Consiglio relativa all’accessibilità dei siti web e delle applicazioni mobili degli enti pubblici (1).</a>
+    <a href="https://www.etsi.org/deliver/etsi_en/301500_301599/301549/02.01.02_60/en_301549v020102p.pdf" target="_blank">https://www.etsi.org/deliver/etsi_en/301500_301599/301549/02.01.02_60/en_301549v020102p.pdf</a>
 
 .. |LINK6| raw:: html
 
-    <a href="https://eur-lex.europa.eu/legal-content/IT/TXT/HTML/?uri=CELEX:32018D1523&from=IT" target="_blank">Decisione di esecuzione (UE) 2018/1524 della Commissione, dell’11 ottobre 2018, che stabilisce una metodologia di monitoraggio e definisce le disposizioni riguardanti la presentazione delle relazioni degli Stati membri conformemente alla direttiva (UE) 2016/2102 del Parlamento europeo e del Consiglio relativa all’accessibilità dei siti web e delle applicazioni mobili degli enti pubblici [notificata con il numero C(2018) 6560].</a>
+    <a href="https://eur-lex.europa.eu/legal-content/IT/TXT/HTML/?uri=CELEX:32018D1523&from=IT" target="_blank">Decisione di esecuzione (UE) 2018/1523 della Commissione, dell’11 ottobre 2018, che istituisce un modello di dichiarazione di accessibilità conformemente alla direttiva (UE) 2016/2102 del Parlamento europeo e del Consiglio relativa all’accessibilità dei siti web e delle applicazioni mobili degli enti pubblici (1).</a>
 
 .. |LINK7| raw:: html
 
-    <a href="https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2004-01-09;4!vig=" target="_blank">https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2004-01-09;4!vig=</a>
+    <a href="https://eur-lex.europa.eu/legal-content/IT/TXT/HTML/?uri=CELEX:32018D1523&from=IT" target="_blank">Decisione di esecuzione (UE) 2018/1524 della Commissione, dell’11 ottobre 2018, che stabilisce una metodologia di monitoraggio e definisce le disposizioni riguardanti la presentazione delle relazioni degli Stati membri conformemente alla direttiva (UE) 2016/2102 del Parlamento europeo e del Consiglio relativa all’accessibilità dei siti web e delle applicazioni mobili degli enti pubblici [notificata con il numero C(2018) 6560].</a>
 
 .. |LINK8| raw:: html
 
-    <a href="https://cad.readthedocs.io/it/v2017-12-13/_rst/capo1_sezione3_art17.html" target="_blank">https://cad.readthedocs.io/it/v2017-12-13/_rst/capo1_sezione3_art17.html</a>
+    <a href="https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2004-01-09;4!vig=" target="_blank">https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2004-01-09;4!vig=</a>
 
 .. |LINK9| raw:: html
 
-    <a href="https://www.agid.gov.it/sites/default/files/repository_files/invito_n.1-2018_comune_palermo.0009364.10-05-2018.pdf" target="_blank">https://www.agid.gov.it/sites/default/files/repository_files/invito_n.1-2018_comune_palermo.0009364.10-05-2018.pdf</a>
+    <a href="https://cad.readthedocs.io/it/v2017-12-13/_rst/capo1_sezione3_art17.html" target="_blank">https://cad.readthedocs.io/it/v2017-12-13/_rst/capo1_sezione3_art17.html</a>
 
 .. |LINK10| raw:: html
 
-    <a href="http://www.normattiva.it/do/atto/vediPermalink?atto.dataPubblicazioneGazzetta=2005-05-16&atto.codiceRedazionale=005G0104" target="_blank">http://www.normattiva.it/do/atto/vediPermalink?atto.dataPubblicazioneGazzetta=2005-05-16&atto.codiceRedazionale=005G0104</a>
+    <a href="https://www.agid.gov.it/sites/default/files/repository_files/invito_n.1-2018_comune_palermo.0009364.10-05-2018.pdf" target="_blank">https://www.agid.gov.it/sites/default/files/repository_files/invito_n.1-2018_comune_palermo.0009364.10-05-2018.pdf</a>
 
 .. |LINK11| raw:: html
 
@@ -523,13 +523,17 @@ Evitiamo questi «orrori» di accessibilità
 
 .. |LINK12| raw:: html
 
-    <a href="http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-06-18;69!vig=2014-03-23" target="_blank">http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-06-18;69!vig=2014-03-23</a>
+    <a href="http://www.normattiva.it/do/atto/vediPermalink?atto.dataPubblicazioneGazzetta=2005-05-16&atto.codiceRedazionale=005G0104" target="_blank">http://www.normattiva.it/do/atto/vediPermalink?atto.dataPubblicazioneGazzetta=2005-05-16&atto.codiceRedazionale=005G0104</a>
 
 .. |LINK13| raw:: html
 
-    <a href="https://www.anticorruzione.it/portal/rest/jcr/repository/collaboration/Digital%20Assets/anacdocs/Attivita/Trasparenza/Vigilanza/VigilanzaUfficio/2014/AziendeSanitarie/Rapporti/Azienda-USL-2-di-LuccaRapporto.pdf" target="_blank">https://www.anticorruzione.it/portal/rest/jcr/repository/collaboration/Digital%20Assets/anacdocs/Attivita/Trasparenza/Vigilanza/VigilanzaUfficio/2014/AziendeSanitarie/Rapporti/Azienda-USL-2-di-LuccaRapporto.pdf</a>
+    <a href="http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-06-18;69!vig=2014-03-23" target="_blank">http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-06-18;69!vig=2014-03-23</a>
 
 .. |LINK14| raw:: html
+
+    <a href="https://www.anticorruzione.it/portal/rest/jcr/repository/collaboration/Digital%20Assets/anacdocs/Attivita/Trasparenza/Vigilanza/VigilanzaUfficio/2014/AziendeSanitarie/Rapporti/Azienda-USL-2-di-LuccaRapporto.pdf" target="_blank">https://www.anticorruzione.it/portal/rest/jcr/repository/collaboration/Digital%20Assets/anacdocs/Attivita/Trasparenza/Vigilanza/VigilanzaUfficio/2014/AziendeSanitarie/Rapporti/Azienda-USL-2-di-LuccaRapporto.pdf</a>
+
+.. |LINK15| raw:: html
 
     <a href="https://www.agid.gov.it/it/domande-frequenti/accessibilit%C3%A0" target="_blank">https://www.agid.gov.it/it/domande-frequenti/accessibilit%C3%A0</a>
 
