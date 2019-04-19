@@ -75,6 +75,7 @@ Le iniziative di carattere \ |STYLE1|\ , vissute in spirito collaborativo insiem
     mappe
     webinar-opendata
     accesso_civico
+    accessibilita
 
 
 .. toctree::  
