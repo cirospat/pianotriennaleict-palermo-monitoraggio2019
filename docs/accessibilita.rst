@@ -4,7 +4,7 @@
 Accessibilità
 *************
 
-Obblighi per il procurement dei prodotti ICT, dall’hardware al Web
+\ |STYLE0|\ 
 
 .. admonition:: Materiali didattici curati da Roberto Scano
 
@@ -69,15 +69,15 @@ Accessibilità: per problemi cognitivi
 Problemi di accessibilità informatica
 =====================================
 
-\ |STYLE0|\ 
+\ |STYLE1|\ 
 
 * Accessibilità delle interfacce e controlli di navigazione
 
-\ |STYLE1|\ 
+\ |STYLE2|\ 
 
 * Accessibilità delle periferiche
 
-\ |STYLE2|\ 
+\ |STYLE3|\ 
 
 * Accessibilità dei contenuti per il web 
 
@@ -90,7 +90,7 @@ Problemi di accessibilità informatica
 Accessibilità Web
 =================
 
-\ |STYLE3|\ 
+\ |STYLE4|\ 
 
 * W3C WCAG 2.1 (Web Content Accessibility Guidelines) - Raccomandazione del 5 giugno 2018 
 
@@ -143,7 +143,7 @@ A   partire dai sei mesi successivi alla pubblicazione della direttiva, la Commi
 Norma tecnica EN 301 549 v. 2.1.2 (08-2018)
 ===========================================
 
-\ |STYLE4|\ 
+\ |STYLE5|\ 
 
 * Prestazioni funzionali 
 
@@ -272,7 +272,7 @@ Gli Stati Membri dovranno recepire i dettami entro il 23 settembre 2018, e dovra
 Novità
 ======
 
-\ |STYLE5|\  
+\ |STYLE6|\  
 
 * Schema decreto legislativo (16 maggio 2018).
 
@@ -280,7 +280,7 @@ Novità
 
 * Linee guida AGID (xxxxxxxxxx2019).
 
-\ |STYLE6|\  
+\ |STYLE7|\  
 
 * Consultazione pubblica (18 maggio 2018)
 
@@ -290,13 +290,13 @@ Novità
 
 * Recepimento aggiornamento norma EN 301549 v. 2.1.2 (20 dicembre 2018).
 
-\ |STYLE7|\  
+\ |STYLE8|\  
 
 * Approvazione finale (19 giugno 2018).
 
 * Pubblicazione (28 agosto 2018).
 
-\ |STYLE8|\ 
+\ |STYLE9|\ 
 
 * WCAG 2.1: traduzione ufficiale in lingua italiana (13 settembre 2018)
 
@@ -454,23 +454,25 @@ Evitiamo questi «orrori» di accessibilità
 .. bottom of content
 
 
-.. |STYLE0| replace:: **Applicazioni software e sistemi operativi**
+.. |STYLE0| replace:: **Obblighi per il procurement dei prodotti ICT, dall’hardware al Web**
 
-.. |STYLE1| replace:: **Hardware**
+.. |STYLE1| replace:: **Applicazioni software e sistemi operativi**
 
-.. |STYLE2| replace:: **Web**
+.. |STYLE2| replace:: **Hardware**
 
-.. |STYLE3| replace:: **Raccomandazioni di riferimento**
+.. |STYLE3| replace:: **Web**
 
-.. |STYLE4| replace:: **Requisiti di accessibilità per prodotti e servizi ICT:**
+.. |STYLE4| replace:: **Raccomandazioni di riferimento**
 
-.. |STYLE5| replace:: **Normativa italiana:**
+.. |STYLE5| replace:: **Requisiti di accessibilità per prodotti e servizi ICT:**
 
-.. |STYLE6| replace:: **Normativa europea:**
+.. |STYLE6| replace:: **Normativa italiana:**
 
-.. |STYLE7| replace:: **Norma tecnica europea armonizzata:**
+.. |STYLE7| replace:: **Normativa europea:**
 
-.. |STYLE8| replace:: **Traduzioni:**
+.. |STYLE8| replace:: **Norma tecnica europea armonizzata:**
+
+.. |STYLE9| replace:: **Traduzioni:**
 
 
 .. |REPLACE1| raw:: html
