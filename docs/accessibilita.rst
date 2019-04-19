@@ -396,13 +396,9 @@ Necessario ripensare l’organizzazione documentale:
 Accessibilità e pubblicità legale on line
 =========================================
 
-Legge 18 giugno 2009, n. 69, Art. 32 
+Legge 18 giugno 2009, n. 69, Art. 32. (Eliminazione degli sprechi relativi al mantenimento di documenti in forma cartacea).
 
-(Eliminazione degli sprechi relativi al mantenimento di documenti in forma cartacea).
-
-A far data dal 1º gennaio 2011, gli obblighi di pubblicazione di atti e provvedimenti amministrativi aventi effetto di pubblicità legale si intendono assolti con la pubblicazione nei propri siti informatici da parte delle amministrazioni e degli enti pubblici obbligati. La pubblicazione è effettuata nel rispetto dei principi di eguaglianza e di non discriminazione, applicando i requisiti tecnici di accessibilità di cui all’articolo 11 della legge 9 gennaio 2004, n.4. La mancata pubblicazione nei termini di cui al periodo precedente è altresì rilevante ai fini della misurazione e della 
-
-Valutazione della performance individuale   dei   dirigenti responsabili.
+A far data dal 1º gennaio 2011, gli obblighi di pubblicazione di atti e provvedimenti amministrativi aventi effetto di pubblicità legale si intendono assolti con la pubblicazione nei propri siti informatici da parte delle amministrazioni e degli enti pubblici obbligati. La pubblicazione è effettuata nel rispetto dei principi di eguaglianza e di non discriminazione, applicando i requisiti tecnici di accessibilità di cui all’articolo 11 della legge 9 gennaio 2004, n.4. La mancata pubblicazione nei termini di cui al periodo precedente è altresì rilevante ai fini della misurazione e della Valutazione della performance individuale dei dirigenti responsabili.
 
 \ |LINK13|\  
 
