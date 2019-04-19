@@ -92,7 +92,7 @@ Accessibilità Web
 
 \ |STYLE4|\ 
 
-* W3C WCAG 2.1 (Web Content Accessibility Guidelines) - Raccomandazione del 5 giugno 2018 
+* \ |LINK3|\  
 
 * W3C ATAG 2.0 (Authoring Tools Accessibility Guidelines) - Raccomandazione del 24 settembre 2015 
 
@@ -114,7 +114,7 @@ Accessibilità in Europa: la direttiva per il Web (WAD)
 
 Il 2 dicembre 2016 è stata pubblicata la Direttiva (UE) 2016/2102 del Parlamento europeo e del Consiglio, del 26 ottobre 2016, relativa all’accessibilità dei siti web e delle applicazioni mobili degli enti pubblici entrata in vigore il 22 dicembre 2016.
 
-\ |LINK3|\ .
+\ |LINK4|\ .
 
 .. _h4b775024321573626586d683e68321b:
 
@@ -132,7 +132,7 @@ Direttiva UE su accessibilità Web: la specifica tecnica
 
 Dal punto di vista tecnico la Commissione Europea pubblicherà entro 24 mesi dall’entrata in vigore della direttiva una specifica tecnica dettagliata per i siti web e le applicazioni mobili. 
 
-In assenza della pubblicazione della specifica tecnica dovrà essere presa come riferimento la norma europea “\ |LINK4|\ ” (le pertinenti disposizioni per i contenuti dei siti web e per i contenuti delle applicazioni mobili).
+In assenza della pubblicazione della specifica tecnica dovrà essere presa come riferimento la norma europea “\ |LINK5|\ ” (le pertinenti disposizioni per i contenuti dei siti web e per i contenuti delle applicazioni mobili).
 
 A   partire dai sei mesi successivi alla pubblicazione della direttiva, la Commissione potrà aggiornare il riferimento alla norma europea EN  301 549 V1.1.2 (2015-04) in modo da far riferimento ad una versione più recente di questo standard, o ad una norma europea che la sostituisce, rispondente ai requisiti di accessibilità di cui all’articolo 4 e garantire almeno un livello di accessibilità equivalente a quello garantito dalla norma europea EN 301 549 V1.1.2 (2015-04). 
 
@@ -171,46 +171,53 @@ Norma tecnica EN 301 549 v. 2.1.2 (08-2018)
 
     * Determinazione della conformità
 
-\ |LINK5|\ .
+\ |LINK6|\ .
 
 .. _h635c3e3d3a9204c145579667a5c3366:
 
 WCAG 2.1. Nuovi (17) criteri di successo
 ========================================
 
-* 1.3.4 Orientamento (AA)
+\ |LINK7|\ .
 
-* 1.3.5 Identificare lo scopo degli input (AA)
+..  Important:: 
 
-* 1.3.6 Identificare lo scopo (AAA)
+    Le linee guida per l'accessibilità dei contenuti Web \ |STYLE6|\  comprendono una grande varietà di raccomandazioni per consentire una maggiore accessibilità ai contenuti web. Seguendo queste linee guida si renderanno accessibili i contenuti ad un più ampio numero di persone con disabilità, tra le quali \ |STYLE7|\ , e si migliorerà in parte l'accessibilità anche per chi ha \ |STYLE8|\ . Le linee guida non potranno comunque ritenersi esaustive per tutte le esigenze degli utenti con tali disabilità. Le WCAG 2.1 sono linee guida per l'accessibilità dei contenuti Web applicabili a dispositivi desktop, laptop, tablet e mobili. Seguirle aiuterà a rendere i contenuti Web più usabili dagli utenti in generale.
+    I criteri di successo per le WCAG 2.1 consistono in istruzioni testabili che non dipendono dalla tecnologia utilizzata.
 
-* 1.4.10 Ricalcolo del flusso (AA)
+* \ |LINK8|\ 
 
-* 1.4.11 Contrasto in contenuti non testuali (AA)
+* \ |LINK9|\ 
 
-* 1.4.12 Spaziatura del testo (AA)
+* \ |LINK10|\ 
 
-* 1.4.13 Contenuto con Hover o Focus (AA)
+* \ |LINK11|\ 
 
-* 2.1.4 Tasti di scelta rapida (A)
+* \ |LINK12|\ 
 
-* 2.2.6 Termine del tempo (AAA)
+* \ |LINK13|\ 
 
-* 2.3.3 Animazione da interazioni (AAA)
+* \ |LINK14|\ 
 
-* 2.5.1 Movimenti del puntatore (A)
+* \ |LINK15|\ 
 
-* 2.5.2 Cancellazione delle azioni del puntatore (A)
+* \ |LINK16|\ 
 
-* 2.5.3 Etichetta nel nome (A) 
+* \ |LINK17|\ 
 
-* 2.5.4 Azionamento da movimento (A)
+* \ |LINK18|\ 
 
-* 2.5.5 Dimensione dell'obiettivo (AAA) 
+* \ |LINK19|\ 
 
-* 2.5.6 Meccanismi di input simultanei (AAA)
+* \ |LINK20|\  
 
-* 4.1.3 Messaggi di stato (AA)
+* \ |LINK21|\ 
+
+* \ |LINK22|\  
+
+* \ |LINK23|\ 
+
+* \ |LINK24|\ 
 
 .. _h237a4e404c686013477d3235287b770:
 
@@ -224,7 +231,7 @@ La direttiva, all’articolo 5, introduce anche il concetto di onere sproporzion
 Direttiva UE su accessibilità Web: la dichiarazione di accessibilità
 ====================================================================
 
-\ |LINK6|\ 
+\ |LINK25|\ 
 
 La dichiarazione di accessibilità includerà:
 
@@ -248,7 +255,7 @@ I corsi saranno progettati per insegnare come creare, gestire e aggiornare il co
 Direttiva UE su accessibilità Web: il Monitoraggio
 ==================================================
 
-\ |LINK7|\ 
+\ |LINK26|\ 
 
 Entro ventiquattro mesi dall’entrata in vigore della direttiva, la Commissione Europea fornirà una metodologia per effettuare il monitoraggio di siti web e applicazioni mobili (incluso un modello di report) e dopo cinque anni dall’entrata in vigore della direttiva (e successivamente ogni tre anni), gli Stati membri presenteranno alla Commissione una relazione sui risultati del monitoraggio. Gli Stati membri informeranno la Commissione sull’Ente che si occuperà del monitoraggio e dei report e sull’Ente che si occuperà dell’applicazione della direttiva.
 
@@ -270,7 +277,7 @@ Gli Stati Membri dovranno recepire i dettami entro il 23 settembre 2018, e dovra
 Novità
 ======
 
-\ |STYLE6|\  
+\ |STYLE9|\  
 
 * Schema decreto legislativo (16 maggio 2018).
 
@@ -278,7 +285,7 @@ Novità
 
 * Linee guida AGID (xxxxxxxxxx2019).
 
-\ |STYLE7|\  
+\ |STYLE10|\  
 
 * Consultazione pubblica (18 maggio 2018)
 
@@ -288,13 +295,13 @@ Novità
 
 * Recepimento aggiornamento norma EN 301549 v. 2.1.2 (20 dicembre 2018).
 
-\ |STYLE8|\  
+\ |STYLE11|\  
 
 * Approvazione finale (19 giugno 2018).
 
 * Pubblicazione (28 agosto 2018).
 
-\ |STYLE9|\ 
+\ |STYLE12|\ 
 
 * WCAG 2.1: traduzione ufficiale in lingua italiana (13 settembre 2018)
 
@@ -319,7 +326,7 @@ Legge Stanca: cosa cambia (in sintesi)
 
 * Eliminati i decreti a favore di linee guida (art. 10 e 11).
 
-\ |LINK8|\ .
+\ |LINK27|\ .
 
 .. _h6a294539682573106570283445204948:
 
@@ -337,7 +344,7 @@ Responsabile della transazione digitale
 
 L’organizzazione sarà sicuramente un fattore critico per rispettare le nuove norme ed evitare di incorrere in sanzioni e responsabilità.
 
-Per questo motivo, è cruciale il ruolo dei nuovi \ |LINK9|\  con l’obiettivo di curare la transizione alla modalità operativa digitale e i conseguenti processi di riorganizzazione finalizzati alla realizzazione di un’amministrazione digitale e aperta, di servizi facilmente utilizzabili e di qualità, attraverso una maggiore efficienza ed economicità.
+Per questo motivo, è cruciale il ruolo dei nuovi \ |LINK28|\  con l’obiettivo di curare la transizione alla modalità operativa digitale e i conseguenti processi di riorganizzazione finalizzati alla realizzazione di un’amministrazione digitale e aperta, di servizi facilmente utilizzabili e di qualità, attraverso una maggiore efficienza ed economicità.
 
 .. _h3f4d1d4348197757ea476c17673853:
 
@@ -346,14 +353,14 @@ Difensore Civico Digitale - Interviene anche per i casi di mancata accessibilit�
 
 A seguito dell’istruttoria effettuata dagli Uffici dell’Agenzia e delle relative risultanze conclusive, emerge che gli atti amministrativi emessi direttamente dai diversi uffici e servizi del Comune di Palermo sono pubblicati in formato .pdf, come documenti-immagine e, quindi, non adeguatamente accessibili a persone con disabilità (cfr. art.23-ter, comma 5-bis del Decreto legislativo 7 marzo 2005 n.82 e s.m.i.).
 
-Si ritiene, pertanto, \ |LINK10|\ , rendendo accessibili i documenti emessi dai propri uffici e pubblicati in albo pretorio del proprio sito istituzionale, dandone conferma alla scrivente Agenzia. 
+Si ritiene, pertanto, \ |LINK29|\ , rendendo accessibili i documenti emessi dai propri uffici e pubblicati in albo pretorio del proprio sito istituzionale, dandone conferma alla scrivente Agenzia. 
 
 .. _h2774727b804273776175302a40557a:
 
 Il documento originale non è quello cartaceo ma quello informatico (art. 23 ter CAD)
 ====================================================================================
 
-\ |LINK11|\  da cui è possibile effettuare, su diversi o identici tipi di supporto, duplicazioni e copie per gli usi consentiti dalla legge.
+\ |LINK30|\  da cui è possibile effettuare, su diversi o identici tipi di supporto, duplicazioni e copie per gli usi consentiti dalla legge.
 
 Non possiamo più sostenere la tesi che i documenti formati con le tecnologie ICT per essere validi devono essere sempre sostenuti da un documento cartaceo.
 
@@ -362,7 +369,7 @@ Non possiamo più sostenere la tesi che i documenti formati con le tecnologie IC
 Art. 23-ter CAD comma 5 bis: documenti amministrativi informatici
 =================================================================
 
-\ |LINK12|\ , applicando i criteri di accessibilità definiti dai requisiti tecnici di cui all'articolo 11 della legge 9 gennaio 2004, n. 4.
+\ |LINK31|\ , applicando i criteri di accessibilità definiti dai requisiti tecnici di cui all'articolo 11 della legge 9 gennaio 2004, n. 4.
 
 Oltre ad essere obbligatoriamente in formato digitale, il documento amministrativo prodotto dalle PA DEVE essere accessibile.
 
@@ -386,7 +393,7 @@ Necessario ripensare l’organizzazione documentale:
 Accessibilità e pubblicità legale on line
 =========================================
 
-Legge 18 giugno 2009, n. 69, Art. 32. (\ |LINK13|\ ).
+Legge 18 giugno 2009, n. 69, Art. 32. (\ |LINK32|\ ).
 
 A far data dal 1º gennaio 2011, gli obblighi di pubblicazione di atti e provvedimenti amministrativi aventi effetto di pubblicità legale si intendono assolti con la pubblicazione nei propri siti informatici da parte delle amministrazioni e degli enti pubblici obbligati. La pubblicazione è effettuata nel rispetto dei principi di eguaglianza e di non discriminazione, applicando i requisiti tecnici di accessibilità di cui all’articolo 11 della legge 9 gennaio 2004, n.4. La mancata pubblicazione nei termini di cui al periodo precedente è altresì rilevante ai fini della misurazione e della Valutazione della performance individuale dei dirigenti responsabili.
 
@@ -395,7 +402,7 @@ A far data dal 1º gennaio 2011, gli obblighi di pubblicazione di atti e provved
 Decreto Legislativo n. 33/2013: Amministrazione Trasparente
 ===========================================================
 
-Art. 7 - \ |LINK14|\ . I documenti, le informazioni e i dati oggetto di pubblicazione obbligatoria ai sensi della normativa vigente,  resi disponibili  anche a seguito dell'accesso civico di cui all'articolo 5, sono pubblicati in formato di tipo aperto ai sensi dell'articolo 68 del Codice dell'amministrazione digitale, di cui al decreto legislativo 7 marzo 2005, n. 82, e sono riutilizzabili ai sensi del decreto legislativo 24 gennaio 2006, n. 36, del decreto legislativo 7 marzo 2005, n. 82, e del decreto legislativo 30 giugno 2003, n. 196, senza ulteriori restrizioni diverse dall'obbligo di citare la fonte e di rispettarne l'integrità.
+Art. 7 - \ |LINK33|\ . I documenti, le informazioni e i dati oggetto di pubblicazione obbligatoria ai sensi della normativa vigente,  resi disponibili  anche a seguito dell'accesso civico di cui all'articolo 5, sono pubblicati in formato di tipo aperto ai sensi dell'articolo 68 del Codice dell'amministrazione digitale, di cui al decreto legislativo 7 marzo 2005, n. 82, e sono riutilizzabili ai sensi del decreto legislativo 24 gennaio 2006, n. 36, del decreto legislativo 7 marzo 2005, n. 82, e del decreto legislativo 30 giugno 2003, n. 196, senza ulteriori restrizioni diverse dall'obbligo di citare la fonte e di rispettarne l'integrità.
 
 .. _h1244232a6f67058daf1760126164:
 
@@ -419,14 +426,14 @@ PDF «scansionato» e trasparenza amministrativa
 
 Un PDF generato da una PA e scansionato non è una buona soluzione né per la gestione quotidiana, né per la pubblicazione all’albo o in amministrazione trasparente. 
 
-\ |LINK15|\ .
+\ |LINK34|\ .
 
 .. _h605283363127101f4916686062782d:
 
 Faq AgID su Accessibilità
 =========================
 
-\ |LINK16|\ .
+\ |LINK35|\ .
 
 .. _h162a1c527340644075241e6506d745a:
 
@@ -452,13 +459,19 @@ Evitiamo questi «orrori» di accessibilità
 
 .. |STYLE5| replace:: **Requisiti di accessibilità per prodotti e servizi ICT:**
 
-.. |STYLE6| replace:: **Normativa italiana:**
+.. |STYLE6| replace:: **(WCAG) 2.1**
 
-.. |STYLE7| replace:: **Normativa europea:**
+.. |STYLE7| replace:: **cecità e ipovisione, sordità e perdita dell'udito, limitazioni motorie, disabilità del linguaggio, fotosensibilità nonché combinazioni di queste**
 
-.. |STYLE8| replace:: **Norma tecnica europea armonizzata:**
+.. |STYLE8| replace:: **disturbi dell'apprendimento e/o limitazioni cognitive**
 
-.. |STYLE9| replace:: **Traduzioni:**
+.. |STYLE9| replace:: **Normativa italiana:**
+
+.. |STYLE10| replace:: **Normativa europea:**
+
+.. |STYLE11| replace:: **Norma tecnica europea armonizzata:**
+
+.. |STYLE12| replace:: **Traduzioni:**
 
 
 .. |REPLACE1| raw:: html
@@ -475,57 +488,133 @@ Evitiamo questi «orrori» di accessibilità
 
 .. |LINK3| raw:: html
 
-    <a href="http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=OJ:L:2016:327:TOC" target="_blank">Link alla Direttiva (UE) 2016/2102 del Parlamento europeo e del Consiglio, del 26 ottobre 2016</a>
+    <a href="https://www.w3.org/Translations/WCAG21-it/" target="_blank">W3C WCAG 2.1 (Web Content Accessibility Guidelines - Linee guida per l'accessibilità dei contenuti web tradotte in italiano) - Raccomandazione del 5 giugno 2018</a>
 
 .. |LINK4| raw:: html
 
-    <a href="http://www.etsi.org/deliver/etsi_en/301500_301599/301549/01.01.02_60/en_301549v010102p.pdf" target="_blank">EN 301 549 V1.1.2 (2015-04), Accessibility requirements suitable for public procurement of ICT products and services in Europe</a>
+    <a href="http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=OJ:L:2016:327:TOC" target="_blank">Link alla Direttiva (UE) 2016/2102 del Parlamento europeo e del Consiglio, del 26 ottobre 2016</a>
 
 .. |LINK5| raw:: html
 
-    <a href="https://www.etsi.org/deliver/etsi_en/301500_301599/301549/02.01.02_60/en_301549v020102p.pdf" target="_blank">HARMONISED EUROPEAN STANDARD - Accessibility requirements for ICT products and services</a>
+    <a href="http://www.etsi.org/deliver/etsi_en/301500_301599/301549/01.01.02_60/en_301549v010102p.pdf" target="_blank">EN 301 549 V1.1.2 (2015-04), Accessibility requirements suitable for public procurement of ICT products and services in Europe</a>
 
 .. |LINK6| raw:: html
 
-    <a href="https://eur-lex.europa.eu/legal-content/IT/TXT/HTML/?uri=CELEX:32018D1523&from=IT" target="_blank">Decisione di esecuzione (UE) 2018/1523 della Commissione, dell’11 ottobre 2018, che istituisce un modello di dichiarazione di accessibilità conformemente alla direttiva (UE) 2016/2102 del Parlamento europeo e del Consiglio relativa all’accessibilità dei siti web e delle applicazioni mobili degli enti pubblici (1).</a>
+    <a href="https://www.etsi.org/deliver/etsi_en/301500_301599/301549/02.01.02_60/en_301549v020102p.pdf" target="_blank">HARMONISED EUROPEAN STANDARD - Accessibility requirements for ICT products and services</a>
 
 .. |LINK7| raw:: html
 
-    <a href="https://eur-lex.europa.eu/legal-content/IT/TXT/HTML/?uri=CELEX:32018D1523&from=IT" target="_blank">Decisione di esecuzione (UE) 2018/1524 della Commissione, dell’11 ottobre 2018, che stabilisce una metodologia di monitoraggio e definisce le disposizioni riguardanti la presentazione delle relazioni degli Stati membri conformemente alla direttiva (UE) 2016/2102 del Parlamento europeo e del Consiglio relativa all’accessibilità dei siti web e delle applicazioni mobili degli enti pubblici [notificata con il numero C(2018) 6560].</a>
+    <a href="https://www.w3.org/Translations/WCAG21-it/" target="_blank">W3C WCAG 2.1 (Web Content Accessibility Guidelines - Linee guida per l'accessibilità dei contenuti web tradotte in italiano)</a>
 
 .. |LINK8| raw:: html
 
-    <a href="https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2004-01-09;4!vig=" target="_blank">LEGGE 9 gennaio 2004, n. 4 ((Disposizioni per favorire e semplificare l'accesso degli utenti e, in particolare, delle persone con disabilità' agli strumenti informatici))</a>
+    <a href="https://www.w3.org/Translations/WCAG21-it/#orientation" target="_blank">1.3.4 Orientamento (AA)</a>
 
 .. |LINK9| raw:: html
 
-    <a href="https://docs.italia.it/italia/piano-triennale-ict/codice-amministrazione-digitale-docs/it/v2017-12-13/_rst/capo1_sezione3_art17.html" target="_blank">responsabili della transizione digitale (che dovrebbero essere già stati nominati da ciascuna amministrazione ai sensi del nuovo art. 17 CAD)</a>
+    <a href="https://www.w3.org/Translations/WCAG21-it/#identify-input-purpose" target="_blank">1.3.5 Identificare lo scopo degli input (AA)</a>
 
 .. |LINK10| raw:: html
 
-    <a href="https://www.agid.gov.it/sites/default/files/repository_files/invito_n.1-2018_comune_palermo.0009364.10-05-2018.pdf" target="_blank">fondata la richiamata Segnalazione e si invita il Comune di Palermo “a porvi rimedio tempestivamente e comunque non oltre trenta giorni.”</a>
+    <a href="https://www.w3.org/Translations/WCAG21-it/#identify-purpose" target="_blank">1.3.6 Identificare lo scopo (AAA)</a>
 
 .. |LINK11| raw:: html
 
-    <a href="https://www.normattiva.it/atto/caricaArticolo?art.progressivo=0&art.idArticolo=23&art.versione=4&art.codiceRedazionale=005G0104&art.dataPubblicazioneGazzetta=2005-05-16&atto.tipoProvvedimento=DECRETO%20LEGISLATIVO&art.idGruppo=4&art.idSottoArticolo1=10&art.idSottoArticolo=3&art.flagTipoArticolo=0#art" target="_blank">Gli atti formati dalle pubbliche amministrazioni con strumenti informatici, nonché i   dati e i documenti informatici detenuti dalle stesse, costituiscono informazione primaria ed originale</a>
+    <a href="https://www.w3.org/Translations/WCAG21-it/#reflow" target="_blank">1.4.10 Ricalcolo del flusso (AA)</a>
 
 .. |LINK12| raw:: html
 
-    <a href="https://www.normattiva.it/atto/caricaArticolo?art.progressivo=0&art.idArticolo=23&art.versione=4&art.codiceRedazionale=005G0104&art.dataPubblicazioneGazzetta=2005-05-16&atto.tipoProvvedimento=DECRETO%20LEGISLATIVO&art.idGruppo=4&art.idSottoArticolo1=10&art.idSottoArticolo=3&art.flagTipoArticolo=0#art" target="_blank">I documenti di cui al presente articolo devono essere fruibili indipendentemente dalla condizione di disabilità personale</a>
+    <a href="https://www.w3.org/Translations/WCAG21-it/#non-text-contrast" target="_blank">1.4.11 Contrasto in contenuti non testuali (AA)</a>
 
 .. |LINK13| raw:: html
 
-    <a href="https://www.normattiva.it/atto/caricaArticolo?art.progressivo=0&art.idArticolo=32&art.versione=4&art.codiceRedazionale=009G0069&art.dataPubblicazioneGazzetta=2009-06-19&atto.tipoProvvedimento=LEGGE&art.idGruppo=3&art.idSottoArticolo1=10&art.idSottoArticolo=1&art.flagTipoArticolo=0#art" target="_blank">Eliminazione degli sprechi relativi al mantenimento di documenti in forma cartacea</a>
+    <a href="https://www.w3.org/Translations/WCAG21-it/#text-spacing" target="_blank">1.4.12 Spaziatura del testo (AA)</a>
 
 .. |LINK14| raw:: html
 
-    <a href="https://www.normattiva.it/atto/caricaArticolo?art.progressivo=0&art.idArticolo=7&art.versione=1&art.codiceRedazionale=13G00076&art.dataPubblicazioneGazzetta=2013-04-05&atto.tipoProvvedimento=DECRETO%20LEGISLATIVO&art.idGruppo=1&art.idSottoArticolo1=10&art.idSottoArticolo=1&art.flagTipoArticolo=0#art" target="_blank">Dati di tipo aperto</a>
+    <a href="https://www.w3.org/Translations/WCAG21-it/#content-on-hover-or-focus" target="_blank">1.4.13 Contenuto con Hover o Focus (AA)</a>
 
 .. |LINK15| raw:: html
 
-    <a href="https://www.anticorruzione.it/portal/rest/jcr/repository/collaboration/Digital%20Assets/anacdocs/Attivita/Trasparenza/Vigilanza/VigilanzaUfficio/2014/AziendeSanitarie/Rapporti/Azienda-USL-2-di-LuccaRapporto.pdf" target="_blank">Vedi documento ANAC</a>
+    <a href="https://www.w3.org/Translations/WCAG21-it/#character-key-shortcuts" target="_blank">2.1.4 Tasti di scelta rapida (A)</a>
 
 .. |LINK16| raw:: html
+
+    <a href="https://www.w3.org/Translations/WCAG21-it/#timeouts" target="_blank">2.2.6 Termine del tempo (AAA)</a>
+
+.. |LINK17| raw:: html
+
+    <a href="https://www.w3.org/Translations/WCAG21-it/#animation-from-interactions" target="_blank">2.3.3 Animazione da interazioni (AAA)</a>
+
+.. |LINK18| raw:: html
+
+    <a href="https://www.w3.org/Translations/WCAG21-it/#pointer-gestures" target="_blank">2.5.1 Movimenti del puntatore (A)</a>
+
+.. |LINK19| raw:: html
+
+    <a href="https://www.w3.org/Translations/WCAG21-it/#pointer-cancellation" target="_blank">2.5.2 Cancellazione delle azioni del puntatore (A)</a>
+
+.. |LINK20| raw:: html
+
+    <a href="https://www.w3.org/Translations/WCAG21-it/#label-in-name" target="_blank">2.5.3 Etichetta nel nome (A)</a>
+
+.. |LINK21| raw:: html
+
+    <a href="https://www.w3.org/Translations/WCAG21-it/#motion-actuation" target="_blank">2.5.4 Azionamento da movimento (A)</a>
+
+.. |LINK22| raw:: html
+
+    <a href="https://www.w3.org/Translations/WCAG21-it/#target-size" target="_blank">2.5.5 Dimensione dell'obiettivo (AAA)</a>
+
+.. |LINK23| raw:: html
+
+    <a href="https://www.w3.org/Translations/WCAG21-it/#concurrent-input-mechanisms" target="_blank">2.5.6 Meccanismi di input simultanei (AAA)</a>
+
+.. |LINK24| raw:: html
+
+    <a href="https://www.w3.org/Translations/WCAG21-it/#status-messages" target="_blank">4.1.3 Messaggi di stato (AA)</a>
+
+.. |LINK25| raw:: html
+
+    <a href="https://eur-lex.europa.eu/legal-content/IT/TXT/HTML/?uri=CELEX:32018D1523&from=IT" target="_blank">Decisione di esecuzione (UE) 2018/1523 della Commissione, dell’11 ottobre 2018, che istituisce un modello di dichiarazione di accessibilità conformemente alla direttiva (UE) 2016/2102 del Parlamento europeo e del Consiglio relativa all’accessibilità dei siti web e delle applicazioni mobili degli enti pubblici (1).</a>
+
+.. |LINK26| raw:: html
+
+    <a href="https://eur-lex.europa.eu/legal-content/IT/TXT/HTML/?uri=CELEX:32018D1523&from=IT" target="_blank">Decisione di esecuzione (UE) 2018/1524 della Commissione, dell’11 ottobre 2018, che stabilisce una metodologia di monitoraggio e definisce le disposizioni riguardanti la presentazione delle relazioni degli Stati membri conformemente alla direttiva (UE) 2016/2102 del Parlamento europeo e del Consiglio relativa all’accessibilità dei siti web e delle applicazioni mobili degli enti pubblici [notificata con il numero C(2018) 6560].</a>
+
+.. |LINK27| raw:: html
+
+    <a href="https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2004-01-09;4!vig=" target="_blank">LEGGE 9 gennaio 2004, n. 4 ((Disposizioni per favorire e semplificare l'accesso degli utenti e, in particolare, delle persone con disabilità' agli strumenti informatici))</a>
+
+.. |LINK28| raw:: html
+
+    <a href="https://docs.italia.it/italia/piano-triennale-ict/codice-amministrazione-digitale-docs/it/v2017-12-13/_rst/capo1_sezione3_art17.html" target="_blank">responsabili della transizione digitale (che dovrebbero essere già stati nominati da ciascuna amministrazione ai sensi del nuovo art. 17 CAD)</a>
+
+.. |LINK29| raw:: html
+
+    <a href="https://www.agid.gov.it/sites/default/files/repository_files/invito_n.1-2018_comune_palermo.0009364.10-05-2018.pdf" target="_blank">fondata la richiamata Segnalazione e si invita il Comune di Palermo “a porvi rimedio tempestivamente e comunque non oltre trenta giorni.”</a>
+
+.. |LINK30| raw:: html
+
+    <a href="https://www.normattiva.it/atto/caricaArticolo?art.progressivo=0&art.idArticolo=23&art.versione=4&art.codiceRedazionale=005G0104&art.dataPubblicazioneGazzetta=2005-05-16&atto.tipoProvvedimento=DECRETO%20LEGISLATIVO&art.idGruppo=4&art.idSottoArticolo1=10&art.idSottoArticolo=3&art.flagTipoArticolo=0#art" target="_blank">Gli atti formati dalle pubbliche amministrazioni con strumenti informatici, nonché i   dati e i documenti informatici detenuti dalle stesse, costituiscono informazione primaria ed originale</a>
+
+.. |LINK31| raw:: html
+
+    <a href="https://www.normattiva.it/atto/caricaArticolo?art.progressivo=0&art.idArticolo=23&art.versione=4&art.codiceRedazionale=005G0104&art.dataPubblicazioneGazzetta=2005-05-16&atto.tipoProvvedimento=DECRETO%20LEGISLATIVO&art.idGruppo=4&art.idSottoArticolo1=10&art.idSottoArticolo=3&art.flagTipoArticolo=0#art" target="_blank">I documenti di cui al presente articolo devono essere fruibili indipendentemente dalla condizione di disabilità personale</a>
+
+.. |LINK32| raw:: html
+
+    <a href="https://www.normattiva.it/atto/caricaArticolo?art.progressivo=0&art.idArticolo=32&art.versione=4&art.codiceRedazionale=009G0069&art.dataPubblicazioneGazzetta=2009-06-19&atto.tipoProvvedimento=LEGGE&art.idGruppo=3&art.idSottoArticolo1=10&art.idSottoArticolo=1&art.flagTipoArticolo=0#art" target="_blank">Eliminazione degli sprechi relativi al mantenimento di documenti in forma cartacea</a>
+
+.. |LINK33| raw:: html
+
+    <a href="https://www.normattiva.it/atto/caricaArticolo?art.progressivo=0&art.idArticolo=7&art.versione=1&art.codiceRedazionale=13G00076&art.dataPubblicazioneGazzetta=2013-04-05&atto.tipoProvvedimento=DECRETO%20LEGISLATIVO&art.idGruppo=1&art.idSottoArticolo1=10&art.idSottoArticolo=1&art.flagTipoArticolo=0#art" target="_blank">Dati di tipo aperto</a>
+
+.. |LINK34| raw:: html
+
+    <a href="https://www.anticorruzione.it/portal/rest/jcr/repository/collaboration/Digital%20Assets/anacdocs/Attivita/Trasparenza/Vigilanza/VigilanzaUfficio/2014/AziendeSanitarie/Rapporti/Azienda-USL-2-di-LuccaRapporto.pdf" target="_blank">Vedi documento ANAC</a>
+
+.. |LINK35| raw:: html
 
     <a href="https://www.agid.gov.it/it/domande-frequenti/accessibilit%C3%A0" target="_blank">Vedi le domande frequenti su accessibilità, sul portale AgID</a>
 
