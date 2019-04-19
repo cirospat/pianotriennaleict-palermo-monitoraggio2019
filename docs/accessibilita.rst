@@ -114,7 +114,7 @@ Accessibilità in Europa: la direttiva per il Web (WAD)
 
 Il 2 dicembre 2016 è stata pubblicata la Direttiva (UE) 2016/2102 del Parlamento europeo e del Consiglio, del 26 ottobre 2016, relativa all’accessibilità dei siti web e delle applicazioni mobili degli enti pubblici entrata in vigore il 22 dicembre 2016.
 
-\ |LINK3|\  
+\ |LINK3|\ .
 
 .. _h4b775024321573626586d683e68321b:
 
@@ -132,11 +132,9 @@ Direttiva UE su accessibilità Web: la specifica tecnica
 
 Dal punto di vista tecnico la Commissione Europea pubblicherà entro 24 mesi dall’entrata in vigore della direttiva una specifica tecnica dettagliata per i siti web e le applicazioni mobili. 
 
-In assenza della pubblicazione della specifica tecnica dovrà essere presa come riferimento la norma europea “EN 301 549 V1.1.2 (2015-04), Accessibility requirements suitable for public procurement of ICT products and services in Europe” (le pertinenti disposizioni per i contenuti dei siti web e per i contenuti delle applicazioni mobili).
+In assenza della pubblicazione della specifica tecnica dovrà essere presa come riferimento la norma europea “\ |LINK4|\ ” (le pertinenti disposizioni per i contenuti dei siti web e per i contenuti delle applicazioni mobili).
 
 A   partire dai sei mesi successivi alla pubblicazione della direttiva, la Commissione potrà aggiornare il riferimento alla norma europea EN  301 549 V1.1.2 (2015-04) in modo da far riferimento ad una versione più recente di questo standard, o ad una norma europea che la sostituisce, rispondente ai requisiti di accessibilità di cui all’articolo 4 e garantire almeno un livello di accessibilità equivalente a quello garantito dalla norma europea EN 301 549 V1.1.2 (2015-04). 
-
-\ |LINK4|\  
 
 .. _h27657d2946297d6335603e5a3161350:
 
@@ -173,7 +171,7 @@ Norma tecnica EN 301 549 v. 2.1.2 (08-2018)
 
     * Determinazione della conformità
 
-\ |LINK5|\  
+\ |LINK5|\ .
 
 .. _h635c3e3d3a9204c145579667a5c3366:
 
@@ -321,7 +319,7 @@ Legge Stanca: cosa cambia (in sintesi)
 
 * Eliminati i decreti a favore di linee guida (art. 10 e 11).
 
-\ |LINK8|\ 
+\ |LINK8|\ .
 
 .. _h6a294539682573106570283445204948:
 
@@ -339,9 +337,7 @@ Responsabile della transazione digitale
 
 L’organizzazione sarà sicuramente un fattore critico per rispettare le nuove norme ed evitare di incorrere in sanzioni e responsabilità.
 
-Per questo motivo, è cruciale il ruolo dei nuovi responsabili della transizione digitale (che dovrebbero essere già stati nominati da ciascuna amministrazione ai sensi del nuovo art. 17 CAD) con l’obiettivo di curare la transizione alla modalità operativa digitale e i conseguenti processi di riorganizzazione finalizzati alla realizzazione di un’amministrazione digitale e aperta, di servizi facilmente utilizzabili e di qualità, attraverso una maggiore efficienza ed economicità.
-
-\ |LINK9|\  
+Per questo motivo, è cruciale il ruolo dei nuovi \ |LINK9|\  con l’obiettivo di curare la transizione alla modalità operativa digitale e i conseguenti processi di riorganizzazione finalizzati alla realizzazione di un’amministrazione digitale e aperta, di servizi facilmente utilizzabili e di qualità, attraverso una maggiore efficienza ed economicità.
 
 .. _h3f4d1d4348197757ea476c17673853:
 
@@ -350,18 +346,14 @@ Difensore Civico Digitale - Interviene anche per i casi di mancata accessibilit�
 
 A seguito dell’istruttoria effettuata dagli Uffici dell’Agenzia e delle relative risultanze conclusive, emerge che gli atti amministrativi emessi direttamente dai diversi uffici e servizi del Comune di Palermo sono pubblicati in formato .pdf, come documenti-immagine e, quindi, non adeguatamente accessibili a persone con disabilità (cfr. art.23-ter, comma 5-bis del Decreto legislativo 7 marzo 2005 n.82 e s.m.i.).
 
-Si ritiene, pertanto, fondata la richiamata Segnalazione e si invita il Comune di Palermo “a porvi rimedio tempestivamente e comunque non oltre trenta giorni.”, rendendo accessibili i documenti emessi dai propri uffici e pubblicati in albo pretorio del proprio sito istituzionale, dandone conferma alla scrivente Agenzia. 
-
-\ |LINK10|\  
+Si ritiene, pertanto, \ |LINK10|\ , rendendo accessibili i documenti emessi dai propri uffici e pubblicati in albo pretorio del proprio sito istituzionale, dandone conferma alla scrivente Agenzia. 
 
 .. _h2774727b804273776175302a40557a:
 
 Il documento originale non è quello cartaceo ma quello informatico (art. 23 ter CAD)
 ====================================================================================
 
-Gli atti formati dalle pubbliche amministrazioni con strumenti informatici, nonché i   dati e i documenti informatici detenuti dalle stesse, costituiscono informazione primaria ed originale da cui è possibile effettuare, su diversi o identici tipi di supporto, duplicazioni e copie per gli usi consentiti dalla legge.
-
-\ |LINK11|\  
+\ |LINK11|\  da cui è possibile effettuare, su diversi o identici tipi di supporto, duplicazioni e copie per gli usi consentiti dalla legge.
 
 Non possiamo più sostenere la tesi che i documenti formati con le tecnologie ICT per essere validi devono essere sempre sostenuti da un documento cartaceo.
 
@@ -370,9 +362,7 @@ Non possiamo più sostenere la tesi che i documenti formati con le tecnologie IC
 Art. 23-ter CAD comma 5 bis: documenti amministrativi informatici
 =================================================================
 
-I documenti di cui al presente articolo devono essere fruibili indipendentemente dalla condizione di disabilità personale, applicando i criteri di accessibilità definiti dai requisiti tecnici di cui all'articolo 11 della legge 9 gennaio 2004, n. 4.
-
-\ |LINK12|\  
+\ |LINK12|\ , applicando i criteri di accessibilità definiti dai requisiti tecnici di cui all'articolo 11 della legge 9 gennaio 2004, n. 4.
 
 Oltre ad essere obbligatoriamente in formato digitale, il documento amministrativo prodotto dalle PA DEVE essere accessibile.
 
@@ -396,18 +386,16 @@ Necessario ripensare l’organizzazione documentale:
 Accessibilità e pubblicità legale on line
 =========================================
 
-Legge 18 giugno 2009, n. 69, Art. 32. (Eliminazione degli sprechi relativi al mantenimento di documenti in forma cartacea).
+Legge 18 giugno 2009, n. 69, Art. 32. (\ |LINK13|\ ).
 
 A far data dal 1º gennaio 2011, gli obblighi di pubblicazione di atti e provvedimenti amministrativi aventi effetto di pubblicità legale si intendono assolti con la pubblicazione nei propri siti informatici da parte delle amministrazioni e degli enti pubblici obbligati. La pubblicazione è effettuata nel rispetto dei principi di eguaglianza e di non discriminazione, applicando i requisiti tecnici di accessibilità di cui all’articolo 11 della legge 9 gennaio 2004, n.4. La mancata pubblicazione nei termini di cui al periodo precedente è altresì rilevante ai fini della misurazione e della Valutazione della performance individuale dei dirigenti responsabili.
-
-\ |LINK13|\  
 
 .. _h56207820242955515f237f637d59403e:
 
 Decreto Legislativo n. 33/2013: Amministrazione Trasparente
 ===========================================================
 
-Art. 7: Dati di tipo aperto I documenti, le informazioni e i dati oggetto di pubblicazione obbligatoria ai sensi della normativa vigente,  resi disponibili  anche a seguito dell'accesso civico di cui all'articolo 5, sono pubblicati in formato di tipo aperto ai sensi dell'articolo 68 del Codice dell'amministrazione digitale, di cui al decreto legislativo 7 marzo 2005, n. 82, e sono riutilizzabili ai sensi del decreto legislativo 24 gennaio 2006, n. 36, del decreto legislativo 7 marzo 2005, n. 82, e del decreto legislativo 30 giugno 2003, n. 196, senza ulteriori restrizioni diverse dall'obbligo di citare la fonte e di rispettarne l'integrità.
+Art. 7 - \ |LINK14|\ . I documenti, le informazioni e i dati oggetto di pubblicazione obbligatoria ai sensi della normativa vigente,  resi disponibili  anche a seguito dell'accesso civico di cui all'articolo 5, sono pubblicati in formato di tipo aperto ai sensi dell'articolo 68 del Codice dell'amministrazione digitale, di cui al decreto legislativo 7 marzo 2005, n. 82, e sono riutilizzabili ai sensi del decreto legislativo 24 gennaio 2006, n. 36, del decreto legislativo 7 marzo 2005, n. 82, e del decreto legislativo 30 giugno 2003, n. 196, senza ulteriori restrizioni diverse dall'obbligo di citare la fonte e di rispettarne l'integrità.
 
 .. _h1244232a6f67058daf1760126164:
 
@@ -429,14 +417,16 @@ I dati che presentano le seguenti caratteristiche:
 PDF «scansionato» e trasparenza amministrativa
 ==============================================
 
-Un PDF generato da una PA e scansionato non è una buona soluzione né per la gestione quotidiana, né per la pubblicazione all’albo o in amministrazione trasparente. \ |LINK14|\  
+Un PDF generato da una PA e scansionato non è una buona soluzione né per la gestione quotidiana, né per la pubblicazione all’albo o in amministrazione trasparente. 
+
+\ |LINK15|\ .
 
 .. _h605283363127101f4916686062782d:
 
 Faq AgID su Accessibilità
 =========================
 
-\ |LINK15|\  
+\ |LINK16|\ .
 
 .. _h162a1c527340644075241e6506d745a:
 
@@ -485,15 +475,15 @@ Evitiamo questi «orrori» di accessibilità
 
 .. |LINK3| raw:: html
 
-    <a href="http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=OJ:L:2016:327:TOC" target="_blank">http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=OJ:L:2016:327:TOC</a>
+    <a href="http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=OJ:L:2016:327:TOC" target="_blank">Link alla Direttiva (UE) 2016/2102 del Parlamento europeo e del Consiglio, del 26 ottobre 2016</a>
 
 .. |LINK4| raw:: html
 
-    <a href="http://www.etsi.org/deliver/etsi_en/301500_301599/301549/01.01.02_60/en_301549v010102p.pdf" target="_blank">http://www.etsi.org/deliver/etsi_en/301500_301599/301549/01.01.02_60/en_301549v010102p.pdf</a>
+    <a href="http://www.etsi.org/deliver/etsi_en/301500_301599/301549/01.01.02_60/en_301549v010102p.pdf" target="_blank">EN 301 549 V1.1.2 (2015-04), Accessibility requirements suitable for public procurement of ICT products and services in Europe</a>
 
 .. |LINK5| raw:: html
 
-    <a href="https://www.etsi.org/deliver/etsi_en/301500_301599/301549/02.01.02_60/en_301549v020102p.pdf" target="_blank">https://www.etsi.org/deliver/etsi_en/301500_301599/301549/02.01.02_60/en_301549v020102p.pdf</a>
+    <a href="https://www.etsi.org/deliver/etsi_en/301500_301599/301549/02.01.02_60/en_301549v020102p.pdf" target="_blank">HARMONISED EUROPEAN STANDARD - Accessibility requirements for ICT products and services</a>
 
 .. |LINK6| raw:: html
 
@@ -505,33 +495,37 @@ Evitiamo questi «orrori» di accessibilità
 
 .. |LINK8| raw:: html
 
-    <a href="https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2004-01-09;4!vig=" target="_blank">https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2004-01-09;4!vig=</a>
+    <a href="https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2004-01-09;4!vig=" target="_blank">LEGGE 9 gennaio 2004, n. 4 ((Disposizioni per favorire e semplificare l'accesso degli utenti e, in particolare, delle persone con disabilità' agli strumenti informatici))</a>
 
 .. |LINK9| raw:: html
 
-    <a href="https://cad.readthedocs.io/it/v2017-12-13/_rst/capo1_sezione3_art17.html" target="_blank">https://cad.readthedocs.io/it/v2017-12-13/_rst/capo1_sezione3_art17.html</a>
+    <a href="https://docs.italia.it/italia/piano-triennale-ict/codice-amministrazione-digitale-docs/it/v2017-12-13/_rst/capo1_sezione3_art17.html" target="_blank">responsabili della transizione digitale (che dovrebbero essere già stati nominati da ciascuna amministrazione ai sensi del nuovo art. 17 CAD)</a>
 
 .. |LINK10| raw:: html
 
-    <a href="https://www.agid.gov.it/sites/default/files/repository_files/invito_n.1-2018_comune_palermo.0009364.10-05-2018.pdf" target="_blank">https://www.agid.gov.it/sites/default/files/repository_files/invito_n.1-2018_comune_palermo.0009364.10-05-2018.pdf</a>
+    <a href="https://www.agid.gov.it/sites/default/files/repository_files/invito_n.1-2018_comune_palermo.0009364.10-05-2018.pdf" target="_blank">fondata la richiamata Segnalazione e si invita il Comune di Palermo “a porvi rimedio tempestivamente e comunque non oltre trenta giorni.”</a>
 
 .. |LINK11| raw:: html
 
-    <a href="http://www.normattiva.it/do/atto/vediPermalink?atto.dataPubblicazioneGazzetta=2005-05-16&atto.codiceRedazionale=005G0104" target="_blank">http://www.normattiva.it/do/atto/vediPermalink?atto.dataPubblicazioneGazzetta=2005-05-16&atto.codiceRedazionale=005G0104</a>
+    <a href="https://www.normattiva.it/atto/caricaArticolo?art.progressivo=0&art.idArticolo=23&art.versione=4&art.codiceRedazionale=005G0104&art.dataPubblicazioneGazzetta=2005-05-16&atto.tipoProvvedimento=DECRETO%20LEGISLATIVO&art.idGruppo=4&art.idSottoArticolo1=10&art.idSottoArticolo=3&art.flagTipoArticolo=0#art" target="_blank">Gli atti formati dalle pubbliche amministrazioni con strumenti informatici, nonché i   dati e i documenti informatici detenuti dalle stesse, costituiscono informazione primaria ed originale</a>
 
 .. |LINK12| raw:: html
 
-    <a href="http://www.normattiva.it/do/atto/vediPermalink?atto.dataPubblicazioneGazzetta=2005-05-16&atto.codiceRedazionale=005G0104" target="_blank">http://www.normattiva.it/do/atto/vediPermalink?atto.dataPubblicazioneGazzetta=2005-05-16&atto.codiceRedazionale=005G0104</a>
+    <a href="https://www.normattiva.it/atto/caricaArticolo?art.progressivo=0&art.idArticolo=23&art.versione=4&art.codiceRedazionale=005G0104&art.dataPubblicazioneGazzetta=2005-05-16&atto.tipoProvvedimento=DECRETO%20LEGISLATIVO&art.idGruppo=4&art.idSottoArticolo1=10&art.idSottoArticolo=3&art.flagTipoArticolo=0#art" target="_blank">I documenti di cui al presente articolo devono essere fruibili indipendentemente dalla condizione di disabilità personale</a>
 
 .. |LINK13| raw:: html
 
-    <a href="http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-06-18;69!vig=2014-03-23" target="_blank">http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-06-18;69!vig=2014-03-23</a>
+    <a href="https://www.normattiva.it/atto/caricaArticolo?art.progressivo=0&art.idArticolo=32&art.versione=4&art.codiceRedazionale=009G0069&art.dataPubblicazioneGazzetta=2009-06-19&atto.tipoProvvedimento=LEGGE&art.idGruppo=3&art.idSottoArticolo1=10&art.idSottoArticolo=1&art.flagTipoArticolo=0#art" target="_blank">Eliminazione degli sprechi relativi al mantenimento di documenti in forma cartacea</a>
 
 .. |LINK14| raw:: html
 
-    <a href="https://www.anticorruzione.it/portal/rest/jcr/repository/collaboration/Digital%20Assets/anacdocs/Attivita/Trasparenza/Vigilanza/VigilanzaUfficio/2014/AziendeSanitarie/Rapporti/Azienda-USL-2-di-LuccaRapporto.pdf" target="_blank">https://www.anticorruzione.it/portal/rest/jcr/repository/collaboration/Digital%20Assets/anacdocs/Attivita/Trasparenza/Vigilanza/VigilanzaUfficio/2014/AziendeSanitarie/Rapporti/Azienda-USL-2-di-LuccaRapporto.pdf</a>
+    <a href="https://www.normattiva.it/atto/caricaArticolo?art.progressivo=0&art.idArticolo=7&art.versione=1&art.codiceRedazionale=13G00076&art.dataPubblicazioneGazzetta=2013-04-05&atto.tipoProvvedimento=DECRETO%20LEGISLATIVO&art.idGruppo=1&art.idSottoArticolo1=10&art.idSottoArticolo=1&art.flagTipoArticolo=0#art" target="_blank">Dati di tipo aperto</a>
 
 .. |LINK15| raw:: html
 
-    <a href="https://www.agid.gov.it/it/domande-frequenti/accessibilit%C3%A0" target="_blank">https://www.agid.gov.it/it/domande-frequenti/accessibilit%C3%A0</a>
+    <a href="https://www.anticorruzione.it/portal/rest/jcr/repository/collaboration/Digital%20Assets/anacdocs/Attivita/Trasparenza/Vigilanza/VigilanzaUfficio/2014/AziendeSanitarie/Rapporti/Azienda-USL-2-di-LuccaRapporto.pdf" target="_blank">Vedi documento ANAC</a>
+
+.. |LINK16| raw:: html
+
+    <a href="https://www.agid.gov.it/it/domande-frequenti/accessibilit%C3%A0" target="_blank">Vedi le domande frequenti su accessibilità, sul portale AgID</a>
 
