@@ -348,6 +348,25 @@ Linee guida per l’erogazione del servizio pubblico wifi free
 
 \ |LINK49|\  a cura dell'AgID.
 
+--------
+
+.. _h2d47712f144518330295245663e4e4:
+
+Linee guida Agid per lo sviluppo del software sicuro nella PA
+*************************************************************
+
+\ |LINK50|\  si compongono di \ |LINK51|\  e 4 allegati:
+
+* \ |LINK52|\ 
+
+* \ |LINK53|\ 
+
+* \ |LINK54|\ 
+
+* \ |LINK55|\ 
+
+--------
+
 
 |REPLACE3|
 
@@ -601,4 +620,28 @@ Linee guida per l’erogazione del servizio pubblico wifi free
 .. |LINK49| raw:: html
 
     <a href="https://docs.italia.it/AgID/documenti-in-consultazione/lg-pubblicowififree/it/bozza/" target="_blank">Linee Guida in consultazione</a>
+
+.. |LINK50| raw:: html
+
+    <a href="https://www.agid.gov.it/it/sicurezza/cert-pa/linee-guida-sviluppo-del-software-sicuro" target="_blank">Le linee guida per lo sviluppo del software sicuro nella pubblica amministrazione</a>
+
+.. |LINK51| raw:: html
+
+    <a href="https://www.agid.gov.it/sites/default/files/repository_files/documentazione/lineeguidasicurezza-introduzione.pdf" target="_blank">un documento introduttivo</a>
+
+.. |LINK52| raw:: html
+
+    <a href="https://www.agid.gov.it/sites/default/files/repository_files/documentazione/linee_guida_per_adozione_di_un_ciclo_di_sviluppo_di_software_sicurov1.0.pdf" target="_blank">Allegato 1- Linee Guida per l’adozione di un ciclo di sviluppo di software sicuro</a>
+
+.. |LINK53| raw:: html
+
+    <a href="https://www.agid.gov.it/sites/default/files/repository_files/documentazione/linee_guida_per_lo_sviluppo_sicuro_di_codice_v1.0.pdf" target="_blank">Allegato 2 - Linee Guida per lo sviluppo sicuro di codice</a>
+
+.. |LINK54| raw:: html
+
+    <a href="https://www.agid.gov.it/sites/default/files/repository_files/documentazione/linee_guida_per_la_configurazione_per_adeguare_la_sicurezza_del_software_v1.0.pdf" target="_blank">Allegato 3 - Linee Guida per la configurazione per adeguare la sicurezza del software di base</a>
+
+.. |LINK55| raw:: html
+
+    <a href="https://www.agid.gov.it/sites/default/files/repository_files/documentazione/linee_guida_modellazione_minacce_e_individuazione_azioni_di_mitigazionev1.0.pdf" target="_blank">Allegato 4 - Linee Guida per la modellazione delle minacce e individuazione delle azioni di mitigazione conformi ai principi del Secure/Privacy by Design</a>
 
