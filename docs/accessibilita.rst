@@ -183,6 +183,7 @@ WCAG 2.1. Nuovi (17) criteri di successo
 ..  Important:: 
 
     Le linee guida per l'accessibilità dei contenuti Web \ |STYLE6|\  comprendono una grande varietà di raccomandazioni per consentire una maggiore accessibilità ai contenuti web. Seguendo queste linee guida si renderanno accessibili i contenuti ad un più ampio numero di persone con disabilità, tra le quali \ |STYLE7|\ , e si migliorerà in parte l'accessibilità anche per chi ha \ |STYLE8|\ . Le linee guida non potranno comunque ritenersi esaustive per tutte le esigenze degli utenti con tali disabilità. Le WCAG 2.1 sono linee guida per l'accessibilità dei contenuti Web applicabili a dispositivi desktop, laptop, tablet e mobili. Seguirle aiuterà a rendere i contenuti Web più usabili dagli utenti in generale.
+    
     I criteri di successo per le WCAG 2.1 consistono in istruzioni testabili che non dipendono dalla tecnologia utilizzata.
 
 * \ |LINK8|\ 
