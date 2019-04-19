@@ -505,7 +505,7 @@ Evitiamo questi «orrori» di accessibilità
 
 .. |LINK7| raw:: html
 
-    <a href="https://www.w3.org/Translations/WCAG21-it/" target="_blank">W3C WCAG 2.1 (Web Content Accessibility Guidelines - Linee guida per l'accessibilità dei contenuti web tradotte in italiano)</a>
+    <a href="https://www.w3.org/Translations/WCAG21-it/" target="_blank">W3C WCAG 2.1 (Web Content Accessibility Guidelines - Linee guida per l'accessibilità dei contenuti Web tradotte in italiano)</a>
 
 .. |LINK8| raw:: html
 
