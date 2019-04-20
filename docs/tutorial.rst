@@ -21,6 +21,9 @@ Accussì, catalogo di tutorial sul mondo dei dati curato dalla community di Open
 Tansignari, quando le cose spiegate in 2 minuti non si perdono
 ==============================================================
 
+
+|REPLACE2|
+
 \ |LINK2|\  è un'idea di Andrea Borruso, ed è un patrimonio culturale della comunità opendatasicilia. Chiunque vuole conoscere come funziona qualcosa concernente qualsiasi cosa abbia relazione con lo sviluppo informatico, crea una \ |LINK3|\  su un repository di GitHub, così che una volta fornita la risposta (da parte di qualcuno che conosce la materia), si creano delle \ |LINK4|\  in un unico contenitore condiviso online che rappresentano la conoscenza.
 
 |
@@ -79,7 +82,7 @@ Manuali vari
 \ |LINK15|\  (\ |STYLE5|\ , \ |STYLE6|\ ) è un ambiente informatico per la gestione di corsi, basato sull'ideologia \ |LINK16|\  secondo la quale ogni apprendimento sarebbe facilitato dalla produzione di oggetti tangibili. [\ |LINK17|\ ]
 
 
-|REPLACE2|
+|REPLACE3|
 
 
 .. bottom of content
@@ -104,6 +107,9 @@ Manuali vari
 
     <img src="https://raw.githubusercontent.com/cirospat/newproject/master/docs/static/chiavepertubi.jpg" width= 250 />
 .. |REPLACE2| raw:: html
+
+    <img src="http://tansignari.opendatasicilia.it/it/latest/_static/logo_desk.jpg" width=300 />
+.. |REPLACE3| raw:: html
 
     <script id="dsq-count-scr" src="//guida-readthedocs.disqus.com/count.js" async></script>
     
