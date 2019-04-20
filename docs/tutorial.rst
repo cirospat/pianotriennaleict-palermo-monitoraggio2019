@@ -45,6 +45,9 @@ Tutorial: pubblicare documenti su 'Read the Docs' utilizzando Google doc e il co
 Tutorial: dai fogli di GoogleDrive alle mappe openstreetmap di uMap
 ===================================================================
 
+
+|REPLACE4|
+
 \ |LINK6|\ . Il mio primo tutorial di sempre (grazie ad Andrea Borruso). 
 
 |
@@ -85,7 +88,7 @@ Manuali vari
 \ |LINK15|\  (\ |STYLE5|\ , \ |STYLE6|\ ) è un ambiente informatico per la gestione di corsi, basato sull'ideologia \ |LINK16|\  secondo la quale ogni apprendimento sarebbe facilitato dalla produzione di oggetti tangibili. [\ |LINK17|\ ]
 
 
-|REPLACE4|
+|REPLACE5|
 
 
 .. bottom of content
@@ -116,6 +119,9 @@ Manuali vari
 
     <img src="https://ggeditor.readthedocs.io/en/latest/_images/index_1.png" width=350 />
 .. |REPLACE4| raw:: html
+
+    <img src="https://wiki.openstreetmap.org/w/images/8/8f/Umap_logo.svg" />
+.. |REPLACE5| raw:: html
 
     <script id="dsq-count-scr" src="//guida-readthedocs.disqus.com/count.js" async></script>
     
