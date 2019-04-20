@@ -33,6 +33,9 @@ Tansignari, quando le cose spiegate in 2 minuti non si perdono
 Tutorial: pubblicare documenti su 'Read the Docs' utilizzando Google doc e il componente aggiuntivo 'GGeditor'
 ==============================================================================================================
 
+
+|REPLACE3|
+
 \ |LINK5|\  per facilitare la vita a chi vuole pubblicare documenti su Read the Docs o Docs Italia. GGeditor esegue il "commit" sul progetto Github direttamente da Google doc.
 
 |
@@ -82,7 +85,7 @@ Manuali vari
 \ |LINK15|\  (\ |STYLE5|\ , \ |STYLE6|\ ) è un ambiente informatico per la gestione di corsi, basato sull'ideologia \ |LINK16|\  secondo la quale ogni apprendimento sarebbe facilitato dalla produzione di oggetti tangibili. [\ |LINK17|\ ]
 
 
-|REPLACE3|
+|REPLACE4|
 
 
 .. bottom of content
@@ -110,6 +113,9 @@ Manuali vari
 
     <img src="http://tansignari.opendatasicilia.it/it/latest/_static/logo_desk.jpg" width=300 />
 .. |REPLACE3| raw:: html
+
+    <img src="https://ggeditor.readthedocs.io/en/latest/_images/index_1.png" width=350 />
+.. |REPLACE4| raw:: html
 
     <script id="dsq-count-scr" src="//guida-readthedocs.disqus.com/count.js" async></script>
     
