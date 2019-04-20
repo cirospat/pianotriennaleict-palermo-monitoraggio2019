@@ -135,7 +135,7 @@ Manuali vari
 
 .. |LINK2| raw:: html
 
-    <a href="https://github.com/opendatasicilia/tansignari" target="_blank">Tansignari</a>
+    <a href="http://tansignari.opendatasicilia.it" target="_blank">Tansignari</a>
 
 .. |LINK3| raw:: html
 
