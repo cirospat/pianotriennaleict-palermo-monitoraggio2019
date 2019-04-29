@@ -367,6 +367,15 @@ Linee guida Agid per lo sviluppo del software sicuro nella PA
 
 --------
 
+.. _h5926215c436647565937122943611f4a:
+
+Il modello Cloud della PA: come acquisire servizi cloud qualificati
+*******************************************************************
+
+\ |LINK56|\  del 19 marzo 2019 e materiali
+
+--------
+
 
 |REPLACE3|
 
@@ -644,4 +653,8 @@ Linee guida Agid per lo sviluppo del software sicuro nella PA
 .. |LINK55| raw:: html
 
     <a href="https://www.agid.gov.it/sites/default/files/repository_files/documentazione/linee_guida_modellazione_minacce_e_individuazione_azioni_di_mitigazionev1.0.pdf" target="_blank">Allegato 4 - Linee Guida per la modellazione delle minacce e individuazione delle azioni di mitigazione conformi ai principi del Secure/Privacy by Design</a>
+
+.. |LINK56| raw:: html
+
+    <a href="http://eventipa.formez.it/node/187948" target="_blank">Webinar del FormezPA</a>
 
