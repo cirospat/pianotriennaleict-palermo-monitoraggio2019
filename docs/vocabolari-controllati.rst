@@ -124,6 +124,9 @@ Ontologie e vocabolari controllati del Ministero dei Beni Culturali. \ |LINK18|\
 .. |REPLACE4| raw:: html
 
     <img src="http://giovanni.pirrotta.it/images/ontopia/ontopia-tecnico.png" /> 
+    </br>
+    <span class="footer_small">
+    <a href="http://giovanni.pirrotta.it/blog/2019/05/04/alla-scoperta-di-ontopia-il-knowledge-graph-della-pa-italiana/" target="_blank">Alla scoperta di Ontopia, il Knowledge Graph della PA Italiana</a> (immagine tratta dall'articolo di Giovanni Pirrotta).</span>
 .. |REPLACE5| raw:: html
 
     <script id="dsq-count-scr" src="//guida-readthedocs.disqus.com/count.js" async></script>
