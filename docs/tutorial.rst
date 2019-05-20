@@ -57,11 +57,21 @@ Tutorial: dai fogli di GoogleDrive alle mappe openstreetmap di uMap
 Corsi online su 'competenze e servizi digitali'
 ===============================================
 
-\ |STYLE0|\  \ |LINK7|\  \ |STYLE1|\  (accountability - agenda Digitale - e-leadership - open data - partecipazione - qualità dei servizi web - soft skill per l’e-leadership - web analytics - ….).
+\ |STYLE0|\ 
 
-\ |STYLE2|\  sui \ |LINK8|\  (data center - SPID - eProcurement - service design - Intelligenza Artificiale per la PA - comunicazione con i servizi digitali - accessibilità digitale e usabilità - professioni e competenze ICT - PagoPA - Piano triennale informatica per la PA - Cybersecurity - CAD - Data Analytic Framework - responsabile protezione dati personali - responsabile gestione documentale - responsabile transizione al digitale).
+|REPLACE5|
 
-\ |STYLE3|\ . \ |LINK9|\ . Posta elettronica certificata, PDF e firma digitale (Pades e Cades) - i formati dei files (doc, odt, xls, ods, docx, xlsx, jpg, bmp, pdf, xml, zip, 7z ecc....) e la loro gestione e conservazione - la creazione dei fascicoli elettronici e la denominazione di cartelle e files - i programmi open source e freeware più diffusi ed utili (libreoffice, 7z, gimp, ecc...) - ricerca di norme, sentenze e dottrina in rete - informatica giuridica (dall'analogico al digitale e viceversa, copie analogiche e copie digitali, conservazione degli atti) - ottimizzazione dei browser (preferiti, links ecc...).
+Iniziativa promossa dal Dipartimento della funzione pubblica nell’ambito del \ |LINK7|\ , che punta al consolidamento delle competenze digitali comuni a  tutti i dipendenti pubblici, al fine di accrescere la propensione complessiva al cambiamento e all’innovazione nella pubblica amministrazione.
+
+Dalla verifica delle competenze digitali alla formazione. Se sei un dipendente della Pubblica Amministrazione: 1) valuta le tue competenze, 2) scegli le proposte formative, 3) migliora le tue conoscenze, 4) verifica i tuoi progressi.
+
+\ |LINK8|\ .
+
+\ |STYLE1|\  \ |LINK9|\  \ |STYLE2|\  (accountability - agenda Digitale - e-leadership - open data - partecipazione - qualità dei servizi web - soft skill per l’e-leadership - web analytics - ….).
+
+\ |STYLE3|\  sui \ |LINK10|\  (data center - SPID - eProcurement - service design - Intelligenza Artificiale per la PA - comunicazione con i servizi digitali - accessibilità digitale e usabilità - professioni e competenze ICT - PagoPA - Piano triennale informatica per la PA - Cybersecurity - CAD - Data Analytic Framework - responsabile protezione dati personali - responsabile gestione documentale - responsabile transizione al digitale).
+
+\ |STYLE4|\ . \ |LINK11|\ . Posta elettronica certificata, PDF e firma digitale (Pades e Cades) - i formati dei files (doc, odt, xls, ods, docx, xlsx, jpg, bmp, pdf, xml, zip, 7z ecc....) e la loro gestione e conservazione - la creazione dei fascicoli elettronici e la denominazione di cartelle e files - i programmi open source e freeware più diffusi ed utili (libreoffice, 7z, gimp, ecc...) - ricerca di norme, sentenze e dottrina in rete - informatica giuridica (dall'analogico al digitale e viceversa, copie analogiche e copie digitali, conservazione degli atti) - ottimizzazione dei browser (preferiti, links ecc...).
 
 |
 
@@ -70,7 +80,7 @@ Corsi online su 'competenze e servizi digitali'
 Webinar sulla costruzione di un 'progetto europeo'
 ==================================================
 
-\ |STYLE4|\ . Un validissimo \ |LINK10|\  e \ |LINK11|\  a cura della Fondazione IFEL - ANCI.
+\ |STYLE5|\ . Un validissimo \ |LINK12|\  e \ |LINK13|\  a cura della Fondazione IFEL - ANCI.
 
 |
 
@@ -79,34 +89,36 @@ Webinar sulla costruzione di un 'progetto europeo'
 Manuali vari 
 =============
 
-\ |LINK12|\  per la catalogazione e pubblicazione degli eventi pubblici, effettuata tramite l'uso di un ``vocabolario controllato`` (applicativo in uso e riuso nelle Pubbliche Amministrazioni)
+\ |LINK14|\  per la catalogazione e pubblicazione degli eventi pubblici, effettuata tramite l'uso di un ``vocabolario controllato`` (applicativo in uso e riuso nelle Pubbliche Amministrazioni)
 
-\ |LINK13|\  in uso al Comune di Palermo
+\ |LINK15|\  in uso al Comune di Palermo
 
-\ |LINK14|\  del comune di Palermo
+\ |LINK16|\  del comune di Palermo
 
-\ |LINK15|\  (\ |STYLE5|\ , \ |STYLE6|\ ) è un ambiente informatico per la gestione di corsi, basato sull'ideologia \ |LINK16|\  secondo la quale ogni apprendimento sarebbe facilitato dalla produzione di oggetti tangibili. [\ |LINK17|\ ]
+\ |LINK17|\  (\ |STYLE6|\ , \ |STYLE7|\ ) è un ambiente informatico per la gestione di corsi, basato sull'ideologia \ |LINK18|\  secondo la quale ogni apprendimento sarebbe facilitato dalla produzione di oggetti tangibili. [\ |LINK19|\ ]
 
 
-|REPLACE5|
+|REPLACE6|
 
 
 .. bottom of content
 
 
-.. |STYLE0| replace:: **Corsi online sulle**
+.. |STYLE0| replace:: **Piattaforma per la verifica delle competenze digitali dei dipendenti della PA**
 
-.. |STYLE1| replace:: **nella PA, a cura del FormezPA**
+.. |STYLE1| replace:: **Corsi online sulle**
 
-.. |STYLE2| replace:: **Webinar del FormezPA**
+.. |STYLE2| replace:: **nella PA, a cura del FormezPA**
 
-.. |STYLE3| replace:: **Videocorsi di informatica di base, a cura di Simone Chiarelli**
+.. |STYLE3| replace:: **Webinar del FormezPA**
 
-.. |STYLE4| replace:: **Come si scrive bene un progetto europeo**
+.. |STYLE4| replace:: **Videocorsi di informatica di base, a cura di Simone Chiarelli**
 
-.. |STYLE5| replace:: *Modular Object-Oriented Dynamic Learning Environment*
+.. |STYLE5| replace:: **Come si scrive bene un progetto europeo**
 
-.. |STYLE6| replace:: *ambiente per l'apprendimento modulare, dinamico, orientato ad oggetti*
+.. |STYLE6| replace:: *Modular Object-Oriented Dynamic Learning Environment*
+
+.. |STYLE7| replace:: *ambiente per l'apprendimento modulare, dinamico, orientato ad oggetti*
 
 
 .. |REPLACE1| raw:: html
@@ -122,6 +134,9 @@ Manuali vari
 
     <img src="https://wiki.openstreetmap.org/w/images/8/8f/Umap_logo.svg" />
 .. |REPLACE5| raw:: html
+
+    <img src="http://www.competenzedigitali.gov.it/typo3conf/ext/competenze/Resources/Public/Images/template/logo-competenze-digitali-pa.svg" width= 250 />
+.. |REPLACE6| raw:: html
 
     <script id="dsq-count-scr" src="//guida-readthedocs.disqus.com/count.js" async></script>
     
@@ -173,45 +188,53 @@ Manuali vari
 
 .. |LINK7| raw:: html
 
-    <a href="http://formazione.formez.it/content/corsi-online-competenze-digitali" target="_blank">competenze digitali</a>
+    <a href="http://www.pongovernance1420.gov.it/" target="_blank">Programma Operativo Nazionale “Governance e Capacità Istituzionale 2014-2020"</a>
 
 .. |LINK8| raw:: html
 
-    <a href="http://eventipa.formez.it/progetto-formez-dettaglio-ms/17436" target="_blank">servizi digitali - Italia Login</a>
+    <a href="http://www.competenzedigitali.gov.it" target="_blank">Link alla piattaforma online per le "competenze digitali" a cura della Funzione Pubblica</a>
 
 .. |LINK9| raw:: html
 
-    <a href="https://www.youtube.com/playlist?list=PLnc9N-ztTF5fxGBBYR1JDpd_VoAyJ_H2p" target="_blank">Link</a>
+    <a href="http://formazione.formez.it/content/corsi-online-competenze-digitali" target="_blank">competenze digitali</a>
 
 .. |LINK10| raw:: html
 
-    <a href="https://www.fondazioneifel.it/documenti-e-pubblicazioni/item/9640-video-come-si-scrive-bene-un-progetto-europeo" target="_blank">Webinar</a>
+    <a href="http://eventipa.formez.it/progetto-formez-dettaglio-ms/17436" target="_blank">servizi digitali - Italia Login</a>
 
 .. |LINK11| raw:: html
 
-    <a href="https://www.fondazioneifel.it/documenti-e-pubblicazioni/item/9639-slide-come-si-scrive-bene-un-progetto-europeo" target="_blank">Materiali didattici</a>
+    <a href="https://www.youtube.com/playlist?list=PLnc9N-ztTF5fxGBBYR1JDpd_VoAyJ_H2p" target="_blank">Link</a>
 
 .. |LINK12| raw:: html
 
-    <a href="http://manuale-openagenda.readthedocs.io" target="_blank">Manuale d'uso dell'applicativo Open Agenda</a>
+    <a href="https://www.fondazioneifel.it/documenti-e-pubblicazioni/item/9640-video-come-si-scrive-bene-un-progetto-europeo" target="_blank">Webinar</a>
 
 .. |LINK13| raw:: html
 
-    <a href="http://libro-firma.readthedocs.io" target="_blank">Manuale d'uso dell'applicativo Libro Firma</a>
+    <a href="https://www.fondazioneifel.it/documenti-e-pubblicazioni/item/9639-slide-come-si-scrive-bene-un-progetto-europeo" target="_blank">Materiali didattici</a>
 
 .. |LINK14| raw:: html
 
-    <a href="http://upload-dataset-comunepalermo.readthedocs.io" target="_blank">Manuale per il caricamento dei dataset sul portale open data</a>
+    <a href="http://manuale-openagenda.readthedocs.io" target="_blank">Manuale d'uso dell'applicativo Open Agenda</a>
 
 .. |LINK15| raw:: html
 
-    <a href="https://cirospat.readthedocs.io/it/latest/come-usare-Moodle.html" target="_blank">Guida in italiano all'uso degli strumenti di Moodle, a cura del FormezPA</a>
+    <a href="http://libro-firma.readthedocs.io" target="_blank">Manuale d'uso dell'applicativo Libro Firma</a>
 
 .. |LINK16| raw:: html
 
-    <a href="https://it.wikipedia.org/wiki/Costruzionismo_(teoria_dell%27apprendimento)" target="_blank">costruzionista</a>
+    <a href="http://upload-dataset-comunepalermo.readthedocs.io" target="_blank">Manuale per il caricamento dei dataset sul portale open data</a>
 
 .. |LINK17| raw:: html
+
+    <a href="https://cirospat.readthedocs.io/it/latest/come-usare-Moodle.html" target="_blank">Guida in italiano all'uso degli strumenti di Moodle, a cura del FormezPA</a>
+
+.. |LINK18| raw:: html
+
+    <a href="https://it.wikipedia.org/wiki/Costruzionismo_(teoria_dell%27apprendimento)" target="_blank">costruzionista</a>
+
+.. |LINK19| raw:: html
 
     <a href="https://it.wikipedia.org/wiki/Moodle" target="_blank">Definizione di Wikipedia</a>
 
