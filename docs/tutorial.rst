@@ -61,13 +61,13 @@ Corsi online su 'competenze e servizi digitali'
 
 |REPLACE5|
 
-Iniziativa promossa dal Dipartimento della funzione pubblica nell’ambito del \ |LINK7|\ , che punta al consolidamento delle competenze digitali comuni a  tutti i dipendenti pubblici, al fine di accrescere la propensione complessiva al cambiamento e all’innovazione nella pubblica amministrazione. Dalla verifica delle competenze digitali alla formazione. Se sei un dipendente della Pubblica Amministrazione: 1) valuta le tue competenze, 2) scegli le proposte formative, 3) migliora le tue conoscenze, 4) verifica i tuoi progressi. \ |LINK8|\ .
+Iniziativa promossa dal \ |STYLE1|\  nell’ambito del \ |LINK7|\ , che punta al consolidamento delle competenze digitali comuni a  tutti i dipendenti pubblici, al fine di accrescere la propensione complessiva al cambiamento e all’innovazione nella pubblica amministrazione. Dalla verifica delle competenze digitali alla formazione. Se sei un dipendente della Pubblica Amministrazione: 1) valuta le tue competenze, 2) scegli le proposte formative, 3) migliora le tue conoscenze, 4) verifica i tuoi progressi. \ |LINK8|\ .
 
-\ |STYLE1|\  \ |LINK9|\  \ |STYLE2|\  (accountability - agenda Digitale - e-leadership - open data - partecipazione - qualità dei servizi web - soft skill per l’e-leadership - web analytics - ….).
+\ |STYLE2|\  \ |LINK9|\  \ |STYLE3|\  (accountability - agenda Digitale - e-leadership - open data - partecipazione - qualità dei servizi web - soft skill per l’e-leadership - web analytics - ….).
 
-\ |STYLE3|\  sui \ |LINK10|\  (data center - SPID - eProcurement - service design - Intelligenza Artificiale per la PA - comunicazione con i servizi digitali - accessibilità digitale e usabilità - professioni e competenze ICT - PagoPA - Piano triennale informatica per la PA - Cybersecurity - CAD - Data Analytic Framework - responsabile protezione dati personali - responsabile gestione documentale - responsabile transizione al digitale).
+\ |STYLE4|\  sui \ |LINK10|\  (data center - SPID - eProcurement - service design - Intelligenza Artificiale per la PA - comunicazione con i servizi digitali - accessibilità digitale e usabilità - professioni e competenze ICT - PagoPA - Piano triennale informatica per la PA - Cybersecurity - CAD - Data Analytic Framework - responsabile protezione dati personali - responsabile gestione documentale - responsabile transizione al digitale).
 
-\ |STYLE4|\ . \ |LINK11|\ . Posta elettronica certificata, PDF e firma digitale (Pades e Cades) - i formati dei files (doc, odt, xls, ods, docx, xlsx, jpg, bmp, pdf, xml, zip, 7z ecc....) e la loro gestione e conservazione - la creazione dei fascicoli elettronici e la denominazione di cartelle e files - i programmi open source e freeware più diffusi ed utili (libreoffice, 7z, gimp, ecc...) - ricerca di norme, sentenze e dottrina in rete - informatica giuridica (dall'analogico al digitale e viceversa, copie analogiche e copie digitali, conservazione degli atti) - ottimizzazione dei browser (preferiti, links ecc...).
+\ |STYLE5|\ . \ |LINK11|\ . Posta elettronica certificata, PDF e firma digitale (Pades e Cades) - i formati dei files (doc, odt, xls, ods, docx, xlsx, jpg, bmp, pdf, xml, zip, 7z ecc....) e la loro gestione e conservazione - la creazione dei fascicoli elettronici e la denominazione di cartelle e files - i programmi open source e freeware più diffusi ed utili (libreoffice, 7z, gimp, ecc...) - ricerca di norme, sentenze e dottrina in rete - informatica giuridica (dall'analogico al digitale e viceversa, copie analogiche e copie digitali, conservazione degli atti) - ottimizzazione dei browser (preferiti, links ecc...).
 
 |
 
@@ -76,7 +76,7 @@ Iniziativa promossa dal Dipartimento della funzione pubblica nell’ambito del \
 Webinar sulla costruzione di un 'progetto europeo'
 ==================================================
 
-\ |STYLE5|\ . Un validissimo \ |LINK12|\  e \ |LINK13|\  a cura della Fondazione IFEL - ANCI.
+\ |STYLE6|\ . Un validissimo \ |LINK12|\  e \ |LINK13|\  a cura della Fondazione IFEL - ANCI.
 
 |
 
@@ -91,7 +91,7 @@ Manuali vari
 
 \ |LINK16|\  del comune di Palermo
 
-\ |LINK17|\  (\ |STYLE6|\ , \ |STYLE7|\ ) è un ambiente informatico per la gestione di corsi, basato sull'ideologia \ |LINK18|\  secondo la quale ogni apprendimento sarebbe facilitato dalla produzione di oggetti tangibili. [\ |LINK19|\ ]
+\ |LINK17|\  (\ |STYLE7|\ , \ |STYLE8|\ ) è un ambiente informatico per la gestione di corsi, basato sull'ideologia \ |LINK18|\  secondo la quale ogni apprendimento sarebbe facilitato dalla produzione di oggetti tangibili. [\ |LINK19|\ ]
 
 
 |REPLACE6|
@@ -102,19 +102,21 @@ Manuali vari
 
 .. |STYLE0| replace:: **Piattaforma per la verifica delle competenze digitali dei dipendenti della PA**
 
-.. |STYLE1| replace:: **Corsi online sulle**
+.. |STYLE1| replace:: *Dipartimento della Funzione Pubblica*
 
-.. |STYLE2| replace:: **nella PA, a cura del FormezPA**
+.. |STYLE2| replace:: **Corsi online sulle**
 
-.. |STYLE3| replace:: **Webinar del FormezPA**
+.. |STYLE3| replace:: **nella PA, a cura del FormezPA**
 
-.. |STYLE4| replace:: **Videocorsi di informatica di base, a cura di Simone Chiarelli**
+.. |STYLE4| replace:: **Webinar del FormezPA**
 
-.. |STYLE5| replace:: **Come si scrive bene un progetto europeo**
+.. |STYLE5| replace:: **Videocorsi di informatica di base, a cura di Simone Chiarelli**
 
-.. |STYLE6| replace:: *Modular Object-Oriented Dynamic Learning Environment*
+.. |STYLE6| replace:: **Come si scrive bene un progetto europeo**
 
-.. |STYLE7| replace:: *ambiente per l'apprendimento modulare, dinamico, orientato ad oggetti*
+.. |STYLE7| replace:: *Modular Object-Oriented Dynamic Learning Environment*
+
+.. |STYLE8| replace:: *ambiente per l'apprendimento modulare, dinamico, orientato ad oggetti*
 
 
 .. |REPLACE1| raw:: html
