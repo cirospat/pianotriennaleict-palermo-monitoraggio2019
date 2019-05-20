@@ -71,12 +71,15 @@ Da un \ |LINK5|\ .
 |REPLACE2|
 
 
+|REPLACE3|
+
+
 +----------------------------------------------------------------------------------+
 |Immagine in alto: \ |LINK6|\ . Pubblicato dal Metmuseum con Licenza Public Domain.|
 +----------------------------------------------------------------------------------+
 
 
-|REPLACE3|
+|REPLACE4|
 
 
 .. bottom of content
@@ -92,6 +95,9 @@ Da un \ |LINK5|\ .
 
     <img src="https://raw.githubusercontent.com/cirospat/newproject/master/docs/static/foaf.PNG" />
 .. |REPLACE3| raw:: html
+
+    <iframe width="100%" height="550" src="https://visualdataweb.de/webvowl/?fbclid=IwAR2ljUleNO9PzFnk9Jbmd6ZwNkK_2N-asT1dOI099PBA3nStcYXYd8wJ01M" frameborder="0" allowfullscreen></iframe>
+.. |REPLACE4| raw:: html
 
     <script id="dsq-count-scr" src="//guida-readthedocs.disqus.com/count.js" async></script>
     
