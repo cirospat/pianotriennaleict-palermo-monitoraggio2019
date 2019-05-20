@@ -387,8 +387,24 @@ Il modello Cloud della PA: come acquisire servizi cloud qualificati
 
 --------
 
+.. _h28535a132e16623520616917176c6939:
+
+Competenze digitali per la PA
+*****************************
+
 
 |REPLACE3|
+
+Iniziativa promossa dal Dipartimento della funzione pubblica nell’ambito del \ |LINK59|\ , che punta al consolidamento delle competenze digitali comuni a  tutti i dipendenti pubblici, al fine di accrescere la propensione complessiva al cambiamento e all’innovazione nella pubblica amministrazione.
+
+Dalla verifica delle competenze digitali alla formazione. Se sei un dipendente della Pubblica Amministrazione: 1) valuta le tue competenze, 2) scegli le proposte formative, 3) migliora le tue conoscenze, 4) verifica i tuoi progressi.
+
+\ |LINK60|\ .
+
+--------
+
+
+|REPLACE4|
 
 .. _h2c1d74277104e41780968148427e:
 
@@ -424,6 +440,9 @@ Il modello Cloud della PA: come acquisire servizi cloud qualificati
     <iframe width="100%" height="500" src="https://www.youtube.com/embed/j1PGeUthii0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
     <span class="footer_small">Misure minime di sicurezza ICT (AgID) e ruolo del CERT-PA, Computer Emergency Response Team Pubblica Amministrazione, che opera all’interno di AgID e ha il compito di supportare le amministrazioni nella prevenzione e nella risposta agli incidenti di sicurezza informatica.</span>
 .. |REPLACE3| raw:: html
+
+    <img src="http://www.competenzedigitali.gov.it/typo3conf/ext/competenze/Resources/Public/Images/template/logo-competenze-digitali-pa.svg" width= 400 />
+.. |REPLACE4| raw:: html
 
     <script id="dsq-count-scr" src="//guida-readthedocs.disqus.com/count.js" async></script>
     
@@ -680,4 +699,12 @@ Il modello Cloud della PA: come acquisire servizi cloud qualificati
 .. |LINK58| raw:: html
 
     <a href="https://cloud.italia.it/marketplace/supplier/market/index.html" target="_blank">Catalogo dei servizi Cloud per la PA qualificati</a>
+
+.. |LINK59| raw:: html
+
+    <a href="http://www.pongovernance1420.gov.it/" target="_blank">Programma Operativo Nazionale “Governance e Capacità Istituzionale 2014-2020"</a>
+
+.. |LINK60| raw:: html
+
+    <a href="http://www.competenzedigitali.gov.it" target="_blank">Link alla piattaforma online della Funzione Pubblica</a>
 
