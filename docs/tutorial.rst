@@ -61,11 +61,7 @@ Corsi online su 'competenze e servizi digitali'
 
 |REPLACE5|
 
-Iniziativa promossa dal Dipartimento della funzione pubblica nell’ambito del \ |LINK7|\ , che punta al consolidamento delle competenze digitali comuni a  tutti i dipendenti pubblici, al fine di accrescere la propensione complessiva al cambiamento e all’innovazione nella pubblica amministrazione.
-
-Dalla verifica delle competenze digitali alla formazione. Se sei un dipendente della Pubblica Amministrazione: 1) valuta le tue competenze, 2) scegli le proposte formative, 3) migliora le tue conoscenze, 4) verifica i tuoi progressi.
-
-\ |LINK8|\ .
+Iniziativa promossa dal Dipartimento della funzione pubblica nell’ambito del \ |LINK7|\ , che punta al consolidamento delle competenze digitali comuni a  tutti i dipendenti pubblici, al fine di accrescere la propensione complessiva al cambiamento e all’innovazione nella pubblica amministrazione. Dalla verifica delle competenze digitali alla formazione. Se sei un dipendente della Pubblica Amministrazione: 1) valuta le tue competenze, 2) scegli le proposte formative, 3) migliora le tue conoscenze, 4) verifica i tuoi progressi. \ |LINK8|\ .
 
 \ |STYLE1|\  \ |LINK9|\  \ |STYLE2|\  (accountability - agenda Digitale - e-leadership - open data - partecipazione - qualità dei servizi web - soft skill per l’e-leadership - web analytics - ….).
 
@@ -135,7 +131,7 @@ Manuali vari
     <img src="https://wiki.openstreetmap.org/w/images/8/8f/Umap_logo.svg" />
 .. |REPLACE5| raw:: html
 
-    <img src="http://www.competenzedigitali.gov.it/typo3conf/ext/competenze/Resources/Public/Images/template/logo-competenze-digitali-pa.svg" width= 250 />
+    <p><a href="http://www.competenzedigitali.gov.it" target="_blank" rel="noopener" title="verifica delle competenze digitali"><img src="http://www.competenzedigitali.gov.it/typo3conf/ext/competenze/Resources/Public/Images/template/logo-competenze-digitali-pa.svg" alt="" width="259" height="230" /></a></p>
 .. |REPLACE6| raw:: html
 
     <script id="dsq-count-scr" src="//guida-readthedocs.disqus.com/count.js" async></script>
