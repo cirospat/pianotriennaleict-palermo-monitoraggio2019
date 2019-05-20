@@ -706,5 +706,5 @@ Dalla verifica delle competenze digitali alla formazione. Se sei un dipendente d
 
 .. |LINK60| raw:: html
 
-    <a href="http://www.competenzedigitali.gov.it" target="_blank">Link alla piattaforma online della Funzione Pubblica</a>
+    <a href="http://www.competenzedigitali.gov.it" target="_blank">Link alla piattaforma online per le "competenze digitali" a cura della Funzione Pubblica</a>
 
