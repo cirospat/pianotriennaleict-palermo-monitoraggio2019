@@ -845,6 +845,18 @@ Il 3,4,5 Dicembre 2018 lo staff del Responsabile Transizione al digitale effettu
 
 |REPLACE1|
 
+.. _h166b2e523425557f4d453a396558c:
+
+2019
+****
+
+.. _h1c146c674075018133c7388610:
+
+Avvio dell'utilizzo del \ |LINK177|\ , dell'Agenzia per l'Italia Digitale.
+==========================================================================
+
+Per valutare i livelli di rischi a cui sono esposti i servizi digitali del comune di Palermo e per attivare eventuali azioni volte a mitigare o annullare i rischi individuati. Con la collaborazione della Società SISPI SpA. L'azione fa parte del \ |STYLE24|\ , \ |LINK178|\ .
+
 --------
 
 
@@ -901,6 +913,8 @@ Il 3,4,5 Dicembre 2018 lo staff del Responsabile Transizione al digitale effettu
 .. |STYLE22| replace:: *Ciò significa che i moduli e formulari, ma anche gli atti e i provvedimenti amministrativi oggetto di pubblicità legale, devono essere fruibili anche da persone con disabilità. Non è ammessa, pertanto, la pubblicazione di documenti-immagine, vale a dire scansioni digitali di documenti cartacei senza che si sia provveduto ad opportuna digitalizzazione del testo ivi contenuto*
 
 .. |STYLE23| replace:: **Piano Triennale per l’Informatica 2017-19, sul CAD, e per illustrare la road map comunale al 2020 sui servizi digitali locali da attivare**
+
+.. |STYLE24| replace:: **Piano Triennale per l'Informatica nella Pubblica Amministrazione 2019-2021**
 
 
 .. |REPLACE1| raw:: html
@@ -1635,4 +1649,12 @@ Il 3,4,5 Dicembre 2018 lo staff del Responsabile Transizione al digitale effettu
 .. |LINK176| raw:: html
 
     <a href="https://www.comune.palermo.it/noticext.php?id=20742" target="_blank">comunicato stampa</a>
+
+.. |LINK177| raw:: html
+
+    <a href="https://www.sicurezzait.gov.it" target="_blank">Risk Tool Assesment</a>
+
+.. |LINK178| raw:: html
+
+    <a href="https://docs.italia.it/italia/piano-triennale-ict/pianotriennale-ict-doc/it/2017-2019/doc/08_sicurezza.html?highlight=sicurezza" target="_blank">capitolo Sicurezza</a>
 
