@@ -2467,6 +2467,44 @@ Su richiesta da parte di un cittadino si è provveduto a pubblicare il dataset "
 
 --------
 
+.. _h546d3e36c53191c7e4a154546774266:
+
+2 Quadrimestre 2019
+*******************
+
+68-
+
+.. _h4956414410462c2733f7d660371b5f:
+
+Area delle Relazioni Istituzionali Sviluppo e Risorse Umane
+===========================================================
+
+Su richiesta da parte di cittadini in collaborazione con il dott. D'Anneo dell'Ufficio Statisica sono stati pubblicati nel 24 maggio 2019 n.12 dataset sulla popolazione residente disaggregata per cittadini stranieri e per cittadini italiani e disaggregati per cittadinanza di provenienza, per area geopolitica di provenienza, per Unità di primo livello, per Sezione censuaria, per Quartiere e per Circoscrizione:
+
+#. https://opendata.comune.palermo.it/opendata-dataset.php?dataset=1222
+
+#. https://opendata.comune.palermo.it/opendata-dataset.php?dataset=1221
+
+#. https://opendata.comune.palermo.it/opendata-dataset.php?dataset=1220
+
+#. https://opendata.comune.palermo.it/opendata-dataset.php?dataset=1219
+
+#. https://opendata.comune.palermo.it/opendata-dataset.php?dataset=1218
+
+#. https://opendata.comune.palermo.it/opendata-dataset.php?dataset=1217
+
+#. https://opendata.comune.palermo.it/opendata-dataset.php?dataset=1216
+
+#. https://opendata.comune.palermo.it/opendata-dataset.php?dataset=1215
+
+#. https://opendata.comune.palermo.it/opendata-dataset.php?dataset=1214
+
+#. https://opendata.comune.palermo.it/opendata-dataset.php?dataset=1213
+
+#. https://opendata.comune.palermo.it/opendata-dataset.php?dataset=1212
+
+#. https://opendata.comune.palermo.it/opendata-dataset.php?dataset=1211
+
 
 .. bottom of content
 
