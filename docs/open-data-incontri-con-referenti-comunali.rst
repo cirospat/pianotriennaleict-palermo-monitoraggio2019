@@ -2479,31 +2479,31 @@ Su richiesta da parte di un cittadino si è provveduto a pubblicare il dataset "
 Area delle Relazioni Istituzionali Sviluppo e Risorse Umane
 ===========================================================
 
-Su richiesta da parte di cittadini in collaborazione con il dott. D'Anneo dell'Ufficio Statisica sono stati pubblicati nel 24 maggio 2019 n.12 dataset sulla popolazione residente disaggregata per cittadini stranieri e per cittadini italiani e disaggregati per cittadinanza di provenienza, per area geopolitica di provenienza, per Unità di primo livello, per Sezione censuaria, per Quartiere e per Circoscrizione:
+Su richiesta da parte di cittadini in collaborazione con il dott. D'Anneo dell'Ufficio Statistica sono stati pubblicati nel 24 maggio 2019 n.12 dataset sulla popolazione residente disaggregata per cittadini stranieri e per cittadini italiani e disaggregati per cittadinanza di provenienza, per area geopolitica di provenienza, per Unità di primo livello, per Sezione censuaria, per Quartiere e per Circoscrizione:
 
-#. https://opendata.comune.palermo.it/opendata-dataset.php?dataset=1222
+#. \ |LINK186|\ 
 
-#. https://opendata.comune.palermo.it/opendata-dataset.php?dataset=1221
+#. \ |LINK187|\ 
 
-#. https://opendata.comune.palermo.it/opendata-dataset.php?dataset=1220
+#. \ |LINK188|\ 
 
-#. https://opendata.comune.palermo.it/opendata-dataset.php?dataset=1219
+#. \ |LINK189|\ 
 
-#. https://opendata.comune.palermo.it/opendata-dataset.php?dataset=1218
+#. \ |LINK190|\ 
 
-#. https://opendata.comune.palermo.it/opendata-dataset.php?dataset=1217
+#. \ |LINK191|\ 
 
-#. https://opendata.comune.palermo.it/opendata-dataset.php?dataset=1216
+#. \ |LINK192|\ 
 
-#. https://opendata.comune.palermo.it/opendata-dataset.php?dataset=1215
+#. \ |LINK193|\ 
 
-#. https://opendata.comune.palermo.it/opendata-dataset.php?dataset=1214
+#. \ |LINK194|\ 
 
-#. https://opendata.comune.palermo.it/opendata-dataset.php?dataset=1213
+#. \ |LINK195|\ 
 
-#. https://opendata.comune.palermo.it/opendata-dataset.php?dataset=1212
+#. \ |LINK196|\ 
 
-#. https://opendata.comune.palermo.it/opendata-dataset.php?dataset=1211
+#. \ |LINK197|\ 
 
 
 .. bottom of content
@@ -3395,4 +3395,52 @@ Su richiesta da parte di cittadini in collaborazione con il dott. D'Anneo dell'U
 .. |LINK185| raw:: html
 
     <a href="https://opendata.comune.palermo.it/opendata-dataset.php?dataset=1050" target="_blank">Censimento annuale degli stalli auto nelle zone a sosta tariffata dal 2007 al 2017 (zone blu)</a>
+
+.. |LINK186| raw:: html
+
+    <a href="https://opendata.comune.palermo.it/opendata-dataset.php?dataset=1222" target="_blank">https://opendata.comune.palermo.it/opendata-dataset.php?dataset=1222</a>
+
+.. |LINK187| raw:: html
+
+    <a href="https://opendata.comune.palermo.it/opendata-dataset.php?dataset=1221" target="_blank">https://opendata.comune.palermo.it/opendata-dataset.php?dataset=1221</a>
+
+.. |LINK188| raw:: html
+
+    <a href="https://opendata.comune.palermo.it/opendata-dataset.php?dataset=1220" target="_blank">https://opendata.comune.palermo.it/opendata-dataset.php?dataset=1220</a>
+
+.. |LINK189| raw:: html
+
+    <a href="https://opendata.comune.palermo.it/opendata-dataset.php?dataset=1219" target="_blank">https://opendata.comune.palermo.it/opendata-dataset.php?dataset=1219</a>
+
+.. |LINK190| raw:: html
+
+    <a href="https://opendata.comune.palermo.it/opendata-dataset.php?dataset=1218" target="_blank">https://opendata.comune.palermo.it/opendata-dataset.php?dataset=1218</a>
+
+.. |LINK191| raw:: html
+
+    <a href="https://opendata.comune.palermo.it/opendata-dataset.php?dataset=1217" target="_blank">https://opendata.comune.palermo.it/opendata-dataset.php?dataset=1217</a>
+
+.. |LINK192| raw:: html
+
+    <a href="https://opendata.comune.palermo.it/opendata-dataset.php?dataset=1216" target="_blank">https://opendata.comune.palermo.it/opendata-dataset.php?dataset=1216</a>
+
+.. |LINK193| raw:: html
+
+    <a href="https://opendata.comune.palermo.it/opendata-dataset.php?dataset=1215" target="_blank">https://opendata.comune.palermo.it/opendata-dataset.php?dataset=1215</a>
+
+.. |LINK194| raw:: html
+
+    <a href="https://opendata.comune.palermo.it/opendata-dataset.php?dataset=1214" target="_blank">https://opendata.comune.palermo.it/opendata-dataset.php?dataset=1214</a>
+
+.. |LINK195| raw:: html
+
+    <a href="https://opendata.comune.palermo.it/opendata-dataset.php?dataset=1213" target="_blank">https://opendata.comune.palermo.it/opendata-dataset.php?dataset=1213</a>
+
+.. |LINK196| raw:: html
+
+    <a href="https://opendata.comune.palermo.it/opendata-dataset.php?dataset=1212" target="_blank">https://opendata.comune.palermo.it/opendata-dataset.php?dataset=1212</a>
+
+.. |LINK197| raw:: html
+
+    <a href="https://opendata.comune.palermo.it/opendata-dataset.php?dataset=1211" target="_blank">https://opendata.comune.palermo.it/opendata-dataset.php?dataset=1211</a>
 
