@@ -39,7 +39,7 @@ Open data e innovazione tecnologica al comune di Palermo
     
     * \ |LINK4|\  innovazione della Pubblica Amministrazione, ForumPA 2018.
     
-    * Consultazione pubblica sul \ |LINK5|\ .
+    * Partecipazione alla consultazione pubblica sul \ |LINK5|\ .
 
 .. _h2c1d74277104e41780968148427e:
 
