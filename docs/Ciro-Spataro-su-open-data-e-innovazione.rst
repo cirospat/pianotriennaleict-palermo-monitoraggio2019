@@ -850,12 +850,12 @@ Il 3,4,5 Dicembre 2018 lo staff del Responsabile Transizione al digitale effettu
 2019
 ****
 
-.. _h1c146c674075018133c7388610:
+.. _h1607529582e5d4a235a3817293c6948:
 
-Avvio dell'utilizzo del \ |LINK177|\ , dell'Agenzia per l'Italia Digitale.
-==========================================================================
+Avvio dell'utilizzo del Risk Tool Assesment, dell'Agenzia per l'Italia Digitale.
+================================================================================
 
-Per valutare i livelli di rischi a cui sono esposti i servizi digitali del comune di Palermo e per attivare eventuali azioni volte a mitigare o annullare i rischi individuati. Con la collaborazione della Società SISPI SpA. L'azione fa parte del \ |STYLE24|\ , \ |LINK178|\ .
+Utilizzo del web service \ |LINK177|\  per valutare i livelli di rischi a cui sono esposti i servizi digitali del comune di Palermo e per attivare eventuali azioni volte a mitigare o annullare i rischi individuati. Con la collaborazione della Società SISPI SpA. L'azione fa parte del \ |STYLE24|\ , \ |LINK178|\ .
 
 --------
 
