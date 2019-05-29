@@ -90,7 +90,14 @@ Ontologie Ministero Beni Culturali
 
 \ |LINK16|\  (quali ad esempio \ |LINK17|\ , con lo scopo di modellare i dati che caratterizzano gli istituti e i luoghi della cultura), MIBACT.
 
-Ontologie e vocabolari controllati del Ministero dei Beni Culturali. \ |LINK18|\ .
+|
+
+
+.. admonition:: Presentazioni concernenti ontologie e vocabolari controllati
+
+    * \ |LINK18|\ .
+    
+    * Ontologie e vocabolari controllati del \ |STYLE2|\ . \ |LINK19|\  (Carriero - Lodi - Mancinelli/Veninata - Nuzzolese - Presutti).
 
 |
 
@@ -104,6 +111,8 @@ Ontologie e vocabolari controllati del Ministero dei Beni Culturali. \ |LINK18|\
 .. |STYLE0| replace:: **possibilità, offerta alle organizzazioni, di  elaborare informazioni da fonti esterne o secondarie senza perdere il reale significato  delle informazioni stesse nel processo di elaborazione**
 
 .. |STYLE1| replace:: **vocabolari controllati e modelli dei dati**
+
+.. |STYLE2| replace:: **Ministero dei Beni Culturali**
 
 
 .. |REPLACE1| raw:: html
@@ -222,6 +231,10 @@ Ontologie e vocabolari controllati del Ministero dei Beni Culturali. \ |LINK18|\
     <a href="http://dati.beniculturali.it/cultural_on/" target="_blank">Cultural ONtology</a>
 
 .. |LINK18| raw:: html
+
+    <a href="https://speakerdeck.com/pietercolpaert/an-introduction-to-open-data" target="_blank">Open Data - Sharing data for maximum reuse. Consuming data on Web-Scale (Pieter Colpaert)</a>
+
+.. |LINK19| raw:: html
 
     <a href="http://www.iccd.beniculturali.it/it/150/archivio-news/4618/" target="_blank">Slide illustrative del progetto ARCO e il catalogo dei beni culturali</a>
 
