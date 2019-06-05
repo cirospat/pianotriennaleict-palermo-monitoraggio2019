@@ -81,6 +81,8 @@ works
 
 \ |LINK25|\   prototipo di archivio sulla sostenibilità a Palermo, in collaborazione con l'architetto Paola Caselli (2018) ``cc by sa``
 
+Redazione partecipata del \ |LINK26|\ . ``cc by``
+
 --------
 
 .. _h4652a21362e4e411f5b2d123828470:
@@ -95,11 +97,11 @@ UE projects
 
 \ |STYLE1|\ :
 
-\ |LINK26|\  ``CC BY``.
+\ |LINK27|\  ``CC BY``.
 
-\ |LINK27|\  ``CC BY SA``.
+\ |LINK28|\  ``CC BY SA``.
 
-\ |LINK28|\  ``CC BY NC SA``.
+\ |LINK29|\  ``CC BY NC SA``.
 
 
 |REPLACE6|
@@ -260,13 +262,17 @@ UE projects
 
 .. |LINK26| raw:: html
 
-    <a href="https://creativecommons.org/licenses/by/2.0/it/" target="_blank">licenza Creative Commons, attribuzione dell'opera</a>
+    <a href="https://docs.google.com/document/d/1LwcdcBhkrJxzaNQtzvp43vCaFvDBVVLbFv1CkdR348o/edit#" target="_blank">report di candidatura della città di Palermo al titolo di "capitale europea dell'innovazione, edizione 2019"</a>
 
 .. |LINK27| raw:: html
 
-    <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank">licenza Creative Commons, attribuzione dell'opera, condividi allo stesso modo</a>
+    <a href="https://creativecommons.org/licenses/by/2.0/it/" target="_blank">licenza Creative Commons, attribuzione dell'opera</a>
 
 .. |LINK28| raw:: html
+
+    <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank">licenza Creative Commons, attribuzione dell'opera, condividi allo stesso modo</a>
+
+.. |LINK29| raw:: html
 
     <a href="https://creativecommons.org/licenses/by-nc-sa/3.0/it/" target="_blank">licenza Creative Commons, attribuzione dell'opera, condividi allo stesso modo, non per usi commerciali</a>
 
