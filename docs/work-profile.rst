@@ -54,34 +54,34 @@ works
 
 \ |LINK11|\  (in collaborazione con il webmaster) 2013-now ``cc by`` 
 
-\ |LINK12|\  ``cc by sa``
+Redazione partecipata del \ |LINK12|\ . ``cc by``
 
 \ |LINK13|\  ``cc by sa``
 
-\ |LINK14|\  ``cc by``
+\ |LINK14|\  ``cc by sa``
 
-\ |LINK15|\  (2007) ``cc by``
+\ |LINK15|\  ``cc by``
 
-\ |LINK16|\  (2006) ``cc by``
+\ |LINK16|\  (2007) ``cc by``
 
-\ |LINK17|\  (2008) ``cc by``
+\ |LINK17|\  (2006) ``cc by``
+
+\ |LINK18|\  (2008) ``cc by``
 
 
 |REPLACE4|
 
-\ |LINK18|\  ``cc by`` e  \ |LINK19|\  ``cc by sa``
+\ |LINK19|\  ``cc by`` e  \ |LINK20|\  ``cc by sa``
 
-\ |LINK20|\  ``cc by``
+\ |LINK21|\  ``cc by``
 
-\ |LINK21|\  ``cc by sa``
+\ |LINK22|\  ``cc by sa``
 
-\ |LINK22|\  ``cc by``
+\ |LINK23|\  ``cc by``
 
-\ |LINK23|\  e \ |LINK24|\  ``cc by nc sa``
+\ |LINK24|\  e \ |LINK25|\  ``cc by nc sa``
 
-\ |LINK25|\   prototipo di archivio sulla sostenibilità a Palermo, in collaborazione con l'architetto Paola Caselli (2018) ``cc by sa``
-
-Redazione partecipata del \ |LINK26|\ . ``cc by``
+\ |LINK26|\   prototipo di archivio sulla sostenibilità a Palermo, in collaborazione con l'architetto Paola Caselli (2018) ``cc by sa``
 
 --------
 
@@ -206,63 +206,63 @@ UE projects
 
 .. |LINK12| raw:: html
 
-    <a href="https://cirospat.github.io/maps/index.html" target="_blank">Maps hub by cirospat</a>
+    <a href="https://docs.google.com/document/d/1LwcdcBhkrJxzaNQtzvp43vCaFvDBVVLbFv1CkdR348o/edit#" target="_blank">report di candidatura della città di Palermo al titolo di "capitale europea dell'innovazione, edizione 2019"</a>
 
 .. |LINK13| raw:: html
 
-    <a href="https://sites.google.com/view/palermomaps" target="_blank">Palermo_maps, uno sguardo alla città attraverso le mappe</a>
+    <a href="https://cirospat.github.io/maps/index.html" target="_blank">Maps hub by cirospat</a>
 
 .. |LINK14| raw:: html
 
-    <a href="https://siciliahub.github.io/eventipalermo2018/" target="_blank">Palermo visualizzazione eventi culturali 2018 con funzioni avanzate di search</a>
+    <a href="https://sites.google.com/view/palermomaps" target="_blank">Palermo_maps, uno sguardo alla città attraverso le mappe</a>
 
 .. |LINK15| raw:: html
 
-    <a href="https://www.comune.palermo.it/js/server/uploads/trasparenza_all/_27012014112900.pdf" target="_blank">Piano strategico della mobilità sostenibile di Palermo</a>
+    <a href="https://siciliahub.github.io/eventipalermo2018/" target="_blank">Palermo visualizzazione eventi culturali 2018 con funzioni avanzate di search</a>
 
 .. |LINK16| raw:: html
 
-    <a href="https://www.comune.palermo.it/js/server/uploads/trasparenza_all/_27012014113000.pdf" target="_blank">1° Rapporto sullo stato dell'Ambiente della città di Palermo</a>
+    <a href="https://www.comune.palermo.it/js/server/uploads/trasparenza_all/_27012014112900.pdf" target="_blank">Piano strategico della mobilità sostenibile di Palermo</a>
 
 .. |LINK17| raw:: html
 
-    <a href="https://app.box.com/s/d2le0fdlqy4svt32gy5o" target="_blank">Piano strategico di Palermo</a>
+    <a href="https://www.comune.palermo.it/js/server/uploads/trasparenza_all/_27012014113000.pdf" target="_blank">1° Rapporto sullo stato dell'Ambiente della città di Palermo</a>
 
 .. |LINK18| raw:: html
 
-    <a href="http://linee-guida-open-data-comune-palermo.readthedocs.io/it/latest/" target="_blank">Linee guida comunali open data Palermo versione partecipata 2017 pubblicate in stile Read the Docs</a>
+    <a href="https://app.box.com/s/d2le0fdlqy4svt32gy5o" target="_blank">Piano strategico di Palermo</a>
 
 .. |LINK19| raw:: html
 
-    <a href="https://docs.google.com/document/d/1N_mN0KEb-wHLLP8TQfBryeYY_f--8cT6zbqcsYlf2AE" target="_blank">Linee guida comunali open data 2017 Palermo in formato aperto</a>
+    <a href="http://linee-guida-open-data-comune-palermo.readthedocs.io/it/latest/" target="_blank">Linee guida comunali open data Palermo versione partecipata 2017 pubblicate in stile Read the Docs</a>
 
 .. |LINK20| raw:: html
 
-    <a href="http://documenti-comune-palermo.readthedocs.io/it/latest/" target="_blank">Pubblicazioni del comune di Palermo (regolamenti, linee guida) su Read the Docs</a>
+    <a href="https://docs.google.com/document/d/1N_mN0KEb-wHLLP8TQfBryeYY_f--8cT6zbqcsYlf2AE" target="_blank">Linee guida comunali open data 2017 Palermo in formato aperto</a>
 
 .. |LINK21| raw:: html
 
-    <a href="http://come-creare-guida.readthedocs.io/it/latest/" target="_blank">Come creare una pubblicazione su Read the Docs, per documenti pubblici, con lo stile Docs Italia</a>
+    <a href="http://documenti-comune-palermo.readthedocs.io/it/latest/" target="_blank">Pubblicazioni del comune di Palermo (regolamenti, linee guida) su Read the Docs</a>
 
 .. |LINK22| raw:: html
 
-    <a href="http://samba-digitale-pa.readthedocs.io" target="_blank">Samba della transizione al digitale nella pubblica amministrazione</a>
+    <a href="http://come-creare-guida.readthedocs.io/it/latest/" target="_blank">Come creare una pubblicazione su Read the Docs, per documenti pubblici, con lo stile Docs Italia</a>
 
 .. |LINK23| raw:: html
 
-    <a href="http://forumpa-librobianco-innovazione-2018.readthedocs.io" target="_blank">Libro bianco sull'innovazione della Pubblica Amministrazione, 2018 (FPA)</a>
+    <a href="http://samba-digitale-pa.readthedocs.io" target="_blank">Samba della transizione al digitale nella pubblica amministrazione</a>
 
 .. |LINK24| raw:: html
 
-    <a href="https://librobianco-innovazione-pa2018-final.readthedocs.io" target="_blank">versione finale partecipata del Libro Bianco 2018</a>
+    <a href="http://forumpa-librobianco-innovazione-2018.readthedocs.io" target="_blank">Libro bianco sull'innovazione della Pubblica Amministrazione, 2018 (FPA)</a>
 
 .. |LINK25| raw:: html
 
-    <a href="https://palermo-sostenibile.readthedocs.io" target="_blank">Palermo sostenibile</a>
+    <a href="https://librobianco-innovazione-pa2018-final.readthedocs.io" target="_blank">versione finale partecipata del Libro Bianco 2018</a>
 
 .. |LINK26| raw:: html
 
-    <a href="https://docs.google.com/document/d/1LwcdcBhkrJxzaNQtzvp43vCaFvDBVVLbFv1CkdR348o/edit#" target="_blank">report di candidatura della città di Palermo al titolo di "capitale europea dell'innovazione, edizione 2019"</a>
+    <a href="https://palermo-sostenibile.readthedocs.io" target="_blank">Palermo sostenibile</a>
 
 .. |LINK27| raw:: html
 
