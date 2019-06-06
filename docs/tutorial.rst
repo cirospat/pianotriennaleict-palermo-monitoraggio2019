@@ -148,7 +148,7 @@ Manuali vari
     <img src="https://cdn-images-1.medium.com/max/720/1*bHhhHgM6mW1EGze2X69BXg.png" width=300 />
 .. |REPLACE6| raw:: html
 
-    <p><a href="http://www.competenzedigitali.gov.it" target="_blank" rel="noopener" title="verifica delle competenze digitali"><img src="http://www.competenzedigitali.gov.it/typo3conf/ext/competenze/Resources/Public/Images/template/logo-competenze-digitali-pa.svg" alt="" width="259" height="230" /></a></p>
+    <p><a href="http://www.competenzedigitali.gov.it" target="_blank" rel="noopener" title="verifica delle competenze digitali"><img src="http://www.competenzedigitali.gov.it/typo3conf/ext/competenze/Resources/Public/Images/template/logo-competenze-digitali-pa.svg" width="180" /></a></p>
 .. |REPLACE7| raw:: html
 
     <script id="dsq-count-scr" src="//guida-readthedocs.disqus.com/count.js" async></script>
