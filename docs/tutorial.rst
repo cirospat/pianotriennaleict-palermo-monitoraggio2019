@@ -145,7 +145,7 @@ Manuali vari
     <img src="https://wiki.openstreetmap.org/w/images/8/8f/Umap_logo.svg" />
 .. |REPLACE5| raw:: html
 
-    <img src="https://cdn-images-1.medium.com/max/720/1*bHhhHgM6mW1EGze2X69BXg.png" width=350 />
+    <img src="https://cdn-images-1.medium.com/max/720/1*bHhhHgM6mW1EGze2X69BXg.png" width=300 />
 .. |REPLACE6| raw:: html
 
     <p><a href="http://www.competenzedigitali.gov.it" target="_blank" rel="noopener" title="verifica delle competenze digitali"><img src="http://www.competenzedigitali.gov.it/typo3conf/ext/competenze/Resources/Public/Images/template/logo-competenze-digitali-pa.svg" alt="" width="259" height="230" /></a></p>
