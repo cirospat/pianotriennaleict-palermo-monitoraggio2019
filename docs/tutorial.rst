@@ -72,9 +72,7 @@ Corsi online su 'competenze e servizi digitali'
 
 |REPLACE6|
 
-\ |STYLE0|\   
-
-Iniziativa promossa dal \ |STYLE1|\  nell’ambito del \ |LINK8|\ , che punta al consolidamento delle competenze digitali comuni a  tutti i dipendenti pubblici, al fine di accrescere la propensione complessiva al cambiamento e all’innovazione nella pubblica amministrazione. Dalla verifica delle competenze digitali alla formazione. Se sei un dipendente della Pubblica Amministrazione: 1) valuta le tue competenze, 2) scegli le proposte formative, 3) migliora le tue conoscenze, 4) verifica i tuoi progressi. \ |LINK9|\ .
+\ |STYLE0|\  - Iniziativa promossa dal \ |STYLE1|\  nell’ambito del \ |LINK8|\ , che punta al consolidamento delle competenze digitali comuni a  tutti i dipendenti pubblici, al fine di accrescere la propensione complessiva al cambiamento e all’innovazione nella pubblica amministrazione. Dalla verifica delle competenze digitali alla formazione. Se sei un dipendente della Pubblica Amministrazione: 1) valuta le tue competenze, 2) scegli le proposte formative, 3) migliora le tue conoscenze, 4) verifica i tuoi progressi. \ |LINK9|\ .
 
 \ |STYLE2|\  \ |LINK10|\  \ |STYLE3|\  (accountability - agenda Digitale - e-leadership - open data - partecipazione - qualità dei servizi web - soft skill per l’e-leadership - web analytics - ….).
 
