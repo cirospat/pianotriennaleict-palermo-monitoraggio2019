@@ -60,7 +60,7 @@ Tutorial: realizzazione di un progetto a basso costo per il rilevamento dei dati
 
 |REPLACE5|
 
-\ |LINK7|\  cosa comprare (spendendo meno di 50 euro), come assemblare la componentistica e come connettere la propria stazione ad una rete mondiale di rilevamento delle polveri sottili.
+\ |LINK7|\  cosa comprare (spendendo meno di 50 euro), come assemblare la componentistica e come connettere la propria stazione ad una rete mondiale di rilevamento delle polveri sottili, ottenendo la disponibilità dei dati in formato aperto (CSV, JSON) per attività di analisi.
 
 |
 
