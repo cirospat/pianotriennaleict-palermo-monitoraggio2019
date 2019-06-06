@@ -96,13 +96,13 @@ Webinar sulla costruzione di un 'progetto europeo'
 Manuali vari 
 =============
 
-\ |LINK15|\  per la catalogazione e pubblicazione degli eventi pubblici, effettuata tramite l'uso di un ``vocabolario controllato`` (applicativo in uso e riuso nelle Pubbliche Amministrazioni)
+➽ \ |LINK15|\  per la catalogazione e pubblicazione degli eventi pubblici, effettuata tramite l'uso di un ``vocabolario controllato`` (applicativo in uso e riuso nelle Pubbliche Amministrazioni)
 
-\ |LINK16|\  in uso al Comune di Palermo
+➽ \ |LINK16|\  in uso al Comune di Palermo
 
-\ |LINK17|\  del comune di Palermo
+➽ \ |LINK17|\  del comune di Palermo
 
-\ |LINK18|\  (\ |STYLE7|\ , \ |STYLE8|\ ) è un ambiente informatico per la gestione di corsi, basato sull'ideologia \ |LINK19|\  secondo la quale ogni apprendimento sarebbe facilitato dalla produzione di oggetti tangibili. [\ |LINK20|\ ]
+➽ \ |LINK18|\  (\ |STYLE7|\ , \ |STYLE8|\ ) è un ambiente informatico per la gestione di corsi, basato sull'ideologia \ |LINK19|\  secondo la quale ogni apprendimento sarebbe facilitato dalla produzione di oggetti tangibili. [\ |LINK20|\ ]
 
 
 |REPLACE7|
@@ -111,17 +111,17 @@ Manuali vari
 .. bottom of content
 
 
-.. |STYLE0| replace:: **🚶 Piattaforma per la verifica delle competenze digitali dei dipendenti della PA**
+.. |STYLE0| replace:: **🚶  Piattaforma per la verifica delle competenze digitali dei dipendenti della PA**
 
 .. |STYLE1| replace:: *Dipartimento della Funzione Pubblica*
 
-.. |STYLE2| replace:: **🚶 Corsi online sulle**
+.. |STYLE2| replace:: **🚶  Corsi online sulle**
 
 .. |STYLE3| replace:: **nella PA, a cura del FormezPA**
 
-.. |STYLE4| replace:: **🚶 Webinar del FormezPA**
+.. |STYLE4| replace:: **🚶  Webinar del FormezPA**
 
-.. |STYLE5| replace:: **🚶 Videocorsi di informatica di base, a cura di Simone Chiarelli**
+.. |STYLE5| replace:: **🚶  Videocorsi di informatica di base, a cura di Simone Chiarelli**
 
 .. |STYLE6| replace:: **Come si scrive bene un progetto europeo**
 
