@@ -111,17 +111,17 @@ Manuali vari
 .. bottom of content
 
 
-.. |STYLE0| replace:: **Piattaforma per la verifica delle competenze digitali dei dipendenti della PA**
+.. |STYLE0| replace:: **🚶 Piattaforma per la verifica delle competenze digitali dei dipendenti della PA**
 
 .. |STYLE1| replace:: *Dipartimento della Funzione Pubblica*
 
-.. |STYLE2| replace:: **Corsi online sulle**
+.. |STYLE2| replace:: **🚶 Corsi online sulle**
 
 .. |STYLE3| replace:: **nella PA, a cura del FormezPA**
 
-.. |STYLE4| replace:: **Webinar del FormezPA**
+.. |STYLE4| replace:: **🚶 Webinar del FormezPA**
 
-.. |STYLE5| replace:: **Videocorsi di informatica di base, a cura di Simone Chiarelli**
+.. |STYLE5| replace:: **🚶 Videocorsi di informatica di base, a cura di Simone Chiarelli**
 
 .. |STYLE6| replace:: **Come si scrive bene un progetto europeo**
 
