@@ -71,10 +71,7 @@ Il Team Open Data Lombardia si occuperà di raccogliere i commenti, di integrare
 FORMATO DEI DATI
 ****************
 
-.. _h1c3547b27524222165e713f566d6446:
-
-Quali formati possono avere i dati?
-===================================
+\ |STYLE8|\ 
 
 * Numero
 
@@ -92,23 +89,17 @@ Quali formati possono avere i dati?
 
 * Coppia di coordinate geografiche (location)
 
-.. _h684876693261113965665f736c5c7979:
-
-Come scegliere i formati dei dati?
-==================================
+\ |STYLE9|\ 
 
 La piattaforma \ |LINK1|\  ingloba una serie di funzionalità avanzate sui dataset di tipo tabellare (Datasets), che permette di aggiungere funzionalità fruibili direttamente on-line, quali ad esempio l’ordinamento crescente/decrescente, link ad un elemento esterno e altro.
 
-Per permettere l’\ |STYLE8|\ , è necessario scegliere un formato «ordinabile» (numero,data).
+Per permettere l’\ |STYLE10|\ , è necessario scegliere un formato «ordinabile» (numero,data).
 
-Per una \ |STYLE9|\ , occorre scegliere un numero con il punto come separatore dei decimali
+Per una \ |STYLE11|\ , occorre scegliere un numero con il punto come separatore dei decimali
 
-Per una \ |STYLE10|\ , occorre inserire una coppia di dati, in formato numerico e con \ |STYLE11|\  (ad es. 46.4039704°, 9.3668236°), dove i numeri dovranno avere un punto come separatore. Un campo conterrà la latitudine e l’altro la longitudine: questi due campi popoleranno una colonna di tipo “location” che verrà usata per creare una vista derivata di tipo «mappa».
+Per una \ |STYLE12|\ , occorre inserire una coppia di dati, in formato numerico e con \ |STYLE13|\  (ad es. 46.4039704°, 9.3668236°), dove i numeri dovranno avere un punto come separatore. Un campo conterrà la latitudine e l’altro la longitudine: questi due campi popoleranno una colonna di tipo “location” che verrà usata per creare una vista derivata di tipo «mappa».
 
-.. _h7b393b78722a50605c7c69481ba4631:
-
-Specifiche per il formato “numero” e “data”
-===========================================
+\ |STYLE14|\ ”
 
 La piattaforma \ |LINK2|\  è costruita con tutti i tipi di formattazione di date e numeri in uso negli USA secondo le specifiche ISO 8601.
 
@@ -116,10 +107,12 @@ Per ovviare ad inconvenienti di rappresentazione, è importante che i numeri con
 
 La visualizzazione finale potrà comunque essere modificata dall’interfaccia utente.
 
-.. _h7f654f4a5e732221d7282b7a6f2e:
+.. _h2c1d74277104e41780968148427e:
 
-Specifiche per la rappresentazione geografica
-=============================================
+
+
+
+\ |STYLE15|\ 
 
 Per la rappresentazione geografica, è possibile:
 
@@ -135,16 +128,16 @@ Per la rappresentazione geografica, è possibile:
 
 Per la specifica degli shapefile fare riferimento a \ |LINK3|\ 
 
-\ |STYLE12|\  Se si utilizza un sistema di coordinate diverso dal WGS-84, occorre specificare questa informazione e includere il sistema utilizzato nello shapefile.
+\ |STYLE16|\  Se si utilizza un sistema di coordinate diverso dal WGS-84, occorre specificare questa informazione e includere il sistema utilizzato nello shapefile.
 
 .. _h2591956d562d53487858431c49e1f:
 
 FREQUENZA DI AGGIORNAMENTO TEMPESTIVA
 *************************************
 
-\ |STYLE13|\ 
+\ |STYLE17|\ 
 
-Anche se i dati non cambiano, occorre quindi specificare nei metadati che i dati pubblicati sono ancora validi: in questo caso, \ |STYLE14|\ . 
+Anche se i dati non cambiano, occorre quindi specificare nei metadati che i dati pubblicati sono ancora validi: in questo caso, \ |STYLE18|\ . 
 
 Per modificare la data di ultimo aggiornamento dei metadati occorre cliccare su "Modifica Metadata" e modificare la "Data di aggiornamento" presente nella sezione "Frequenza di aggiornamento".
 
@@ -169,11 +162,11 @@ Per modificare la data di ultimo aggiornamento dei metadati occorre cliccare su 
 #1     Carta degli incendi (DEFINITIVO)
 ---------------------------------------
 
-\ |STYLE15|\  Mappa e scheda delle aree percorse da incendi 
+\ |STYLE19|\  Mappa e scheda delle aree percorse da incendi 
 
-\ |STYLE16|\  Dataset geografico (Shapefile)
+\ |STYLE20|\  Dataset geografico (Shapefile)
 
-\ |STYLE17|\  Mensile
+\ |STYLE21|\  Mensile
 
 Obblighi normativi: \ |LINK5|\ , in particolare art. 10 c. 1 e 2
 
@@ -190,21 +183,21 @@ Sono possibili 2 opzioni di pubblicazione:
 +===================+==============================================================================================================================================================================================================================================================================================+======+=======+
 |Data_Inc           |Data dell’incendio                                                                                                                                                                                                                                                                            |Data  |M      |
 +-------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------+-------+
-|\ |STYLE18|\       |Foglio in cui è presente la particella percorsa dal fuoco nella sua totalità o solo parzialmente                                                                                                                                                                                              |Testo |M      |
+|\ |STYLE22|\       |Foglio in cui è presente la particella percorsa dal fuoco nella sua totalità o solo parzialmente                                                                                                                                                                                              |Testo |M      |
 +-------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------+-------+
-|\ |STYLE19|\       |Mappale in cui è presente la particella percorsa dal fuoco nella sua totalità o solo parzialmente                                                                                                                                                                                             |Testo |M      |
+|\ |STYLE23|\       |Mappale in cui è presente la particella percorsa dal fuoco nella sua totalità o solo parzialmente                                                                                                                                                                                             |Testo |M      |
 +-------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------+-------+
-|\ |STYLE20|\       |Particella catastale della zona interessata                                                                                                                                                                                                                                                   |Testo |M      |
+|\ |STYLE24|\       |Particella catastale della zona interessata                                                                                                                                                                                                                                                   |Testo |M      |
 +-------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------+-------+
-|\ |STYLE21|\       |Area della particella percorsa dal fuoco (mq)                                                                                                                                                                                                                                                 |Numero|M      |
+|\ |STYLE25|\       |Area della particella percorsa dal fuoco (mq)                                                                                                                                                                                                                                                 |Numero|M      |
 +-------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------+-------+
-|\ |STYLE22|\       |Area totale della particella (mq)                                                                                                                                                                                                                                                             |Numero|M      |
+|\ |STYLE26|\       |Area totale della particella (mq)                                                                                                                                                                                                                                                             |Numero|M      |
 +-------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------+-------+
-|\ |STYLE23|\       |Indicare se esiste il vincolo (15 anni) che impone il mantenimento della destinazione d’uso preesistente all’incendio impedendone la modifica (SI/NO)                                                                                                                                         |Testo |O      |
+|\ |STYLE27|\       |Indicare se esiste il vincolo (15 anni) che impone il mantenimento della destinazione d’uso preesistente all’incendio impedendone la modifica (SI/NO)                                                                                                                                         |Testo |O      |
 +-------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------+-------+
-|\ |STYLE24|\       |Indicare se è vietata (vincolo 10 anni) la realizzazione di edifici nonché di strutture e infrastrutture finalizzate ad insediamenti civili ed attività produttive e il divieto di pascolo e di caccia per 10 anni, limitatamente ai soprassuoli delle zone boscate percorsi dal fuoco (SI/NO)|Testo |O      |
+|\ |STYLE28|\       |Indicare se è vietata (vincolo 10 anni) la realizzazione di edifici nonché di strutture e infrastrutture finalizzate ad insediamenti civili ed attività produttive e il divieto di pascolo e di caccia per 10 anni, limitatamente ai soprassuoli delle zone boscate percorsi dal fuoco (SI/NO)|Testo |O      |
 +-------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------+-------+
-|\ |STYLE25|\       |Indicare se esiste il divieto (vincolo 5 anni) di attività di rimboschimento e di ingegneria ambientale sostenute con risorse finanziarie pubbliche (SI/NO)                                                                                                                                   |Testo |O      |
+|\ |STYLE29|\       |Indicare se esiste il divieto (vincolo 5 anni) di attività di rimboschimento e di ingegneria ambientale sostenute con risorse finanziarie pubbliche (SI/NO)                                                                                                                                   |Testo |O      |
 +-------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------+-------+
 
 .. _h73633d4a4c4c22737a3215b39c2b3b:
@@ -212,11 +205,11 @@ Sono possibili 2 opzioni di pubblicazione:
 #17     Aree Verdi (DEFINITIVO)
 -------------------------------
 
-\ |STYLE26|\  Elenco delle aree verdi del territorio 
+\ |STYLE30|\  Elenco delle aree verdi del territorio 
 
-\ |STYLE27|\  Dataset geografico (Shapefile)
+\ |STYLE31|\  Dataset geografico (Shapefile)
 
-\ |STYLE28|\  Tempestiva
+\ |STYLE32|\  Tempestiva
 
 Esempio 1: \ |LINK7|\ 
 
@@ -228,11 +221,11 @@ Esempio 2: \ |LINK8|\
 +===================+=================================================+======+=======+
 |Denom              |Nome dell’area o descrizione                     |Testo |M      |
 +-------------------+-------------------------------------------------+------+-------+
-|\ |STYLE29|\       |Via/piazza, ecc.                                 |Testo |M      |
+|\ |STYLE33|\       |Via/piazza, ecc.                                 |Testo |M      |
 +-------------------+-------------------------------------------------+------+-------+
-|\ |STYLE30|\       |Nome della via/piazza                            |Testo |M      |
+|\ |STYLE34|\       |Nome della via/piazza                            |Testo |M      |
 +-------------------+-------------------------------------------------+------+-------+
-|\ |STYLE31|\       |Superficie dell’area (espressa in metri quadrati)|Numero|M      |
+|\ |STYLE35|\       |Superficie dell’area (espressa in metri quadrati)|Numero|M      |
 +-------------------+-------------------------------------------------+------+-------+
 
 .. _h534b1577195b553752123805a281950:
@@ -240,11 +233,11 @@ Esempio 2: \ |LINK8|\
 #18     Aree Verdi Informazioni (DEFINITIVO)
 --------------------------------------------
 
-\ |STYLE32|\  Informazioni sulle aree verdi
+\ |STYLE36|\  Informazioni sulle aree verdi
 
-\ |STYLE33|\  Dataset tabellare
+\ |STYLE37|\  Dataset tabellare
 
-\ |STYLE34|\  Tempestiva
+\ |STYLE38|\  Tempestiva
 
 NOTA: In seguito alle segnalazioni degli Enti è stato creato un tracciato che contiene informazioni relative alle aree verdi comunali e sovracomunali.
 
@@ -254,27 +247,27 @@ NOTA: In seguito alle segnalazioni degli Enti è stato creato un tracciato che c
 +===================+==========================================================================================================================================+======+=============================+
 |Anno               |Anno di riferimento                                                                                                                       |Numero|M                            |
 +-------------------+------------------------------------------------------------------------------------------------------------------------------------------+------+-----------------------------+
-|\ |STYLE35|\       |Nome dell’area o descrizione                                                                                                              |Testo |M                            |
+|\ |STYLE39|\       |Nome dell’area o descrizione                                                                                                              |Testo |M                            |
 +-------------------+------------------------------------------------------------------------------------------------------------------------------------------+------+-----------------------------+
-|\ |STYLE36|\       |Tipologia di area (Comunale/Sovracomunale)                                                                                                |Testo |M                            |
+|\ |STYLE40|\       |Tipologia di area (Comunale/Sovracomunale)                                                                                                |Testo |M                            |
 +-------------------+------------------------------------------------------------------------------------------------------------------------------------------+------+-----------------------------+
-|\ |STYLE37|\       |Codice catastale del comune o dei comuni in cui è ubicata l’area, inserendo tra l’uno e l’altro il separatore pipe                        |Testo |M                            |
+|\ |STYLE41|\       |Codice catastale del comune o dei comuni in cui è ubicata l’area, inserendo tra l’uno e l’altro il separatore pipe                        |Testo |M                            |
 +-------------------+------------------------------------------------------------------------------------------------------------------------------------------+------+-----------------------------+
-|\ |STYLE38|\       |Nome del comune o dei comuni in cui è ubicata l’area, inserendo tra l’uno e l’altro il separatore pipe                                    |Testo |M                            |
+|\ |STYLE42|\       |Nome del comune o dei comuni in cui è ubicata l’area, inserendo tra l’uno e l’altro il separatore pipe                                    |Testo |M                            |
 +-------------------+------------------------------------------------------------------------------------------------------------------------------------------+------+-----------------------------+
-|\ |STYLE39|\       |Superficie dell’area (espressa in metri quadrati)                                                                                         |Numero|M                            |
+|\ |STYLE43|\       |Superficie dell’area (espressa in metri quadrati)                                                                                         |Numero|M                            |
 +-------------------+------------------------------------------------------------------------------------------------------------------------------------------+------+-----------------------------+
-|\ |STYLE40|\       |Superficie a prato (espressa in metri quadrati)                                                                                           |Numero|O                            |
+|\ |STYLE44|\       |Superficie a prato (espressa in metri quadrati)                                                                                           |Numero|O                            |
 +-------------------+------------------------------------------------------------------------------------------------------------------------------------------+------+-----------------------------+
-|\ |STYLE41|\       |Presenza di recinzione (SI/NO/Non applicabile)                                                                                            |Testo |M                            |
+|\ |STYLE45|\       |Presenza di recinzione (SI/NO/Non applicabile)                                                                                            |Testo |M                            |
 +-------------------+------------------------------------------------------------------------------------------------------------------------------------------+------+-----------------------------+
-|\ |STYLE42|\       |Presenza di aree giochi per bambini (SI/NO/Non applicabile)                                                                               |Testo |M                            |
+|\ |STYLE46|\       |Presenza di aree giochi per bambini (SI/NO/Non applicabile)                                                                               |Testo |M                            |
 +-------------------+------------------------------------------------------------------------------------------------------------------------------------------+------+-----------------------------+
-|\ |STYLE43|\       |Permesso di introdurre animali (SI/NO/Non applicabile)                                                                                    |Testo |M                            |
+|\ |STYLE47|\       |Permesso di introdurre animali (SI/NO/Non applicabile)                                                                                    |Testo |M                            |
 +-------------------+------------------------------------------------------------------------------------------------------------------------------------------+------+-----------------------------+
-|\ |STYLE44|\       |Numero di fontanelle presenti                                                                                                             |Numero|O                            |
+|\ |STYLE48|\       |Numero di fontanelle presenti                                                                                                             |Numero|O                            |
 +-------------------+------------------------------------------------------------------------------------------------------------------------------------------+------+-----------------------------+
-|\ |STYLE45|\       |Per gli orari di apertura e chiusura vedere l’Allegato 1 - Tabella 2 (oppure Tabella 3 se gli orari sono diversi a seconda della stagione)|Testo |M (se presente la recinzione)|
+|\ |STYLE49|\       |Per gli orari di apertura e chiusura vedere l’Allegato 1 - Tabella 2 (oppure Tabella 3 se gli orari sono diversi a seconda della stagione)|Testo |M (se presente la recinzione)|
 +-------------------+------------------------------------------------------------------------------------------------------------------------------------------+------+-----------------------------+
 
 .. _h2c1d74277104e41780968148427e:
@@ -302,11 +295,11 @@ NOTA: In seguito alle segnalazioni degli Enti è stato creato un tracciato che c
 #34 Elenco degli impianti di depurazione (DEFINITIVO)
 -----------------------------------------------------
 
-\ |STYLE46|\  Elenco degli impianti di depurazione pubblici di competenza, georeferenziati 
+\ |STYLE50|\  Elenco degli impianti di depurazione pubblici di competenza, georeferenziati 
 
-\ |STYLE47|\  Dataset tabellare
+\ |STYLE51|\  Dataset tabellare
 
-\ |STYLE48|\  Mensile
+\ |STYLE52|\  Mensile
 
 Esempio: \ |LINK9|\  
 
@@ -316,25 +309,25 @@ Esempio: \ |LINK9|\
 +===================+========================================================+======+=======+
 |ID_Impianto        |Codice identificativo dell’impianto                     |Testo |M      |
 +-------------------+--------------------------------------------------------+------+-------+
-|\ |STYLE49|\       |Nome dell’impianto                                      |Testo |M      |
+|\ |STYLE53|\       |Nome dell’impianto                                      |Testo |M      |
 +-------------------+--------------------------------------------------------+------+-------+
-|\ |STYLE50|\       |Codice identificativo del comune                        |Testo |M      |
+|\ |STYLE54|\       |Codice identificativo del comune                        |Testo |M      |
 +-------------------+--------------------------------------------------------+------+-------+
-|\ |STYLE51|\       |Comune di riferimento                                   |Testo |M      |
+|\ |STYLE55|\       |Comune di riferimento                                   |Testo |M      |
 +-------------------+--------------------------------------------------------+------+-------+
-|\ |STYLE52|\       |Comuni serviti dall’impianto                            |Testo |M      |
+|\ |STYLE56|\       |Comuni serviti dall’impianto                            |Testo |M      |
 +-------------------+--------------------------------------------------------+------+-------+
-|\ |STYLE53|\       |Indicare il corpo idrico recettore (es. nome “fiume x”) |Testo |M      |
+|\ |STYLE57|\       |Indicare il corpo idrico recettore (es. nome “fiume x”) |Testo |M      |
 +-------------------+--------------------------------------------------------+------+-------+
-|\ |STYLE54|\       |Altezza espressa in mslm                                |Numero|M      |
+|\ |STYLE58|\       |Altezza espressa in mslm                                |Numero|M      |
 +-------------------+--------------------------------------------------------+------+-------+
-|\ |STYLE55|\       |Via in cui si trova l’impianto                          |Testo |M      |
+|\ |STYLE59|\       |Via in cui si trova l’impianto                          |Testo |M      |
 +-------------------+--------------------------------------------------------+------+-------+
-|\ |STYLE56|\       |Longitudine                                             |Numero|M      |
+|\ |STYLE60|\       |Longitudine                                             |Numero|M      |
 +-------------------+--------------------------------------------------------+------+-------+
-|\ |STYLE57|\       |Latitudine                                              |Numero|M      |
+|\ |STYLE61|\       |Latitudine                                              |Numero|M      |
 +-------------------+--------------------------------------------------------+------+-------+
-|\ |STYLE58|\       |Data di avvio                                           |Data  |O      |
+|\ |STYLE62|\       |Data di avvio                                           |Data  |O      |
 +-------------------+--------------------------------------------------------+------+-------+
 
 .. _h2c1d74277104e41780968148427e:
@@ -357,11 +350,11 @@ Esempio: \ |LINK9|\
 #35 Quantità rifiuti prodotta (DEFINITIVO)
 ------------------------------------------
 
-\ |STYLE59|\  Quantità di rifiuti prodotti dalla raccolta differenziata e non differenziata, specificandone categoria e modalità di raccolta. 
+\ |STYLE63|\  Quantità di rifiuti prodotti dalla raccolta differenziata e non differenziata, specificandone categoria e modalità di raccolta. 
 
-\ |STYLE60|\  Dataset tabellare
+\ |STYLE64|\  Dataset tabellare
 
-\ |STYLE61|\  Mensile
+\ |STYLE65|\  Mensile
 
 Esempio 1: \ |LINK10|\ 
 
@@ -373,17 +366,17 @@ Esempio 2: Comune di Isso -  \ |LINK11|\
 +===================+==========================================================================================================================+======+=======+
 |Anno               |Anno di riferimento                                                                                                       |Numero|M      |
 +-------------------+--------------------------------------------------------------------------------------------------------------------------+------+-------+
-|\ |STYLE62|\       |Indicare se si tratta di rifiuti non differenziati, raccolta differenziata o Inerti e rifiuti da costruzione e demolizione|Testo |M      |
+|\ |STYLE66|\       |Indicare se si tratta di rifiuti non differenziati, raccolta differenziata o Inerti e rifiuti da costruzione e demolizione|Testo |M      |
 +-------------------+--------------------------------------------------------------------------------------------------------------------------+------+-------+
-|\ |STYLE63|\       |Indicare la categoria di rifiuti (es. carta e cartone, vetro, ecc.)                                                       |Testo |M      |
+|\ |STYLE67|\       |Indicare la categoria di rifiuti (es. carta e cartone, vetro, ecc.)                                                       |Testo |M      |
 +-------------------+--------------------------------------------------------------------------------------------------------------------------+------+-------+
-|\ |STYLE64|\       |Codice della Categoria rifiuti                                                                                            |Testo |O      |
+|\ |STYLE68|\       |Codice della Categoria rifiuti                                                                                            |Testo |O      |
 +-------------------+--------------------------------------------------------------------------------------------------------------------------+------+-------+
-|\ |STYLE65|\       |Indicare la modalità di raccolta (es. meccanizzata, porta a porta, area attrezzata)                                       |Testo |M      |
+|\ |STYLE69|\       |Indicare la modalità di raccolta (es. meccanizzata, porta a porta, area attrezzata)                                       |Testo |M      |
 +-------------------+--------------------------------------------------------------------------------------------------------------------------+------+-------+
-|\ |STYLE66|\       |Indicare il mese di riferimento in numero                                                                                 |Numero|M      |
+|\ |STYLE70|\       |Indicare il mese di riferimento in numero                                                                                 |Numero|M      |
 +-------------------+--------------------------------------------------------------------------------------------------------------------------+------+-------+
-|\ |STYLE67|\       |Indicare la quantità in kg                                                                                                |Numero|M      |
+|\ |STYLE71|\       |Indicare la quantità in kg                                                                                                |Numero|M      |
 +-------------------+--------------------------------------------------------------------------------------------------------------------------+------+-------+
 
 .. _h2c1d74277104e41780968148427e:
@@ -416,11 +409,11 @@ Esempio 2: Comune di Isso -  \ |LINK11|\
 #20        Pratiche SUAP (DEFINITIVO)
 -------------------------------------
 
-\ |STYLE68|\  Elenco pratiche gestite dallo Sportello Unico Attività Produttive
+\ |STYLE72|\  Elenco pratiche gestite dallo Sportello Unico Attività Produttive
 
-\ |STYLE69|\  Dataset tabellare
+\ |STYLE73|\  Dataset tabellare
 
-\ |STYLE70|\  Mensile
+\ |STYLE74|\  Mensile
 
 Esempio 1: \ |LINK12|\  
 
@@ -432,17 +425,17 @@ Esempio 2: \ |LINK13|\
 +===================+===================================+=======+=======+
 |Anno               |Anno di riferimento                |Numero |M      |
 +-------------------+-----------------------------------+-------+-------+
-|\ |STYLE71|\       |Codice identificativo della pratica|Testo  |O      |
+|\ |STYLE75|\       |Codice identificativo della pratica|Testo  |O      |
 +-------------------+-----------------------------------+-------+-------+
-|\ |STYLE72|\       |Ragione sociale del richiedente    |Testo  |M      |
+|\ |STYLE76|\       |Ragione sociale del richiedente    |Testo  |M      |
 +-------------------+-----------------------------------+-------+-------+
-|\ |STYLE73|\       |Numero di protocollo               |Testo  |M      |
+|\ |STYLE77|\       |Numero di protocollo               |Testo  |M      |
 +-------------------+-----------------------------------+-------+-------+
-|\ |STYLE74|\       |Indicare l’oggetto della richiesta |Testo  |O      |
+|\ |STYLE78|\       |Indicare l’oggetto della richiesta |Testo  |O      |
 +-------------------+-----------------------------------+-------+-------+
-|\ |STYLE75|\       |Data della richiesta               |Data   |M      |
+|\ |STYLE79|\       |Data della richiesta               |Data   |M      |
 +-------------------+-----------------------------------+-------+-------+
-|\ |STYLE76|\       |Link alla pratica                  |Web URL|O      |
+|\ |STYLE80|\       |Link alla pratica                  |Web URL|O      |
 +-------------------+-----------------------------------+-------+-------+
 
 .. _h2c1d74277104e41780968148427e:
@@ -475,11 +468,11 @@ Esempio 2: \ |LINK13|\
 #45        Servizi alla persona (DEFINITIVO)
 --------------------------------------------
 
-\ |STYLE77|\  Elenco e informazioni relative ai servizi alla persona
+\ |STYLE81|\  Elenco e informazioni relative ai servizi alla persona
 
-\ |STYLE78|\  Dataset tabellare
+\ |STYLE82|\  Dataset tabellare
 
-\ |STYLE79|\  Tempestiva
+\ |STYLE83|\  Tempestiva
 
 Esempio: \ |LINK14|\  
 
@@ -488,19 +481,19 @@ Esempio: \ |LINK14|\
 +===================+==========================================================================================================================================+======+=======+
 |Denominazione      |Denominazione attività                                                                                                                    |Testo |M      |
 +-------------------+------------------------------------------------------------------------------------------------------------------------------------------+------+-------+
-|\ |STYLE80|\       |Per le informazioni di ubicazione vedere Allegato 1 - Tabella 1                                                                           |Testo |M      |
+|\ |STYLE84|\       |Per le informazioni di ubicazione vedere Allegato 1 - Tabella 1                                                                           |Testo |M      |
 +-------------------+------------------------------------------------------------------------------------------------------------------------------------------+------+-------+
-|\ |STYLE81|\       |Breve descrizione del tipo di servizio offerto (ad esempio parrucchiere, estetista, ecc.)                                                 |Testo |M      |
+|\ |STYLE85|\       |Breve descrizione del tipo di servizio offerto (ad esempio parrucchiere, estetista, ecc.)                                                 |Testo |M      |
 +-------------------+------------------------------------------------------------------------------------------------------------------------------------------+------+-------+
-|\ |STYLE82|\       |Superficie destinata all’esercizio dell’attività (espressa in metri quadrati)                                                             |Numero|M      |
+|\ |STYLE86|\       |Superficie destinata all’esercizio dell’attività (espressa in metri quadrati)                                                             |Numero|M      |
 +-------------------+------------------------------------------------------------------------------------------------------------------------------------------+------+-------+
-|\ |STYLE83|\       |Superficie destinata ad altri usi (espressa in metri quadrati)                                                                            |Numero|M      |
+|\ |STYLE87|\       |Superficie destinata ad altri usi (espressa in metri quadrati)                                                                            |Numero|M      |
 +-------------------+------------------------------------------------------------------------------------------------------------------------------------------+------+-------+
-|\ |STYLE84|\       |Per gli orari di apertura e chiusura vedere l’Allegato 1 - Tabella 2 (oppure Tabella 3 se gli orari sono diversi a seconda della stagione)|Testo |M      |
+|\ |STYLE88|\       |Per gli orari di apertura e chiusura vedere l’Allegato 1 - Tabella 2 (oppure Tabella 3 se gli orari sono diversi a seconda della stagione)|Testo |M      |
 +-------------------+------------------------------------------------------------------------------------------------------------------------------------------+------+-------+
-|\ |STYLE85|\       |Longitudine                                                                                                                               |Numero|O      |
+|\ |STYLE89|\       |Longitudine                                                                                                                               |Numero|O      |
 +-------------------+------------------------------------------------------------------------------------------------------------------------------------------+------+-------+
-|\ |STYLE86|\       |Latitudine                                                                                                                                |Numero|O      |
+|\ |STYLE90|\       |Latitudine                                                                                                                                |Numero|O      |
 +-------------------+------------------------------------------------------------------------------------------------------------------------------------------+------+-------+
 
 .. _h2c1d74277104e41780968148427e:
@@ -528,34 +521,34 @@ Esempio: \ |LINK14|\
 #47    Pubblici esercizi (DEFINITIVO)
 -------------------------------------
 
-\ |STYLE87|\ : Informazioni sugli esercizi pubblici con dati georeferenziati
+\ |STYLE91|\ : Informazioni sugli esercizi pubblici con dati georeferenziati
 
-\ |STYLE88|\  Dataset tabellare
+\ |STYLE92|\  Dataset tabellare
 
-\ |STYLE89|\ : Tempestiva
+\ |STYLE93|\ : Tempestiva
 
 +-------------------+------------------------------------------------------------------------------------------------------------------------------------------+------+-------+
 |Denominazione Campo|Descrizione                                                                                                                               |Tipo  |Obbligo|
 +===================+==========================================================================================================================================+======+=======+
 |Denominazione      |Denominazione esercizio                                                                                                                   |Testo |M      |
 +-------------------+------------------------------------------------------------------------------------------------------------------------------------------+------+-------+
-|\ |STYLE90|\       |Per le informazioni di ubicazione vedere Allegato 1 - Tabella 1                                                                           |Testo |M      |
+|\ |STYLE94|\       |Per le informazioni di ubicazione vedere Allegato 1 - Tabella 1                                                                           |Testo |M      |
 +-------------------+------------------------------------------------------------------------------------------------------------------------------------------+------+-------+
-|\ |STYLE91|\       |Tipologia di esercizio (ad esempio bar, ristorante ecc.)                                                                                  |Testo |M      |
+|\ |STYLE95|\       |Tipologia di esercizio (ad esempio bar, ristorante ecc.)                                                                                  |Testo |M      |
 +-------------------+------------------------------------------------------------------------------------------------------------------------------------------+------+-------+
-|\ |STYLE92|\       |Tipologia di somministrazione (ad esempio bevande, pasti ecc.)                                                                            |Testo |M      |
+|\ |STYLE96|\       |Tipologia di somministrazione (ad esempio bevande, pasti ecc.)                                                                            |Testo |M      |
 +-------------------+------------------------------------------------------------------------------------------------------------------------------------------+------+-------+
-|\ |STYLE93|\       |Modalità di somministrazione (ad esempio al banco, al tavolo ecc.)                                                                        |Testo |M      |
+|\ |STYLE97|\       |Modalità di somministrazione (ad esempio al banco, al tavolo ecc.)                                                                        |Testo |M      |
 +-------------------+------------------------------------------------------------------------------------------------------------------------------------------+------+-------+
-|\ |STYLE94|\       |Superficie destinata alla somministrazione (espressa in metri quadrati)                                                                   |Numero|M      |
+|\ |STYLE98|\       |Superficie destinata alla somministrazione (espressa in metri quadrati)                                                                   |Numero|M      |
 +-------------------+------------------------------------------------------------------------------------------------------------------------------------------+------+-------+
-|\ |STYLE95|\       |Presenza di WiFi pubblico (Si/No)                                                                                                         |Testo |O      |
+|\ |STYLE99|\       |Presenza di WiFi pubblico (Si/No)                                                                                                         |Testo |O      |
 +-------------------+------------------------------------------------------------------------------------------------------------------------------------------+------+-------+
-|\ |STYLE96|\       |Longitudine                                                                                                                               |Numero|M      |
+|\ |STYLE100|\      |Longitudine                                                                                                                               |Numero|M      |
 +-------------------+------------------------------------------------------------------------------------------------------------------------------------------+------+-------+
-|\ |STYLE97|\       |Latitudine                                                                                                                                |Numero|M      |
+|\ |STYLE101|\      |Latitudine                                                                                                                                |Numero|M      |
 +-------------------+------------------------------------------------------------------------------------------------------------------------------------------+------+-------+
-|\ |STYLE98|\       |Per gli orari di apertura e chiusura vedere l’Allegato 1 - Tabella 2 (oppure Tabella 3 se gli orari sono diversi a seconda della stagione)|Testo |O      |
+|\ |STYLE102|\      |Per gli orari di apertura e chiusura vedere l’Allegato 1 - Tabella 2 (oppure Tabella 3 se gli orari sono diversi a seconda della stagione)|Testo |O      |
 +-------------------+------------------------------------------------------------------------------------------------------------------------------------------+------+-------+
 
 .. _h1216263d3b30172471575b782e2e3b7a:
@@ -568,52 +561,52 @@ Esempio: \ |LINK14|\
 #48   Eventi (DEFINITIVO)
 -------------------------
 
-\ |STYLE99|\ : Informazioni su eventi e manifestazioni 
+\ |STYLE103|\ : Informazioni su eventi e manifestazioni 
 
-\ |STYLE100|\  Dataset tabellare
+\ |STYLE104|\  Dataset tabellare
 
-\ |STYLE101|\ : Tempestiva
+\ |STYLE105|\ : Tempestiva
 
 +-------------------+---------------------------------------------------------------+--------+---------------------------+
 |Denominazione Campo|Descrizione                                                    |Tipo    |Obbligo                    |
 +===================+===============================================================+========+===========================+
 |Ubicazione         |Per le informazioni di ubicazione vedere Allegato 1 - Tabella 1|Testo   |M                          |
 +-------------------+---------------------------------------------------------------+--------+---------------------------+
-|\ |STYLE102|\      |Anno di riferimento                                            |Testo   |M                          |
+|\ |STYLE106|\      |Anno di riferimento                                            |Testo   |M                          |
 +-------------------+---------------------------------------------------------------+--------+---------------------------+
-|\ |STYLE103|\      |Denominazione evento                                           |Testo   |M                          |
+|\ |STYLE107|\      |Denominazione evento                                           |Testo   |M                          |
 +-------------------+---------------------------------------------------------------+--------+---------------------------+
-|\ |STYLE104|\      |Tipologia evento                                               |Testo   |M                          |
+|\ |STYLE108|\      |Tipologia evento                                               |Testo   |M                          |
 +-------------------+---------------------------------------------------------------+--------+---------------------------+
-|\ |STYLE105|\      |Numero edizione dell’evento                                    |Testo   |M                          |
+|\ |STYLE109|\      |Numero edizione dell’evento                                    |Testo   |M                          |
 +-------------------+---------------------------------------------------------------+--------+---------------------------+
-|\ |STYLE106|\      |Descrizione dell’evento                                        |Testo   |O                          |
+|\ |STYLE110|\      |Descrizione dell’evento                                        |Testo   |O                          |
 +-------------------+---------------------------------------------------------------+--------+---------------------------+
-|\ |STYLE107|\      |Data di inizio dell’evento                                     |Data    |M                          |
+|\ |STYLE111|\      |Data di inizio dell’evento                                     |Data    |M                          |
 +-------------------+---------------------------------------------------------------+--------+---------------------------+
-|\ |STYLE108|\      |Ora di inizio dell’evento                                      |Testo   |M                          |
+|\ |STYLE112|\      |Ora di inizio dell’evento                                      |Testo   |M                          |
 +-------------------+---------------------------------------------------------------+--------+---------------------------+
-|\ |STYLE109|\      |Data di conclusione dell’evento                                |Data    |M                          |
+|\ |STYLE113|\      |Data di conclusione dell’evento                                |Data    |M                          |
 +-------------------+---------------------------------------------------------------+--------+---------------------------+
-|\ |STYLE110|\      |Ora di conclusione dell’evento                                 |Testo   |M                          |
+|\ |STYLE114|\      |Ora di conclusione dell’evento                                 |Testo   |M                          |
 +-------------------+---------------------------------------------------------------+--------+---------------------------+
-|\ |STYLE111|\      |Link al sito web dell’evento                                   |Link Web|M                          |
+|\ |STYLE115|\      |Link al sito web dell’evento                                   |Link Web|M                          |
 +-------------------+---------------------------------------------------------------+--------+---------------------------+
-|\ |STYLE112|\      |Link al programma dell’evento                                  |Link Web|M                          |
+|\ |STYLE116|\      |Link al programma dell’evento                                  |Link Web|M                          |
 +-------------------+---------------------------------------------------------------+--------+---------------------------+
-|\ |STYLE113|\      |Nome dell’ente che organizza l’evento                          |Testo   |M                          |
+|\ |STYLE117|\      |Nome dell’ente che organizza l’evento                          |Testo   |M                          |
 +-------------------+---------------------------------------------------------------+--------+---------------------------+
-|\ |STYLE114|\      |Indirizzo email dell’ente organizzatore                        |Testo   |M                          |
+|\ |STYLE118|\      |Indirizzo email dell’ente organizzatore                        |Testo   |M                          |
 +-------------------+---------------------------------------------------------------+--------+---------------------------+
-|\ |STYLE115|\      |Telefono dell’ente organizzatore                               |Testo   |O                          |
+|\ |STYLE119|\      |Telefono dell’ente organizzatore                               |Testo   |O                          |
 +-------------------+---------------------------------------------------------------+--------+---------------------------+
-|\ |STYLE116|\      |Evento gratuito (SI/NO)                                        |Testo   |M                          |
+|\ |STYLE120|\      |Evento gratuito (SI/NO)                                        |Testo   |M                          |
 +-------------------+---------------------------------------------------------------+--------+---------------------------+
-|\ |STYLE117|\      |Prezzo biglietto                                               |Testo   | M (se evento non gratuito)|
+|\ |STYLE121|\      |Prezzo biglietto                                               |Testo   | M (se evento non gratuito)|
 +-------------------+---------------------------------------------------------------+--------+---------------------------+
-|\ |STYLE118|\      |Longitudine                                                    |Numero  |O                          |
+|\ |STYLE122|\      |Longitudine                                                    |Numero  |O                          |
 +-------------------+---------------------------------------------------------------+--------+---------------------------+
-|\ |STYLE119|\      |Latitudine                                                     |Numero  |O                          |
+|\ |STYLE123|\      |Latitudine                                                     |Numero  |O                          |
 +-------------------+---------------------------------------------------------------+--------+---------------------------+
 
 .. _h2c1d74277104e41780968148427e:
@@ -651,11 +644,11 @@ Esempio: \ |LINK14|\
 #50 Beni artistici e architettonici (DEFINITIVO)
 ------------------------------------------------
 
-\ |STYLE120|\ : Beni artistici e architettonici del territorio
+\ |STYLE124|\ : Beni artistici e architettonici del territorio
 
-\ |STYLE121|\  Dataset tabellare
+\ |STYLE125|\  Dataset tabellare
 
-\ |STYLE122|\ : Tempestiva
+\ |STYLE126|\ : Tempestiva
 
 Esempio: \ |LINK15|\  
 
@@ -664,25 +657,25 @@ Esempio: \ |LINK15|\
 +===================+==========================================================================================+=======+=======+
 |ID_Bene            |Codice identificativo del bene artistico o architettonico                                 |Testo  |M      |
 +-------------------+------------------------------------------------------------------------------------------+-------+-------+
-|\ |STYLE123|\      |Denominazione del bene artistico o architettonico                                         |Testo  |M      |
+|\ |STYLE127|\      |Denominazione del bene artistico o architettonico                                         |Testo  |M      |
 +-------------------+------------------------------------------------------------------------------------------+-------+-------+
-|\ |STYLE124|\      |Descrizione del bene                                                                      |Testo  |O      |
+|\ |STYLE128|\      |Descrizione del bene                                                                      |Testo  |O      |
 +-------------------+------------------------------------------------------------------------------------------+-------+-------+
-|\ |STYLE125|\      |Inserire la tipologia di bene (es. Museo, villa, parco…come classificato qui \ |LINK16|\ )|Testo  |M      |
+|\ |STYLE129|\      |Inserire la tipologia di bene (es. Museo, villa, parco…come classificato qui \ |LINK16|\ )|Testo  |M      |
 +-------------------+------------------------------------------------------------------------------------------+-------+-------+
-|\ |STYLE126|\      |Per le informazioni di ubicazione vedere Allegato 1 - Tabella 1                           |Testo  |M      |
+|\ |STYLE130|\      |Per le informazioni di ubicazione vedere Allegato 1 - Tabella 1                           |Testo  |M      |
 +-------------------+------------------------------------------------------------------------------------------+-------+-------+
-|\ |STYLE127|\      |Indirizzo email per richiedere informazioni                                               |Testo  |M      |
+|\ |STYLE131|\      |Indirizzo email per richiedere informazioni                                               |Testo  |M      |
 +-------------------+------------------------------------------------------------------------------------------+-------+-------+
-|\ |STYLE128|\      |Recapito telefonico a cui richiedere informazioni                                         |Testo  |M      |
+|\ |STYLE132|\      |Recapito telefonico a cui richiedere informazioni                                         |Testo  |M      |
 +-------------------+------------------------------------------------------------------------------------------+-------+-------+
-|\ |STYLE129|\      |Link al sito web                                                                          |Web URL|M      |
+|\ |STYLE133|\      |Link al sito web                                                                          |Web URL|M      |
 +-------------------+------------------------------------------------------------------------------------------+-------+-------+
-|\ |STYLE130|\      |Eventuali ulteriori informazioni                                                          |Testo  |O      |
+|\ |STYLE134|\      |Eventuali ulteriori informazioni                                                          |Testo  |O      |
 +-------------------+------------------------------------------------------------------------------------------+-------+-------+
-|\ |STYLE131|\      |Longitudine                                                                               |Numero |O      |
+|\ |STYLE135|\      |Longitudine                                                                               |Numero |O      |
 +-------------------+------------------------------------------------------------------------------------------+-------+-------+
-|\ |STYLE132|\      |Latitudine                                                                                |Numero |O      |
+|\ |STYLE136|\      |Latitudine                                                                                |Numero |O      |
 +-------------------+------------------------------------------------------------------------------------------+-------+-------+
 
 .. _h2c1d74277104e41780968148427e:
@@ -700,11 +693,11 @@ Esempio: \ |LINK15|\
 #30 Albo provinciale manutentori impianti termici (DEFINITIVO)
 --------------------------------------------------------------
 
-\ |STYLE133|\ : Elenco manutentori impianti termici abilitati
+\ |STYLE137|\ : Elenco manutentori impianti termici abilitati
 
-\ |STYLE134|\  Dataset tabellare
+\ |STYLE138|\  Dataset tabellare
 
-\ |STYLE135|\ : Tempestiva
+\ |STYLE139|\ : Tempestiva
 
 Esempio: \ |LINK17|\  
 
@@ -713,11 +706,11 @@ Esempio: \ |LINK17|\
 +===================+===============================================================+======+=======+
 |Nome               |Nome o ragione sociale del manutentore                         |Testo |M      |
 +-------------------+---------------------------------------------------------------+------+-------+
-|\ |STYLE136|\      |Per le informazioni di ubicazione vedere Allegato 1 - Tabella 1|Testo |M      |
+|\ |STYLE140|\      |Per le informazioni di ubicazione vedere Allegato 1 - Tabella 1|Testo |M      |
 +-------------------+---------------------------------------------------------------+------+-------+
-|\ |STYLE137|\      |Numero telefonico del manutentore                              |Numero|O      |
+|\ |STYLE141|\      |Numero telefonico del manutentore                              |Numero|O      |
 +-------------------+---------------------------------------------------------------+------+-------+
-|\ |STYLE138|\      |Indirizzo email del manutentore                                |Testo |O      |
+|\ |STYLE142|\      |Indirizzo email del manutentore                                |Testo |O      |
 +-------------------+---------------------------------------------------------------+------+-------+
 
 .. _h2c1d74277104e41780968148427e:
@@ -735,11 +728,11 @@ Esempio: \ |LINK17|\
 #3 Orario Trasporto Pubblico (DEFINITIVO)
 -----------------------------------------
 
-\ |STYLE139|\ : Il dataset contiene i dati relativi alle corse, agli orari e alle fermate del trasporto pubblico urbano ed extra-urbano (pianificato). 
+\ |STYLE143|\ : Il dataset contiene i dati relativi alle corse, agli orari e alle fermate del trasporto pubblico urbano ed extra-urbano (pianificato). 
 
-\ |STYLE140|\  Dataset tabellare
+\ |STYLE144|\  Dataset tabellare
 
-\ |STYLE141|\ : Tempestiva
+\ |STYLE145|\ : Tempestiva
 
 Si tratta di uno Zip file. Lo standard di riferimento è il GTFS. \ |LINK18|\ 
 
@@ -754,11 +747,11 @@ Esempio 3: \ |LINK21|\
 #8 Mappa ZTL (DEFINITIVO)
 -------------------------
 
-\ |STYLE142|\ : Mappa Zona a Traffico Limitato 
+\ |STYLE146|\ : Mappa Zona a Traffico Limitato 
 
-\ |STYLE143|\  Dataset geografico (Shapefile)
+\ |STYLE147|\  Dataset geografico (Shapefile)
 
-\ |STYLE144|\ : Tempestiva
+\ |STYLE148|\ : Tempestiva
 
 Esempio: \ |LINK22|\  
 
@@ -768,9 +761,9 @@ Esempio: \ |LINK22|\
 +===================+==============================================================+=====+=======+
 |Nome_ZTL           |Denominazione della ZTL                                       |Testo|M      |
 +-------------------+--------------------------------------------------------------+-----+-------+
-|\ |STYLE145|\      |Indicare il periodo di riferimento (es. annuale, estivo, ecc.)|Testo|M      |
+|\ |STYLE149|\      |Indicare il periodo di riferimento (es. annuale, estivo, ecc.)|Testo|M      |
 +-------------------+--------------------------------------------------------------+-----+-------+
-|\ |STYLE146|\      |Informazioni aggiuntive (es. orari)                           |Testo|M      |
+|\ |STYLE150|\      |Informazioni aggiuntive (es. orari)                           |Testo|M      |
 +-------------------+--------------------------------------------------------------+-----+-------+
 
 .. _h2c1d74277104e41780968148427e:
@@ -783,11 +776,11 @@ Esempio: \ |LINK22|\
 #9 Varchi ZTL (DEFINITIVO)
 --------------------------
 
-\ |STYLE147|\ : Informazioni sui  varchi della ZTL, georeferenziati
+\ |STYLE151|\ : Informazioni sui  varchi della ZTL, georeferenziati
 
-\ |STYLE148|\  Dataset tabellare
+\ |STYLE152|\  Dataset tabellare
 
-\ |STYLE149|\ : Tempestiva
+\ |STYLE153|\ : Tempestiva
 
 Esempio: \ |LINK23|\  
 
@@ -796,17 +789,17 @@ Esempio: \ |LINK23|\
 +===================+==========================================================================================================================================+=======+=======+
 |Via                |Nome della via in cui è posizionato il varco                                                                                              |Testo  |M      |
 +-------------------+------------------------------------------------------------------------------------------------------------------------------------------+-------+-------+
-|\ |STYLE150|\      |Tipologia del varco (es. videosorvegliato)                                                                                                |Testo  |M      |
+|\ |STYLE154|\      |Tipologia del varco (es. videosorvegliato)                                                                                                |Testo  |M      |
 +-------------------+------------------------------------------------------------------------------------------------------------------------------------------+-------+-------+
-|\ |STYLE151|\      |Per gli orari di apertura e chiusura vedere l’Allegato 1 - Tabella 2 (oppure Tabella 3 se gli orari sono diversi a seconda della stagione)|Testo  |O      |
+|\ |STYLE155|\      |Per gli orari di apertura e chiusura vedere l’Allegato 1 - Tabella 2 (oppure Tabella 3 se gli orari sono diversi a seconda della stagione)|Testo  |O      |
 +-------------------+------------------------------------------------------------------------------------------------------------------------------------------+-------+-------+
-|\ |STYLE152|\      |Eventuali deroghe all’accesso (ad esempio velocipedi)                                                                                     |Testo  |M      |
+|\ |STYLE156|\      |Eventuali deroghe all’accesso (ad esempio velocipedi)                                                                                     |Testo  |M      |
 +-------------------+------------------------------------------------------------------------------------------------------------------------------------------+-------+-------+
-|\ |STYLE153|\      |Longitudine                                                                                                                               |Numero |M      |
+|\ |STYLE157|\      |Longitudine                                                                                                                               |Numero |M      |
 +-------------------+------------------------------------------------------------------------------------------------------------------------------------------+-------+-------+
-|\ |STYLE154|\      |Latitudine                                                                                                                                |Numero |M      |
+|\ |STYLE158|\      |Latitudine                                                                                                                                |Numero |M      |
 +-------------------+------------------------------------------------------------------------------------------------------------------------------------------+-------+-------+
-|\ |STYLE155|\      |Link alla pagina informativa, se presente sul sito web dell’ente                                                                          |Web URL|O      |
+|\ |STYLE159|\      |Link alla pagina informativa, se presente sul sito web dell’ente                                                                          |Web URL|O      |
 +-------------------+------------------------------------------------------------------------------------------------------------------------------------------+-------+-------+
 
 .. _h2c1d74277104e41780968148427e:
@@ -844,11 +837,11 @@ Esempio: \ |LINK23|\
 #10 Parcheggi (DEFINITIVO)
 --------------------------
 
-\ |STYLE156|\ : Posizione e informazioni sui Parcheggi
+\ |STYLE160|\ : Posizione e informazioni sui Parcheggi
 
-\ |STYLE157|\  Dataset tabellare
+\ |STYLE161|\  Dataset tabellare
 
-\ |STYLE158|\ : Tempestiva
+\ |STYLE162|\ : Tempestiva
 
 Esempio: \ |LINK24|\  
 
@@ -857,17 +850,17 @@ Esempio: \ |LINK24|\
 +===================+==========================================================================================================================================+======+=======+
 |ID_Parcheggio      |Codice identificativo del parcheggio                                                                                                      |Testo |O      |
 +-------------------+------------------------------------------------------------------------------------------------------------------------------------------+------+-------+
-|\ |STYLE159|\      |Tipologia del parcheggio (es. aperto, coperto)                                                                                            |Testo |M      |
+|\ |STYLE163|\      |Tipologia del parcheggio (es. aperto, coperto)                                                                                            |Testo |M      |
 +-------------------+------------------------------------------------------------------------------------------------------------------------------------------+------+-------+
-|\ |STYLE160|\      |Per le informazioni di ubicazione vedere Allegato 1 - Tabella 1                                                                           |Testo |M      |
+|\ |STYLE164|\      |Per le informazioni di ubicazione vedere Allegato 1 - Tabella 1                                                                           |Testo |M      |
 +-------------------+------------------------------------------------------------------------------------------------------------------------------------------+------+-------+
-|\ |STYLE161|\      |Per gli orari di apertura e chiusura vedere l’Allegato 1 - Tabella 2 (oppure Tabella 3 se gli orari sono diversi a seconda della stagione)|Testo |M      |
+|\ |STYLE165|\      |Per gli orari di apertura e chiusura vedere l’Allegato 1 - Tabella 2 (oppure Tabella 3 se gli orari sono diversi a seconda della stagione)|Testo |M      |
 +-------------------+------------------------------------------------------------------------------------------------------------------------------------------+------+-------+
-|\ |STYLE162|\      |Longitudine                                                                                                                               |Numero|O      |
+|\ |STYLE166|\      |Longitudine                                                                                                                               |Numero|O      |
 +-------------------+------------------------------------------------------------------------------------------------------------------------------------------+------+-------+
-|\ |STYLE163|\      |Latitudine                                                                                                                                |Numero|O      |
+|\ |STYLE167|\      |Latitudine                                                                                                                                |Numero|O      |
 +-------------------+------------------------------------------------------------------------------------------------------------------------------------------+------+-------+
-|\ |STYLE164|\      |Indicare se il parcheggio è gratuito (SI/NO)                                                                                              |Testo |M      |
+|\ |STYLE168|\      |Indicare se il parcheggio è gratuito (SI/NO)                                                                                              |Testo |M      |
 +-------------------+------------------------------------------------------------------------------------------------------------------------------------------+------+-------+
 
 .. _h7a387f69313ca44387272731b5f2b50:
@@ -875,11 +868,11 @@ Esempio: \ |LINK24|\
 #11   Piste ciclabili (DEFINITIVO)
 ----------------------------------
 
-\ |STYLE165|\ : Tracciato delle piste ciclabili  piste ciclabili
+\ |STYLE169|\ : Tracciato delle piste ciclabili  piste ciclabili
 
-\ |STYLE166|\  Dataset geografico (Shapefile)
+\ |STYLE170|\  Dataset geografico (Shapefile)
 
-\ |STYLE167|\ : Tempestiva
+\ |STYLE171|\ : Tempestiva
 
 Esempio 1: \ |LINK25|\ 
 
@@ -890,21 +883,21 @@ Esempio 2: \ |LINK26|\
 +===================+=======================================================+======+=======+
 |ID                 |Identificativo pista ciclabile                         |Testo |M      |
 +-------------------+-------------------------------------------------------+------+-------+
-|\ |STYLE168|\      |Breve descrizione                                      |Testo |M      |
+|\ |STYLE172|\      |Breve descrizione                                      |Testo |M      |
 +-------------------+-------------------------------------------------------+------+-------+
-|\ |STYLE169|\      |Tipologia percorso, scegliendo tra le seguenti opzioni:|Testo |M      |
+|\ |STYLE173|\      |Tipologia percorso, scegliendo tra le seguenti opzioni:|Testo |M      |
 |                   |                                                       |      |       |
 |                   |* ciclabile                                            |      |       |
 |                   |                                                       |      |       |
 |                   |* ciclopedonale                                        |      |       |
 +-------------------+-------------------------------------------------------+------+-------+
-|\ |STYLE170|\      |Indicare una delle seguenti opzioni:                   |Testo |M      |
+|\ |STYLE174|\      |Indicare una delle seguenti opzioni:                   |Testo |M      |
 |                   |                                                       |      |       |
 |                   |* sede propria                                         |      |       |
 |                   |                                                       |      |       |
 |                   |* sede promiscua veicolare                             |      |       |
 +-------------------+-------------------------------------------------------+------+-------+
-|\ |STYLE171|\      |Tipo di fondo, scegliendo tra:                         |Testo |M      |
+|\ |STYLE175|\      |Tipo di fondo, scegliendo tra:                         |Testo |M      |
 |                   |                                                       |      |       |
 |                   |* asfaltato                                            |      |       |
 |                   |                                                       |      |       |
@@ -914,17 +907,17 @@ Esempio 2: \ |LINK26|\
 |                   |                                                       |      |       |
 |                   |* pavimentato (es. resina)                             |      |       |
 +-------------------+-------------------------------------------------------+------+-------+
-|\ |STYLE172|\      |Lunghezza del percorso (espressa in metri)             |Numero|M      |
+|\ |STYLE176|\      |Lunghezza del percorso (espressa in metri)             |Numero|M      |
 +-------------------+-------------------------------------------------------+------+-------+
-|\ |STYLE173|\      |Larghezza del percorso (espressa in metri)             |Numero|O      |
+|\ |STYLE177|\      |Larghezza del percorso (espressa in metri)             |Numero|O      |
 +-------------------+-------------------------------------------------------+------+-------+
-|\ |STYLE174|\      |Specificare una delle seguenti opzioni:                |Testo |M      |
+|\ |STYLE178|\      |Specificare una delle seguenti opzioni:                |Testo |M      |
 |                   |                                                       |      |       |
 |                   |* monodirezionale                                      |      |       |
 |                   |                                                       |      |       |
 |                   |* bidirezionale                                        |      |       |
 +-------------------+-------------------------------------------------------+------+-------+
-|\ |STYLE175|\      |Indicare una delle seguenti opzioni:                   |Testo |O      |
+|\ |STYLE179|\      |Indicare una delle seguenti opzioni:                   |Testo |O      |
 |                   |                                                       |      |       |
 |                   |* aperta                                               |      |       |
 |                   |                                                       |      |       |
@@ -932,7 +925,7 @@ Esempio 2: \ |LINK26|\
 |                   |                                                       |      |       |
 |                   |* in costruzione                                       |      |       |
 +-------------------+-------------------------------------------------------+------+-------+
-|\ |STYLE176|\      |Ambito del percorso (es. stradale, fluviale, parco)    |Testo |O      |
+|\ |STYLE180|\      |Ambito del percorso (es. stradale, fluviale, parco)    |Testo |O      |
 +-------------------+-------------------------------------------------------+------+-------+
 
 .. _h2c1d74277104e41780968148427e:
@@ -945,11 +938,11 @@ Esempio 2: \ |LINK26|\
 #12 Aree di sosta (DEFINITIVO)
 ------------------------------
 
-\ |STYLE177|\ : Aree di sosta 
+\ |STYLE181|\ : Aree di sosta 
 
-\ |STYLE178|\  Dataset geografico (Shapefile)
+\ |STYLE182|\  Dataset geografico (Shapefile)
 
-\ |STYLE179|\ : Tempestiva
+\ |STYLE183|\ : Tempestiva
 
 Esempio: \ |LINK27|\  
 
@@ -958,11 +951,11 @@ Esempio: \ |LINK27|\
 +===================+===========================================================================================================================================+=====+=======+
 |ID_Area            |Codice identificativo dell’area                                                                                                            |Testo|M      |
 +-------------------+-------------------------------------------------------------------------------------------------------------------------------------------+-----+-------+
-|\ |STYLE180|\      |Indicare la tipologia di area per soggetto interessato (es. disabili, sosta libera, bici, autobus, autocarri,ecc.) come da tabella seguente|Testo|M      |
+|\ |STYLE184|\      |Indicare la tipologia di area per soggetto interessato (es. disabili, sosta libera, bici, autobus, autocarri,ecc.) come da tabella seguente|Testo|M      |
 +-------------------+-------------------------------------------------------------------------------------------------------------------------------------------+-----+-------+
-|\ |STYLE181|\      |Via, Piazza, ecc                                                                                                                           |Testo|M      |
+|\ |STYLE185|\      |Via, Piazza, ecc                                                                                                                           |Testo|M      |
 +-------------------+-------------------------------------------------------------------------------------------------------------------------------------------+-----+-------+
-|\ |STYLE182|\      |Nome Via, Piazza, ecc.                                                                                                                     |Testo|M      |
+|\ |STYLE186|\      |Nome Via, Piazza, ecc.                                                                                                                     |Testo|M      |
 +-------------------+-------------------------------------------------------------------------------------------------------------------------------------------+-----+-------+
 
 
@@ -1025,11 +1018,11 @@ Esempio: \ |LINK27|\
 #13 Aree pedonali (DEFINITIVO)
 ------------------------------
 
-\ |STYLE183|\ : Aree pedonali
+\ |STYLE187|\ : Aree pedonali
 
-\ |STYLE184|\  Dataset geografico (Shapefile)
+\ |STYLE188|\  Dataset geografico (Shapefile)
 
-\ |STYLE185|\ : Tempestiva
+\ |STYLE189|\ : Tempestiva
 
 Esempio: \ |LINK28|\  
 
@@ -1038,9 +1031,9 @@ Esempio: \ |LINK28|\
 +===================+===============================+=====+=======+
 |ID_Area            |Codice identificativo dell’area|Testo|M      |
 +-------------------+-------------------------------+-----+-------+
-|\ |STYLE186|\      |Via, Piazza, ecc               |Testo|M      |
+|\ |STYLE190|\      |Via, Piazza, ecc               |Testo|M      |
 +-------------------+-------------------------------+-----+-------+
-|\ |STYLE187|\      |Nome Via, Piazza, ecc.         |Testo|M      |
+|\ |STYLE191|\      |Nome Via, Piazza, ecc.         |Testo|M      |
 +-------------------+-------------------------------+-----+-------+
 
 .. _h413751694948146ea793c3974582760:
@@ -1048,11 +1041,11 @@ Esempio: \ |LINK28|\
 #15 Bike sharing (DEFINITIVO)
 -----------------------------
 
-\ |STYLE188|\ : Postazioni di Bike sharing
+\ |STYLE192|\ : Postazioni di Bike sharing
 
-\ |STYLE189|\  Dataset geografico (Shapefile)
+\ |STYLE193|\  Dataset geografico (Shapefile)
 
-\ |STYLE190|\ : Tempestiva
+\ |STYLE194|\ : Tempestiva
 
 Esempio: \ |LINK29|\  
 
@@ -1061,15 +1054,15 @@ Esempio: \ |LINK29|\
 +===================+=============================================================+======+=======+
 |ID_Staz            |Codice identificativo della stazione di bike sharing         |Numero|M      |
 +-------------------+-------------------------------------------------------------+------+-------+
-|\ |STYLE191|\      |Per le informazioni di ubicazione vedere Allegato 1 Tabella 1|Testo |M      |
+|\ |STYLE195|\      |Per le informazioni di ubicazione vedere Allegato 1 Tabella 1|Testo |M      |
 +-------------------+-------------------------------------------------------------+------+-------+
-|\ |STYLE192|\      |Latitudine                                                   |Numero|M      |
+|\ |STYLE196|\      |Latitudine                                                   |Numero|M      |
 +-------------------+-------------------------------------------------------------+------+-------+
-|\ |STYLE193|\      |Longitudine                                                  |Numero|M      |
+|\ |STYLE197|\      |Longitudine                                                  |Numero|M      |
 +-------------------+-------------------------------------------------------------+------+-------+
-|\ |STYLE194|\      |Numero di biciclette disponibile per stazione                |Numero|O      |
+|\ |STYLE198|\      |Numero di biciclette disponibile per stazione                |Numero|O      |
 +-------------------+-------------------------------------------------------------+------+-------+
-|\ |STYLE195|\      |Ulteriore descrizione dell’area                              |Testo |O      |
+|\ |STYLE199|\      |Ulteriore descrizione dell’area                              |Testo |O      |
 +-------------------+-------------------------------------------------------------+------+-------+
 
 .. _h2c1d74277104e41780968148427e:
@@ -1082,11 +1075,11 @@ Esempio: \ |LINK29|\
 #31 Autoscuole (DEFINITIVO)
 ---------------------------
 
-\ |STYLE196|\ : Elenco delle Autoscuole autorizzate nel territorio
+\ |STYLE200|\ : Elenco delle Autoscuole autorizzate nel territorio
 
-\ |STYLE197|\  Dataset tabellare
+\ |STYLE201|\  Dataset tabellare
 
-\ |STYLE198|\ : Tempestiva
+\ |STYLE202|\ : Tempestiva
 
 Esempio: \ |LINK30|\  
 
@@ -1097,11 +1090,11 @@ L’esempio si riferisce alla tipologia di informazioni da inserire nel dataset.
 +===================+===============================================================+=====+=======+
 |Nome               |Nome dell’autoscuola                                           |Testo|M      |
 +-------------------+---------------------------------------------------------------+-----+-------+
-|\ |STYLE199|\      |Per le informazioni di ubicazione vedere Allegato 1 - Tabella 1|Testo|M      |
+|\ |STYLE203|\      |Per le informazioni di ubicazione vedere Allegato 1 - Tabella 1|Testo|M      |
 +-------------------+---------------------------------------------------------------+-----+-------+
-|\ |STYLE200|\      |Numero di telefono dell’autoscuola                             |Testo|O      |
+|\ |STYLE204|\      |Numero di telefono dell’autoscuola                             |Testo|O      |
 +-------------------+---------------------------------------------------------------+-----+-------+
-|\ |STYLE201|\      |Indirizzo email dell’autoscuola                                |Testo|O      |
+|\ |STYLE205|\      |Indirizzo email dell’autoscuola                                |Testo|O      |
 +-------------------+---------------------------------------------------------------+-----+-------+
 
 .. _h2c1d74277104e41780968148427e:
@@ -1114,11 +1107,11 @@ L’esempio si riferisce alla tipologia di informazioni da inserire nel dataset.
 #33 Aree di sosta per disabili (DEFINITIVO)
 -------------------------------------------
 
-\ |STYLE202|\ : Elenco delle Aree di sosta per disabili presenti nel territorio
+\ |STYLE206|\ : Elenco delle Aree di sosta per disabili presenti nel territorio
 
-\ |STYLE203|\  Dataset tabellare
+\ |STYLE207|\  Dataset tabellare
 
-\ |STYLE204|\ : Tempestiva
+\ |STYLE208|\ : Tempestiva
 
 Esempio: \ |LINK31|\  
 
@@ -1127,13 +1120,13 @@ Esempio: \ |LINK31|\
 +===================+===============================================================+======+=======+
 |ID_Area            |Codice identificativo dell’area                                |Testo |M      |
 +-------------------+---------------------------------------------------------------+------+-------+
-|\ |STYLE205|\      |Per le informazioni di ubicazione vedere Allegato 1 - Tabella 1|Testo |M      |
+|\ |STYLE209|\      |Per le informazioni di ubicazione vedere Allegato 1 - Tabella 1|Testo |M      |
 +-------------------+---------------------------------------------------------------+------+-------+
-|\ |STYLE206|\      |Numero stalli dell’area di sosta                               |Numero|M      |
+|\ |STYLE210|\      |Numero stalli dell’area di sosta                               |Numero|M      |
 +-------------------+---------------------------------------------------------------+------+-------+
-|\ |STYLE207|\      |Longitudine                                                    |Numero|O      |
+|\ |STYLE211|\      |Longitudine                                                    |Numero|O      |
 +-------------------+---------------------------------------------------------------+------+-------+
-|\ |STYLE208|\      |Latitudine                                                     |Numero|O      |
+|\ |STYLE212|\      |Latitudine                                                     |Numero|O      |
 +-------------------+---------------------------------------------------------------+------+-------+
 
 .. _h2c1d74277104e41780968148427e:
@@ -1151,11 +1144,11 @@ Esempio: \ |LINK31|\
 #44 Punti di ricarica veicoli (DEFINITIVO)
 ------------------------------------------
 
-\ |STYLE209|\ : Dataset con coordinate geografiche dei punti di ricarica dei veicoli elettrici, con indicazione del tipo di presa e KW
+\ |STYLE213|\ : Dataset con coordinate geografiche dei punti di ricarica dei veicoli elettrici, con indicazione del tipo di presa e KW
 
-\ |STYLE210|\  Dataset tabellare
+\ |STYLE214|\  Dataset tabellare
 
-\ |STYLE211|\ : Tempestiva
+\ |STYLE215|\ : Tempestiva
 
 Esempio: \ |LINK32|\  
 
@@ -1164,21 +1157,21 @@ Esempio: \ |LINK32|\
 +===================+================================================================================+======+=======+
 |ID_Sito            |Codice identificativo del sito in cui è possibile ricaricare i veicoli elettrici|Numero|O      |
 +-------------------+--------------------------------------------------------------------------------+------+-------+
-|\ |STYLE212|\      |Per le informazioni di ubicazione vedere Allegato 1 - Tabella 1                 |Testo |M      |
+|\ |STYLE216|\      |Per le informazioni di ubicazione vedere Allegato 1 - Tabella 1                 |Testo |M      |
 +-------------------+--------------------------------------------------------------------------------+------+-------+
-|\ |STYLE213|\      |Potenza della ricarica                                                          |Numero|M      |
+|\ |STYLE217|\      |Potenza della ricarica                                                          |Numero|M      |
 +-------------------+--------------------------------------------------------------------------------+------+-------+
-|\ |STYLE214|\      |Indicare la modalità di utilizzo del servizio (es. tramite CRS)                 |Testo |M      |
+|\ |STYLE218|\      |Indicare la modalità di utilizzo del servizio (es. tramite CRS)                 |Testo |M      |
 +-------------------+--------------------------------------------------------------------------------+------+-------+
-|\ |STYLE215|\      |Indicare la tipologia di presa (es. universale)                                 |Testo |M      |
+|\ |STYLE219|\      |Indicare la tipologia di presa (es. universale)                                 |Testo |M      |
 +-------------------+--------------------------------------------------------------------------------+------+-------+
-|\ |STYLE216|\      |Indicare le tipologie di veicoli per le quali è disponibile la ricarica         |Testo |M      |
+|\ |STYLE220|\      |Indicare le tipologie di veicoli per le quali è disponibile la ricarica         |Testo |M      |
 +-------------------+--------------------------------------------------------------------------------+------+-------+
-|\ |STYLE217|\      |Data di attivazione del sito                                                    |Data  |O      |
+|\ |STYLE221|\      |Data di attivazione del sito                                                    |Data  |O      |
 +-------------------+--------------------------------------------------------------------------------+------+-------+
-|\ |STYLE218|\      |Longitudine                                                                     |Numero|M      |
+|\ |STYLE222|\      |Longitudine                                                                     |Numero|M      |
 +-------------------+--------------------------------------------------------------------------------+------+-------+
-|\ |STYLE219|\      |Latitudine                                                                      |Numero|M      |
+|\ |STYLE223|\      |Latitudine                                                                      |Numero|M      |
 +-------------------+--------------------------------------------------------------------------------+------+-------+
 
 .. _h127c74681e53786e536b765a2f6647e:
@@ -1191,11 +1184,11 @@ Esempio: \ |LINK32|\
 #7 Incidenti stradali (DEFINITIVO)
 ----------------------------------
 
-\ |STYLE220|\ : Dataset contenente gli incidenti stradali con data, ora, coordinate geografiche, mezzi coinvolti, eventuali morti e feriti
+\ |STYLE224|\ : Dataset contenente gli incidenti stradali con data, ora, coordinate geografiche, mezzi coinvolti, eventuali morti e feriti
 
-\ |STYLE221|\ : Dataset tabellare
+\ |STYLE225|\ : Dataset tabellare
 
-\ |STYLE222|\ : Mensile
+\ |STYLE226|\ : Mensile
 
 Esempio 1: \ |LINK33|\ 
 
@@ -1206,31 +1199,31 @@ Esempio 2: \ |LINK34|\
 +===================+==================================================================================+======+=======+
 |Anno               |Anno di riferimento                                                               |Numero|M      |
 +-------------------+----------------------------------------------------------------------------------+------+-------+
-|\ |STYLE223|\      |Data dell’incidente                                                               |Data  |M      |
+|\ |STYLE227|\      |Data dell’incidente                                                               |Data  |M      |
 +-------------------+----------------------------------------------------------------------------------+------+-------+
-|\ |STYLE224|\      |Ora dell’incidente                                                                |Testo |M      |
+|\ |STYLE228|\      |Ora dell’incidente                                                                |Testo |M      |
 +-------------------+----------------------------------------------------------------------------------+------+-------+
-|\ |STYLE225|\      |Descrizione del punto preciso dell’incidente (es. via...all’intersezione con via…)|Testo |M      |
+|\ |STYLE229|\      |Descrizione del punto preciso dell’incidente (es. via...all’intersezione con via…)|Testo |M      |
 +-------------------+----------------------------------------------------------------------------------+------+-------+
-|\ |STYLE226|\      |Tipologia di incidente (es. scontro frontale)                                     |Testo |M      |
+|\ |STYLE230|\      |Tipologia di incidente (es. scontro frontale)                                     |Testo |M      |
 +-------------------+----------------------------------------------------------------------------------+------+-------+
-|\ |STYLE227|\      |Numero delle persone illese                                                       |Numero|M      |
+|\ |STYLE231|\      |Numero delle persone illese                                                       |Numero|M      |
 +-------------------+----------------------------------------------------------------------------------+------+-------+
-|\ |STYLE228|\      |Numero delle persone ferite                                                       |Numero|M      |
+|\ |STYLE232|\      |Numero delle persone ferite                                                       |Numero|M      |
 +-------------------+----------------------------------------------------------------------------------+------+-------+
-|\ |STYLE229|\      |Numero dei morti                                                                  |Numero|M      |
+|\ |STYLE233|\      |Numero dei morti                                                                  |Numero|M      |
 +-------------------+----------------------------------------------------------------------------------+------+-------+
-|\ |STYLE230|\      |Indicare se sono stati coinvolti pedoni (SI/NO)                                   |Testo |M      |
+|\ |STYLE234|\      |Indicare se sono stati coinvolti pedoni (SI/NO)                                   |Testo |M      |
 +-------------------+----------------------------------------------------------------------------------+------+-------+
-|\ |STYLE231|\      |Indicare se sono stati coinvolti velocipedi (SI/NO)                               |Testo |M      |
+|\ |STYLE235|\      |Indicare se sono stati coinvolti velocipedi (SI/NO)                               |Testo |M      |
 +-------------------+----------------------------------------------------------------------------------+------+-------+
-|\ |STYLE232|\      |Indicare se sono stati coinvolti ciclomotori o motocicli (SI/NO)                  |Testo |M      |
+|\ |STYLE236|\      |Indicare se sono stati coinvolti ciclomotori o motocicli (SI/NO)                  |Testo |M      |
 +-------------------+----------------------------------------------------------------------------------+------+-------+
-|\ |STYLE233|\      |Indicare se sono stati coinvolti mezzi pesanti (SI/NO)                            |Testo |M      |
+|\ |STYLE237|\      |Indicare se sono stati coinvolti mezzi pesanti (SI/NO)                            |Testo |M      |
 +-------------------+----------------------------------------------------------------------------------+------+-------+
-|\ |STYLE234|\      |Longitudine                                                                       |Numero|M      |
+|\ |STYLE238|\      |Longitudine                                                                       |Numero|M      |
 +-------------------+----------------------------------------------------------------------------------+------+-------+
-|\ |STYLE235|\      |Latitudine                                                                        |Numero|M      |
+|\ |STYLE239|\      |Latitudine                                                                        |Numero|M      |
 +-------------------+----------------------------------------------------------------------------------+------+-------+
 
 .. _h2c1d74277104e41780968148427e:
@@ -1243,11 +1236,11 @@ Esempio 2: \ |LINK34|\
 #41  Principali infrazioni al Codice della Strada (DEFINITIVO)
 --------------------------------------------------------------
 
-\ |STYLE236|\ : Elenco, tipologia e anno di riferimento delle principali infrazioni al Codice della Strada.
+\ |STYLE240|\ : Elenco, tipologia e anno di riferimento delle principali infrazioni al Codice della Strada.
 
-\ |STYLE237|\  Dataset tabellare
+\ |STYLE241|\  Dataset tabellare
 
-\ |STYLE238|\ : Mensile
+\ |STYLE242|\ : Mensile
 
 Esempio: \ |LINK35|\ 
 
@@ -1256,23 +1249,23 @@ Esempio: \ |LINK35|\
 +===================+====================================================================+======+=======+
 |Anno               |Anno di riferimento                                                 |Numero|M      |
 +-------------------+--------------------------------------------------------------------+------+-------+
-|\ |STYLE239|\      |Tipo di infrazione (es. limite velocità, sensi unici, sosta, ecc.)  |Testo |M      |
+|\ |STYLE243|\      |Tipo di infrazione (es. limite velocità, sensi unici, sosta, ecc.)  |Testo |M      |
 +-------------------+--------------------------------------------------------------------+------+-------+
-|\ |STYLE240|\      |Normativa di riferimento dell’infrazione (es. Legge)                |Testo |M      |
+|\ |STYLE244|\      |Normativa di riferimento dell’infrazione (es. Legge)                |Testo |M      |
 +-------------------+--------------------------------------------------------------------+------+-------+
-|\ |STYLE241|\      |Art. di legge o altra norma che regola il tipo di infrazione        |Testo |M      |
+|\ |STYLE245|\      |Art. di legge o altra norma che regola il tipo di infrazione        |Testo |M      |
 +-------------------+--------------------------------------------------------------------+------+-------+
-|\ |STYLE242|\      |Data infrazione                                                     |Data  |M      |
+|\ |STYLE246|\      |Data infrazione                                                     |Data  |M      |
 +-------------------+--------------------------------------------------------------------+------+-------+
-|\ |STYLE243|\      |Tipologia di veicolo: autovettura, motoveicolo, ciclomotore         |Testo |M      |
+|\ |STYLE247|\      |Tipologia di veicolo: autovettura, motoveicolo, ciclomotore         |Testo |M      |
 +-------------------+--------------------------------------------------------------------+------+-------+
-|\ |STYLE244|\      |Per le informazioni di ubicazione vedere Allegato 1 - Tabella 1     |Testo |M      |
+|\ |STYLE248|\      |Per le informazioni di ubicazione vedere Allegato 1 - Tabella 1     |Testo |M      |
 +-------------------+--------------------------------------------------------------------+------+-------+
-|\ |STYLE245|\      |Inserire il numero delle sanzioni erogate per l’infrazione specifica|Numero|M      |
+|\ |STYLE249|\      |Inserire il numero delle sanzioni erogate per l’infrazione specifica|Numero|M      |
 +-------------------+--------------------------------------------------------------------+------+-------+
-|\ |STYLE246|\      |Longitudine                                                         |Numero|O      |
+|\ |STYLE250|\      |Longitudine                                                         |Numero|O      |
 +-------------------+--------------------------------------------------------------------+------+-------+
-|\ |STYLE247|\      |Latitudine                                                          |Numero|O      |
+|\ |STYLE251|\      |Latitudine                                                          |Numero|O      |
 +-------------------+--------------------------------------------------------------------+------+-------+
 
 .. _h6f396320344978474c3f7b4d6b7e531c:
@@ -1280,11 +1273,11 @@ Esempio: \ |LINK35|\
 #42 Provvedimenti adottati dalla Polizia Locale in materia di commercio (DEFINITIVO)
 ------------------------------------------------------------------------------------
 
-\ |STYLE248|\ : Elenco e tipologia dei provvedimenti adottati in materia di commercio dalla Polizia Municipale
+\ |STYLE252|\ : Elenco e tipologia dei provvedimenti adottati in materia di commercio dalla Polizia Municipale
 
-\ |STYLE249|\  Dataset tabellare
+\ |STYLE253|\  Dataset tabellare
 
-\ |STYLE250|\ : Mensile
+\ |STYLE254|\ : Mensile
 
 Esempio: \ |LINK36|\  
 
@@ -1293,11 +1286,11 @@ Esempio: \ |LINK36|\
 +===================+=====================+======+=======+
 |Anno               |Anno di riferimento  |Numero|M      |
 +-------------------+---------------------+------+-------+
-|\ |STYLE251|\      |Tipo di provvedimento|Testo |M      |
+|\ |STYLE255|\      |Tipo di provvedimento|Testo |M      |
 +-------------------+---------------------+------+-------+
-|\ |STYLE252|\      |Numero di controlli  |Numero|M      |
+|\ |STYLE256|\      |Numero di controlli  |Numero|M      |
 +-------------------+---------------------+------+-------+
-|\ |STYLE253|\      |Numero di verbali    |Numero|M      |
+|\ |STYLE257|\      |Numero di verbali    |Numero|M      |
 +-------------------+---------------------+------+-------+
 
 .. _h2c1d74277104e41780968148427e:
@@ -1310,22 +1303,22 @@ Esempio: \ |LINK36|\
 #49 Controlli in cantiere effettuati dalla Polizia Locale (DEFINITIVO)
 ----------------------------------------------------------------------
 
-\ |STYLE254|\ : Elenco, tipologia e anno di riferimento dei controlli effettuati nei cantieri dalla Polizia locale
+\ |STYLE258|\ : Elenco, tipologia e anno di riferimento dei controlli effettuati nei cantieri dalla Polizia locale
 
-\ |STYLE255|\  Dataset tabellare
+\ |STYLE259|\  Dataset tabellare
 
-\ |STYLE256|\ : Mensile
+\ |STYLE260|\ : Mensile
 
 +-------------------+----------------------+------+-------+
 |Denominazione Campo|Descrizione           |Tipo  |Obbligo|
 +===================+======================+======+=======+
 |Anno               |Anno di riferimento   |Numero|M      |
 +-------------------+----------------------+------+-------+
-|\ |STYLE257|\      |Tipologia di controllo|Testo |M      |
+|\ |STYLE261|\      |Tipologia di controllo|Testo |M      |
 +-------------------+----------------------+------+-------+
-|\ |STYLE258|\      |Numero di controlli   |Numero|M      |
+|\ |STYLE262|\      |Numero di controlli   |Numero|M      |
 +-------------------+----------------------+------+-------+
-|\ |STYLE259|\      |Numero di verbali     |Numero|M      |
+|\ |STYLE263|\      |Numero di verbali     |Numero|M      |
 +-------------------+----------------------+------+-------+
 
 .. _h6a50711f57485b63626e405f165261:
@@ -1333,33 +1326,27 @@ Esempio: \ |LINK36|\
 7.      STATISTICA
 ==================
 
-.. _h5613e1e752356544a7e5e63615a2a59:
-
 Per quanto riguarda i risultati delle elezioni, in seguito ad un’analisi ulteriore è stata individuata una soluzione alternativa alla pubblicazione dei 3 dataset distinti (#38, #39 e #40): pubblicare un unico dataset che comprenda sia i risultati delle elezioni sia i dati statistici sull’affluenza (vedere tabella #38#39#40BIS Risultati elezioni). Questo consentirebbe di mantenere sempre uguale la struttura del dataset (campi) rendendo più facilmente confrontabili i dati. 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-.. _h622e23792f56633f6528392962727827:
 
 Ai fini del co-finanziamento, la pubblicazione del dataset #38#39#40BIS viene equiparata alla pubblicazione dei 3 dataset relativi alle elezioni (#38 + #39 + #40). 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 .. _h47274b145479547445336f771b35280:
 
 #38 Risultati elezioni comunali (DEFINITIVO)
 --------------------------------------------
 
-\ |STYLE260|\ : Risultati elettorali delle elezioni amministrative del proprio comune o provincia
+\ |STYLE264|\ : Risultati elettorali delle elezioni amministrative del proprio comune o provincia
 
-\ |STYLE261|\  Dataset tabellare
+\ |STYLE265|\  Dataset tabellare
 
-\ |STYLE262|\ : Tempestiva
+\ |STYLE266|\ : Tempestiva
 
 +-------------------+-----------------------------------------------------------------------------------+------+-------+
 |Denominazione Campo|Descrizione                                                                        |Tipo  |Obbligo|
 +===================+===================================================================================+======+=======+
 |Data               |Data elezione (giorno, mese, anno)                                                 |Data  |M      |
 +-------------------+-----------------------------------------------------------------------------------+------+-------+
-|\ |STYLE263|\      |Indicare se si tratta di:                                                          |Testo |M      |
+|\ |STYLE267|\      |Indicare se si tratta di:                                                          |Testo |M      |
 |                   |                                                                                   |      |       |
 |                   |* 1° turno                                                                         |      |       |
 |                   |                                                                                   |      |       |
@@ -1367,13 +1354,13 @@ Ai fini del co-finanziamento, la pubblicazione del dataset #38#39#40BIS viene eq
 |                   |                                                                                   |      |       |
 |                   |* turno unico                                                                      |      |       |
 +-------------------+-----------------------------------------------------------------------------------+------+-------+
-|\ |STYLE264|\      |Collegio elettorale o circoscrizione                                               |Testo |M      |
+|\ |STYLE268|\      |Collegio elettorale o circoscrizione                                               |Testo |M      |
 +-------------------+-----------------------------------------------------------------------------------+------+-------+
-|\ |STYLE265|\      |Numero della sezione                                                               |Numero|M      |
+|\ |STYLE269|\      |Numero della sezione                                                               |Numero|M      |
 +-------------------+-----------------------------------------------------------------------------------+------+-------+
-|\ |STYLE266|\      |Consiglio comunale o Sindaco                                                       |Testo |M      |
+|\ |STYLE270|\      |Consiglio comunale o Sindaco                                                       |Testo |M      |
 +-------------------+-----------------------------------------------------------------------------------+------+-------+
-|\ |STYLE267|\      |Inserire in questa colonna una riga per ciascuna delle seguenti informazioni:      |Testo |M      |
+|\ |STYLE271|\      |Inserire in questa colonna una riga per ciascuna delle seguenti informazioni:      |Testo |M      |
 |                   |                                                                                   |      |       |
 |                   |* Nome della lista o del singolo candidato (es. nel caso dell’elezione del sindaco)|      |       |
 |                   |                                                                                   |      |       |
@@ -1397,7 +1384,7 @@ Ai fini del co-finanziamento, la pubblicazione del dataset #38#39#40BIS viene eq
 |                   |                                                                                   |      |       |
 |                   |* Totale votanti femmine                                                           |      |       |
 +-------------------+-----------------------------------------------------------------------------------+------+-------+
-|\ |STYLE268|\      |Inserire una riga per ciascuna delle seguenti informazioni:                        |Numero|M      |
+|\ |STYLE272|\      |Inserire una riga per ciascuna delle seguenti informazioni:                        |Numero|M      |
 |                   |                                                                                   |      |       |
 |                   |* N. voti ottenuti dalla lista o dal singolo candidato (voti validi)               |      |       |
 |                   |                                                                                   |      |       |
@@ -1432,18 +1419,18 @@ Ai fini del co-finanziamento, la pubblicazione del dataset #38#39#40BIS viene eq
 #39 Risultati elezioni regionali (DEFINITIVO)
 ---------------------------------------------
 
-\ |STYLE269|\ : Risultati elettorali delle elezioni regionali nel proprio comune o provincia
+\ |STYLE273|\ : Risultati elettorali delle elezioni regionali nel proprio comune o provincia
 
-\ |STYLE270|\  Dataset tabellare
+\ |STYLE274|\  Dataset tabellare
 
-\ |STYLE271|\ : Tempestiva
+\ |STYLE275|\ : Tempestiva
 
 +-------------------+-----------------------------------------------------------------------------------+------+-------+
 |Denominazione Campo|Descrizione                                                                        |Tipo  |Obbligo|
 +===================+===================================================================================+======+=======+
 |Data               |Data elezione (giorno, mese, anno)                                                 |Data  |M      |
 +-------------------+-----------------------------------------------------------------------------------+------+-------+
-|\ |STYLE272|\      |Indicare se si tratta di:                                                          |Testo |M      |
+|\ |STYLE276|\      |Indicare se si tratta di:                                                          |Testo |M      |
 |                   |                                                                                   |      |       |
 |                   |* 1° turno                                                                         |      |       |
 |                   |                                                                                   |      |       |
@@ -1451,13 +1438,13 @@ Ai fini del co-finanziamento, la pubblicazione del dataset #38#39#40BIS viene eq
 |                   |                                                                                   |      |       |
 |                   |* turno unico                                                                      |      |       |
 +-------------------+-----------------------------------------------------------------------------------+------+-------+
-|\ |STYLE273|\      |Collegio elettorale o circoscrizione                                               |Testo |M      |
+|\ |STYLE277|\      |Collegio elettorale o circoscrizione                                               |Testo |M      |
 +-------------------+-----------------------------------------------------------------------------------+------+-------+
-|\ |STYLE274|\      |Numero della sezione                                                               |Numero|M      |
+|\ |STYLE278|\      |Numero della sezione                                                               |Numero|M      |
 +-------------------+-----------------------------------------------------------------------------------+------+-------+
-|\ |STYLE275|\      |Consiglio regionale o Presidente della Regione                                     |Testo |M      |
+|\ |STYLE279|\      |Consiglio regionale o Presidente della Regione                                     |Testo |M      |
 +-------------------+-----------------------------------------------------------------------------------+------+-------+
-|\ |STYLE276|\      |Inserire in questa colonna una riga per ciascuna delle seguenti informazioni:      |Testo |M      |
+|\ |STYLE280|\      |Inserire in questa colonna una riga per ciascuna delle seguenti informazioni:      |Testo |M      |
 |                   |                                                                                   |      |       |
 |                   |* Nome della lista o del singolo candidato (es. nel caso dell’elezione del sindaco)|      |       |
 |                   |                                                                                   |      |       |
@@ -1481,7 +1468,7 @@ Ai fini del co-finanziamento, la pubblicazione del dataset #38#39#40BIS viene eq
 |                   |                                                                                   |      |       |
 |                   |* Totale votanti femmine                                                           |      |       |
 +-------------------+-----------------------------------------------------------------------------------+------+-------+
-|\ |STYLE277|\      |Inserire una riga per ciascuna delle seguenti informazioni:                        |Numero|M      |
+|\ |STYLE281|\      |Inserire una riga per ciascuna delle seguenti informazioni:                        |Numero|M      |
 |                   |                                                                                   |      |       |
 |                   |* N. voti ottenuti dalla lista o dal singolo candidato (voti validi)               |      |       |
 |                   |                                                                                   |      |       |
@@ -1511,18 +1498,18 @@ Ai fini del co-finanziamento, la pubblicazione del dataset #38#39#40BIS viene eq
 #40 Risultati elezioni nazionali (DEFINITIVO)
 ---------------------------------------------
 
-\ |STYLE278|\ : Risultati elettorali delle elezioni nazionali nel proprio comune o provincia
+\ |STYLE282|\ : Risultati elettorali delle elezioni nazionali nel proprio comune o provincia
 
-\ |STYLE279|\  Dataset tabellare
+\ |STYLE283|\  Dataset tabellare
 
-\ |STYLE280|\ : Tempestiva
+\ |STYLE284|\ : Tempestiva
 
 +-------------------+-----------------------------------------------------------------------------------+------+-------+
 |Denominazione Campo|Descrizione                                                                        |Tipo  |Obbligo|
 +===================+===================================================================================+======+=======+
 |Data               |Data elezione (giorno, mese, anno)                                                 |Data  |M      |
 +-------------------+-----------------------------------------------------------------------------------+------+-------+
-|\ |STYLE281|\      |Indicare se si tratta di:                                                          |Testo |M      |
+|\ |STYLE285|\      |Indicare se si tratta di:                                                          |Testo |M      |
 |                   |                                                                                   |      |       |
 |                   |* 1° turno                                                                         |      |       |
 |                   |                                                                                   |      |       |
@@ -1530,13 +1517,13 @@ Ai fini del co-finanziamento, la pubblicazione del dataset #38#39#40BIS viene eq
 |                   |                                                                                   |      |       |
 |                   |* turno unico                                                                      |      |       |
 +-------------------+-----------------------------------------------------------------------------------+------+-------+
-|\ |STYLE282|\      |Collegio elettorale o circoscrizione                                               |Testo |M      |
+|\ |STYLE286|\      |Collegio elettorale o circoscrizione                                               |Testo |M      |
 +-------------------+-----------------------------------------------------------------------------------+------+-------+
-|\ |STYLE283|\      |Numero della sezione                                                               |Numero|M      |
+|\ |STYLE287|\      |Numero della sezione                                                               |Numero|M      |
 +-------------------+-----------------------------------------------------------------------------------+------+-------+
-|\ |STYLE284|\      |Camera dei deputati o Senato della Repubblica                                      |Testo |M      |
+|\ |STYLE288|\      |Camera dei deputati o Senato della Repubblica                                      |Testo |M      |
 +-------------------+-----------------------------------------------------------------------------------+------+-------+
-|\ |STYLE285|\      |Inserire in questa colonna una riga per ciascuna delle seguenti informazioni:      |Testo |M      |
+|\ |STYLE289|\      |Inserire in questa colonna una riga per ciascuna delle seguenti informazioni:      |Testo |M      |
 |                   |                                                                                   |      |       |
 |                   |* Nome della lista o del singolo candidato (es. nel caso dell’elezione del sindaco)|      |       |
 |                   |                                                                                   |      |       |
@@ -1560,7 +1547,7 @@ Ai fini del co-finanziamento, la pubblicazione del dataset #38#39#40BIS viene eq
 |                   |                                                                                   |      |       |
 |                   |* Totale votanti femmine                                                           |      |       |
 +-------------------+-----------------------------------------------------------------------------------+------+-------+
-|\ |STYLE286|\      |Inserire una riga per ciascuna delle seguenti informazioni:                        |Numero|M      |
+|\ |STYLE290|\      |Inserire una riga per ciascuna delle seguenti informazioni:                        |Numero|M      |
 |                   |                                                                                   |      |       |
 |                   |* N. voti ottenuti dalla lista o dal singolo candidato (voti validi)               |      |       |
 |                   |                                                                                   |      |       |
@@ -1590,28 +1577,28 @@ Ai fini del co-finanziamento, la pubblicazione del dataset #38#39#40BIS viene eq
 #38#39#40BIS Risultati elezioni (DEFINITIVO)
 --------------------------------------------
 
-\ |STYLE287|\ : Risultati elettorali e dati sull’affluenza 
+\ |STYLE291|\ : Risultati elettorali e dati sull’affluenza 
 
-\ |STYLE288|\  Dataset tabellare
+\ |STYLE292|\  Dataset tabellare
 
-\ |STYLE289|\ : Tempestiva
+\ |STYLE293|\ : Tempestiva
 
 +-------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------+-------+
 |Denominazione Campo|Descrizione                                                                                                                                                                                                                                                |Tipo  |Obbligo|
 +===================+===========================================================================================================================================================================================================================================================+======+=======+
 |Data               |Data elezione (giorno, mese, anno)                                                                                                                                                                                                                         |Data  |M      |
 +-------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------+-------+
-|\ |STYLE290|\      |In caso di più tornate elettorali, specificare il turno o indicare se turno unico (1° turno, 2° turno, turno unico)                                                                                                                                        |Testo |M      |
+|\ |STYLE294|\      |In caso di più tornate elettorali, specificare il turno o indicare se turno unico (1° turno, 2° turno, turno unico)                                                                                                                                        |Testo |M      |
 +-------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------+-------+
-|\ |STYLE291|\      |Tipologia di elezione (es. Camera, Senato, Comunali, Circoscrizionali, Provinciali, Regionali, Europee, Referendum 1, Referendum 2, ecc.)                                                                                                                  |Testo |M      |
+|\ |STYLE295|\      |Tipologia di elezione (es. Camera, Senato, Comunali, Circoscrizionali, Provinciali, Regionali, Europee, Referendum 1, Referendum 2, ecc.)                                                                                                                  |Testo |M      |
 +-------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------+-------+
-|\ |STYLE292|\      |Es. Camera dei Deputati, Senato della Repubblica, Consiglio comunale, Sindaco, Consiglio provinciale, Presidente della Provincia, Consiglio regionale, Presidente della Regione, Parlamento europeo, oppure l’oggetto del referendum (es. energia nucleare)|Testo |M      |
+|\ |STYLE296|\      |Es. Camera dei Deputati, Senato della Repubblica, Consiglio comunale, Sindaco, Consiglio provinciale, Presidente della Provincia, Consiglio regionale, Presidente della Regione, Parlamento europeo, oppure l’oggetto del referendum (es. energia nucleare)|Testo |M      |
 +-------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------+-------+
-|\ |STYLE293|\      |Collegio elettorale o Circoscrizione                                                                                                                                                                                                                       |Testo |M      |
+|\ |STYLE297|\      |Collegio elettorale o Circoscrizione                                                                                                                                                                                                                       |Testo |M      |
 +-------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------+-------+
-|\ |STYLE294|\      |Numero della sezione                                                                                                                                                                                                                                       |Testo |M      |
+|\ |STYLE298|\      |Numero della sezione                                                                                                                                                                                                                                       |Testo |M      |
 +-------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------+-------+
-|\ |STYLE295|\      |Inserire in questa colonna una riga per ciascuna delle seguenti informazioni:                                                                                                                                                                              |Testo |M      |
+|\ |STYLE299|\      |Inserire in questa colonna una riga per ciascuna delle seguenti informazioni:                                                                                                                                                                              |Testo |M      |
 |                   |                                                                                                                                                                                                                                                           |      |       |
 |                   |* Nome della lista o del singolo candidato (es. nel caso dell’elezione del sindaco)                                                                                                                                                                        |      |       |
 |                   |                                                                                                                                                                                                                                                           |      |       |
@@ -1635,7 +1622,7 @@ Ai fini del co-finanziamento, la pubblicazione del dataset #38#39#40BIS viene eq
 |                   |                                                                                                                                                                                                                                                           |      |       |
 |                   |* Totale votanti femmine                                                                                                                                                                                                                                   |      |       |
 +-------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------+-------+
-|\ |STYLE296|\      |Inserire una riga per ciascuna delle seguenti informazioni:                                                                                                                                                                                                |Numero|M      |
+|\ |STYLE300|\      |Inserire una riga per ciascuna delle seguenti informazioni:                                                                                                                                                                                                |Numero|M      |
 |                   |                                                                                                                                                                                                                                                           |      |       |
 |                   |* N. voti ottenuti dalla lista o dal singolo candidato (voti validi)                                                                                                                                                                                       |      |       |
 |                   |                                                                                                                                                                                                                                                           |      |       |
@@ -1680,11 +1667,11 @@ Ai fini del co-finanziamento, la pubblicazione del dataset #38#39#40BIS viene eq
 #46 Condizione lavorativa (DEFINITIVO)
 --------------------------------------
 
-\ |STYLE297|\ : Informazioni sulla condizione lavorativa dei residenti (ad esempio occupato, in cerca di occupazione ecc.)
+\ |STYLE301|\ : Informazioni sulla condizione lavorativa dei residenti (ad esempio occupato, in cerca di occupazione ecc.)
 
-\ |STYLE298|\  Dataset tabellare
+\ |STYLE302|\  Dataset tabellare
 
-\ |STYLE299|\ : Trimestrale
+\ |STYLE303|\ : Trimestrale
 
 Esempio: \ |LINK37|\  
 
@@ -1693,11 +1680,11 @@ Esempio: \ |LINK37|\
 +===================+=========================================================================+======+=======+
 |Anno               |Anno di riferimento                                                      |Numero|M      |
 +-------------------+-------------------------------------------------------------------------+------+-------+
-|\ |STYLE300|\      |Condizione lavorativa (ad esempio occupato, in cerca di occupazione ecc.)|Testo |M      |
+|\ |STYLE304|\      |Condizione lavorativa (ad esempio occupato, in cerca di occupazione ecc.)|Testo |M      |
 +-------------------+-------------------------------------------------------------------------+------+-------+
-|\ |STYLE301|\      |Numero di maschi                                                         |Numero|M      |
+|\ |STYLE305|\      |Numero di maschi                                                         |Numero|M      |
 +-------------------+-------------------------------------------------------------------------+------+-------+
-|\ |STYLE302|\      |Numero di femmine                                                        |Numero|M      |
+|\ |STYLE306|\      |Numero di femmine                                                        |Numero|M      |
 +-------------------+-------------------------------------------------------------------------+------+-------+
 
 .. _h2c1d74277104e41780968148427e:
@@ -1745,22 +1732,22 @@ Esempio: \ |LINK37|\
 #4 Rete viaria - Dataset geografico (DEFINITIVO)
 ------------------------------------------------
 
-\ |STYLE303|\ : Rete viaria 
+\ |STYLE307|\ : Rete viaria 
 
-\ |STYLE304|\  Dataset geografico (Shapefile)
+\ |STYLE308|\  Dataset geografico (Shapefile)
 
-\ |STYLE305|\ : Tempestiva
+\ |STYLE309|\ : Tempestiva
 
 +-------------------+------------------------+-----+-------+
 |Denominazione Campo|Descrizione             |Tipo |Obbligo|
 +===================+========================+=====+=======+
 |Toponimo           |Toponimo della strada   |Testo|M      |
 +-------------------+------------------------+-----+-------+
-|\ |STYLE306|\      |Nome del toponimo       |Testo|M      |
+|\ |STYLE310|\      |Nome del toponimo       |Testo|M      |
 +-------------------+------------------------+-----+-------+
-|\ |STYLE307|\      |Località                |Testo|M      |
+|\ |STYLE311|\      |Località                |Testo|M      |
 +-------------------+------------------------+-----+-------+
-|\ |STYLE308|\      |Senso di marcia (U/D/A):|Testo|M      |
+|\ |STYLE312|\      |Senso di marcia (U/D/A):|Testo|M      |
 |                   |                        |     |       |
 |                   |* U - Unico             |     |       |
 |                   |                        |     |       |
@@ -1768,9 +1755,9 @@ Esempio: \ |LINK37|\
 |                   |                        |     |       |
 |                   |* A - Alternato         |     |       |
 +-------------------+------------------------+-----+-------+
-|\ |STYLE309|\      |Primo numero civico     |Testo|M      |
+|\ |STYLE313|\      |Primo numero civico     |Testo|M      |
 +-------------------+------------------------+-----+-------+
-|\ |STYLE310|\      |Ultimo numero civico    |Testo|M      |
+|\ |STYLE314|\      |Ultimo numero civico    |Testo|M      |
 +-------------------+------------------------+-----+-------+
 
 .. _h5457273b5f6970146f702b17c7f3550:
@@ -1778,11 +1765,11 @@ Esempio: \ |LINK37|\
 #5 Rete viaria - Toponimi stradali (DEFINITIVO)
 -----------------------------------------------
 
-\ |STYLE311|\ : Elenco Toponimi stradali
+\ |STYLE315|\ : Elenco Toponimi stradali
 
-\ |STYLE312|\  Dataset tabellare
+\ |STYLE316|\  Dataset tabellare
 
-\ |STYLE313|\ : Tempestiva
+\ |STYLE317|\ : Tempestiva
 
 Esempio: \ |LINK38|\  
 
@@ -1791,11 +1778,11 @@ Esempio: \ |LINK38|\
 +===================+==========================================================+=====+=======+
 |Classe_Toponimo    |Indicare la classe toponimo (es. Via, Piazza, Largo, ecc.)|Testo|M      |
 +-------------------+----------------------------------------------------------+-----+-------+
-|\ |STYLE314|\      |Nome di Via, Piazza, Largo, ecc.                          |Testo|M      |
+|\ |STYLE318|\      |Nome di Via, Piazza, Largo, ecc.                          |Testo|M      |
 +-------------------+----------------------------------------------------------+-----+-------+
-|\ |STYLE315|\      |Codice del toponimo                                       |Testo|M      |
+|\ |STYLE319|\      |Codice del toponimo                                       |Testo|M      |
 +-------------------+----------------------------------------------------------+-----+-------+
-|\ |STYLE316|\      |Inserire se si tratta di un dato storico (SI/NO)          |Testo|M      |
+|\ |STYLE320|\      |Inserire se si tratta di un dato storico (SI/NO)          |Testo|M      |
 +-------------------+----------------------------------------------------------+-----+-------+
 
 .. _h2c1d74277104e41780968148427e:
@@ -1808,11 +1795,11 @@ Esempio: \ |LINK38|\
 #6 Rete viaria - Numeri civici (DEFINITIVO)
 -------------------------------------------
 
-\ |STYLE317|\ : Numeri civici georeferenziati
+\ |STYLE321|\ : Numeri civici georeferenziati
 
-\ |STYLE318|\  Dataset tabellare
+\ |STYLE322|\  Dataset tabellare
 
-\ |STYLE319|\ : Tempestiva
+\ |STYLE323|\ : Tempestiva
 
 Esempio: https://www.dati.lombardia.it/Territorio/Comune-Bergamo-Numerazione-civica/pcif-9jj7
 
@@ -1821,19 +1808,19 @@ Esempio: https://www.dati.lombardia.it/Territorio/Comune-Bergamo-Numerazione-civ
 +===================+======================================================+======+=======+
 |Classe_Toponimo    |Indicare la classe toponimo (Via, Piazza, Largo, ecc.)|Testo |M      |
 +-------------------+------------------------------------------------------+------+-------+
-|\ |STYLE320|\      |Nome di Via, Piazza, Largo, ecc.                      |Testo |M      |
+|\ |STYLE324|\      |Nome di Via, Piazza, Largo, ecc.                      |Testo |M      |
 +-------------------+------------------------------------------------------+------+-------+
-|\ |STYLE321|\      |Numero del civico                                     |Numero|M      |
+|\ |STYLE325|\      |Numero del civico                                     |Numero|M      |
 +-------------------+------------------------------------------------------+------+-------+
-|\ |STYLE322|\      |Componente alfabetica del civico (es. A, Bis, ecc.)   |Testo |M      |
+|\ |STYLE326|\      |Componente alfabetica del civico (es. A, Bis, ecc.)   |Testo |M      |
 +-------------------+------------------------------------------------------+------+-------+
-|\ |STYLE323|\      |CAP                                                   |Numero|M      |
+|\ |STYLE327|\      |CAP                                                   |Numero|M      |
 +-------------------+------------------------------------------------------+------+-------+
-|\ |STYLE324|\      |Sezione di censimento ISTAT                           |Numero|O      |
+|\ |STYLE328|\      |Sezione di censimento ISTAT                           |Numero|O      |
 +-------------------+------------------------------------------------------+------+-------+
-|\ |STYLE325|\      |Longitudine                                           |Numero|M      |
+|\ |STYLE329|\      |Longitudine                                           |Numero|M      |
 +-------------------+------------------------------------------------------+------+-------+
-|\ |STYLE326|\      |Latitudine                                            |Numero|M      |
+|\ |STYLE330|\      |Latitudine                                            |Numero|M      |
 +-------------------+------------------------------------------------------+------+-------+
 
 .. _h32623c3510287d7f3af50466d4e60:
@@ -1841,11 +1828,11 @@ Esempio: https://www.dati.lombardia.it/Territorio/Comune-Bergamo-Numerazione-civ
 #14      Cantieri stradali (DEFINITIVO)
 ---------------------------------------
 
-\ |STYLE327|\ : Cantieri stradali attivi 
+\ |STYLE331|\ : Cantieri stradali attivi 
 
-\ |STYLE328|\  Dataset geografico (Shapefile)
+\ |STYLE332|\  Dataset geografico (Shapefile)
 
-\ |STYLE329|\ : Tempestiva
+\ |STYLE333|\ : Tempestiva
 
 
 +-------------------+--------------------------------------------+-----+-------+
@@ -1853,13 +1840,13 @@ Esempio: https://www.dati.lombardia.it/Territorio/Comune-Bergamo-Numerazione-civ
 +===================+============================================+=====+=======+
 |Toponimo           |Via, Piazza, ecc.                           |Testo|M      |
 +-------------------+--------------------------------------------+-----+-------+
-|\ |STYLE330|\      |Nome della via, piazza, ecc.                |Testo|M      |
+|\ |STYLE334|\      |Nome della via, piazza, ecc.                |Testo|M      |
 +-------------------+--------------------------------------------+-----+-------+
-|\ |STYLE331|\      |Breve descrizione dei lavori in svolgimento |Testo|M      |
+|\ |STYLE335|\      |Breve descrizione dei lavori in svolgimento |Testo|M      |
 +-------------------+--------------------------------------------+-----+-------+
-|\ |STYLE332|\      |Data di inizio lavoro                       |Data |M      |
+|\ |STYLE336|\      |Data di inizio lavoro                       |Data |M      |
 +-------------------+--------------------------------------------+-----+-------+
-|\ |STYLE333|\      |Data prevista di fine lavoro                |Data |M      |
+|\ |STYLE337|\      |Data prevista di fine lavoro                |Data |M      |
 +-------------------+--------------------------------------------+-----+-------+
 
 .. _h2c1d74277104e41780968148427e:
@@ -1872,11 +1859,11 @@ Esempio: https://www.dati.lombardia.it/Territorio/Comune-Bergamo-Numerazione-civ
 #16 HotSpot Wifi (DEFINITIVO)
 -----------------------------
 
-\ |STYLE334|\ : Elenco hotspot wifi pubblici, georeferenziati o dataset geografico
+\ |STYLE338|\ : Elenco hotspot wifi pubblici, georeferenziati o dataset geografico
 
-\ |STYLE335|\  Dataset tabellare
+\ |STYLE339|\  Dataset tabellare
 
-\ |STYLE336|\ : Tempestiva
+\ |STYLE340|\ : Tempestiva
 
 Esempio: \ |LINK39|\  
 
@@ -1885,21 +1872,21 @@ Esempio: \ |LINK39|\
 +===================+======================================================================================+======+=======+
 |Rete               |Nome della rete (SSID)                                                                |Testo |O      |
 +-------------------+--------------------------------------------------------------------------------------+------+-------+
-|\ |STYLE337|\      |Codice identificativo del punto di accesso (singolo HotSpot Wifi) attribuito dall’ente|Testo |M      |
+|\ |STYLE341|\      |Codice identificativo del punto di accesso (singolo HotSpot Wifi) attribuito dall’ente|Testo |M      |
 +-------------------+--------------------------------------------------------------------------------------+------+-------+
-|\ |STYLE338|\      |Indicare la tipologia del punto di accesso (HotSpot/Dispositivo estensione)           |Testo |O      |
+|\ |STYLE342|\      |Indicare la tipologia del punto di accesso (HotSpot/Dispositivo estensione)           |Testo |O      |
 +-------------------+--------------------------------------------------------------------------------------+------+-------+
-|\ |STYLE339|\      |Nome del sito dove si trova il punto di accesso (es. denominazione Biblioteca…)       |Testo |M      |
+|\ |STYLE343|\      |Nome del sito dove si trova il punto di accesso (es. denominazione Biblioteca…)       |Testo |M      |
 +-------------------+--------------------------------------------------------------------------------------+------+-------+
-|\ |STYLE340|\      |Punto di accesso attivo (si, no)                                                      |Testo |M      |
+|\ |STYLE344|\      |Punto di accesso attivo (si, no)                                                      |Testo |M      |
 +-------------------+--------------------------------------------------------------------------------------+------+-------+
-|\ |STYLE341|\      |Codice accesso                                                                        |Testo |O      |
+|\ |STYLE345|\      |Codice accesso                                                                        |Testo |O      |
 +-------------------+--------------------------------------------------------------------------------------+------+-------+
-|\ |STYLE342|\      |Longitudine                                                                           |Numero|M      |
+|\ |STYLE346|\      |Longitudine                                                                           |Numero|M      |
 +-------------------+--------------------------------------------------------------------------------------+------+-------+
-|\ |STYLE343|\      |Latitudine                                                                            |Numero|M      |
+|\ |STYLE347|\      |Latitudine                                                                            |Numero|M      |
 +-------------------+--------------------------------------------------------------------------------------+------+-------+
-|\ |STYLE344|\      |Indicare il raggio di copertura in metri                                              |Numero|O      |
+|\ |STYLE348|\      |Indicare il raggio di copertura in metri                                              |Numero|O      |
 +-------------------+--------------------------------------------------------------------------------------+------+-------+
 
  
@@ -1909,30 +1896,30 @@ Esempio: \ |LINK39|\
 #19 Area per sgambatura cani (DEFINITIVO)
 -----------------------------------------
 
-\ |STYLE345|\ : Mappa aree per sgambatura cani
+\ |STYLE349|\ : Mappa aree per sgambatura cani
 
-\ |STYLE346|\  Dataset geografico (Shapefile)
+\ |STYLE350|\  Dataset geografico (Shapefile)
 
-\ |STYLE347|\ : Tempestiva
+\ |STYLE351|\ : Tempestiva
 
 +-------------------+----------------------------------------------------------------+------+-------+
 |Denominazione Campo|Descrizione                                                     |Tipo  |Obbligo|
 +===================+================================================================+======+=======+
 |ID_Area            |Codice identificativo dell’area                                 |Numero|M      |
 +-------------------+----------------------------------------------------------------+------+-------+
-|\ |STYLE348|\      |Comune in cui è ubicata l’area                                  |Testo |M      |
+|\ |STYLE352|\      |Comune in cui è ubicata l’area                                  |Testo |M      |
 +-------------------+----------------------------------------------------------------+------+-------+
-|\ |STYLE349|\      |Via, Piazza, ecc.                                               |Testo |M      |
+|\ |STYLE353|\      |Via, Piazza, ecc.                                               |Testo |M      |
 +-------------------+----------------------------------------------------------------+------+-------+
-|\ |STYLE350|\      |Nome della via, piazza, ecc.                                    |Testo |M      |
+|\ |STYLE354|\      |Nome della via, piazza, ecc.                                    |Testo |M      |
 +-------------------+----------------------------------------------------------------+------+-------+
-|\ |STYLE351|\      |Indicare la superficie dell’area (mq)                           |Numero|M      |
+|\ |STYLE355|\      |Indicare la superficie dell’area (mq)                           |Numero|M      |
 +-------------------+----------------------------------------------------------------+------+-------+
-|\ |STYLE352|\      |Indicare se sono presenti fontanelle (SI/NO)                    |Testo |O      |
+|\ |STYLE356|\      |Indicare se sono presenti fontanelle (SI/NO)                    |Testo |O      |
 +-------------------+----------------------------------------------------------------+------+-------+
-|\ |STYLE353|\      |Indicare se sono presenti attrezzature per addestramento (SI/NO)|Testo |O      |
+|\ |STYLE357|\      |Indicare se sono presenti attrezzature per addestramento (SI/NO)|Testo |O      |
 +-------------------+----------------------------------------------------------------+------+-------+
-|\ |STYLE354|\      |Indicare se sono presenti panchine(SI/NO)                       |Testo |O      |
+|\ |STYLE358|\      |Indicare se sono presenti panchine(SI/NO)                       |Testo |O      |
 +-------------------+----------------------------------------------------------------+------+-------+
 
 .. _h2c1d74277104e41780968148427e:
@@ -1945,11 +1932,11 @@ Esempio: \ |LINK39|\
 #21 Pratiche edilizie (DEFINITIVO) 
 -----------------------------------
 
-\ |STYLE355|\ : Elenco Pratiche edilizie gestite dallo Sportello Unico per l’Edilizia
+\ |STYLE359|\ : Elenco Pratiche edilizie gestite dallo Sportello Unico per l’Edilizia
 
-\ |STYLE356|\  Dataset tabellare
+\ |STYLE360|\  Dataset tabellare
 
-\ |STYLE357|\ : Mensile
+\ |STYLE361|\ : Mensile
 
 Esempio: \ |LINK40|\  
 
@@ -1958,29 +1945,26 @@ Esempio: \ |LINK40|\
 +===================+========================================================+======+=======+
 |Anno               |Anno di riferimento                                     |Numero|M      |
 +-------------------+--------------------------------------------------------+------+-------+
-|\ |STYLE358|\      |Tipologia istanza (es. SCIA, PDC, ecc.)                 |Testo |M      |
+|\ |STYLE362|\      |Tipologia istanza (es. SCIA, PDC, ecc.)                 |Testo |M      |
 +-------------------+--------------------------------------------------------+------+-------+
-|\ |STYLE359|\      |Codice identificativo dell’istanza                      |Testo |O      |
+|\ |STYLE363|\      |Codice identificativo dell’istanza                      |Testo |O      |
 +-------------------+--------------------------------------------------------+------+-------+
-|\ |STYLE360|\      |Data di presentazione dell’istanza                      |Data  |M      |
+|\ |STYLE364|\      |Data di presentazione dell’istanza                      |Data  |M      |
 +-------------------+--------------------------------------------------------+------+-------+
-|\ |STYLE361|\      |Numero di protocollo dell’istanza                       |Numero|O      |
+|\ |STYLE365|\      |Numero di protocollo dell’istanza                       |Numero|O      |
 +-------------------+--------------------------------------------------------+------+-------+
-|\ |STYLE362|\      |Numero del provvedimento (nel caso di PDC)              |Testo |M      |
+|\ |STYLE366|\      |Numero del provvedimento (nel caso di PDC)              |Testo |M      |
 +-------------------+--------------------------------------------------------+------+-------+
-|\ |STYLE363|\      |Data del provvedimento (nel caso di PDC)                |Data  |M      |
+|\ |STYLE367|\      |Data del provvedimento (nel caso di PDC)                |Data  |M      |
 +-------------------+--------------------------------------------------------+------+-------+
-|\ |STYLE364|\      |Nominativo o Ragione sociale dell’istante \ |STYLE365|\ |Testo |O      |
+|\ |STYLE368|\      |Nominativo o Ragione sociale dell’istante \ |STYLE369|\ |Testo |O      |
 +-------------------+--------------------------------------------------------+------+-------+
-|\ |STYLE366|\      |Descrizione dell’intervento oggetto dell’istanza        |Testo |M      |
+|\ |STYLE370|\      |Descrizione dell’intervento oggetto dell’istanza        |Testo |M      |
 +-------------------+--------------------------------------------------------+------+-------+
-|\ |STYLE367|\      |Codice ecografico del fabbricato                        |Testo |O      |
+|\ |STYLE371|\      |Codice ecografico del fabbricato                        |Testo |O      |
 +-------------------+--------------------------------------------------------+------+-------+
-
-.. _h507e71435666451e1b704f12233b4852:
 
 \* Ciascun ente valuta la pubblicazione del dato in base al principio del bilanciamento tra l’interesse pubblico a conoscere dati, informazioni e documenti per tutelare i diritti dei cittadini e l’interesse pubblico alla tutela dei diritti delle persone e delle organizzazioni private che potrebbero essere lesi dalla disponibilità di dati, informazioni e documenti.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 .. _h2c1d74277104e41780968148427e:
 
@@ -2012,34 +1996,34 @@ Esempio: \ |LINK40|\
 #22 Elenco beni confiscati (DEFINITIVO) 
 ----------------------------------------
 
-\ |STYLE368|\ : Elenco beni confiscati alla mafia e assegnati al comune
+\ |STYLE372|\ : Elenco beni confiscati alla mafia e assegnati al comune
 
-\ |STYLE369|\  Dataset tabellare
+\ |STYLE373|\  Dataset tabellare
 
-\ |STYLE370|\ : Mensile
+\ |STYLE374|\ : Mensile
 
 +-------------------+-----------------------------------------------------------------------------------------+------+-------+
 |Denominazione Campo|Descrizione                                                                              |Tipo  |Obbligo|
 +===================+=========================================================================================+======+=======+
 |ID_Bene            |Codice identificativo del bene confiscato                                                |Testo |O      |
 +-------------------+-----------------------------------------------------------------------------------------+------+-------+
-|\ |STYLE371|\      |Tipologia del bene confiscato (es. appartamento, villa, ecc.)                            |Testo |M      |
+|\ |STYLE375|\      |Tipologia del bene confiscato (es. appartamento, villa, ecc.)                            |Testo |M      |
 +-------------------+-----------------------------------------------------------------------------------------+------+-------+
-|\ |STYLE372|\      |Per le informazioni di ubicazione vedere Allegato 1 - Tabella 1                          |Testo |M      |
+|\ |STYLE376|\      |Per le informazioni di ubicazione vedere Allegato 1 - Tabella 1                          |Testo |M      |
 +-------------------+-----------------------------------------------------------------------------------------+------+-------+
-|\ |STYLE373|\      |Superficie del bene confiscato (mq)                                                      |Numero|M      |
+|\ |STYLE377|\      |Superficie del bene confiscato (mq)                                                      |Numero|M      |
 +-------------------+-----------------------------------------------------------------------------------------+------+-------+
-|\ |STYLE374|\      |Nominativo o ragione sociale dell’assegnatario del bene                                  |Testo |M      |
+|\ |STYLE378|\      |Nominativo o ragione sociale dell’assegnatario del bene                                  |Testo |M      |
 +-------------------+-----------------------------------------------------------------------------------------+------+-------+
-|\ |STYLE375|\      |Breve descrizione del progetto in funzione del quale il bene confiscato è stato assegnato|Testo |O      |
+|\ |STYLE379|\      |Breve descrizione del progetto in funzione del quale il bene confiscato è stato assegnato|Testo |O      |
 +-------------------+-----------------------------------------------------------------------------------------+------+-------+
-|\ |STYLE376|\      |Destinazione d’uso del bene confiscato                                                   |Testo |M      |
+|\ |STYLE380|\      |Destinazione d’uso del bene confiscato                                                   |Testo |M      |
 +-------------------+-----------------------------------------------------------------------------------------+------+-------+
-|\ |STYLE377|\      |Riferimenti all’atto di concessione                                                      |Testo |O      |
+|\ |STYLE381|\      |Riferimenti all’atto di concessione                                                      |Testo |O      |
 +-------------------+-----------------------------------------------------------------------------------------+------+-------+
-|\ |STYLE378|\      |Data dell’atto di concessione                                                            |Data  |M      |
+|\ |STYLE382|\      |Data dell’atto di concessione                                                            |Data  |M      |
 +-------------------+-----------------------------------------------------------------------------------------+------+-------+
-|\ |STYLE379|\      |Numero di anni della concessione                                                         |Numero|M      |
+|\ |STYLE383|\      |Numero di anni della concessione                                                         |Numero|M      |
 +-------------------+-----------------------------------------------------------------------------------------+------+-------+
 
 .. _h2c1d74277104e41780968148427e:
@@ -2052,11 +2036,11 @@ Esempio: \ |LINK40|\
 #29 Centri revisione auto (DEFINITIVO)
 --------------------------------------
 
-\ |STYLE380|\ : Centri revisione auto autorizzati dalla Provincia
+\ |STYLE384|\ : Centri revisione auto autorizzati dalla Provincia
 
-\ |STYLE381|\  Dataset tabellare
+\ |STYLE385|\  Dataset tabellare
 
-\ |STYLE382|\ : Tempestiva
+\ |STYLE386|\ : Tempestiva
 
 Esempio: \ |LINK41|\ 
 
@@ -2066,11 +2050,11 @@ Esempio: \ |LINK41|\
 +===================+===============================================================+=====+=======+
 |Nome               |Nome del centro di revisione                                   |Testo|M      |
 +-------------------+---------------------------------------------------------------+-----+-------+
-|\ |STYLE383|\      |Tipologia di revisione (es. auto, moto, ecc.)                  |Testo|M      |
+|\ |STYLE387|\      |Tipologia di revisione (es. auto, moto, ecc.)                  |Testo|M      |
 +-------------------+---------------------------------------------------------------+-----+-------+
-|\ |STYLE384|\      |Per le informazioni di ubicazione vedere Allegato 1 - Tabella 1|Testo|M      |
+|\ |STYLE388|\      |Per le informazioni di ubicazione vedere Allegato 1 - Tabella 1|Testo|M      |
 +-------------------+---------------------------------------------------------------+-----+-------+
-|\ |STYLE385|\      |Numero di telefono del centro di revisione                     |Testo|O      |
+|\ |STYLE389|\      |Numero di telefono del centro di revisione                     |Testo|O      |
 +-------------------+---------------------------------------------------------------+-----+-------+
 
 .. _h5e126927772356f4b3651622c12502f:
@@ -2083,11 +2067,11 @@ Esempio: \ |LINK41|\
 #2 Contributi e sussidi (DEFINITIVO)
 ------------------------------------
 
-\ |STYLE386|\ : Dati relativi agli atti di concessione di sovvenzioni, contributi, sussidi ed ausili finanziari alle imprese e comunque di vantaggi economici di qualunque genere a persone ed enti pubblici e privati
+\ |STYLE390|\ : Dati relativi agli atti di concessione di sovvenzioni, contributi, sussidi ed ausili finanziari alle imprese e comunque di vantaggi economici di qualunque genere a persone ed enti pubblici e privati
 
-\ |STYLE387|\  Dataset tabellare
+\ |STYLE391|\  Dataset tabellare
 
-\ |STYLE388|\ : Tempestiva
+\ |STYLE392|\ : Tempestiva
 
 Obblighi normativi: D. lgs. 33/2013, in particolare artt. 26-27.
 
@@ -2099,39 +2083,39 @@ Vedi \ |LINK42|\  (FAQ N. 13)
 +===================+===============================================================================+=======+=======+
 |Anno               |Anno di riferimento                                                            |Numero |M      |
 +-------------------+-------------------------------------------------------------------------------+-------+-------+
-|\ |STYLE389|\      |Codice identificativo del provvedimento                                        |Testo  |M      |
+|\ |STYLE393|\      |Codice identificativo del provvedimento                                        |Testo  |M      |
 +-------------------+-------------------------------------------------------------------------------+-------+-------+
-|\ |STYLE390|\      |Data del provvedimento                                                         |Data   |M      |
+|\ |STYLE394|\      |Data del provvedimento                                                         |Data   |M      |
 +-------------------+-------------------------------------------------------------------------------+-------+-------+
-|\ |STYLE391|\      |Nominativo o Ragione sociale del soggetto beneficiario del provvedimento       |Testo  |M      |
+|\ |STYLE395|\      |Nominativo o Ragione sociale del soggetto beneficiario del provvedimento       |Testo  |M      |
 +-------------------+-------------------------------------------------------------------------------+-------+-------+
-|\ |STYLE392|\      |Indicare se si tratta di amministrazione pubblica, privato, Onlus o altro ente |Testo  |O      |
+|\ |STYLE396|\      |Indicare se si tratta di amministrazione pubblica, privato, Onlus o altro ente |Testo  |O      |
 +-------------------+-------------------------------------------------------------------------------+-------+-------+
-|\ |STYLE393|\      |Codice fiscale del soggetto beneficiario del provvedimento                     |Testo  |M      |
+|\ |STYLE397|\      |Codice fiscale del soggetto beneficiario del provvedimento                     |Testo  |M      |
 +-------------------+-------------------------------------------------------------------------------+-------+-------+
-|\ |STYLE394|\      |Partita IVA del soggetto beneficiario del provvedimento                        |Testo  |M      |
+|\ |STYLE398|\      |Partita IVA del soggetto beneficiario del provvedimento                        |Testo  |M      |
 +-------------------+-------------------------------------------------------------------------------+-------+-------+
-|\ |STYLE395|\      |Oggetto del provvedimento                                                      |Testo  |M      |
+|\ |STYLE399|\      |Oggetto del provvedimento                                                      |Testo  |M      |
 +-------------------+-------------------------------------------------------------------------------+-------+-------+
-|\ |STYLE396|\      |Riferimenti della norma o titolo a base dell’attribuzione                      |Testo  |M      |
+|\ |STYLE400|\      |Riferimenti della norma o titolo a base dell’attribuzione                      |Testo  |M      |
 +-------------------+-------------------------------------------------------------------------------+-------+-------+
-|\ |STYLE397|\      |URL norma o titolo                                                             |Web URL|O      |
+|\ |STYLE401|\      |URL norma o titolo                                                             |Web URL|O      |
 +-------------------+-------------------------------------------------------------------------------+-------+-------+
-|\ |STYLE398|\      |Ufficio responsabile del provvedimento.                                        |Testo  |M      |
+|\ |STYLE402|\      |Ufficio responsabile del provvedimento.                                        |Testo  |M      |
 +-------------------+-------------------------------------------------------------------------------+-------+-------+
-|\ |STYLE399|\      |Cognome del responsabile del procedimento                                      |Testo  |M      |
+|\ |STYLE403|\      |Cognome del responsabile del procedimento                                      |Testo  |M      |
 +-------------------+-------------------------------------------------------------------------------+-------+-------+
-|\ |STYLE400|\      |Nome del responsabile del procedimento                                         |Testo  |M      |
+|\ |STYLE404|\      |Nome del responsabile del procedimento                                         |Testo  |M      |
 +-------------------+-------------------------------------------------------------------------------+-------+-------+
-|\ |STYLE401|\      |Modalità di individuazione del soggetto beneficiario (es. aggiudicazione bando)|Testo  |M      |
+|\ |STYLE405|\      |Modalità di individuazione del soggetto beneficiario (es. aggiudicazione bando)|Testo  |M      |
 +-------------------+-------------------------------------------------------------------------------+-------+-------+
-|\ |STYLE402|\      |Importo del vantaggio economico corrisposto                                    |Numero |M      |
+|\ |STYLE406|\      |Importo del vantaggio economico corrisposto                                    |Numero |M      |
 +-------------------+-------------------------------------------------------------------------------+-------+-------+
-|\ |STYLE403|\      |Breve descrizione progetto allegato al provvedimento                           |Testo  |M      |
+|\ |STYLE407|\      |Breve descrizione progetto allegato al provvedimento                           |Testo  |M      |
 +-------------------+-------------------------------------------------------------------------------+-------+-------+
-|\ |STYLE404|\      |URL progetto                                                                   |Web URL|O      |
+|\ |STYLE408|\      |URL progetto                                                                   |Web URL|O      |
 +-------------------+-------------------------------------------------------------------------------+-------+-------+
-|\ |STYLE405|\      |Link al curriculum del soggetto beneficiario                                   |Web URL|O      |
+|\ |STYLE409|\      |Link al curriculum del soggetto beneficiario                                   |Web URL|O      |
 +-------------------+-------------------------------------------------------------------------------+-------+-------+
 
 .. _h7782e36e316052235761422844d44:
@@ -2139,11 +2123,11 @@ Vedi \ |LINK42|\  (FAQ N. 13)
 #23 Elenco canoni di locazione (DEFINITIVO)
 -------------------------------------------
 
-\ |STYLE406|\ : Elenco canoni di locazione o di affitto percepiti
+\ |STYLE410|\ : Elenco canoni di locazione o di affitto percepiti
 
-\ |STYLE407|\  Dataset tabellare
+\ |STYLE411|\  Dataset tabellare
 
-\ |STYLE408|\ : Mensile
+\ |STYLE412|\ : Mensile
 
 Obblighi normativi: D. lgs. 33/2013, in particolare art. 30.
 
@@ -2152,25 +2136,25 @@ Obblighi normativi: D. lgs. 33/2013, in particolare art. 30.
 +===================+=======================================================================================+======+=======+
 |Anno               |Anno di riferimento                                                                    |Testo |M      |
 +-------------------+---------------------------------------------------------------------------------------+------+-------+
-|\ |STYLE409|\      |Indicare la tipologia di locazione (Attiva/Passiva)                                    |Testo |M      |
+|\ |STYLE413|\      |Indicare la tipologia di locazione (Attiva/Passiva)                                    |Testo |M      |
 +-------------------+---------------------------------------------------------------------------------------+------+-------+
-|\ |STYLE410|\      |Nominativo o Ragione sociale del locatario                                             |Testo |M      |
+|\ |STYLE414|\      |Nominativo o Ragione sociale del locatario                                             |Testo |M      |
 +-------------------+---------------------------------------------------------------------------------------+------+-------+
-|\ |STYLE411|\      |Nominativo o Ragione sociale del locatore                                              |Testo |M      |
+|\ |STYLE415|\      |Nominativo o Ragione sociale del locatore                                              |Testo |M      |
 +-------------------+---------------------------------------------------------------------------------------+------+-------+
-|\ |STYLE412|\      |Per le informazioni relative all’ubicazione dell’immobile vedere Allegato 1 - Tabella 1|Testo |M      |
+|\ |STYLE416|\      |Per le informazioni relative all’ubicazione dell’immobile vedere Allegato 1 - Tabella 1|Testo |M      |
 +-------------------+---------------------------------------------------------------------------------------+------+-------+
-|\ |STYLE413|\      |Destinazione dell’immobile (es. uffici)                                                |Testo |M      |
+|\ |STYLE417|\      |Destinazione dell’immobile (es. uffici)                                                |Testo |M      |
 +-------------------+---------------------------------------------------------------------------------------+------+-------+
-|\ |STYLE414|\      |Data di decorrenza del contratto                                                       |Data  |M      |
+|\ |STYLE418|\      |Data di decorrenza del contratto                                                       |Data  |M      |
 +-------------------+---------------------------------------------------------------------------------------+------+-------+
-|\ |STYLE415|\      |Data di scadenza del contratto                                                         |Data  |M      |
+|\ |STYLE419|\      |Data di scadenza del contratto                                                         |Data  |M      |
 +-------------------+---------------------------------------------------------------------------------------+------+-------+
-|\ |STYLE416|\      |Canone annuale di affitto percepito al netto delle spese                               |Numero|M      |
+|\ |STYLE420|\      |Canone annuale di affitto percepito al netto delle spese                               |Numero|M      |
 +-------------------+---------------------------------------------------------------------------------------+------+-------+
-|\ |STYLE417|\      |Altre spese non inserite nel canone annuale                                            |Numero|M      |
+|\ |STYLE421|\      |Altre spese non inserite nel canone annuale                                            |Numero|M      |
 +-------------------+---------------------------------------------------------------------------------------+------+-------+
-|\ |STYLE418|\      |Canone annuale di affitto versato                                                      |Numero|M      |
+|\ |STYLE422|\      |Canone annuale di affitto versato                                                      |Numero|M      |
 +-------------------+---------------------------------------------------------------------------------------+------+-------+
 
 .. _h2c1d74277104e41780968148427e:
@@ -2198,11 +2182,11 @@ Obblighi normativi: D. lgs. 33/2013, in particolare art. 30.
 #24 Elenco immobili di proprietà (DEFINITIVO)
 ---------------------------------------------
 
-\ |STYLE419|\ : Elenco informazioni identificative degli immobili posseduti
+\ |STYLE423|\ : Elenco informazioni identificative degli immobili posseduti
 
-\ |STYLE420|\  Dataset tabellare
+\ |STYLE424|\  Dataset tabellare
 
-\ |STYLE421|\ : Mensile
+\ |STYLE425|\ : Mensile
 
 Obblighi normativi: D. lgs. 33/2013, in particolare art. 30.
 
@@ -2211,9 +2195,9 @@ Obblighi normativi: D. lgs. 33/2013, in particolare art. 30.
 +===================+====================================================================================================+======+=======+
 |Ubicazione         |Per le informazioni di ubicazione vedere Allegato 1 - Tabella 1                                     |Testo |M      |
 +-------------------+----------------------------------------------------------------------------------------------------+------+-------+
-|\ |STYLE422|\      |Denominazione dell’unità immobiliare (es. Palazzo Pirelli) o descrizione area (es. area industriale)|Testo |O      |
+|\ |STYLE426|\      |Denominazione dell’unità immobiliare (es. Palazzo Pirelli) o descrizione area (es. area industriale)|Testo |O      |
 +-------------------+----------------------------------------------------------------------------------------------------+------+-------+
-|\ |STYLE423|\      |Indicare la natura giuridica del bene patrimoniale tra:                                             |Testo |M      |
+|\ |STYLE427|\      |Indicare la natura giuridica del bene patrimoniale tra:                                             |Testo |M      |
 |                   |                                                                                                    |      |       |
 |                   |* disponibile                                                                                       |      |       |
 |                   |                                                                                                    |      |       |
@@ -2221,37 +2205,37 @@ Obblighi normativi: D. lgs. 33/2013, in particolare art. 30.
 |                   |                                                                                                    |      |       |
 |                   |* demaniale                                                                                         |      |       |
 +-------------------+----------------------------------------------------------------------------------------------------+------+-------+
-|\ |STYLE424|\      |es. Immobile                                                                                        |Testo |M      |
+|\ |STYLE428|\      |es. Immobile                                                                                        |Testo |M      |
 +-------------------+----------------------------------------------------------------------------------------------------+------+-------+
-|\ |STYLE425|\      |Codice identificativo categoria (dato catastale).                                                   |Testo |M      |
+|\ |STYLE429|\      |Codice identificativo categoria (dato catastale).                                                   |Testo |M      |
 +-------------------+----------------------------------------------------------------------------------------------------+------+-------+
-|\ |STYLE426|\      |Sezione (dato catastale)                                                                            |Testo |M      |
+|\ |STYLE430|\      |Sezione (dato catastale)                                                                            |Testo |M      |
 +-------------------+----------------------------------------------------------------------------------------------------+------+-------+
-|\ |STYLE427|\      |Codice identificativo foglio (dato catastale)                                                       |Testo |M      |
+|\ |STYLE431|\      |Codice identificativo foglio (dato catastale)                                                       |Testo |M      |
 +-------------------+----------------------------------------------------------------------------------------------------+------+-------+
-|\ |STYLE428|\      |Codice identificativo mappale (dato catastale)                                                      |Testo |M      |
+|\ |STYLE432|\      |Codice identificativo mappale (dato catastale)                                                      |Testo |M      |
 +-------------------+----------------------------------------------------------------------------------------------------+------+-------+
-|\ |STYLE429|\      |Codice identificativo subalterno (dato catastale)                                                   |Testo |M      |
+|\ |STYLE433|\      |Codice identificativo subalterno (dato catastale)                                                   |Testo |M      |
 +-------------------+----------------------------------------------------------------------------------------------------+------+-------+
-|\ |STYLE430|\      |Classe_catastale                                                                                    |Testo |M      |
+|\ |STYLE434|\      |Classe_catastale                                                                                    |Testo |M      |
 +-------------------+----------------------------------------------------------------------------------------------------+------+-------+
-|\ |STYLE431|\      |Unità di misura della consistenza (mq, mc, vani)                                                    |Testo |M      |
+|\ |STYLE435|\      |Unità di misura della consistenza (mq, mc, vani)                                                    |Testo |M      |
 +-------------------+----------------------------------------------------------------------------------------------------+------+-------+
-|\ |STYLE432|\      |Grandezza del bene (solo numero riferito all’unità di misura del campo precedente)                  |Numero|M      |
+|\ |STYLE436|\      |Grandezza del bene (solo numero riferito all’unità di misura del campo precedente)                  |Numero|M      |
 +-------------------+----------------------------------------------------------------------------------------------------+------+-------+
-|\ |STYLE433|\      |Rendita catastale                                                                                   |Numero|M      |
+|\ |STYLE437|\      |Rendita catastale                                                                                   |Numero|M      |
 +-------------------+----------------------------------------------------------------------------------------------------+------+-------+
-|\ |STYLE434|\      |Destinazione d’uso del bene                                                                         |Testo |M      |
+|\ |STYLE438|\      |Destinazione d’uso del bene                                                                         |Testo |M      |
 +-------------------+----------------------------------------------------------------------------------------------------+------+-------+
-|\ |STYLE435|\      |Superficie del bene (espressa in metri quadrati).                                                   |Numero|M      |
+|\ |STYLE439|\      |Superficie del bene (espressa in metri quadrati).                                                   |Numero|M      |
 +-------------------+----------------------------------------------------------------------------------------------------+------+-------+
-|\ |STYLE436|\      |Valore di mercato del bene                                                                          |Numero|O      |
+|\ |STYLE440|\      |Valore di mercato del bene                                                                          |Numero|O      |
 +-------------------+----------------------------------------------------------------------------------------------------+------+-------+
-|\ |STYLE437|\      |Data di acquisizione del bene                                                                       |Data  |O      |
+|\ |STYLE441|\      |Data di acquisizione del bene                                                                       |Data  |O      |
 +-------------------+----------------------------------------------------------------------------------------------------+------+-------+
-|\ |STYLE438|\      |Longitudine                                                                                         |Numero|O      |
+|\ |STYLE442|\      |Longitudine                                                                                         |Numero|O      |
 +-------------------+----------------------------------------------------------------------------------------------------+------+-------+
-|\ |STYLE439|\      |Latitudine                                                                                          |Numero|O      |
+|\ |STYLE443|\      |Latitudine                                                                                          |Numero|O      |
 +-------------------+----------------------------------------------------------------------------------------------------+------+-------+
 
 .. _h4451d524d372a6ed467c1876264f6d:
@@ -2259,28 +2243,28 @@ Obblighi normativi: D. lgs. 33/2013, in particolare art. 30.
 #25 Monitoraggio procedimenti (DEFINITIVO) 
 -------------------------------------------
 
-\ |STYLE440|\ : Monitoraggio dei tempi dei procedimenti
+\ |STYLE444|\ : Monitoraggio dei tempi dei procedimenti
 
-\ |STYLE441|\  Dataset tabellare
+\ |STYLE445|\  Dataset tabellare
 
-\ |STYLE442|\ : Semestrale
+\ |STYLE446|\ : Semestrale
 
 +-------------------+---------------------------------------------------------------------------------------------+------+-------+
 |Denominazione Campo|Descrizione                                                                                  |Tipo  |Obbligo|
 +===================+=============================================================================================+======+=======+
 |Tipologia          |Tipologia del procedimento (d’ufficio o a istanza di parte)                                  |Testo |M      |
 +-------------------+---------------------------------------------------------------------------------------------+------+-------+
-|\ |STYLE443|\      |Nome del procedimento                                                                        |Testo |M      |
+|\ |STYLE447|\      |Nome del procedimento                                                                        |Testo |M      |
 +-------------------+---------------------------------------------------------------------------------------------+------+-------+
-|\ |STYLE444|\      |Breve descrizione del procedimento                                                           |Testo |M      |
+|\ |STYLE448|\      |Breve descrizione del procedimento                                                           |Testo |M      |
 +-------------------+---------------------------------------------------------------------------------------------+------+-------+
-|\ |STYLE445|\      |Indicare il termine massimo di conclusione del procedimento stabilito dalla legge (in giorni)|Numero|M      |
+|\ |STYLE449|\      |Indicare il termine massimo di conclusione del procedimento stabilito dalla legge (in giorni)|Numero|M      |
 +-------------------+---------------------------------------------------------------------------------------------+------+-------+
-|\ |STYLE446|\      |Indicare il termine effettivo di conclusione del procedimento (in giorni)                    |Numero|M      |
+|\ |STYLE450|\      |Indicare il termine effettivo di conclusione del procedimento (in giorni)                    |Numero|M      |
 +-------------------+---------------------------------------------------------------------------------------------+------+-------+
-|\ |STYLE447|\      |Ufficio responsabile del provvedimento                                                       |Testo |M      |
+|\ |STYLE451|\      |Ufficio responsabile del provvedimento                                                       |Testo |M      |
 +-------------------+---------------------------------------------------------------------------------------------+------+-------+
-|\ |STYLE448|\      |Indicare motivi di eventuali sospensioni o ritardi                                           |Testo |O      |
+|\ |STYLE452|\      |Indicare motivi di eventuali sospensioni o ritardi                                           |Testo |O      |
 +-------------------+---------------------------------------------------------------------------------------------+------+-------+
 
 .. _h2c1d74277104e41780968148427e:
@@ -2293,40 +2277,40 @@ Obblighi normativi: D. lgs. 33/2013, in particolare art. 30.
 #26 Enti controllati – Società partecipate (DEFINITIVO)
 -------------------------------------------------------
 
-\ |STYLE449|\ : Elenco e informazioni sulle Società partecipate
+\ |STYLE453|\ : Elenco e informazioni sulle Società partecipate
 
-\ |STYLE450|\  Dataset tabellare
+\ |STYLE454|\  Dataset tabellare
 
-\ |STYLE451|\ : Tempestiva
+\ |STYLE455|\ : Tempestiva
 
 +-------------------------------+--------------------------------------------------------------------------------------------------+------+-------+
 |Denominazione Campo            |Descrizione                                                                                       |Tipo  |Obbligo|
 +===============================+==================================================================================================+======+=======+
 |Ente_pubblico – Ragione_Sociale|Denominazione ente                                                                                |Testo |M      |
 +-------------------------------+--------------------------------------------------------------------------------------------------+------+-------+
-|\ |STYLE452|\                  |Funzioni affidate all’Ente                                                                        |Testo |M      |
+|\ |STYLE456|\                  |Funzioni affidate all’Ente                                                                        |Testo |M      |
 +-------------------------------+--------------------------------------------------------------------------------------------------+------+-------+
-|\ |STYLE453|\                  |.Attività svolte dall’Ente per ottemperare alle funzioni                                          |Testo |M      |
+|\ |STYLE457|\                  |.Attività svolte dall’Ente per ottemperare alle funzioni                                          |Testo |M      |
 +-------------------------------+--------------------------------------------------------------------------------------------------+------+-------+
-|\ |STYLE454|\                  |Eventuale quota di partecipazione societaria all’ente                                             |Testo |M      |
+|\ |STYLE458|\                  |Eventuale quota di partecipazione societaria all’ente                                             |Testo |M      |
 +-------------------------------+--------------------------------------------------------------------------------------------------+------+-------+
-|\ |STYLE455|\                  |“Indeterminato” oppure scadenza prevista                                                          |Testo |M      |
+|\ |STYLE459|\                  |“Indeterminato” oppure scadenza prevista                                                          |Testo |M      |
 +-------------------------------+--------------------------------------------------------------------------------------------------+------+-------+
-|\ |STYLE456|\                  |Onere complessivo a qualsiasi titolo gravante per l'anno sul bilancio dell'amministrazione        |Numero|M      |
+|\ |STYLE460|\                  |Onere complessivo a qualsiasi titolo gravante per l'anno sul bilancio dell'amministrazione        |Numero|M      |
 +-------------------------------+--------------------------------------------------------------------------------------------------+------+-------+
-|\ |STYLE457|\                  |Numero dei rappresentanti dell'amministrazione negli organi di governo                            |Numero|M      |
+|\ |STYLE461|\                  |Numero dei rappresentanti dell'amministrazione negli organi di governo                            |Numero|M      |
 +-------------------------------+--------------------------------------------------------------------------------------------------+------+-------+
-|\ |STYLE458|\                  |Trattamento economico complessivo dei rappresentanti dell'amministrazione negli organi di governo |Testo |M      |
+|\ |STYLE462|\                  |Trattamento economico complessivo dei rappresentanti dell'amministrazione negli organi di governo |Testo |M      |
 +-------------------------------+--------------------------------------------------------------------------------------------------+------+-------+
-|\ |STYLE459|\                  |Anno di riferimento                                                                               |Numero|M      |
+|\ |STYLE463|\                  |Anno di riferimento                                                                               |Numero|M      |
 +-------------------------------+--------------------------------------------------------------------------------------------------+------+-------+
-|\ |STYLE460|\                  |Risultati di bilancio dell’anno di riferimento (ultimo anno)                                      |Numero|M      |
+|\ |STYLE464|\                  |Risultati di bilancio dell’anno di riferimento (ultimo anno)                                      |Numero|M      |
 +-------------------------------+--------------------------------------------------------------------------------------------------+------+-------+
-|\ |STYLE461|\                  |Risultati di bilancio del penultimo anno                                                          |Numero|M      |
+|\ |STYLE465|\                  |Risultati di bilancio del penultimo anno                                                          |Numero|M      |
 +-------------------------------+--------------------------------------------------------------------------------------------------+------+-------+
-|\ |STYLE462|\                  |Risultati di bilancio del terzultimo anno                                                         |Numero|M      |
+|\ |STYLE466|\                  |Risultati di bilancio del terzultimo anno                                                         |Numero|M      |
 +-------------------------------+--------------------------------------------------------------------------------------------------+------+-------+
-|\ |STYLE463|\                  |Link al sito istituzionale                                                                        |Testo |M      |
+|\ |STYLE467|\                  |Link al sito istituzionale                                                                        |Testo |M      |
 +-------------------------------+--------------------------------------------------------------------------------------------------+------+-------+
 
 .. _h7239514f337e4b15371432716b161761:
@@ -2334,40 +2318,40 @@ Obblighi normativi: D. lgs. 33/2013, in particolare art. 30.
 #27 Enti controllati – Enti pubblici vigilati (DEFINITIVO)
 ----------------------------------------------------------
 
-\ |STYLE464|\ : Elenco e informazioni sugli Enti pubblici vigilati
+\ |STYLE468|\ : Elenco e informazioni sugli Enti pubblici vigilati
 
-\ |STYLE465|\  Dataset tabellare
+\ |STYLE469|\  Dataset tabellare
 
-\ |STYLE466|\ : Tempestiva
+\ |STYLE470|\ : Tempestiva
 
 +-------------------------------+--------------------------------------------------------------------------------------------------+------+-------+
 |Denominazione Campo            |Descrizione                                                                                       |Tipo  |Obbligo|
 +===============================+==================================================================================================+======+=======+
 |Ente_pubblico – Ragione_Sociale|Denominazione ente                                                                                |Testo |M      |
 +-------------------------------+--------------------------------------------------------------------------------------------------+------+-------+
-|\ |STYLE467|\                  |Funzioni affidate all’Ente                                                                        |Testo |M      |
+|\ |STYLE471|\                  |Funzioni affidate all’Ente                                                                        |Testo |M      |
 +-------------------------------+--------------------------------------------------------------------------------------------------+------+-------+
-|\ |STYLE468|\                  |Attività svolte dall’Ente per ottemperare alle funzioni                                           |Testo |M      |
+|\ |STYLE472|\                  |Attività svolte dall’Ente per ottemperare alle funzioni                                           |Testo |M      |
 +-------------------------------+--------------------------------------------------------------------------------------------------+------+-------+
-|\ |STYLE469|\                  |Eventuale quota di partecipazione societaria all’ente                                             |Testo |M      |
+|\ |STYLE473|\                  |Eventuale quota di partecipazione societaria all’ente                                             |Testo |M      |
 +-------------------------------+--------------------------------------------------------------------------------------------------+------+-------+
-|\ |STYLE470|\                  |“Indeterminato” oppure scadenza prevista                                                          |Testo |M      |
+|\ |STYLE474|\                  |“Indeterminato” oppure scadenza prevista                                                          |Testo |M      |
 +-------------------------------+--------------------------------------------------------------------------------------------------+------+-------+
-|\ |STYLE471|\                  |Onere complessivo a qualsiasi titolo gravante per l'anno sul bilancio dell'amministrazione        |Numero|M      |
+|\ |STYLE475|\                  |Onere complessivo a qualsiasi titolo gravante per l'anno sul bilancio dell'amministrazione        |Numero|M      |
 +-------------------------------+--------------------------------------------------------------------------------------------------+------+-------+
-|\ |STYLE472|\                  |Numero dei rappresentanti dell'amministrazione negli organi di governo                            |Numero|M      |
+|\ |STYLE476|\                  |Numero dei rappresentanti dell'amministrazione negli organi di governo                            |Numero|M      |
 +-------------------------------+--------------------------------------------------------------------------------------------------+------+-------+
-|\ |STYLE473|\                  |Trattamento economico complessivo dei rappresentanti dell'amministrazione negli organi di governo |Testo |M      |
+|\ |STYLE477|\                  |Trattamento economico complessivo dei rappresentanti dell'amministrazione negli organi di governo |Testo |M      |
 +-------------------------------+--------------------------------------------------------------------------------------------------+------+-------+
-|\ |STYLE474|\                  |Anno di riferimento                                                                               |Numero|M      |
+|\ |STYLE478|\                  |Anno di riferimento                                                                               |Numero|M      |
 +-------------------------------+--------------------------------------------------------------------------------------------------+------+-------+
-|\ |STYLE475|\                  |Risultati di bilancio dell’anno di riferimento (ultimo anno)                                      |Numero|M      |
+|\ |STYLE479|\                  |Risultati di bilancio dell’anno di riferimento (ultimo anno)                                      |Numero|M      |
 +-------------------------------+--------------------------------------------------------------------------------------------------+------+-------+
-|\ |STYLE476|\                  |Risultati di bilancio del penultimo anno                                                          |Numero|M      |
+|\ |STYLE480|\                  |Risultati di bilancio del penultimo anno                                                          |Numero|M      |
 +-------------------------------+--------------------------------------------------------------------------------------------------+------+-------+
-|\ |STYLE477|\                  |Risultati di bilancio del terzultimo anno                                                         |Numero|M      |
+|\ |STYLE481|\                  |Risultati di bilancio del terzultimo anno                                                         |Numero|M      |
 +-------------------------------+--------------------------------------------------------------------------------------------------+------+-------+
-|\ |STYLE478|\                  |Link al sito istituzionale                                                                        |Testo |M      |
+|\ |STYLE482|\                  |Link al sito istituzionale                                                                        |Testo |M      |
 +-------------------------------+--------------------------------------------------------------------------------------------------+------+-------+
 
 .. _h2c1d74277104e41780968148427e:
@@ -2380,40 +2364,40 @@ Obblighi normativi: D. lgs. 33/2013, in particolare art. 30.
 #28 Enti controllati – Enti di diritto privato controllati (DEFINITIVO)
 -----------------------------------------------------------------------
 
-\ |STYLE479|\ : Elenco e informazioni sugli Enti di diritto privato controllati
+\ |STYLE483|\ : Elenco e informazioni sugli Enti di diritto privato controllati
 
-\ |STYLE480|\  Dataset tabellare
+\ |STYLE484|\  Dataset tabellare
 
-\ |STYLE481|\ : Tempestiva
+\ |STYLE485|\ : Tempestiva
 
 +-------------------------------+--------------------------------------------------------------------------------------------------+------+-------+
 |Denominazione Campo            |Descrizione                                                                                       |Tipo  |Obbligo|
 +===============================+==================================================================================================+======+=======+
 |Ente_pubblico – Ragione_Sociale|Denominazione ente                                                                                |Testo |M      |
 +-------------------------------+--------------------------------------------------------------------------------------------------+------+-------+
-|\ |STYLE482|\                  |Funzioni affidate all’Ente                                                                        |Testo |M      |
+|\ |STYLE486|\                  |Funzioni affidate all’Ente                                                                        |Testo |M      |
 +-------------------------------+--------------------------------------------------------------------------------------------------+------+-------+
-|\ |STYLE483|\                  |.Attività svolte dall’Ente per ottemperare alle funzioni                                          |Testo |M      |
+|\ |STYLE487|\                  |.Attività svolte dall’Ente per ottemperare alle funzioni                                          |Testo |M      |
 +-------------------------------+--------------------------------------------------------------------------------------------------+------+-------+
-|\ |STYLE484|\                  |Eventuale quota di partecipazione societaria all’ente                                             |Testo |M      |
+|\ |STYLE488|\                  |Eventuale quota di partecipazione societaria all’ente                                             |Testo |M      |
 +-------------------------------+--------------------------------------------------------------------------------------------------+------+-------+
-|\ |STYLE485|\                  |“Indeterminato” oppure scadenza prevista                                                          |Testo |M      |
+|\ |STYLE489|\                  |“Indeterminato” oppure scadenza prevista                                                          |Testo |M      |
 +-------------------------------+--------------------------------------------------------------------------------------------------+------+-------+
-|\ |STYLE486|\                  |Onere complessivo a qualsiasi titolo gravante per l'anno sul bilancio dell'amministrazione        |Numero|M      |
+|\ |STYLE490|\                  |Onere complessivo a qualsiasi titolo gravante per l'anno sul bilancio dell'amministrazione        |Numero|M      |
 +-------------------------------+--------------------------------------------------------------------------------------------------+------+-------+
-|\ |STYLE487|\                  |Numero dei rappresentanti dell'amministrazione negli organi di governo                            |Numero|M      |
+|\ |STYLE491|\                  |Numero dei rappresentanti dell'amministrazione negli organi di governo                            |Numero|M      |
 +-------------------------------+--------------------------------------------------------------------------------------------------+------+-------+
-|\ |STYLE488|\                  |Trattamento economico complessivo dei rappresentanti dell'amministrazione negli organi di governo |Testo |M      |
+|\ |STYLE492|\                  |Trattamento economico complessivo dei rappresentanti dell'amministrazione negli organi di governo |Testo |M      |
 +-------------------------------+--------------------------------------------------------------------------------------------------+------+-------+
-|\ |STYLE489|\                  |Anno di riferimento                                                                               |Numero|M      |
+|\ |STYLE493|\                  |Anno di riferimento                                                                               |Numero|M      |
 +-------------------------------+--------------------------------------------------------------------------------------------------+------+-------+
-|\ |STYLE490|\                  |Risultati di bilancio dell’anno di riferimento (ultimo anno)                                      |Numero|M      |
+|\ |STYLE494|\                  |Risultati di bilancio dell’anno di riferimento (ultimo anno)                                      |Numero|M      |
 +-------------------------------+--------------------------------------------------------------------------------------------------+------+-------+
-|\ |STYLE491|\                  |Risultati di bilancio del penultimo anno                                                          |Numero|M      |
+|\ |STYLE495|\                  |Risultati di bilancio del penultimo anno                                                          |Numero|M      |
 +-------------------------------+--------------------------------------------------------------------------------------------------+------+-------+
-|\ |STYLE492|\                  |Risultati di bilancio del terzultimo anno                                                         |Numero|M      |
+|\ |STYLE496|\                  |Risultati di bilancio del terzultimo anno                                                         |Numero|M      |
 +-------------------------------+--------------------------------------------------------------------------------------------------+------+-------+
-|\ |STYLE493|\                  |Link al sito istituzionale                                                                        |Testo |M      |
+|\ |STYLE497|\                  |Link al sito istituzionale                                                                        |Testo |M      |
 +-------------------------------+--------------------------------------------------------------------------------------------------+------+-------+
 
 .. _h586361a7d1b58732243725f242:
@@ -2421,11 +2405,11 @@ Obblighi normativi: D. lgs. 33/2013, in particolare art. 30.
 #36 Provvedimenti dei dirigenti (DEFINITIVO)
 --------------------------------------------
 
-\ |STYLE494|\ : Elenchi dei provvedimenti adottati dai dirigenti
+\ |STYLE498|\ : Elenchi dei provvedimenti adottati dai dirigenti
 
-\ |STYLE495|\  Dataset tabellare
+\ |STYLE499|\  Dataset tabellare
 
-\ |STYLE496|\ : Mensile
+\ |STYLE500|\ : Mensile
 
 Obblighi normativi: D. lgs. 33/2013, in particolare art. 23.
 
@@ -2437,25 +2421,25 @@ Vedi \ |LINK43|\
 +===================+============================================================================+======+=======+
 |Anno               |Anno di riferimento                                                         |Numero|M      |
 +-------------------+----------------------------------------------------------------------------+------+-------+
-|\ |STYLE497|\      |Indicare la tipologia di provvedimento tra le seguenti:                     |Testo |O      |
+|\ |STYLE501|\      |Indicare la tipologia di provvedimento tra le seguenti:                     |Testo |O      |
 |                   |                                                                            |      |       |
 |                   |#. Scelta del contraente per l'affidamento di lavori, forniture e servizi   |      |       |
 |                   |                                                                            |      |       |
 |                   |#. Accordi stipulati dall'amministrazione                                   |      |       |
 +-------------------+----------------------------------------------------------------------------+------+-------+
-|\ |STYLE498|\      |Numero identificativo del provvedimento                                     |Numero|M      |
+|\ |STYLE502|\      |Numero identificativo del provvedimento                                     |Numero|M      |
 +-------------------+----------------------------------------------------------------------------+------+-------+
-|\ |STYLE499|\      |Titolo del provvedimento                                                    |Testo |M      |
+|\ |STYLE503|\      |Titolo del provvedimento                                                    |Testo |M      |
 +-------------------+----------------------------------------------------------------------------+------+-------+
-|\ |STYLE500|\      |Dispositivo del provvedimento                                               |Testo |O      |
+|\ |STYLE504|\      |Dispositivo del provvedimento                                               |Testo |O      |
 +-------------------+----------------------------------------------------------------------------+------+-------+
-|\ |STYLE501|\      |Data di approvazione del provvedimento.                                     |Data  |M      |
+|\ |STYLE505|\      |Data di approvazione del provvedimento.                                     |Data  |M      |
 +-------------------+----------------------------------------------------------------------------+------+-------+
-|\ |STYLE502|\      |Nome dell’ufficio proponente                                                |Testo |O      |
+|\ |STYLE506|\      |Nome dell’ufficio proponente                                                |Testo |O      |
 +-------------------+----------------------------------------------------------------------------+------+-------+
-|\ |STYLE503|\      |Eventuale spesa prevista                                                    |Numero|O      |
+|\ |STYLE507|\      |Eventuale spesa prevista                                                    |Numero|O      |
 +-------------------+----------------------------------------------------------------------------+------+-------+
-|\ |STYLE504|\      |Riferimenti ai documenti principali contenuti nel fascicolo del procedimento|Testo |O      |
+|\ |STYLE508|\      |Riferimenti ai documenti principali contenuti nel fascicolo del procedimento|Testo |O      |
 +-------------------+----------------------------------------------------------------------------+------+-------+
 
 .. _h2c1d74277104e41780968148427e:
@@ -2468,11 +2452,11 @@ Vedi \ |LINK43|\
 #37 Provvedimenti degli organi di indirizzo politico (DEFINITIVO)
 -----------------------------------------------------------------
 
-\ |STYLE505|\ : Elenchi dei Provvedimenti degli organi di indirizzo politico
+\ |STYLE509|\ : Elenchi dei Provvedimenti degli organi di indirizzo politico
 
-\ |STYLE506|\  Dataset tabellare
+\ |STYLE510|\  Dataset tabellare
 
-\ |STYLE507|\ : Mensile
+\ |STYLE511|\ : Mensile
 
 Obblighi normativi: D. lgs. 33/2013, in particolare art. 23.
 
@@ -2484,31 +2468,31 @@ Vedi \ |LINK44|\
 +===================+============================================================================+======+=======+
 |Anno               |Anno di riferimento                                                         |Numero|M      |
 +-------------------+----------------------------------------------------------------------------+------+-------+
-|\ |STYLE508|\      |Scegliere tra le due opzioni:                                               |Testo |O      |
+|\ |STYLE512|\      |Scegliere tra le due opzioni:                                               |Testo |O      |
 |                   |                                                                            |      |       |
 |                   |* Giunta                                                                    |      |       |
 |                   |                                                                            |      |       |
 |                   |* Consiglio                                                                 |      |       |
 +-------------------+----------------------------------------------------------------------------+------+-------+
-|\ |STYLE509|\      |Indicare la tipologia di provvedimento tra le seguenti:                     |Testo |O      |
+|\ |STYLE513|\      |Indicare la tipologia di provvedimento tra le seguenti:                     |Testo |O      |
 |                   |                                                                            |      |       |
 |                   |#. Scelta del contraente per l'affidamento di lavori, forniture e servizi   |      |       |
 |                   |                                                                            |      |       |
 |                   |#. Accordi stipulati dall'amministrazione                                   |      |       |
 +-------------------+----------------------------------------------------------------------------+------+-------+
-|\ |STYLE510|\      |Numero identificativo del provvedimento                                     |Numero|M      |
+|\ |STYLE514|\      |Numero identificativo del provvedimento                                     |Numero|M      |
 +-------------------+----------------------------------------------------------------------------+------+-------+
-|\ |STYLE511|\      |Titolo del provvedimento                                                    |Testo |M      |
+|\ |STYLE515|\      |Titolo del provvedimento                                                    |Testo |M      |
 +-------------------+----------------------------------------------------------------------------+------+-------+
-|\ |STYLE512|\      |Dispositivo del provvedimento                                               |Testo |O      |
+|\ |STYLE516|\      |Dispositivo del provvedimento                                               |Testo |O      |
 +-------------------+----------------------------------------------------------------------------+------+-------+
-|\ |STYLE513|\      |Data di approvazione del provvedimento                                      |Data  |M      |
+|\ |STYLE517|\      |Data di approvazione del provvedimento                                      |Data  |M      |
 +-------------------+----------------------------------------------------------------------------+------+-------+
-|\ |STYLE514|\      |Nome dell’ufficio proponente                                                |Testo |O      |
+|\ |STYLE518|\      |Nome dell’ufficio proponente                                                |Testo |O      |
 +-------------------+----------------------------------------------------------------------------+------+-------+
-|\ |STYLE515|\      |Eventuale spesa prevista                                                    |Numero|O      |
+|\ |STYLE519|\      |Eventuale spesa prevista                                                    |Numero|O      |
 +-------------------+----------------------------------------------------------------------------+------+-------+
-|\ |STYLE516|\      |Riferimenti ai documenti principali contenuti nel fascicolo del procedimento|Testo |O      |
+|\ |STYLE520|\      |Riferimenti ai documenti principali contenuti nel fascicolo del procedimento|Testo |O      |
 +-------------------+----------------------------------------------------------------------------+------+-------+
 
 .. _h2c1d74277104e41780968148427e:
@@ -2526,28 +2510,28 @@ Vedi \ |LINK44|\
 #32 Accompagnatori turistici (DEFINITIVO) 
 ------------------------------------------
 
-\ |STYLE517|\ : Elenco degli abilitati per l’esercizio della professione di accompagnatore turistico
+\ |STYLE521|\ : Elenco degli abilitati per l’esercizio della professione di accompagnatore turistico
 
-\ |STYLE518|\  Dataset tabellare
+\ |STYLE522|\  Dataset tabellare
 
-\ |STYLE519|\ : Tempestiva
+\ |STYLE523|\ : Tempestiva
 
 +-------------------+-----------------------------------------------+------+-------+
 |Denominazione Campo|Descrizione                                    |Tipo  |Obbligo|
 +===================+===============================================+======+=======+
 |Comune             |Comune di riferimento                          |Testo |M      |
 +-------------------+-----------------------------------------------+------+-------+
-|\ |STYLE520|\      |Anno di riferimento                            |Numero|M      |
+|\ |STYLE524|\      |Anno di riferimento                            |Numero|M      |
 +-------------------+-----------------------------------------------+------+-------+
-|\ |STYLE521|\      |Cognome dell’accompagnatore turistico abilitato|Testo |M      |
+|\ |STYLE525|\      |Cognome dell’accompagnatore turistico abilitato|Testo |M      |
 +-------------------+-----------------------------------------------+------+-------+
-|\ |STYLE522|\      |Nome dell’accompagnatore turistico abilitato   |Testo |M      |
+|\ |STYLE526|\      |Nome dell’accompagnatore turistico abilitato   |Testo |M      |
 +-------------------+-----------------------------------------------+------+-------+
-|\ |STYLE523|\      |Indicare la lingua conosciuta                  |Testo |M      |
+|\ |STYLE527|\      |Indicare la lingua conosciuta                  |Testo |M      |
 +-------------------+-----------------------------------------------+------+-------+
-|\ |STYLE524|\      |Indicare la lingua conosciuta                  |Testo |O      |
+|\ |STYLE528|\      |Indicare la lingua conosciuta                  |Testo |O      |
 +-------------------+-----------------------------------------------+------+-------+
-|\ |STYLE525|\      |Indicare la lingua conosciuta                  |Testo |O      |
+|\ |STYLE529|\      |Indicare la lingua conosciuta                  |Testo |O      |
 +-------------------+-----------------------------------------------+------+-------+
 
 .. _h6e806e58126f423e6813804173126a5a:
@@ -2555,30 +2539,30 @@ Vedi \ |LINK44|\
 #43 Flussi turistici (DEFINITIVO)
 ---------------------------------
 
-\ |STYLE526|\ : Dati statistici sui flussi turistici
+\ |STYLE530|\ : Dati statistici sui flussi turistici
 
-\ |STYLE527|\  Dataset tabellare
+\ |STYLE531|\  Dataset tabellare
 
-\ |STYLE528|\ : Trimestrale
+\ |STYLE532|\ : Trimestrale
 
 +-------------------+-----------------------------------------------------------------------------+------+-------+
 |Denominazione Campo|Descrizione                                                                  |Tipo  |Obbligo|
 +===================+=============================================================================+======+=======+
 |Anno               |Anno di riferimento                                                          |Numero|M      |
 +-------------------+-----------------------------------------------------------------------------+------+-------+
-|\ |STYLE529|\      |Mese di riferimento                                                          |Numero|M      |
+|\ |STYLE533|\      |Mese di riferimento                                                          |Numero|M      |
 +-------------------+-----------------------------------------------------------------------------+------+-------+
-|\ |STYLE530|\      |Comune di riferimento                                                        |Testo |M      |
+|\ |STYLE534|\      |Comune di riferimento                                                        |Testo |M      |
 +-------------------+-----------------------------------------------------------------------------+------+-------+
-|\ |STYLE531|\      |Indicare se i dati si riferiscono al settore alberghiero o extra-alberghiero |Testo |M      |
+|\ |STYLE535|\      |Indicare se i dati si riferiscono al settore alberghiero o extra-alberghiero |Testo |M      |
 +-------------------+-----------------------------------------------------------------------------+------+-------+
-|\ |STYLE532|\      |N. di arrivi di turisti italiani nel mese di riferimento                     |Numero|M      |
+|\ |STYLE536|\      |N. di arrivi di turisti italiani nel mese di riferimento                     |Numero|M      |
 +-------------------+-----------------------------------------------------------------------------+------+-------+
-|\ |STYLE533|\      |N. di presenze di turisti italiani nel mese di riferimento                   |Numero|M      |
+|\ |STYLE537|\      |N. di presenze di turisti italiani nel mese di riferimento                   |Numero|M      |
 +-------------------+-----------------------------------------------------------------------------+------+-------+
-|\ |STYLE534|\      |N. di arrivi di turisti stranieri nel mese di riferimento                    |Numero|M      |
+|\ |STYLE538|\      |N. di arrivi di turisti stranieri nel mese di riferimento                    |Numero|M      |
 +-------------------+-----------------------------------------------------------------------------+------+-------+
-|\ |STYLE535|\      |N. di presenze di turisti stranieri nel mese di riferimento                  |Numero|M      |
+|\ |STYLE539|\      |N. di presenze di turisti stranieri nel mese di riferimento                  |Numero|M      |
 +-------------------+-----------------------------------------------------------------------------+------+-------+
 
 .. _h2c1d74277104e41780968148427e:
@@ -2614,17 +2598,17 @@ TABELLA 1 - UBICAZIONE
 +===================+=============================================+=====+=======+
 |Provincia          |Provincia di riferimento (sigla)             |Testo|M      |
 +-------------------+---------------------------------------------+-----+-------+
-|\ |STYLE536|\      |Nome del comune dell’area                    |Testo|M      |
+|\ |STYLE540|\      |Nome del comune dell’area                    |Testo|M      |
 +-------------------+---------------------------------------------+-----+-------+
-|\ |STYLE537|\      |Codice catastale del Comune                  |Testo|M      |
+|\ |STYLE541|\      |Codice catastale del Comune                  |Testo|M      |
 +-------------------+---------------------------------------------+-----+-------+
-|\ |STYLE538|\      |Tipologia toponimo: Via/Piazza ecc.          |Testo|M      |
+|\ |STYLE542|\      |Tipologia toponimo: Via/Piazza ecc.          |Testo|M      |
 +-------------------+---------------------------------------------+-----+-------+
-|\ |STYLE539|\      |Nome  Via/Piazza ecc.                        |Testo|M      |
+|\ |STYLE543|\      |Nome  Via/Piazza ecc.                        |Testo|M      |
 +-------------------+---------------------------------------------+-----+-------+
-|\ |STYLE540|\      |Numero civico (compresa lettera, se presente)|Testo|M      |
+|\ |STYLE544|\      |Numero civico (compresa lettera, se presente)|Testo|M      |
 +-------------------+---------------------------------------------+-----+-------+
-|\ |STYLE541|\      |CAP dell’area                                |Testo|M      |
+|\ |STYLE545|\      |CAP dell’area                                |Testo|M      |
 +-------------------+---------------------------------------------+-----+-------+
 
 .. _h2c1d74277104e41780968148427e:
@@ -2668,14 +2652,6 @@ TABELLA 2 - ORARI (senza indicazione stagionalità)
 +===================+===================+=====+=======+
 |Lun_Apertura       |Orario di apertura |Testo|       |
 +-------------------+-------------------+-----+-------+
-|\ |STYLE542|\      |Orario di chiusura |Testo|       |
-+-------------------+-------------------+-----+-------+
-|\ |STYLE543|\      |Orario di apertura |Testo|       |
-+-------------------+-------------------+-----+-------+
-|\ |STYLE544|\      |Orario di chiusura |Testo|       |
-+-------------------+-------------------+-----+-------+
-|\ |STYLE545|\      |Orario di apertura |Testo|       |
-+-------------------+-------------------+-----+-------+
 |\ |STYLE546|\      |Orario di chiusura |Testo|       |
 +-------------------+-------------------+-----+-------+
 |\ |STYLE547|\      |Orario di apertura |Testo|       |
@@ -2693,6 +2669,14 @@ TABELLA 2 - ORARI (senza indicazione stagionalità)
 |\ |STYLE553|\      |Orario di apertura |Testo|       |
 +-------------------+-------------------+-----+-------+
 |\ |STYLE554|\      |Orario di chiusura |Testo|       |
++-------------------+-------------------+-----+-------+
+|\ |STYLE555|\      |Orario di apertura |Testo|       |
++-------------------+-------------------+-----+-------+
+|\ |STYLE556|\      |Orario di chiusura |Testo|       |
++-------------------+-------------------+-----+-------+
+|\ |STYLE557|\      |Orario di apertura |Testo|       |
++-------------------+-------------------+-----+-------+
+|\ |STYLE558|\      |Orario di chiusura |Testo|       |
 +-------------------+-------------------+-----+-------+
 
 .. _h2c1d74277104e41780968148427e:
@@ -2735,14 +2719,6 @@ TABELLA 3 - ORARI CON STAGIONALITA’
 |Denominazione Campo   |Descrizione        |Tipo |Obbligo|
 +======================+===================+=====+=======+
 |Invernale_Lun_Apertura|Orario di apertura |Testo|       |
-+----------------------+-------------------+-----+-------+
-|\ |STYLE555|\         |Orario di chiusura |Testo|       |
-+----------------------+-------------------+-----+-------+
-|\ |STYLE556|\         |Orario di apertura |Testo|       |
-+----------------------+-------------------+-----+-------+
-|\ |STYLE557|\         |Orario di chiusura |Testo|       |
-+----------------------+-------------------+-----+-------+
-|\ |STYLE558|\         |Orario di apertura |Testo|       |
 +----------------------+-------------------+-----+-------+
 |\ |STYLE559|\         |Orario di chiusura |Testo|       |
 +----------------------+-------------------+-----+-------+
@@ -2790,6 +2766,14 @@ TABELLA 3 - ORARI CON STAGIONALITA’
 +----------------------+-------------------+-----+-------+
 |\ |STYLE581|\         |Orario di chiusura |Testo|       |
 +----------------------+-------------------+-----+-------+
+|\ |STYLE582|\         |Orario di apertura |Testo|       |
++----------------------+-------------------+-----+-------+
+|\ |STYLE583|\         |Orario di chiusura |Testo|       |
++----------------------+-------------------+-----+-------+
+|\ |STYLE584|\         |Orario di apertura |Testo|       |
++----------------------+-------------------+-----+-------+
+|\ |STYLE585|\         |Orario di chiusura |Testo|       |
++----------------------+-------------------+-----+-------+
 
 .. _h2c1d74277104e41780968148427e:
 
@@ -2816,27 +2800,19 @@ La definizione del vocabolario delle frequenze tiene conto anche di quanto previ
 
 Ecco l’elenco delle frequenze di aggiornamento individuate da specificare nei metadati del dataset:
 
-* \ |STYLE582|\  (Dati la cui frequenza non è prevedibile, ma al verificarsi del cambiamento vengono pubblicati tempestivamente)
+* \ |STYLE586|\  (Dati la cui frequenza non è prevedibile, ma al verificarsi del cambiamento vengono pubblicati tempestivamente)
 
-* \ |STYLE583|\  (Dati che vengono aggiornati in tempo reale o ogni N ore)
-
-* \ |STYLE584|\ 
-
-* \ |STYLE585|\  
-
-* \ |STYLE586|\ 
-
-* \ |STYLE587|\ 
+* \ |STYLE587|\  (Dati che vengono aggiornati in tempo reale o ogni N ore)
 
 * \ |STYLE588|\ 
 
-* \ |STYLE589|\ 
+* \ |STYLE589|\  
 
 * \ |STYLE590|\ 
 
 * \ |STYLE591|\ 
 
-* \ |STYLE592|\  
+* \ |STYLE592|\ 
 
 * \ |STYLE593|\ 
 
@@ -2844,13 +2820,21 @@ Ecco l’elenco delle frequenze di aggiornamento individuate da specificare nei 
 
 * \ |STYLE595|\ 
 
-* \ |STYLE596|\ 
+* \ |STYLE596|\  
 
-* \ |STYLE597|\  (Dati “storici”, che per loro natura non cambiano)
+* \ |STYLE597|\ 
 
-* \ |STYLE598|\  (Dati soggetti a cambiamento, ma i cui processi di aggiornamento non sono ancora definiti) 
+* \ |STYLE598|\ 
 
-Segue tabella di conversione con le frequenze standard per il \ |STYLE599|\ 
+* \ |STYLE599|\ 
+
+* \ |STYLE600|\ 
+
+* \ |STYLE601|\  (Dati “storici”, che per loro natura non cambiano)
+
+* \ |STYLE602|\  (Dati soggetti a cambiamento, ma i cui processi di aggiornamento non sono ancora definiti) 
+
+Segue tabella di conversione con le frequenze standard per il \ |STYLE603|\ 
 
 
 +---------------------------------+----------------------+
@@ -2911,1189 +2895,1197 @@ Segue tabella di conversione con le frequenze standard per il \ |STYLE599|\
 
 .. |STYLE7| replace:: **contenuti opzionali (O)**
 
-.. |STYLE8| replace:: **ordinamento crescente/ decrescente dei dati**
+.. |STYLE8| replace:: **Quali formati possono avere i dati?**
 
-.. |STYLE9| replace:: **rappresentazione “percentuale”**
+.. |STYLE9| replace:: **Come scegliere i formati dei dati?**
 
-.. |STYLE10| replace:: **rappresentazione geografica**
+.. |STYLE10| replace:: **ordinamento crescente/ decrescente dei dati**
 
-.. |STYLE11| replace:: **sistema di coordinate WGS-84 EPSG 4326**
+.. |STYLE11| replace:: **rappresentazione “percentuale”**
 
-.. |STYLE12| replace:: **NB:**
+.. |STYLE12| replace:: **rappresentazione geografica**
 
-.. |STYLE13| replace:: **Per i dataset con frequenza di aggiornamento "tempestiva" occorre, almeno mensilmente, aggiornare i metadati.**
+.. |STYLE13| replace:: **sistema di coordinate WGS-84 EPSG 4326**
 
-.. |STYLE14| replace:: **non cambia l'ultimo aggiornamento dei dati ma l'ultimo aggiornamento dei metadati**
+.. |STYLE14| replace:: **Specifiche per il formato “numero” e “data**
 
-.. |STYLE15| replace:: **Descrizione:**
+.. |STYLE15| replace:: **Specifiche per la rappresentazione geografica**
 
-.. |STYLE16| replace:: **Tipologia:**
+.. |STYLE16| replace:: **NB:**
 
-.. |STYLE17| replace:: **Frequenza minima:**
+.. |STYLE17| replace:: **Per i dataset con frequenza di aggiornamento "tempestiva" occorre, almeno mensilmente, aggiornare i metadati.**
 
-.. |STYLE18| replace:: **Foglio**
+.. |STYLE18| replace:: **non cambia l'ultimo aggiornamento dei dati ma l'ultimo aggiornamento dei metadati**
 
-.. |STYLE19| replace:: **Mappale**
+.. |STYLE19| replace:: **Descrizione:**
 
-.. |STYLE20| replace:: **Part_cat**
+.. |STYLE20| replace:: **Tipologia:**
 
-.. |STYLE21| replace:: **Area_fuoco**
+.. |STYLE21| replace:: **Frequenza minima:**
 
-.. |STYLE22| replace:: **Area_tot**
+.. |STYLE22| replace:: **Foglio**
 
-.. |STYLE23| replace:: **Vincoli_15**
+.. |STYLE23| replace:: **Mappale**
 
-.. |STYLE24| replace:: **Vincoli_10**
+.. |STYLE24| replace:: **Part_cat**
 
-.. |STYLE25| replace:: **Vincoli_5**
+.. |STYLE25| replace:: **Area_fuoco**
 
-.. |STYLE26| replace:: **Descrizione:**
+.. |STYLE26| replace:: **Area_tot**
 
-.. |STYLE27| replace:: **Tipologia:**
+.. |STYLE27| replace:: **Vincoli_15**
 
-.. |STYLE28| replace:: **Frequenza minima:**
+.. |STYLE28| replace:: **Vincoli_10**
 
-.. |STYLE29| replace:: **Toponimo**
+.. |STYLE29| replace:: **Vincoli_5**
 
-.. |STYLE30| replace:: **Indirizzo**
+.. |STYLE30| replace:: **Descrizione:**
 
-.. |STYLE31| replace:: **Area_mq**
+.. |STYLE31| replace:: **Tipologia:**
 
-.. |STYLE32| replace:: **Descrizione:**
+.. |STYLE32| replace:: **Frequenza minima:**
 
-.. |STYLE33| replace:: **Tipologia:**
+.. |STYLE33| replace:: **Toponimo**
 
-.. |STYLE34| replace:: **Frequenza minima:**
+.. |STYLE34| replace:: **Indirizzo**
 
-.. |STYLE35| replace:: **Denominazione**
+.. |STYLE35| replace:: **Area_mq**
 
-.. |STYLE36| replace:: **Tipologia**
+.. |STYLE36| replace:: **Descrizione:**
 
-.. |STYLE37| replace:: **Codice_catastale**
+.. |STYLE37| replace:: **Tipologia:**
 
-.. |STYLE38| replace:: **Comune**
+.. |STYLE38| replace:: **Frequenza minima:**
 
-.. |STYLE39| replace:: **Superficie_mq**
+.. |STYLE39| replace:: **Denominazione**
 
-.. |STYLE40| replace:: **Superficie_prato**
+.. |STYLE40| replace:: **Tipologia**
 
-.. |STYLE41| replace:: **Recinzione**
+.. |STYLE41| replace:: **Codice_catastale**
 
-.. |STYLE42| replace:: **Giochi_Bambini**
+.. |STYLE42| replace:: **Comune**
 
-.. |STYLE43| replace:: **Animali_ammessi**
+.. |STYLE43| replace:: **Superficie_mq**
 
-.. |STYLE44| replace:: **Fontanelle**
+.. |STYLE44| replace:: **Superficie_prato**
 
-.. |STYLE45| replace:: **Orari**
+.. |STYLE45| replace:: **Recinzione**
 
-.. |STYLE46| replace:: **Descrizione:**
+.. |STYLE46| replace:: **Giochi_Bambini**
 
-.. |STYLE47| replace:: **Tipologia:**
+.. |STYLE47| replace:: **Animali_ammessi**
 
-.. |STYLE48| replace:: **Frequenza minima:**
+.. |STYLE48| replace:: **Fontanelle**
 
-.. |STYLE49| replace:: **Nome_Impianto**
+.. |STYLE49| replace:: **Orari**
 
-.. |STYLE50| replace:: **Codice_catastale**
+.. |STYLE50| replace:: **Descrizione:**
 
-.. |STYLE51| replace:: **Comune**
+.. |STYLE51| replace:: **Tipologia:**
 
-.. |STYLE52| replace:: **Comuni_serviti**
+.. |STYLE52| replace:: **Frequenza minima:**
 
-.. |STYLE53| replace:: **Recettore**
+.. |STYLE53| replace:: **Nome_Impianto**
 
-.. |STYLE54| replace:: **Altezza**
+.. |STYLE54| replace:: **Codice_catastale**
 
-.. |STYLE55| replace:: **Indirizzo**
+.. |STYLE55| replace:: **Comune**
 
-.. |STYLE56| replace:: **Longitude**
+.. |STYLE56| replace:: **Comuni_serviti**
 
-.. |STYLE57| replace:: **Latitude**
+.. |STYLE57| replace:: **Recettore**
 
-.. |STYLE58| replace:: **Data_avvio**
+.. |STYLE58| replace:: **Altezza**
 
-.. |STYLE59| replace:: **Descrizione:**
+.. |STYLE59| replace:: **Indirizzo**
 
-.. |STYLE60| replace:: **Tipologia:**
+.. |STYLE60| replace:: **Longitude**
 
-.. |STYLE61| replace:: **Frequenza minima:**
+.. |STYLE61| replace:: **Latitude**
 
-.. |STYLE62| replace:: **Macro_Categoria_Rifiuti**
+.. |STYLE62| replace:: **Data_avvio**
 
-.. |STYLE63| replace:: **Categoria_Rifiuti**
+.. |STYLE63| replace:: **Descrizione:**
 
-.. |STYLE64| replace:: **ID_Categoria_Rifiuti**
+.. |STYLE64| replace:: **Tipologia:**
 
-.. |STYLE65| replace:: **Modalità_Raccolta**
+.. |STYLE65| replace:: **Frequenza minima:**
 
-.. |STYLE66| replace:: **Periodo**
+.. |STYLE66| replace:: **Macro_Categoria_Rifiuti**
 
-.. |STYLE67| replace:: **Quantità**
+.. |STYLE67| replace:: **Categoria_Rifiuti**
 
-.. |STYLE68| replace:: **Descrizione:**
+.. |STYLE68| replace:: **ID_Categoria_Rifiuti**
 
-.. |STYLE69| replace:: **Tipologia:**
+.. |STYLE69| replace:: **Modalità_Raccolta**
 
-.. |STYLE70| replace:: **Frequenza minima:**
+.. |STYLE70| replace:: **Periodo**
 
-.. |STYLE71| replace:: **Codice_Pratica**
+.. |STYLE71| replace:: **Quantità**
 
-.. |STYLE72| replace:: **Richiedente**
+.. |STYLE72| replace:: **Descrizione:**
 
-.. |STYLE73| replace:: **Protocollo**
+.. |STYLE73| replace:: **Tipologia:**
 
-.. |STYLE74| replace:: **Oggetto_Richiesta**
+.. |STYLE74| replace:: **Frequenza minima:**
 
-.. |STYLE75| replace:: **Data_Richiesta**
+.. |STYLE75| replace:: **Codice_Pratica**
 
-.. |STYLE76| replace:: **Link_pratica**
+.. |STYLE76| replace:: **Richiedente**
 
-.. |STYLE77| replace:: **Descrizione:**
+.. |STYLE77| replace:: **Protocollo**
 
-.. |STYLE78| replace:: **Tipologia:**
+.. |STYLE78| replace:: **Oggetto_Richiesta**
 
-.. |STYLE79| replace:: **Frequenza minima:**
+.. |STYLE79| replace:: **Data_Richiesta**
 
-.. |STYLE80| replace:: **Ubicazione**
+.. |STYLE80| replace:: **Link_pratica**
 
-.. |STYLE81| replace:: **Tipologia**
+.. |STYLE81| replace:: **Descrizione:**
 
-.. |STYLE82| replace:: **Superficie**
+.. |STYLE82| replace:: **Tipologia:**
 
-.. |STYLE83| replace:: **Superficie_Altro**
+.. |STYLE83| replace:: **Frequenza minima:**
 
-.. |STYLE84| replace:: **Orari**
+.. |STYLE84| replace:: **Ubicazione**
 
-.. |STYLE85| replace:: **Longitude**
+.. |STYLE85| replace:: **Tipologia**
 
-.. |STYLE86| replace:: **Latitude**
+.. |STYLE86| replace:: **Superficie**
 
-.. |STYLE87| replace:: **Descrizione**
+.. |STYLE87| replace:: **Superficie_Altro**
 
-.. |STYLE88| replace:: **Tipologia:**
+.. |STYLE88| replace:: **Orari**
 
-.. |STYLE89| replace:: **Frequenza minima**
+.. |STYLE89| replace:: **Longitude**
 
-.. |STYLE90| replace:: **Ubicazione**
+.. |STYLE90| replace:: **Latitude**
 
-.. |STYLE91| replace:: **Tipo_Esercizio**
+.. |STYLE91| replace:: **Descrizione**
 
-.. |STYLE92| replace:: **Tipo_Somministrazione**
+.. |STYLE92| replace:: **Tipologia:**
 
-.. |STYLE93| replace:: **Modalità_Somministrazione**
+.. |STYLE93| replace:: **Frequenza minima**
 
-.. |STYLE94| replace:: **Superficie**
+.. |STYLE94| replace:: **Ubicazione**
 
-.. |STYLE95| replace:: **WiFi**
+.. |STYLE95| replace:: **Tipo_Esercizio**
 
-.. |STYLE96| replace:: **Longitude**
+.. |STYLE96| replace:: **Tipo_Somministrazione**
 
-.. |STYLE97| replace:: **Latitude**
+.. |STYLE97| replace:: **Modalità_Somministrazione**
 
-.. |STYLE98| replace:: **Orari**
+.. |STYLE98| replace:: **Superficie**
 
-.. |STYLE99| replace:: **Descrizione**
+.. |STYLE99| replace:: **WiFi**
 
-.. |STYLE100| replace:: **Tipologia:**
+.. |STYLE100| replace:: **Longitude**
 
-.. |STYLE101| replace:: **Frequenza minima**
+.. |STYLE101| replace:: **Latitude**
 
-.. |STYLE102| replace:: **Periodo_Rif**
+.. |STYLE102| replace:: **Orari**
 
-.. |STYLE103| replace:: **Denominazione**
+.. |STYLE103| replace:: **Descrizione**
 
-.. |STYLE104| replace:: **Tipo**
+.. |STYLE104| replace:: **Tipologia:**
 
-.. |STYLE105| replace:: **N_Edizione**
+.. |STYLE105| replace:: **Frequenza minima**
 
-.. |STYLE106| replace:: **Descrizione**
+.. |STYLE106| replace:: **Periodo_Rif**
 
-.. |STYLE107| replace:: **Data_Inizio**
+.. |STYLE107| replace:: **Denominazione**
 
-.. |STYLE108| replace:: **Ora_Inizio**
+.. |STYLE108| replace:: **Tipo**
 
-.. |STYLE109| replace:: **Data_Fine**
+.. |STYLE109| replace:: **N_Edizione**
 
-.. |STYLE110| replace:: **Ora_Fine**
+.. |STYLE110| replace:: **Descrizione**
 
-.. |STYLE111| replace:: **Sito_Web**
+.. |STYLE111| replace:: **Data_Inizio**
 
-.. |STYLE112| replace:: **Programma**
+.. |STYLE112| replace:: **Ora_Inizio**
 
-.. |STYLE113| replace:: **Nome_Organizzatore**
+.. |STYLE113| replace:: **Data_Fine**
 
-.. |STYLE114| replace:: **Email_Organizzatore**
+.. |STYLE114| replace:: **Ora_Fine**
 
-.. |STYLE115| replace:: **Telefono_Organizzatore**
+.. |STYLE115| replace:: **Sito_Web**
 
-.. |STYLE116| replace:: **Gratuito**
+.. |STYLE116| replace:: **Programma**
 
-.. |STYLE117| replace:: **Prezzo**
+.. |STYLE117| replace:: **Nome_Organizzatore**
 
-.. |STYLE118| replace:: **Longitude**
+.. |STYLE118| replace:: **Email_Organizzatore**
 
-.. |STYLE119| replace:: **Latitude**
+.. |STYLE119| replace:: **Telefono_Organizzatore**
 
-.. |STYLE120| replace:: **Descrizione**
+.. |STYLE120| replace:: **Gratuito**
 
-.. |STYLE121| replace:: **Tipologia:**
+.. |STYLE121| replace:: **Prezzo**
 
-.. |STYLE122| replace:: **Frequenza minima**
+.. |STYLE122| replace:: **Longitude**
 
-.. |STYLE123| replace:: **Nome**
+.. |STYLE123| replace:: **Latitude**
 
 .. |STYLE124| replace:: **Descrizione**
 
-.. |STYLE125| replace:: **Tipologia**
+.. |STYLE125| replace:: **Tipologia:**
 
-.. |STYLE126| replace:: **Ubicazione**
+.. |STYLE126| replace:: **Frequenza minima**
 
-.. |STYLE127| replace:: **Email**
+.. |STYLE127| replace:: **Nome**
 
-.. |STYLE128| replace:: **Telefono**
+.. |STYLE128| replace:: **Descrizione**
 
-.. |STYLE129| replace:: **Sito_web**
+.. |STYLE129| replace:: **Tipologia**
 
-.. |STYLE130| replace:: **Note**
+.. |STYLE130| replace:: **Ubicazione**
 
-.. |STYLE131| replace:: **Longitude**
+.. |STYLE131| replace:: **Email**
 
-.. |STYLE132| replace:: **Latitude**
+.. |STYLE132| replace:: **Telefono**
 
-.. |STYLE133| replace:: **Descrizione**
+.. |STYLE133| replace:: **Sito_web**
 
-.. |STYLE134| replace:: **Tipologia:**
+.. |STYLE134| replace:: **Note**
 
-.. |STYLE135| replace:: **Frequenza minima**
+.. |STYLE135| replace:: **Longitude**
 
-.. |STYLE136| replace:: **Ubicazione**
+.. |STYLE136| replace:: **Latitude**
 
-.. |STYLE137| replace:: **Telefono**
+.. |STYLE137| replace:: **Descrizione**
 
-.. |STYLE138| replace:: **Email**
+.. |STYLE138| replace:: **Tipologia:**
 
-.. |STYLE139| replace:: **Descrizione**
+.. |STYLE139| replace:: **Frequenza minima**
 
-.. |STYLE140| replace:: **Tipologia:**
+.. |STYLE140| replace:: **Ubicazione**
 
-.. |STYLE141| replace:: **Frequenza minima**
+.. |STYLE141| replace:: **Telefono**
 
-.. |STYLE142| replace:: **Descrizione**
+.. |STYLE142| replace:: **Email**
 
-.. |STYLE143| replace:: **Tipologia:**
+.. |STYLE143| replace:: **Descrizione**
 
-.. |STYLE144| replace:: **Frequenza minima**
+.. |STYLE144| replace:: **Tipologia:**
 
-.. |STYLE145| replace:: **Periodo**
+.. |STYLE145| replace:: **Frequenza minima**
 
-.. |STYLE146| replace:: **Dettagli**
+.. |STYLE146| replace:: **Descrizione**
 
-.. |STYLE147| replace:: **Descrizione**
+.. |STYLE147| replace:: **Tipologia:**
 
-.. |STYLE148| replace:: **Tipologia:**
+.. |STYLE148| replace:: **Frequenza minima**
 
-.. |STYLE149| replace:: **Frequenza minima**
+.. |STYLE149| replace:: **Periodo**
 
-.. |STYLE150| replace:: **Tipo**
+.. |STYLE150| replace:: **Dettagli**
 
-.. |STYLE151| replace:: **Orari**
+.. |STYLE151| replace:: **Descrizione**
 
-.. |STYLE152| replace:: **Deroghe**
+.. |STYLE152| replace:: **Tipologia:**
 
-.. |STYLE153| replace:: **Longitude**
+.. |STYLE153| replace:: **Frequenza minima**
 
-.. |STYLE154| replace:: **Latitude**
+.. |STYLE154| replace:: **Tipo**
 
-.. |STYLE155| replace:: **Link**
+.. |STYLE155| replace:: **Orari**
 
-.. |STYLE156| replace:: **Descrizione**
+.. |STYLE156| replace:: **Deroghe**
 
-.. |STYLE157| replace:: **Tipologia:**
+.. |STYLE157| replace:: **Longitude**
 
-.. |STYLE158| replace:: **Frequenza minima**
+.. |STYLE158| replace:: **Latitude**
 
-.. |STYLE159| replace:: **Tipologia**
+.. |STYLE159| replace:: **Link**
 
-.. |STYLE160| replace:: **Ubicazione**
+.. |STYLE160| replace:: **Descrizione**
 
-.. |STYLE161| replace:: **Orari**
+.. |STYLE161| replace:: **Tipologia:**
 
-.. |STYLE162| replace:: **Longitude**
+.. |STYLE162| replace:: **Frequenza minima**
 
-.. |STYLE163| replace:: **Latitude**
+.. |STYLE163| replace:: **Tipologia**
 
-.. |STYLE164| replace:: **Gratuito**
+.. |STYLE164| replace:: **Ubicazione**
 
-.. |STYLE165| replace:: **Descrizione**
+.. |STYLE165| replace:: **Orari**
 
-.. |STYLE166| replace:: **Tipologia:**
+.. |STYLE166| replace:: **Longitude**
 
-.. |STYLE167| replace:: **Frequenza minima**
+.. |STYLE167| replace:: **Latitude**
 
-.. |STYLE168| replace:: **Descr**
+.. |STYLE168| replace:: **Gratuito**
 
-.. |STYLE169| replace:: **Tipologia**
+.. |STYLE169| replace:: **Descrizione**
 
-.. |STYLE170| replace:: **Sede**
+.. |STYLE170| replace:: **Tipologia:**
 
-.. |STYLE171| replace:: **Fondo**
+.. |STYLE171| replace:: **Frequenza minima**
 
-.. |STYLE172| replace:: **Lung**
+.. |STYLE172| replace:: **Descr**
 
-.. |STYLE173| replace:: **Larg**
+.. |STYLE173| replace:: **Tipologia**
 
-.. |STYLE174| replace:: **Direzione**
+.. |STYLE174| replace:: **Sede**
 
-.. |STYLE175| replace:: **Stato**
+.. |STYLE175| replace:: **Fondo**
 
-.. |STYLE176| replace:: **Ambito**
+.. |STYLE176| replace:: **Lung**
 
-.. |STYLE177| replace:: **Descrizione**
+.. |STYLE177| replace:: **Larg**
 
-.. |STYLE178| replace:: **Tipologia:**
+.. |STYLE178| replace:: **Direzione**
 
-.. |STYLE179| replace:: **Frequenza minima**
+.. |STYLE179| replace:: **Stato**
 
-.. |STYLE180| replace:: **Tipo_Area**
+.. |STYLE180| replace:: **Ambito**
 
-.. |STYLE181| replace:: **Toponimo**
+.. |STYLE181| replace:: **Descrizione**
 
-.. |STYLE182| replace:: **Indirizzo**
+.. |STYLE182| replace:: **Tipologia:**
 
-.. |STYLE183| replace:: **Descrizione**
+.. |STYLE183| replace:: **Frequenza minima**
 
-.. |STYLE184| replace:: **Tipologia:**
+.. |STYLE184| replace:: **Tipo_Area**
 
-.. |STYLE185| replace:: **Frequenza minima**
+.. |STYLE185| replace:: **Toponimo**
 
-.. |STYLE186| replace:: **Toponimo**
+.. |STYLE186| replace:: **Indirizzo**
 
-.. |STYLE187| replace:: **Indirizzo**
+.. |STYLE187| replace:: **Descrizione**
 
-.. |STYLE188| replace:: **Descrizione**
+.. |STYLE188| replace:: **Tipologia:**
 
-.. |STYLE189| replace:: **Tipologia:**
+.. |STYLE189| replace:: **Frequenza minima**
 
-.. |STYLE190| replace:: **Frequenza minima**
+.. |STYLE190| replace:: **Toponimo**
 
-.. |STYLE191| replace:: **Ubicazione**
+.. |STYLE191| replace:: **Indirizzo**
 
-.. |STYLE192| replace:: **Latitude**
+.. |STYLE192| replace:: **Descrizione**
 
-.. |STYLE193| replace:: **Longitude**
+.. |STYLE193| replace:: **Tipologia:**
 
-.. |STYLE194| replace:: **N_Bici**
+.. |STYLE194| replace:: **Frequenza minima**
 
-.. |STYLE195| replace:: **Note**
+.. |STYLE195| replace:: **Ubicazione**
 
-.. |STYLE196| replace:: **Descrizione**
+.. |STYLE196| replace:: **Latitude**
 
-.. |STYLE197| replace:: **Tipologia:**
+.. |STYLE197| replace:: **Longitude**
 
-.. |STYLE198| replace:: **Frequenza minima**
+.. |STYLE198| replace:: **N_Bici**
 
-.. |STYLE199| replace:: **Ubicazione**
+.. |STYLE199| replace:: **Note**
 
-.. |STYLE200| replace:: **Telefono**
+.. |STYLE200| replace:: **Descrizione**
 
-.. |STYLE201| replace:: **Email**
+.. |STYLE201| replace:: **Tipologia:**
 
-.. |STYLE202| replace:: **Descrizione**
+.. |STYLE202| replace:: **Frequenza minima**
 
-.. |STYLE203| replace:: **Tipologia:**
+.. |STYLE203| replace:: **Ubicazione**
 
-.. |STYLE204| replace:: **Frequenza minima**
+.. |STYLE204| replace:: **Telefono**
 
-.. |STYLE205| replace:: **Ubicazione**
+.. |STYLE205| replace:: **Email**
 
-.. |STYLE206| replace:: **Stalli**
+.. |STYLE206| replace:: **Descrizione**
 
-.. |STYLE207| replace:: **Longitude**
+.. |STYLE207| replace:: **Tipologia:**
 
-.. |STYLE208| replace:: **Latitude**
+.. |STYLE208| replace:: **Frequenza minima**
 
-.. |STYLE209| replace:: **Descrizione**
+.. |STYLE209| replace:: **Ubicazione**
 
-.. |STYLE210| replace:: **Tipologia:**
+.. |STYLE210| replace:: **Stalli**
 
-.. |STYLE211| replace:: **Frequenza minima**
+.. |STYLE211| replace:: **Longitude**
 
-.. |STYLE212| replace:: **Ubicazione**
+.. |STYLE212| replace:: **Latitude**
 
-.. |STYLE213| replace:: **KW**
+.. |STYLE213| replace:: **Descrizione**
 
-.. |STYLE214| replace:: **Modalità_Utilizzo**
+.. |STYLE214| replace:: **Tipologia:**
 
-.. |STYLE215| replace:: **Tipo_Presa**
+.. |STYLE215| replace:: **Frequenza minima**
 
-.. |STYLE216| replace:: **Veicoli**
+.. |STYLE216| replace:: **Ubicazione**
 
-.. |STYLE217| replace:: **Data_Attivazione**
+.. |STYLE217| replace:: **KW**
 
-.. |STYLE218| replace:: **Longitude**
+.. |STYLE218| replace:: **Modalità_Utilizzo**
 
-.. |STYLE219| replace:: **Latitude**
+.. |STYLE219| replace:: **Tipo_Presa**
 
-.. |STYLE220| replace:: **Descrizione**
+.. |STYLE220| replace:: **Veicoli**
 
-.. |STYLE221| replace:: **Tipologia**
+.. |STYLE221| replace:: **Data_Attivazione**
 
-.. |STYLE222| replace:: **Frequenza minima**
+.. |STYLE222| replace:: **Longitude**
 
-.. |STYLE223| replace:: **Data**
+.. |STYLE223| replace:: **Latitude**
 
-.. |STYLE224| replace:: **Ora**
+.. |STYLE224| replace:: **Descrizione**
 
-.. |STYLE225| replace:: **Località**
+.. |STYLE225| replace:: **Tipologia**
 
-.. |STYLE226| replace:: **Natura_Incidente**
+.. |STYLE226| replace:: **Frequenza minima**
 
-.. |STYLE227| replace:: **N_Illesi**
+.. |STYLE227| replace:: **Data**
 
-.. |STYLE228| replace:: **N_Feriti**
+.. |STYLE228| replace:: **Ora**
 
-.. |STYLE229| replace:: **N_Morti**
+.. |STYLE229| replace:: **Località**
 
-.. |STYLE230| replace:: **Pedoni**
+.. |STYLE230| replace:: **Natura_Incidente**
 
-.. |STYLE231| replace:: **Velocipedi**
+.. |STYLE231| replace:: **N_Illesi**
 
-.. |STYLE232| replace:: **Ciclomotori_Motocicli**
+.. |STYLE232| replace:: **N_Feriti**
 
-.. |STYLE233| replace:: **Mezzi_pesanti**
+.. |STYLE233| replace:: **N_Morti**
 
-.. |STYLE234| replace:: **Longitude**
+.. |STYLE234| replace:: **Pedoni**
 
-.. |STYLE235| replace:: **Latitude**
+.. |STYLE235| replace:: **Velocipedi**
 
-.. |STYLE236| replace:: **Descrizione**
+.. |STYLE236| replace:: **Ciclomotori_Motocicli**
 
-.. |STYLE237| replace:: **Tipologia:**
+.. |STYLE237| replace:: **Mezzi_pesanti**
 
-.. |STYLE238| replace:: **Frequenza minima**
+.. |STYLE238| replace:: **Longitude**
 
-.. |STYLE239| replace:: **Tipo_Infrazione**
+.. |STYLE239| replace:: **Latitude**
 
-.. |STYLE240| replace:: **Normativa**
+.. |STYLE240| replace:: **Descrizione**
 
-.. |STYLE241| replace:: **Art.**
+.. |STYLE241| replace:: **Tipologia:**
 
-.. |STYLE242| replace:: **Data**
+.. |STYLE242| replace:: **Frequenza minima**
 
-.. |STYLE243| replace:: **Tipo_Veicolo**
+.. |STYLE243| replace:: **Tipo_Infrazione**
 
-.. |STYLE244| replace:: **Ubicazione**
+.. |STYLE244| replace:: **Normativa**
 
-.. |STYLE245| replace:: **N_Sanzioni**
+.. |STYLE245| replace:: **Art.**
 
-.. |STYLE246| replace:: **Longitude**
+.. |STYLE246| replace:: **Data**
 
-.. |STYLE247| replace:: **Latitude**
+.. |STYLE247| replace:: **Tipo_Veicolo**
 
-.. |STYLE248| replace:: **Descrizione**
+.. |STYLE248| replace:: **Ubicazione**
 
-.. |STYLE249| replace:: **Tipologia:**
+.. |STYLE249| replace:: **N_Sanzioni**
 
-.. |STYLE250| replace:: **Frequenza minima**
+.. |STYLE250| replace:: **Longitude**
 
-.. |STYLE251| replace:: **Provvedimento**
+.. |STYLE251| replace:: **Latitude**
 
-.. |STYLE252| replace:: **Controlli**
+.. |STYLE252| replace:: **Descrizione**
 
-.. |STYLE253| replace:: **Verbali**
+.. |STYLE253| replace:: **Tipologia:**
 
-.. |STYLE254| replace:: **Descrizione**
+.. |STYLE254| replace:: **Frequenza minima**
 
-.. |STYLE255| replace:: **Tipologia:**
+.. |STYLE255| replace:: **Provvedimento**
 
-.. |STYLE256| replace:: **Frequenza minima**
+.. |STYLE256| replace:: **Controlli**
 
-.. |STYLE257| replace:: **Tipo**
+.. |STYLE257| replace:: **Verbali**
 
-.. |STYLE258| replace:: **Controlli**
+.. |STYLE258| replace:: **Descrizione**
 
-.. |STYLE259| replace:: **Verbali**
+.. |STYLE259| replace:: **Tipologia:**
 
-.. |STYLE260| replace:: **Descrizione**
+.. |STYLE260| replace:: **Frequenza minima**
 
-.. |STYLE261| replace:: **Tipologia:**
+.. |STYLE261| replace:: **Tipo**
 
-.. |STYLE262| replace:: **Frequenza minima**
+.. |STYLE262| replace:: **Controlli**
 
-.. |STYLE263| replace:: **Tornata_elettorale**
+.. |STYLE263| replace:: **Verbali**
 
-.. |STYLE264| replace:: **Collegio_elettorale**
+.. |STYLE264| replace:: **Descrizione**
 
-.. |STYLE265| replace:: **Sezione**
+.. |STYLE265| replace:: **Tipologia:**
 
-.. |STYLE266| replace:: **Soggetto_votato**
+.. |STYLE266| replace:: **Frequenza minima**
 
-.. |STYLE267| replace:: **Voto**
+.. |STYLE267| replace:: **Tornata_elettorale**
 
-.. |STYLE268| replace:: **N_Voti**
+.. |STYLE268| replace:: **Collegio_elettorale**
 
-.. |STYLE269| replace:: **Descrizione**
+.. |STYLE269| replace:: **Sezione**
 
-.. |STYLE270| replace:: **Tipologia:**
+.. |STYLE270| replace:: **Soggetto_votato**
 
-.. |STYLE271| replace:: **Frequenza minima**
+.. |STYLE271| replace:: **Voto**
 
-.. |STYLE272| replace:: **Tornata_elettorale**
+.. |STYLE272| replace:: **N_Voti**
 
-.. |STYLE273| replace:: **Collegio_elettorale**
+.. |STYLE273| replace:: **Descrizione**
 
-.. |STYLE274| replace:: **Sezione**
+.. |STYLE274| replace:: **Tipologia:**
 
-.. |STYLE275| replace:: **Soggetto_votato**
+.. |STYLE275| replace:: **Frequenza minima**
 
-.. |STYLE276| replace:: **Voto**
+.. |STYLE276| replace:: **Tornata_elettorale**
 
-.. |STYLE277| replace:: **N_Voti**
+.. |STYLE277| replace:: **Collegio_elettorale**
 
-.. |STYLE278| replace:: **Descrizione**
+.. |STYLE278| replace:: **Sezione**
 
-.. |STYLE279| replace:: **Tipologia:**
+.. |STYLE279| replace:: **Soggetto_votato**
 
-.. |STYLE280| replace:: **Frequenza minima**
+.. |STYLE280| replace:: **Voto**
 
-.. |STYLE281| replace:: **Tornata_elettorale**
+.. |STYLE281| replace:: **N_Voti**
 
-.. |STYLE282| replace:: **Collegio_elettorale**
+.. |STYLE282| replace:: **Descrizione**
 
-.. |STYLE283| replace:: **Sezione**
+.. |STYLE283| replace:: **Tipologia:**
 
-.. |STYLE284| replace:: **Soggetto_votato**
+.. |STYLE284| replace:: **Frequenza minima**
 
-.. |STYLE285| replace:: **Voto**
+.. |STYLE285| replace:: **Tornata_elettorale**
 
-.. |STYLE286| replace:: **N_Voti**
+.. |STYLE286| replace:: **Collegio_elettorale**
 
-.. |STYLE287| replace:: **Descrizione**
+.. |STYLE287| replace:: **Sezione**
 
-.. |STYLE288| replace:: **Tipologia:**
+.. |STYLE288| replace:: **Soggetto_votato**
 
-.. |STYLE289| replace:: **Frequenza minima**
+.. |STYLE289| replace:: **Voto**
 
-.. |STYLE290| replace:: **Tornata_Elettorale**
+.. |STYLE290| replace:: **N_Voti**
 
-.. |STYLE291| replace:: **Tipo_Elezione**
+.. |STYLE291| replace:: **Descrizione**
 
-.. |STYLE292| replace:: **Soggetto_votato**
+.. |STYLE292| replace:: **Tipologia:**
 
-.. |STYLE293| replace:: **Collegio_elettorale**
+.. |STYLE293| replace:: **Frequenza minima**
 
-.. |STYLE294| replace:: **Sezione**
+.. |STYLE294| replace:: **Tornata_Elettorale**
 
-.. |STYLE295| replace:: **Voto**
+.. |STYLE295| replace:: **Tipo_Elezione**
 
-.. |STYLE296| replace:: **N_Voti**
+.. |STYLE296| replace:: **Soggetto_votato**
 
-.. |STYLE297| replace:: **Descrizione**
+.. |STYLE297| replace:: **Collegio_elettorale**
 
-.. |STYLE298| replace:: **Tipologia:**
+.. |STYLE298| replace:: **Sezione**
 
-.. |STYLE299| replace:: **Frequenza minima**
+.. |STYLE299| replace:: **Voto**
 
-.. |STYLE300| replace:: **Condizione**
+.. |STYLE300| replace:: **N_Voti**
 
-.. |STYLE301| replace:: **Maschi**
+.. |STYLE301| replace:: **Descrizione**
 
-.. |STYLE302| replace:: **Femmine**
+.. |STYLE302| replace:: **Tipologia:**
 
-.. |STYLE303| replace:: **Descrizione**
+.. |STYLE303| replace:: **Frequenza minima**
 
-.. |STYLE304| replace:: **Tipologia:**
+.. |STYLE304| replace:: **Condizione**
 
-.. |STYLE305| replace:: **Frequenza minima**
+.. |STYLE305| replace:: **Maschi**
 
-.. |STYLE306| replace:: **Indirizzo**
+.. |STYLE306| replace:: **Femmine**
 
-.. |STYLE307| replace:: **Località**
+.. |STYLE307| replace:: **Descrizione**
 
-.. |STYLE308| replace:: **S_marcia**
+.. |STYLE308| replace:: **Tipologia:**
 
-.. |STYLE309| replace:: **Civico_inizio**
+.. |STYLE309| replace:: **Frequenza minima**
 
-.. |STYLE310| replace:: **Civico_fine**
+.. |STYLE310| replace:: **Indirizzo**
 
-.. |STYLE311| replace:: **Descrizione**
+.. |STYLE311| replace:: **Località**
 
-.. |STYLE312| replace:: **Tipologia:**
+.. |STYLE312| replace:: **S_marcia**
 
-.. |STYLE313| replace:: **Frequenza minima**
+.. |STYLE313| replace:: **Civico_inizio**
 
-.. |STYLE314| replace:: **Nome_Toponimo**
+.. |STYLE314| replace:: **Civico_fine**
 
-.. |STYLE315| replace:: **Codice_Toponimo**
+.. |STYLE315| replace:: **Descrizione**
 
-.. |STYLE316| replace:: **Storico**
+.. |STYLE316| replace:: **Tipologia:**
 
-.. |STYLE317| replace:: **Descrizione**
+.. |STYLE317| replace:: **Frequenza minima**
 
-.. |STYLE318| replace:: **Tipologia:**
+.. |STYLE318| replace:: **Nome_Toponimo**
 
-.. |STYLE319| replace:: **Frequenza minima**
+.. |STYLE319| replace:: **Codice_Toponimo**
 
-.. |STYLE320| replace:: **Nome_Toponimo**
+.. |STYLE320| replace:: **Storico**
 
-.. |STYLE321| replace:: **Numero**
+.. |STYLE321| replace:: **Descrizione**
 
-.. |STYLE322| replace:: **Subalterno**
+.. |STYLE322| replace:: **Tipologia:**
 
-.. |STYLE323| replace:: **CAP**
+.. |STYLE323| replace:: **Frequenza minima**
 
-.. |STYLE324| replace:: **Sezione_ISTAT**
+.. |STYLE324| replace:: **Nome_Toponimo**
 
-.. |STYLE325| replace:: **Longitude**
+.. |STYLE325| replace:: **Numero**
 
-.. |STYLE326| replace:: **Latitude**
+.. |STYLE326| replace:: **Subalterno**
 
-.. |STYLE327| replace:: **Descrizione**
+.. |STYLE327| replace:: **CAP**
 
-.. |STYLE328| replace:: **Tipologia:**
+.. |STYLE328| replace:: **Sezione_ISTAT**
 
-.. |STYLE329| replace:: **Frequenza minima**
+.. |STYLE329| replace:: **Longitude**
 
-.. |STYLE330| replace:: **Indirizzo**
+.. |STYLE330| replace:: **Latitude**
 
 .. |STYLE331| replace:: **Descrizione**
 
-.. |STYLE332| replace:: **Data_Inizio**
+.. |STYLE332| replace:: **Tipologia:**
 
-.. |STYLE333| replace:: **Data_Fine**
+.. |STYLE333| replace:: **Frequenza minima**
 
-.. |STYLE334| replace:: **Descrizione**
+.. |STYLE334| replace:: **Indirizzo**
 
-.. |STYLE335| replace:: **Tipologia:**
+.. |STYLE335| replace:: **Descrizione**
 
-.. |STYLE336| replace:: **Frequenza minima**
+.. |STYLE336| replace:: **Data_Inizio**
 
-.. |STYLE337| replace:: **ID_Accesso**
+.. |STYLE337| replace:: **Data_Fine**
 
-.. |STYLE338| replace:: **Tipologia_Accesso**
+.. |STYLE338| replace:: **Descrizione**
 
-.. |STYLE339| replace:: **Sito**
+.. |STYLE339| replace:: **Tipologia:**
 
-.. |STYLE340| replace:: **Attivo**
+.. |STYLE340| replace:: **Frequenza minima**
 
-.. |STYLE341| replace:: **Codice**
+.. |STYLE341| replace:: **ID_Accesso**
 
-.. |STYLE342| replace:: **Longitude**
+.. |STYLE342| replace:: **Tipologia_Accesso**
 
-.. |STYLE343| replace:: **Latitude**
+.. |STYLE343| replace:: **Sito**
 
-.. |STYLE344| replace:: **Raggio_Copertura_m**
+.. |STYLE344| replace:: **Attivo**
 
-.. |STYLE345| replace:: **Descrizione**
+.. |STYLE345| replace:: **Codice**
 
-.. |STYLE346| replace:: **Tipologia:**
+.. |STYLE346| replace:: **Longitude**
 
-.. |STYLE347| replace:: **Frequenza minima**
+.. |STYLE347| replace:: **Latitude**
 
-.. |STYLE348| replace:: **Comune**
+.. |STYLE348| replace:: **Raggio_Copertura_m**
 
-.. |STYLE349| replace:: **Toponimo**
+.. |STYLE349| replace:: **Descrizione**
 
-.. |STYLE350| replace:: **Indirizzo**
+.. |STYLE350| replace:: **Tipologia:**
 
-.. |STYLE351| replace:: **Area_mq**
+.. |STYLE351| replace:: **Frequenza minima**
 
-.. |STYLE352| replace:: **Fontane**
+.. |STYLE352| replace:: **Comune**
 
-.. |STYLE353| replace:: **Attrezzi**
+.. |STYLE353| replace:: **Toponimo**
 
-.. |STYLE354| replace:: **Panchine**
+.. |STYLE354| replace:: **Indirizzo**
 
-.. |STYLE355| replace:: **Descrizione**
+.. |STYLE355| replace:: **Area_mq**
 
-.. |STYLE356| replace:: **Tipologia:**
+.. |STYLE356| replace:: **Fontane**
 
-.. |STYLE357| replace:: **Frequenza minima**
+.. |STYLE357| replace:: **Attrezzi**
 
-.. |STYLE358| replace:: **Tipologia**
+.. |STYLE358| replace:: **Panchine**
 
-.. |STYLE359| replace:: **ID_Istanza**
+.. |STYLE359| replace:: **Descrizione**
 
-.. |STYLE360| replace:: **Data_Istanza**
+.. |STYLE360| replace:: **Tipologia:**
 
-.. |STYLE361| replace:: **Protocollo**
+.. |STYLE361| replace:: **Frequenza minima**
 
-.. |STYLE362| replace:: **N_Provvedimento**
+.. |STYLE362| replace:: **Tipologia**
 
-.. |STYLE363| replace:: **Data_Provvedimento**
+.. |STYLE363| replace:: **ID_Istanza**
 
-.. |STYLE364| replace:: **Richiedente**
+.. |STYLE364| replace:: **Data_Istanza**
 
-.. |STYLE365| replace:: **\***
+.. |STYLE365| replace:: **Protocollo**
 
-.. |STYLE366| replace:: **Descrizione_ Intervento**
+.. |STYLE366| replace:: **N_Provvedimento**
 
-.. |STYLE367| replace:: **Codice_ecografico**
+.. |STYLE367| replace:: **Data_Provvedimento**
 
-.. |STYLE368| replace:: **Descrizione**
+.. |STYLE368| replace:: **Richiedente**
 
-.. |STYLE369| replace:: **Tipologia:**
+.. |STYLE369| replace:: **\***
 
-.. |STYLE370| replace:: **Frequenza minima**
+.. |STYLE370| replace:: **Descrizione_ Intervento**
 
-.. |STYLE371| replace:: **Tipologia**
+.. |STYLE371| replace:: **Codice_ecografico**
 
-.. |STYLE372| replace:: **Ubicazione**
+.. |STYLE372| replace:: **Descrizione**
 
-.. |STYLE373| replace:: **Superficie_mq**
+.. |STYLE373| replace:: **Tipologia:**
 
-.. |STYLE374| replace:: **Assegnatario**
+.. |STYLE374| replace:: **Frequenza minima**
 
-.. |STYLE375| replace:: **Progetto**
+.. |STYLE375| replace:: **Tipologia**
 
-.. |STYLE376| replace:: **Destinazione_d’uso**
+.. |STYLE376| replace:: **Ubicazione**
 
-.. |STYLE377| replace:: **Atto_Concessione**
+.. |STYLE377| replace:: **Superficie_mq**
 
-.. |STYLE378| replace:: **Data**
+.. |STYLE378| replace:: **Assegnatario**
 
-.. |STYLE379| replace:: **Durata_Anni**
+.. |STYLE379| replace:: **Progetto**
 
-.. |STYLE380| replace:: **Descrizione**
+.. |STYLE380| replace:: **Destinazione_d’uso**
 
-.. |STYLE381| replace:: **Tipologia:**
+.. |STYLE381| replace:: **Atto_Concessione**
 
-.. |STYLE382| replace:: **Frequenza minima**
+.. |STYLE382| replace:: **Data**
 
-.. |STYLE383| replace:: **Tipologia**
+.. |STYLE383| replace:: **Durata_Anni**
 
-.. |STYLE384| replace:: **Ubicazione**
+.. |STYLE384| replace:: **Descrizione**
 
-.. |STYLE385| replace:: **Telefono**
+.. |STYLE385| replace:: **Tipologia:**
 
-.. |STYLE386| replace:: **Descrizione**
+.. |STYLE386| replace:: **Frequenza minima**
 
-.. |STYLE387| replace:: **Tipologia:**
+.. |STYLE387| replace:: **Tipologia**
 
-.. |STYLE388| replace:: **Frequenza minima**
+.. |STYLE388| replace:: **Ubicazione**
 
-.. |STYLE389| replace:: **Numero_Provvedimento**
+.. |STYLE389| replace:: **Telefono**
 
-.. |STYLE390| replace:: **Data**
+.. |STYLE390| replace:: **Descrizione**
 
-.. |STYLE391| replace:: **Beneficiario**
+.. |STYLE391| replace:: **Tipologia:**
 
-.. |STYLE392| replace:: **Tipologia_Beneficiario**
+.. |STYLE392| replace:: **Frequenza minima**
 
-.. |STYLE393| replace:: **Codice_fiscale**
+.. |STYLE393| replace:: **Numero_Provvedimento**
 
-.. |STYLE394| replace:: **Partita_IVA**
+.. |STYLE394| replace:: **Data**
 
-.. |STYLE395| replace:: **Oggetto**
+.. |STYLE395| replace:: **Beneficiario**
 
-.. |STYLE396| replace:: **Norma_Titolo**
+.. |STYLE396| replace:: **Tipologia_Beneficiario**
 
-.. |STYLE397| replace:: **Link_Norma_Titolo**
+.. |STYLE397| replace:: **Codice_fiscale**
 
-.. |STYLE398| replace:: **Ufficio**
+.. |STYLE398| replace:: **Partita_IVA**
 
-.. |STYLE399| replace:: **Cognome_Responsabile**
+.. |STYLE399| replace:: **Oggetto**
 
-.. |STYLE400| replace:: **Nome_Responsabile**
+.. |STYLE400| replace:: **Norma_Titolo**
 
-.. |STYLE401| replace:: **Modalità**
+.. |STYLE401| replace:: **Link_Norma_Titolo**
 
-.. |STYLE402| replace:: **Importo**
+.. |STYLE402| replace:: **Ufficio**
 
-.. |STYLE403| replace:: **Progetto**
+.. |STYLE403| replace:: **Cognome_Responsabile**
 
-.. |STYLE404| replace:: **Link_Progetto**
+.. |STYLE404| replace:: **Nome_Responsabile**
 
-.. |STYLE405| replace:: **Curriculum**
+.. |STYLE405| replace:: **Modalità**
 
-.. |STYLE406| replace:: **Descrizione**
+.. |STYLE406| replace:: **Importo**
 
-.. |STYLE407| replace:: **Tipologia:**
+.. |STYLE407| replace:: **Progetto**
 
-.. |STYLE408| replace:: **Frequenza minima**
+.. |STYLE408| replace:: **Link_Progetto**
 
-.. |STYLE409| replace:: **Tipologia_Locazione**
+.. |STYLE409| replace:: **Curriculum**
 
-.. |STYLE410| replace:: **Locatario**
+.. |STYLE410| replace:: **Descrizione**
 
-.. |STYLE411| replace:: **Locatore**
+.. |STYLE411| replace:: **Tipologia:**
 
-.. |STYLE412| replace:: **Ubicazione**
+.. |STYLE412| replace:: **Frequenza minima**
 
-.. |STYLE413| replace:: **Destinazione**
+.. |STYLE413| replace:: **Tipologia_Locazione**
 
-.. |STYLE414| replace:: **Data_Inizio_Contratto**
+.. |STYLE414| replace:: **Locatario**
 
-.. |STYLE415| replace:: **Data_Fine_Contratto**
+.. |STYLE415| replace:: **Locatore**
 
-.. |STYLE416| replace:: **Canone_percepito**
+.. |STYLE416| replace:: **Ubicazione**
 
-.. |STYLE417| replace:: **Spese_accessorie**
+.. |STYLE417| replace:: **Destinazione**
 
-.. |STYLE418| replace:: **Canone_versato**
+.. |STYLE418| replace:: **Data_Inizio_Contratto**
 
-.. |STYLE419| replace:: **Descrizione**
+.. |STYLE419| replace:: **Data_Fine_Contratto**
 
-.. |STYLE420| replace:: **Tipologia:**
+.. |STYLE420| replace:: **Canone_percepito**
 
-.. |STYLE421| replace:: **Frequenza minima**
+.. |STYLE421| replace:: **Spese_accessorie**
 
-.. |STYLE422| replace:: **Descrizione**
+.. |STYLE422| replace:: **Canone_versato**
 
-.. |STYLE423| replace:: **Natura_giuridica**
+.. |STYLE423| replace:: **Descrizione**
 
-.. |STYLE424| replace:: **Tipologia_Bene**
+.. |STYLE424| replace:: **Tipologia:**
 
-.. |STYLE425| replace:: **Categoria_catastale**
+.. |STYLE425| replace:: **Frequenza minima**
 
-.. |STYLE426| replace:: **Sezione**
+.. |STYLE426| replace:: **Descrizione**
 
-.. |STYLE427| replace:: **Foglio**
+.. |STYLE427| replace:: **Natura_giuridica**
 
-.. |STYLE428| replace:: **Mappale**
+.. |STYLE428| replace:: **Tipologia_Bene**
 
-.. |STYLE429| replace:: **Subalterno**
+.. |STYLE429| replace:: **Categoria_catastale**
 
-.. |STYLE430| replace:: **Classe**
+.. |STYLE430| replace:: **Sezione**
 
-.. |STYLE431| replace:: **Unità**
+.. |STYLE431| replace:: **Foglio**
 
-.. |STYLE432| replace:: **Consistenza**
+.. |STYLE432| replace:: **Mappale**
 
-.. |STYLE433| replace:: **Rendita**
+.. |STYLE433| replace:: **Subalterno**
 
-.. |STYLE434| replace:: **Destinazione**
+.. |STYLE434| replace:: **Classe**
 
-.. |STYLE435| replace:: **Superficie**
+.. |STYLE435| replace:: **Unità**
 
-.. |STYLE436| replace:: **Valore**
+.. |STYLE436| replace:: **Consistenza**
 
-.. |STYLE437| replace:: **Data_Acquisizione**
+.. |STYLE437| replace:: **Rendita**
 
-.. |STYLE438| replace:: **Longitude**
+.. |STYLE438| replace:: **Destinazione**
 
-.. |STYLE439| replace:: **Latitude**
+.. |STYLE439| replace:: **Superficie**
 
-.. |STYLE440| replace:: **Descrizione**
+.. |STYLE440| replace:: **Valore**
 
-.. |STYLE441| replace:: **Tipologia:**
+.. |STYLE441| replace:: **Data_Acquisizione**
 
-.. |STYLE442| replace:: **Frequenza minima**
+.. |STYLE442| replace:: **Longitude**
 
-.. |STYLE443| replace:: **Titolo**
+.. |STYLE443| replace:: **Latitude**
 
 .. |STYLE444| replace:: **Descrizione**
 
-.. |STYLE445| replace:: **Termine_massimo**
+.. |STYLE445| replace:: **Tipologia:**
 
-.. |STYLE446| replace:: **Tempi_effettivi**
+.. |STYLE446| replace:: **Frequenza minima**
 
-.. |STYLE447| replace:: **Ufficio_Responsabile**
+.. |STYLE447| replace:: **Titolo**
 
-.. |STYLE448| replace:: **Note**
+.. |STYLE448| replace:: **Descrizione**
 
-.. |STYLE449| replace:: **Descrizione**
+.. |STYLE449| replace:: **Termine_massimo**
 
-.. |STYLE450| replace:: **Tipologia:**
+.. |STYLE450| replace:: **Tempi_effettivi**
 
-.. |STYLE451| replace:: **Frequenza minima**
+.. |STYLE451| replace:: **Ufficio_Responsabile**
 
-.. |STYLE452| replace:: **Funzioni_attribuite**
+.. |STYLE452| replace:: **Note**
 
-.. |STYLE453| replace:: **Attività_svolte**
+.. |STYLE453| replace:: **Descrizione**
 
-.. |STYLE454| replace:: **Quota_Partecipazione**
+.. |STYLE454| replace:: **Tipologia:**
 
-.. |STYLE455| replace:: **Durata_Impegno**
+.. |STYLE455| replace:: **Frequenza minima**
 
-.. |STYLE456| replace:: **Onere_Impegno**
+.. |STYLE456| replace:: **Funzioni_attribuite**
 
-.. |STYLE457| replace:: **Numero_Rappresentanti**
+.. |STYLE457| replace:: **Attività_svolte**
 
-.. |STYLE458| replace:: **Trattamento_economico**
+.. |STYLE458| replace:: **Quota_Partecipazione**
 
-.. |STYLE459| replace:: **Ultimo_anno**
+.. |STYLE459| replace:: **Durata_Impegno**
 
-.. |STYLE460| replace:: **Risultati_Bilancio_Ultimo_anno**
+.. |STYLE460| replace:: **Onere_Impegno**
 
-.. |STYLE461| replace:: **Risultati_Bilancio_Penultimo_anno**
+.. |STYLE461| replace:: **Numero_Rappresentanti**
 
-.. |STYLE462| replace:: **Risultati_Bilancio_Terzultimo_anno**
+.. |STYLE462| replace:: **Trattamento_economico**
 
-.. |STYLE463| replace:: **Sito_istituzionale**
+.. |STYLE463| replace:: **Ultimo_anno**
 
-.. |STYLE464| replace:: **Descrizione**
+.. |STYLE464| replace:: **Risultati_Bilancio_Ultimo_anno**
 
-.. |STYLE465| replace:: **Tipologia:**
+.. |STYLE465| replace:: **Risultati_Bilancio_Penultimo_anno**
 
-.. |STYLE466| replace:: **Frequenza minima**
+.. |STYLE466| replace:: **Risultati_Bilancio_Terzultimo_anno**
 
-.. |STYLE467| replace:: **Funzioni_attribuite**
+.. |STYLE467| replace:: **Sito_istituzionale**
 
-.. |STYLE468| replace:: **Attività_svolte**
+.. |STYLE468| replace:: **Descrizione**
 
-.. |STYLE469| replace:: **Quota_Partecipazione**
+.. |STYLE469| replace:: **Tipologia:**
 
-.. |STYLE470| replace:: **Durata_Impegno**
+.. |STYLE470| replace:: **Frequenza minima**
 
-.. |STYLE471| replace:: **Onere_Impegno**
+.. |STYLE471| replace:: **Funzioni_attribuite**
 
-.. |STYLE472| replace:: **Numero_Rappresentanti**
+.. |STYLE472| replace:: **Attività_svolte**
 
-.. |STYLE473| replace:: **Trattamento_economico**
+.. |STYLE473| replace:: **Quota_Partecipazione**
 
-.. |STYLE474| replace:: **Ultimo_anno**
+.. |STYLE474| replace:: **Durata_Impegno**
 
-.. |STYLE475| replace:: **Risultati_Bilancio_Ultimo_anno**
+.. |STYLE475| replace:: **Onere_Impegno**
 
-.. |STYLE476| replace:: **Risultati_Bilancio_Penultimo_anno**
+.. |STYLE476| replace:: **Numero_Rappresentanti**
 
-.. |STYLE477| replace:: **Risultati_Bilancio_Terzultimo_anno**
+.. |STYLE477| replace:: **Trattamento_economico**
 
-.. |STYLE478| replace:: **Sito_istituzionale**
+.. |STYLE478| replace:: **Ultimo_anno**
 
-.. |STYLE479| replace:: **Descrizione**
+.. |STYLE479| replace:: **Risultati_Bilancio_Ultimo_anno**
 
-.. |STYLE480| replace:: **Tipologia:**
+.. |STYLE480| replace:: **Risultati_Bilancio_Penultimo_anno**
 
-.. |STYLE481| replace:: **Frequenza minima**
+.. |STYLE481| replace:: **Risultati_Bilancio_Terzultimo_anno**
 
-.. |STYLE482| replace:: **Funzioni_attribuite**
+.. |STYLE482| replace:: **Sito_istituzionale**
 
-.. |STYLE483| replace:: **Attività_svolte**
+.. |STYLE483| replace:: **Descrizione**
 
-.. |STYLE484| replace:: **Quota_Partecipazione**
+.. |STYLE484| replace:: **Tipologia:**
 
-.. |STYLE485| replace:: **Durata_Impegno**
+.. |STYLE485| replace:: **Frequenza minima**
 
-.. |STYLE486| replace:: **Onere_Impegno**
+.. |STYLE486| replace:: **Funzioni_attribuite**
 
-.. |STYLE487| replace:: **Numero_Rappresentanti**
+.. |STYLE487| replace:: **Attività_svolte**
 
-.. |STYLE488| replace:: **Trattamento_economico**
+.. |STYLE488| replace:: **Quota_Partecipazione**
 
-.. |STYLE489| replace:: **Ultimo_anno**
+.. |STYLE489| replace:: **Durata_Impegno**
 
-.. |STYLE490| replace:: **Risultati_Bilancio_Ultimo_anno**
+.. |STYLE490| replace:: **Onere_Impegno**
 
-.. |STYLE491| replace:: **Risultati_Bilancio_Penultimo_anno**
+.. |STYLE491| replace:: **Numero_Rappresentanti**
 
-.. |STYLE492| replace:: **Risultati_Bilancio_Terzultimo_anno**
+.. |STYLE492| replace:: **Trattamento_economico**
 
-.. |STYLE493| replace:: **Sito_istituzionale**
+.. |STYLE493| replace:: **Ultimo_anno**
 
-.. |STYLE494| replace:: **Descrizione**
+.. |STYLE494| replace:: **Risultati_Bilancio_Ultimo_anno**
 
-.. |STYLE495| replace:: **Tipologia:**
+.. |STYLE495| replace:: **Risultati_Bilancio_Penultimo_anno**
 
-.. |STYLE496| replace:: **Frequenza minima**
+.. |STYLE496| replace:: **Risultati_Bilancio_Terzultimo_anno**
 
-.. |STYLE497| replace:: **Tipologia_ Provvedimento**
+.. |STYLE497| replace:: **Sito_istituzionale**
 
-.. |STYLE498| replace:: **Numero_ Provvedimento**
+.. |STYLE498| replace:: **Descrizione**
 
-.. |STYLE499| replace:: **Oggetto**
+.. |STYLE499| replace:: **Tipologia:**
 
-.. |STYLE500| replace:: **Contenuto**
+.. |STYLE500| replace:: **Frequenza minima**
 
-.. |STYLE501| replace:: **Data_Approvazione**
+.. |STYLE501| replace:: **Tipologia_ Provvedimento**
 
-.. |STYLE502| replace:: **Ufficio_proponente**
+.. |STYLE502| replace:: **Numero_ Provvedimento**
 
-.. |STYLE503| replace:: **Spesa_prevista**
+.. |STYLE503| replace:: **Oggetto**
 
-.. |STYLE504| replace:: **Estremi_Documenti_ Fascicolo**
+.. |STYLE504| replace:: **Contenuto**
 
-.. |STYLE505| replace:: **Descrizione**
+.. |STYLE505| replace:: **Data_Approvazione**
 
-.. |STYLE506| replace:: **Tipologia:**
+.. |STYLE506| replace:: **Ufficio_proponente**
 
-.. |STYLE507| replace:: **Frequenza minima**
+.. |STYLE507| replace:: **Spesa_prevista**
 
-.. |STYLE508| replace:: **Organo**
+.. |STYLE508| replace:: **Estremi_Documenti_ Fascicolo**
 
-.. |STYLE509| replace:: **Tipologia_ Provvedimento**
+.. |STYLE509| replace:: **Descrizione**
 
-.. |STYLE510| replace:: **Numero_ Provvedimento**
+.. |STYLE510| replace:: **Tipologia:**
 
-.. |STYLE511| replace:: **Oggetto**
+.. |STYLE511| replace:: **Frequenza minima**
 
-.. |STYLE512| replace:: **Contenuto**
+.. |STYLE512| replace:: **Organo**
 
-.. |STYLE513| replace:: **Data_Approvazione**
+.. |STYLE513| replace:: **Tipologia_ Provvedimento**
 
-.. |STYLE514| replace:: **Ufficio proponente**
+.. |STYLE514| replace:: **Numero_ Provvedimento**
 
-.. |STYLE515| replace:: **Spesa_prevista**
+.. |STYLE515| replace:: **Oggetto**
 
-.. |STYLE516| replace:: **Estremi_Documenti_ Fascicolo**
+.. |STYLE516| replace:: **Contenuto**
 
-.. |STYLE517| replace:: **Descrizione**
+.. |STYLE517| replace:: **Data_Approvazione**
 
-.. |STYLE518| replace:: **Tipologia:**
+.. |STYLE518| replace:: **Ufficio proponente**
 
-.. |STYLE519| replace:: **Frequenza minima**
+.. |STYLE519| replace:: **Spesa_prevista**
 
-.. |STYLE520| replace:: **Anno**
+.. |STYLE520| replace:: **Estremi_Documenti_ Fascicolo**
 
-.. |STYLE521| replace:: **Cognome**
+.. |STYLE521| replace:: **Descrizione**
 
-.. |STYLE522| replace:: **Nome**
+.. |STYLE522| replace:: **Tipologia:**
 
-.. |STYLE523| replace:: **Lingua 1**
+.. |STYLE523| replace:: **Frequenza minima**
 
-.. |STYLE524| replace:: **Lingua 2**
+.. |STYLE524| replace:: **Anno**
 
-.. |STYLE525| replace:: **Lingua n**
+.. |STYLE525| replace:: **Cognome**
 
-.. |STYLE526| replace:: **Descrizione**
+.. |STYLE526| replace:: **Nome**
 
-.. |STYLE527| replace:: **Tipologia:**
+.. |STYLE527| replace:: **Lingua 1**
 
-.. |STYLE528| replace:: **Frequenza minima**
+.. |STYLE528| replace:: **Lingua 2**
 
-.. |STYLE529| replace:: **Mese**
+.. |STYLE529| replace:: **Lingua n**
 
-.. |STYLE530| replace:: **Comune**
+.. |STYLE530| replace:: **Descrizione**
 
-.. |STYLE531| replace:: **Settore**
+.. |STYLE531| replace:: **Tipologia:**
 
-.. |STYLE532| replace:: **Arrivi_italiani**
+.. |STYLE532| replace:: **Frequenza minima**
 
-.. |STYLE533| replace:: **Presenze_italiani**
+.. |STYLE533| replace:: **Mese**
 
-.. |STYLE534| replace:: **Arrivi_stranieri**
+.. |STYLE534| replace:: **Comune**
 
-.. |STYLE535| replace:: **Presenze_stranieri**
+.. |STYLE535| replace:: **Settore**
 
-.. |STYLE536| replace:: **Comune**
+.. |STYLE536| replace:: **Arrivi_italiani**
 
-.. |STYLE537| replace:: **Codice_catastale**
+.. |STYLE537| replace:: **Presenze_italiani**
 
-.. |STYLE538| replace:: **Toponimo**
+.. |STYLE538| replace:: **Arrivi_stranieri**
 
-.. |STYLE539| replace:: **Indirizzo**
+.. |STYLE539| replace:: **Presenze_stranieri**
 
-.. |STYLE540| replace:: **Civico**
+.. |STYLE540| replace:: **Comune**
 
-.. |STYLE541| replace:: **CAP**
+.. |STYLE541| replace:: **Codice_catastale**
 
-.. |STYLE542| replace:: **Lun_Chiusura**
+.. |STYLE542| replace:: **Toponimo**
 
-.. |STYLE543| replace:: **Mar_Apertura**
+.. |STYLE543| replace:: **Indirizzo**
 
-.. |STYLE544| replace:: **Mar_Chiusura**
+.. |STYLE544| replace:: **Civico**
 
-.. |STYLE545| replace:: **Mer_Apertura**
+.. |STYLE545| replace:: **CAP**
 
-.. |STYLE546| replace:: **Mer_Chiusura**
+.. |STYLE546| replace:: **Lun_Chiusura**
 
-.. |STYLE547| replace:: **Gio_Apertura**
+.. |STYLE547| replace:: **Mar_Apertura**
 
-.. |STYLE548| replace:: **Gio_Chiusura**
+.. |STYLE548| replace:: **Mar_Chiusura**
 
-.. |STYLE549| replace:: **Ven_Apertura**
+.. |STYLE549| replace:: **Mer_Apertura**
 
-.. |STYLE550| replace:: **Ven_Chiusura**
+.. |STYLE550| replace:: **Mer_Chiusura**
 
-.. |STYLE551| replace:: **Sab_Apertura**
+.. |STYLE551| replace:: **Gio_Apertura**
 
-.. |STYLE552| replace:: **Sab_Chiusura**
+.. |STYLE552| replace:: **Gio_Chiusura**
 
-.. |STYLE553| replace:: **Dom_Apertura**
+.. |STYLE553| replace:: **Ven_Apertura**
 
-.. |STYLE554| replace:: **Dom_Chiusura**
+.. |STYLE554| replace:: **Ven_Chiusura**
 
-.. |STYLE555| replace:: **Invernale_Lun_Chiusura**
+.. |STYLE555| replace:: **Sab_Apertura**
 
-.. |STYLE556| replace:: **Invernale_Mar_Apertura**
+.. |STYLE556| replace:: **Sab_Chiusura**
 
-.. |STYLE557| replace:: **Invernale_Mar_Chiusura**
+.. |STYLE557| replace:: **Dom_Apertura**
 
-.. |STYLE558| replace:: **Invernale_Mer_Apertura**
+.. |STYLE558| replace:: **Dom_Chiusura**
 
-.. |STYLE559| replace:: **Invernale_Mer_Chiusura**
+.. |STYLE559| replace:: **Invernale_Lun_Chiusura**
 
-.. |STYLE560| replace:: **Invernale_Gio_Apertura**
+.. |STYLE560| replace:: **Invernale_Mar_Apertura**
 
-.. |STYLE561| replace:: **Invernale_Gio_Chiusura**
+.. |STYLE561| replace:: **Invernale_Mar_Chiusura**
 
-.. |STYLE562| replace:: **Invernale_Ven_Apertura**
+.. |STYLE562| replace:: **Invernale_Mer_Apertura**
 
-.. |STYLE563| replace:: **Invernale_Ven_Chiusura**
+.. |STYLE563| replace:: **Invernale_Mer_Chiusura**
 
-.. |STYLE564| replace:: **Invernale_Sab_Apertura**
+.. |STYLE564| replace:: **Invernale_Gio_Apertura**
 
-.. |STYLE565| replace:: **Invernale_Sab_Chiusura**
+.. |STYLE565| replace:: **Invernale_Gio_Chiusura**
 
-.. |STYLE566| replace:: **Invernale_Dom_Apertura**
+.. |STYLE566| replace:: **Invernale_Ven_Apertura**
 
-.. |STYLE567| replace:: **Invernale_Dom_Chiusura**
+.. |STYLE567| replace:: **Invernale_Ven_Chiusura**
 
-.. |STYLE568| replace:: **Estivo_Lun_Apertura**
+.. |STYLE568| replace:: **Invernale_Sab_Apertura**
 
-.. |STYLE569| replace:: **Estivo_Lun_Chiusura**
+.. |STYLE569| replace:: **Invernale_Sab_Chiusura**
 
-.. |STYLE570| replace:: **Estivo_Mar_Apertura**
+.. |STYLE570| replace:: **Invernale_Dom_Apertura**
 
-.. |STYLE571| replace:: **Estivo_Mar_Chiusura**
+.. |STYLE571| replace:: **Invernale_Dom_Chiusura**
 
-.. |STYLE572| replace:: **Estivo_Mer_Apertura**
+.. |STYLE572| replace:: **Estivo_Lun_Apertura**
 
-.. |STYLE573| replace:: **Estivo_Mer_Chiusura**
+.. |STYLE573| replace:: **Estivo_Lun_Chiusura**
 
-.. |STYLE574| replace:: **Estivo_Gio_Apertura**
+.. |STYLE574| replace:: **Estivo_Mar_Apertura**
 
-.. |STYLE575| replace:: **Estivo_Gio_Chiusura**
+.. |STYLE575| replace:: **Estivo_Mar_Chiusura**
 
-.. |STYLE576| replace:: **Estivo_Ven_Apertura**
+.. |STYLE576| replace:: **Estivo_Mer_Apertura**
 
-.. |STYLE577| replace:: **Estivo_Ven_Chiusura**
+.. |STYLE577| replace:: **Estivo_Mer_Chiusura**
 
-.. |STYLE578| replace:: **Estivo_Sab_Apertura**
+.. |STYLE578| replace:: **Estivo_Gio_Apertura**
 
-.. |STYLE579| replace:: **Estivo_Sab_Chiusura**
+.. |STYLE579| replace:: **Estivo_Gio_Chiusura**
 
-.. |STYLE580| replace:: **Estivo_Dom_Apertura**
+.. |STYLE580| replace:: **Estivo_Ven_Apertura**
 
-.. |STYLE581| replace:: **Estivo_Dom_Chiusura**
+.. |STYLE581| replace:: **Estivo_Ven_Chiusura**
 
-.. |STYLE582| replace:: **Tempestiva**
+.. |STYLE582| replace:: **Estivo_Sab_Apertura**
 
-.. |STYLE583| replace:: **Tempo reale**
+.. |STYLE583| replace:: **Estivo_Sab_Chiusura**
 
-.. |STYLE584| replace:: **Giornaliera**
+.. |STYLE584| replace:: **Estivo_Dom_Apertura**
 
-.. |STYLE585| replace:: **Settimanale**
+.. |STYLE585| replace:: **Estivo_Dom_Chiusura**
 
-.. |STYLE586| replace:: **Quindicinale**
+.. |STYLE586| replace:: **Tempestiva**
 
-.. |STYLE587| replace:: **Mensile**
+.. |STYLE587| replace:: **Tempo reale**
 
-.. |STYLE588| replace:: **Bimestrale**
+.. |STYLE588| replace:: **Giornaliera**
 
-.. |STYLE589| replace:: **Trimestrale**
+.. |STYLE589| replace:: **Settimanale**
 
-.. |STYLE590| replace:: **Quadrimestrale**
+.. |STYLE590| replace:: **Quindicinale**
 
-.. |STYLE591| replace:: **Semestrale**
+.. |STYLE591| replace:: **Mensile**
 
-.. |STYLE592| replace:: **Annuale**
+.. |STYLE592| replace:: **Bimestrale**
 
-.. |STYLE593| replace:: **Biennale**
+.. |STYLE593| replace:: **Trimestrale**
 
-.. |STYLE594| replace:: **Triennale**
+.. |STYLE594| replace:: **Quadrimestrale**
 
-.. |STYLE595| replace:: **Quinquennale**
+.. |STYLE595| replace:: **Semestrale**
 
-.. |STYLE596| replace:: **Decennale**
+.. |STYLE596| replace:: **Annuale**
 
-.. |STYLE597| replace:: **Mai**
+.. |STYLE597| replace:: **Biennale**
 
-.. |STYLE598| replace:: **Non definita**
+.. |STYLE598| replace:: **Triennale**
 
-.. |STYLE599| replace:: **DCAT-AP_IT**
+.. |STYLE599| replace:: **Quinquennale**
+
+.. |STYLE600| replace:: **Decennale**
+
+.. |STYLE601| replace:: **Mai**
+
+.. |STYLE602| replace:: **Non definita**
+
+.. |STYLE603| replace:: **DCAT-AP_IT**
 
 
 .. |REPLACE1| raw:: html
