@@ -13,7 +13,7 @@ __version__ = '1.0'
 
 source_suffix = '.rst'
 master_doc = 'index'
-project = 'nome progetto'
+project = 'Definizione standard per il paniere di dataset degli enti locali'
 copyright = '= licenza CC BY'
 
 # The name of the Pygments (syntax highlighting) style to use.
@@ -40,8 +40,8 @@ def setup(app):
 """
 #latex_documents = []
 
-latex_logo = "img/_______.jpg"
-html_logo = "img/________.jpg"
+latex_logo = "img/regionelombardia.png"
+html_logo = "img/regionelombardia.png"
 
 
 # Adding Custom CSS or JavaScript to a Sphinx Project: al seguente link ci sono esempi
