@@ -9,7 +9,7 @@ Definizione Standard per il paniere di dataset degli Enti Locali
     :maxdepth: 4
     :caption: Definizione standard paniere
 
-    paniere_dataset_degli_enti_locali
+    index
 
 
 .. toctree::  
