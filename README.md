@@ -7,7 +7,6 @@ a cura di Ciro Spataro
 <p><img class="imageLeft" style="width: 33px; height: 30px;" src="http://cirospat.readthedocs.io/it/latest/_static/cirospat.jpg"></p>
 
 Questo repository contiene i file necessari per costruire una pubblicazione su Read the Docs. 
-[cirospat.readthedocs.io](http://cirospat.readthedocs.io). 
 
 <br></br>
 
@@ -17,8 +16,4 @@ Inizialmente i documenti sono editati su Google Doc. Attraverso il plugin "compo
 
 Licenza dei contenuti di questo repository: CC BY
 
-
----
-<p><img class="imageLeft" style="width: 33px; height: 30px;" src="https://sourcerer.io/icons/logo-bright.svg">  
-https://sourcerer.io/cirospat
 
