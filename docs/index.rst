@@ -10,6 +10,7 @@ Definizione Standard per il paniere di dataset degli Enti Locali
     :caption: Definizione standard paniere
 
     paniere_dataset_degli_enti_locali
+    privacy
 
 L’obiettivo del documento è quello di \ |STYLE0|\  relativo ai contenuti minimi che ciascun dataset deve contenere.
 
