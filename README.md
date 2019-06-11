@@ -1,12 +1,13 @@
-# cirospat
+# nome progetto su Read the Docs
 
-profilo professionale di Ciro Spataro
+a cura di Ciro Spataro
 
 
 [**cirospat.readthedocs.io**](http://cirospat.readthedocs.io)  
 <p><img class="imageLeft" style="width: 33px; height: 30px;" src="http://cirospat.readthedocs.io/it/latest/_static/cirospat.jpg"></p>
 
-Questo repository contiene i materiali (documenti testuali) che vengono esposti su [cirospat.readthedocs.io](http://cirospat.readthedocs.io). 
+Questo repository contiene i file necessari per costruire una pubblicazione su Read the Docs. 
+[cirospat.readthedocs.io](http://cirospat.readthedocs.io). 
 
 <br></br>
 
