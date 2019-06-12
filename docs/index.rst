@@ -28,6 +28,8 @@ Definire uno standard è un lavoro preliminare importante per:
 
 #. Facilitare la \ |STYLE4|\  dei dati
 
+|
+
 .. _ha5c461d7d142050542f7d6c78805d22:
 
 Metodo di lavoro
