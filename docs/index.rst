@@ -30,9 +30,9 @@ Definire uno standard è un lavoro preliminare importante per:
 
 #. Facilitare la \ |STYLE4|\  dei dati
 
-.. _h1f7b7e213a5f3135174d2478541f3671:
+.. _ha5c461d7d142050542f7d6c78805d22:
 
-METODO DI LAVORO
+Metodo di lavoro
 ****************
 
 Il documento è suddiviso in paragrafi che rappresentano le 10 categorie di dataset presenti nel paniere:
@@ -73,9 +73,11 @@ Gli Enti partecipanti possono utilizzare i commenti per proporre di:
 
 Il Team Open Data Lombardia si occuperà di raccogliere i commenti, di integrare il documento e di rispondere a eventuali dubbi espressi dagli Enti.
 
-.. _h455c1263337b5d692f635d441e78625c:
+|
 
-FORMATO DEI DATI
+.. _hc7a4e6e33a4f2b725a72146b557b:
+
+Formato dei dati
 ****************
 
 \ |STYLE8|\ 
@@ -137,9 +139,11 @@ Per la specifica degli shapefile fare riferimento a \ |LINK3|\
 
 \ |STYLE16|\  Se si utilizza un sistema di coordinate diverso dal WGS-84, occorre specificare questa informazione e includere il sistema utilizzato nello shapefile.
 
-.. _h2591956d562d53487858431c49e1f:
+|
 
-FREQUENZA DI AGGIORNAMENTO TEMPESTIVA
+.. _h4b6e4114411a7b4b386e221d24477e3:
+
+Frequenza di aggiornamento tempestiva
 *************************************
 
 \ |STYLE17|\ 
@@ -162,12 +166,12 @@ Per modificare la data di ultimo aggiornamento dei metadati occorre cliccare su 
 .. _hb2252384d6f2d652c47455b4f755c4:
 
 1.     AMBIENTE
-===============
+***************
 
 .. _h613337737e83b26d2f785122671612:
 
 #1     Carta degli incendi (DEFINITIVO)
----------------------------------------
+=======================================
 
 \ |STYLE19|\  Mappa e scheda delle aree percorse da incendi 
 
@@ -207,10 +211,15 @@ Sono possibili 2 opzioni di pubblicazione:
 |\ |STYLE29|\       |Indicare se esiste il divieto (vincolo 5 anni) di attività di rimboschimento e di ingegneria ambientale sostenute con risorse finanziarie pubbliche (SI/NO)                                                                                                                                   |Testo |O      |
 +-------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------+-------+
 
+.. _h2c1d74277104e41780968148427e:
+
+
+
+
 .. _h73633d4a4c4c22737a3215b39c2b3b:
 
 #17     Aree Verdi (DEFINITIVO)
--------------------------------
+===============================
 
 \ |STYLE30|\  Elenco delle aree verdi del territorio 
 
@@ -235,10 +244,15 @@ Esempio 2: \ |LINK8|\
 |\ |STYLE35|\       |Superficie dell’area (espressa in metri quadrati)|Numero|M      |
 +-------------------+-------------------------------------------------+------+-------+
 
+.. _h2c1d74277104e41780968148427e:
+
+
+
+
 .. _h534b1577195b553752123805a281950:
 
 #18     Aree Verdi Informazioni (DEFINITIVO)
---------------------------------------------
+============================================
 
 \ |STYLE36|\  Informazioni sulle aree verdi
 
@@ -300,7 +314,7 @@ NOTA: In seguito alle segnalazioni degli Enti è stato creato un tracciato che c
 .. _h6c466e2d2d97084e145847153214d:
 
 #34 Elenco degli impianti di depurazione (DEFINITIVO)
------------------------------------------------------
+=====================================================
 
 \ |STYLE50|\  Elenco degli impianti di depurazione pubblici di competenza, georeferenziati 
 
@@ -355,7 +369,7 @@ Esempio: \ |LINK9|\
 .. _h43321d10544d6f71592d465d7a1f3b4d:
 
 #35 Quantità rifiuti prodotta (DEFINITIVO)
-------------------------------------------
+==========================================
 
 \ |STYLE63|\  Quantità di rifiuti prodotti dalla raccolta differenziata e non differenziata, specificandone categoria e modalità di raccolta. 
 
@@ -409,12 +423,12 @@ Esempio 2: Comune di Isso -  \ |LINK11|\
 .. _h5a82773c2c5d1dc685335262c4f51:
 
 2.     COMMERCIO
-================
+****************
 
 .. _h4a55719171347357e636635565315a:
 
 #20        Pratiche SUAP (DEFINITIVO)
--------------------------------------
+=====================================
 
 \ |STYLE72|\  Elenco pratiche gestite dallo Sportello Unico Attività Produttive
 
@@ -473,7 +487,7 @@ Esempio 2: \ |LINK13|\
 .. _h65512721d471161b6456c5353295:
 
 #45        Servizi alla persona (DEFINITIVO)
---------------------------------------------
+============================================
 
 \ |STYLE81|\  Elenco e informazioni relative ai servizi alla persona
 
@@ -526,7 +540,7 @@ Esempio: \ |LINK14|\
 .. _h192d703349757a442f2040344a7476f:
 
 #47    Pubblici esercizi (DEFINITIVO)
--------------------------------------
+=====================================
 
 \ |STYLE91|\ : Informazioni sugli esercizi pubblici con dati georeferenziati
 
@@ -561,12 +575,12 @@ Esempio: \ |LINK14|\
 .. _h1216263d3b30172471575b782e2e3b7a:
 
 3.       CULTURA
-================
+****************
 
 .. _h1e1aa304264214b219785d425e70:
 
 #48   Eventi (DEFINITIVO)
--------------------------
+=========================
 
 \ |STYLE103|\ : Informazioni su eventi e manifestazioni 
 
@@ -649,7 +663,7 @@ Esempio: \ |LINK14|\
 .. _h161c2f3833454e4976932653c2b775:
 
 #50 Beni artistici e architettonici (DEFINITIVO)
-------------------------------------------------
+================================================
 
 \ |STYLE124|\ : Beni artistici e architettonici del territorio
 
@@ -693,12 +707,12 @@ Esempio: \ |LINK15|\
 .. _h405b7c14e20627c163b5a181f5126:
 
 4.       ENERGIA
-================
+****************
 
 .. _h31437f1420597a45737174704a683466:
 
 #30 Albo provinciale manutentori impianti termici (DEFINITIVO)
---------------------------------------------------------------
+==============================================================
 
 \ |STYLE137|\ : Elenco manutentori impianti termici abilitati
 
@@ -728,12 +742,12 @@ Esempio: \ |LINK17|\
 .. _h496c7f2d61647381a4a4c53306f344a:
 
 5.       MOBILITÀ E TRASPORTI
-=============================
+*****************************
 
 .. _h71376c30591b534c645e1d4c7b187:
 
 #3 Orario Trasporto Pubblico (DEFINITIVO)
------------------------------------------
+=========================================
 
 \ |STYLE143|\ : Il dataset contiene i dati relativi alle corse, agli orari e alle fermate del trasporto pubblico urbano ed extra-urbano (pianificato). 
 
@@ -752,7 +766,7 @@ Esempio 3: \ |LINK21|\
 .. _h3761631274d34195427717075576131:
 
 #8 Mappa ZTL (DEFINITIVO)
--------------------------
+=========================
 
 \ |STYLE146|\ : Mappa Zona a Traffico Limitato 
 
@@ -781,7 +795,7 @@ Esempio: \ |LINK22|\
 .. _h794ab20525873f625363207210359:
 
 #9 Varchi ZTL (DEFINITIVO)
---------------------------
+==========================
 
 \ |STYLE151|\ : Informazioni sui  varchi della ZTL, georeferenziati
 
@@ -842,7 +856,7 @@ Esempio: \ |LINK23|\
 .. _h477818b50292f6c2d1821685f246:
 
 #10 Parcheggi (DEFINITIVO)
---------------------------
+==========================
 
 \ |STYLE160|\ : Posizione e informazioni sui Parcheggi
 
@@ -873,7 +887,7 @@ Esempio: \ |LINK24|\
 .. _h7a387f69313ca44387272731b5f2b50:
 
 #11   Piste ciclabili (DEFINITIVO)
-----------------------------------
+==================================
 
 \ |STYLE169|\ : Tracciato delle piste ciclabili  piste ciclabili
 
@@ -935,15 +949,10 @@ Esempio 2: \ |LINK26|\
 |\ |STYLE180|\      |Ambito del percorso (es. stradale, fluviale, parco)    |Testo |O      |
 +-------------------+-------------------------------------------------------+------+-------+
 
-.. _h2c1d74277104e41780968148427e:
-
-
-
-
 .. _h4673596e42433c23372f496042157a48:
 
 #12 Aree di sosta (DEFINITIVO)
-------------------------------
+==============================
 
 \ |STYLE181|\ : Aree di sosta 
 
@@ -1023,7 +1032,7 @@ Esempio: \ |LINK27|\
 .. _h74377a1f30156255c70574b4a62b69:
 
 #13 Aree pedonali (DEFINITIVO)
-------------------------------
+==============================
 
 \ |STYLE187|\ : Aree pedonali
 
@@ -1046,7 +1055,7 @@ Esempio: \ |LINK28|\
 .. _h413751694948146ea793c3974582760:
 
 #15 Bike sharing (DEFINITIVO)
------------------------------
+=============================
 
 \ |STYLE192|\ : Postazioni di Bike sharing
 
@@ -1080,7 +1089,7 @@ Esempio: \ |LINK29|\
 .. _h781030632f513187a587241745959:
 
 #31 Autoscuole (DEFINITIVO)
----------------------------
+===========================
 
 \ |STYLE200|\ : Elenco delle Autoscuole autorizzate nel territorio
 
@@ -1104,15 +1113,10 @@ L’esempio si riferisce alla tipologia di informazioni da inserire nel dataset.
 |\ |STYLE205|\      |Indirizzo email dell’autoscuola                                |Testo|O      |
 +-------------------+---------------------------------------------------------------+-----+-------+
 
-.. _h2c1d74277104e41780968148427e:
-
-
-
-
 .. _h29173c11c44516963343b7a352726b:
 
 #33 Aree di sosta per disabili (DEFINITIVO)
--------------------------------------------
+===========================================
 
 \ |STYLE206|\ : Elenco delle Aree di sosta per disabili presenti nel territorio
 
@@ -1136,20 +1140,10 @@ Esempio: \ |LINK31|\
 |\ |STYLE212|\      |Latitudine                                                     |Numero|O      |
 +-------------------+---------------------------------------------------------------+------+-------+
 
-.. _h2c1d74277104e41780968148427e:
-
-
-
-
-.. _h2c1d74277104e41780968148427e:
-
-
-
-
 .. _h7f1d5c471796a7032617255597b173a:
 
 #44 Punti di ricarica veicoli (DEFINITIVO)
-------------------------------------------
+==========================================
 
 \ |STYLE213|\ : Dataset con coordinate geografiche dei punti di ricarica dei veicoli elettrici, con indicazione del tipo di presa e KW
 
@@ -1184,12 +1178,12 @@ Esempio: \ |LINK32|\
 .. _h127c74681e53786e536b765a2f6647e:
 
 6.       SICUREZZA
-==================
+******************
 
 .. _h824122d55a315e452768e7f292a6e:
 
 #7 Incidenti stradali (DEFINITIVO)
-----------------------------------
+==================================
 
 \ |STYLE224|\ : Dataset contenente gli incidenti stradali con data, ora, coordinate geografiche, mezzi coinvolti, eventuali morti e feriti
 
@@ -1241,7 +1235,7 @@ Esempio 2: \ |LINK34|\
 .. _h4760d266a547666543d45223781653:
 
 #41  Principali infrazioni al Codice della Strada (DEFINITIVO)
---------------------------------------------------------------
+==============================================================
 
 \ |STYLE240|\ : Elenco, tipologia e anno di riferimento delle principali infrazioni al Codice della Strada.
 
@@ -1278,7 +1272,7 @@ Esempio: \ |LINK35|\
 .. _h6f396320344978474c3f7b4d6b7e531c:
 
 #42 Provvedimenti adottati dalla Polizia Locale in materia di commercio (DEFINITIVO)
-------------------------------------------------------------------------------------
+====================================================================================
 
 \ |STYLE252|\ : Elenco e tipologia dei provvedimenti adottati in materia di commercio dalla Polizia Municipale
 
@@ -1308,7 +1302,7 @@ Esempio: \ |LINK36|\
 .. _h04573713141737316103050642c523f:
 
 #49 Controlli in cantiere effettuati dalla Polizia Locale (DEFINITIVO)
-----------------------------------------------------------------------
+======================================================================
 
 \ |STYLE258|\ : Elenco, tipologia e anno di riferimento dei controlli effettuati nei cantieri dalla Polizia locale
 
@@ -1331,7 +1325,7 @@ Esempio: \ |LINK36|\
 .. _h6a50711f57485b63626e405f165261:
 
 7.      STATISTICA
-==================
+******************
 
 Per quanto riguarda i risultati delle elezioni, in seguito ad un’analisi ulteriore è stata individuata una soluzione alternativa alla pubblicazione dei 3 dataset distinti (#38, #39 e #40): pubblicare un unico dataset che comprenda sia i risultati delle elezioni sia i dati statistici sull’affluenza (vedere tabella #38#39#40BIS Risultati elezioni). Questo consentirebbe di mantenere sempre uguale la struttura del dataset (campi) rendendo più facilmente confrontabili i dati. 
 
@@ -1340,7 +1334,7 @@ Ai fini del co-finanziamento, la pubblicazione del dataset #38#39#40BIS viene eq
 .. _h47274b145479547445336f771b35280:
 
 #38 Risultati elezioni comunali (DEFINITIVO)
---------------------------------------------
+============================================
 
 \ |STYLE264|\ : Risultati elettorali delle elezioni amministrative del proprio comune o provincia
 
@@ -1424,7 +1418,7 @@ Ai fini del co-finanziamento, la pubblicazione del dataset #38#39#40BIS viene eq
 .. _h6e64461642c1b5e501d5d104b713c1d:
 
 #39 Risultati elezioni regionali (DEFINITIVO)
----------------------------------------------
+=============================================
 
 \ |STYLE273|\ : Risultati elettorali delle elezioni regionali nel proprio comune o provincia
 
@@ -1503,7 +1497,7 @@ Ai fini del co-finanziamento, la pubblicazione del dataset #38#39#40BIS viene eq
 .. _h61f79121f287221467271742a444f:
 
 #40 Risultati elezioni nazionali (DEFINITIVO)
----------------------------------------------
+=============================================
 
 \ |STYLE282|\ : Risultati elettorali delle elezioni nazionali nel proprio comune o provincia
 
@@ -1579,10 +1573,10 @@ Ai fini del co-finanziamento, la pubblicazione del dataset #38#39#40BIS viene eq
 |                   |* N. Totale votanti femmine                                                        |      |       |
 +-------------------+-----------------------------------------------------------------------------------+------+-------+
 
-.. _h36154c2b39757647157f5b44c6a313:
+.. _h3c4d632b744227d45777a02552663:
 
-#38#39#40BIS Risultati elezioni (DEFINITIVO)
---------------------------------------------
+#38 #39 #40BIS Risultati elezioni (DEFINITIVO)
+==============================================
 
 \ |STYLE291|\ : Risultati elettorali e dati sull’affluenza 
 
@@ -1672,7 +1666,7 @@ Ai fini del co-finanziamento, la pubblicazione del dataset #38#39#40BIS viene eq
 .. _h492e3345c6f1555f5b19363179137c:
 
 #46 Condizione lavorativa (DEFINITIVO)
---------------------------------------
+======================================
 
 \ |STYLE301|\ : Informazioni sulla condizione lavorativa dei residenti (ad esempio occupato, in cerca di occupazione ecc.)
 
@@ -1732,12 +1726,12 @@ Esempio: \ |LINK37|\
 .. _h47325942212741500d25226c3727f:
 
 8.      TERRITORIO
-==================
+******************
 
 .. _h784465346686a592127d1e14157730:
 
 #4 Rete viaria - Dataset geografico (DEFINITIVO)
-------------------------------------------------
+================================================
 
 \ |STYLE307|\ : Rete viaria 
 
@@ -1770,7 +1764,7 @@ Esempio: \ |LINK37|\
 .. _h5457273b5f6970146f702b17c7f3550:
 
 #5 Rete viaria - Toponimi stradali (DEFINITIVO)
------------------------------------------------
+===============================================
 
 \ |STYLE315|\ : Elenco Toponimi stradali
 
@@ -1800,7 +1794,7 @@ Esempio: \ |LINK38|\
 .. _h563b1f5f11515e35374069365613121:
 
 #6 Rete viaria - Numeri civici (DEFINITIVO)
--------------------------------------------
+===========================================
 
 \ |STYLE321|\ : Numeri civici georeferenziati
 
@@ -1833,7 +1827,7 @@ Esempio: https://www.dati.lombardia.it/Territorio/Comune-Bergamo-Numerazione-civ
 .. _h32623c3510287d7f3af50466d4e60:
 
 #14      Cantieri stradali (DEFINITIVO)
----------------------------------------
+=======================================
 
 \ |STYLE331|\ : Cantieri stradali attivi 
 
@@ -1864,7 +1858,7 @@ Esempio: https://www.dati.lombardia.it/Territorio/Comune-Bergamo-Numerazione-civ
 .. _h1a736c403f6676679673a673f60363a:
 
 #16 HotSpot Wifi (DEFINITIVO)
------------------------------
+=============================
 
 \ |STYLE338|\ : Elenco hotspot wifi pubblici, georeferenziati o dataset geografico
 
@@ -1901,7 +1895,7 @@ Esempio: \ |LINK39|\
 .. _h5a2161623f35403f62b4f305243726a:
 
 #19 Area per sgambatura cani (DEFINITIVO)
------------------------------------------
+=========================================
 
 \ |STYLE349|\ : Mappa aree per sgambatura cani
 
@@ -1937,7 +1931,7 @@ Esempio: \ |LINK39|\
 .. _h2ca5320503f5437a26b171269386a:
 
 #21 Pratiche edilizie (DEFINITIVO) 
------------------------------------
+===================================
 
 \ |STYLE359|\ : Elenco Pratiche edilizie gestite dallo Sportello Unico per l’Edilizia
 
@@ -2001,7 +1995,7 @@ Esempio: \ |LINK40|\
 .. _h752c462f6e4e4179353571873311521:
 
 #22 Elenco beni confiscati (DEFINITIVO) 
-----------------------------------------
+========================================
 
 \ |STYLE372|\ : Elenco beni confiscati alla mafia e assegnati al comune
 
@@ -2041,7 +2035,7 @@ Esempio: \ |LINK40|\
 .. _h1534f311220496307c39787c131e20:
 
 #29 Centri revisione auto (DEFINITIVO)
---------------------------------------
+======================================
 
 \ |STYLE384|\ : Centri revisione auto autorizzati dalla Provincia
 
@@ -2067,12 +2061,12 @@ Esempio: \ |LINK41|\
 .. _h5e126927772356f4b3651622c12502f:
 
 9.  TRASPARENZA 
-================
+****************
 
 .. _h6a113f1a7b5a1f2e7d29274624462967:
 
 #2 Contributi e sussidi (DEFINITIVO)
-------------------------------------
+====================================
 
 \ |STYLE390|\ : Dati relativi agli atti di concessione di sovvenzioni, contributi, sussidi ed ausili finanziari alle imprese e comunque di vantaggi economici di qualunque genere a persone ed enti pubblici e privati
 
@@ -2128,7 +2122,7 @@ Vedi \ |LINK42|\  (FAQ N. 13)
 .. _h7782e36e316052235761422844d44:
 
 #23 Elenco canoni di locazione (DEFINITIVO)
--------------------------------------------
+===========================================
 
 \ |STYLE410|\ : Elenco canoni di locazione o di affitto percepiti
 
@@ -2187,7 +2181,7 @@ Obblighi normativi: D. lgs. 33/2013, in particolare art. 30.
 .. _h6326371021e1b65335f1b3a15d202c:
 
 #24 Elenco immobili di proprietà (DEFINITIVO)
----------------------------------------------
+=============================================
 
 \ |STYLE423|\ : Elenco informazioni identificative degli immobili posseduti
 
@@ -2248,7 +2242,7 @@ Obblighi normativi: D. lgs. 33/2013, in particolare art. 30.
 .. _h4451d524d372a6ed467c1876264f6d:
 
 #25 Monitoraggio procedimenti (DEFINITIVO) 
--------------------------------------------
+===========================================
 
 \ |STYLE444|\ : Monitoraggio dei tempi dei procedimenti
 
@@ -2274,15 +2268,10 @@ Obblighi normativi: D. lgs. 33/2013, in particolare art. 30.
 |\ |STYLE452|\      |Indicare motivi di eventuali sospensioni o ritardi                                           |Testo |O      |
 +-------------------+---------------------------------------------------------------------------------------------+------+-------+
 
-.. _h2c1d74277104e41780968148427e:
-
-
-
-
 .. _h132c4945185112631f3367485d57c16:
 
 #26 Enti controllati – Società partecipate (DEFINITIVO)
--------------------------------------------------------
+=======================================================
 
 \ |STYLE453|\ : Elenco e informazioni sulle Società partecipate
 
@@ -2323,7 +2312,7 @@ Obblighi normativi: D. lgs. 33/2013, in particolare art. 30.
 .. _h7239514f337e4b15371432716b161761:
 
 #27 Enti controllati – Enti pubblici vigilati (DEFINITIVO)
-----------------------------------------------------------
+==========================================================
 
 \ |STYLE468|\ : Elenco e informazioni sugli Enti pubblici vigilati
 
@@ -2361,15 +2350,10 @@ Obblighi normativi: D. lgs. 33/2013, in particolare art. 30.
 |\ |STYLE482|\                  |Link al sito istituzionale                                                                        |Testo |M      |
 +-------------------------------+--------------------------------------------------------------------------------------------------+------+-------+
 
-.. _h2c1d74277104e41780968148427e:
-
-
-
-
 .. _h6057240426a371f372442d4776d7f:
 
 #28 Enti controllati – Enti di diritto privato controllati (DEFINITIVO)
------------------------------------------------------------------------
+=======================================================================
 
 \ |STYLE483|\ : Elenco e informazioni sugli Enti di diritto privato controllati
 
@@ -2410,7 +2394,7 @@ Obblighi normativi: D. lgs. 33/2013, in particolare art. 30.
 .. _h586361a7d1b58732243725f242:
 
 #36 Provvedimenti dei dirigenti (DEFINITIVO)
---------------------------------------------
+============================================
 
 \ |STYLE498|\ : Elenchi dei provvedimenti adottati dai dirigenti
 
@@ -2457,7 +2441,7 @@ Vedi \ |LINK43|\
 .. _h57b79594a60271c37774e4b797e5e68:
 
 #37 Provvedimenti degli organi di indirizzo politico (DEFINITIVO)
------------------------------------------------------------------
+=================================================================
 
 \ |STYLE509|\ : Elenchi dei Provvedimenti degli organi di indirizzo politico
 
@@ -2510,12 +2494,12 @@ Vedi \ |LINK44|\
 .. _h2e6413415f50581d7a6f24c6b663027:
 
 10.  TURISMO
-============
+************
 
 .. _h39547c1c3b3b73196a1e2b15b6df56:
 
 #32 Accompagnatori turistici (DEFINITIVO) 
-------------------------------------------
+==========================================
 
 \ |STYLE521|\ : Elenco degli abilitati per l’esercizio della professione di accompagnatore turistico
 
@@ -2544,7 +2528,7 @@ Vedi \ |LINK44|\
 .. _h6e806e58126f423e6813804173126a5a:
 
 #43 Flussi turistici (DEFINITIVO)
----------------------------------
+=================================
 
 \ |STYLE530|\ : Dati statistici sui flussi turistici
 
@@ -2590,7 +2574,7 @@ Vedi \ |LINK44|\
 .. _h4d12065484b7857297a6c195c4b150:
 
 Allegato 1
-##########
+**********
 
 Standard generali con l’indicazione dei campi relativi ad alcune informazioni.
 
@@ -2790,7 +2774,7 @@ TABELLA 3 - ORARI CON STAGIONALITA’
 .. _h7a6e23362d711679511187c3d5b5a27:
 
 Allegato 2
-##########
+**********
 
 .. _h266a626635674523124294953492337:
 
