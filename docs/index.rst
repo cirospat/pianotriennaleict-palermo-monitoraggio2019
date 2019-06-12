@@ -9,14 +9,14 @@ Definizione Standard per il paniere di dataset degli Enti Locali
     :maxdepth: 4
     :caption: Definizione standard paniere
 
-    index
+    index.rst
 
 
 .. toctree::  
     :maxdepth: 4
     :caption: Privacy
 
-    privacy
+    privacy.rst
 
 L’obiettivo del documento è quello di \ |STYLE0|\  relativo ai contenuti minimi che ciascun dataset deve contenere.
 
