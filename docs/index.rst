@@ -11,6 +11,11 @@ Definizione Standard per il paniere di dataset degli Enti Locali
 
     index.rst
 
+.. _h978e723e45433d2f562f133364336f:
+
+Obiettivo del documento
+***********************
+
 \ |STYLE0|\ 
 
 Definire uno standard è un lavoro preliminare importante per:
