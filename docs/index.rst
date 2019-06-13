@@ -2659,6 +2659,16 @@ Fonte informazioni del presente documento
 
 * \ |LINK48|\ 
 
+--------
+
+.. _h3be654d6f6f582e20f5d4d3e13601:
+
+Privacy
+*******
+
+\ |LINK49|\ 
+
+
 .. bottom of content
 
 
@@ -4091,4 +4101,8 @@ Fonte informazioni del presente documento
 .. |LINK48| raw:: html
 
     <a href="https://docs.google.com/document/d/1qeWK5bB053XwmfEM3dOvvtgUgE_90DWQcisCA4V6zGs/edit#heading=h.kowm611qrpj1" target="_blank">Definizione Standard per il paniere di dataset degli Enti Locali</a>
+
+.. |LINK49| raw:: html
+
+    <a href="https://definizione-standard-paniere-dataset-enti-locali.readthedocs.io/it/latest/privacy.html" target="_blank">Informativa privacy estesa</a>
 
