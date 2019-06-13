@@ -4082,7 +4082,7 @@ Fonte informazioni del presente documento
 
 .. |LINK46| raw:: html
 
-    <a href="http://www.trasformazionedigitale.regione.lombardia.it/wps/portal/site/trasformazionedigitale/dettaglioavviso/patrimonio-informativo-pubblico/open-data/iniziativa-opendata-marzo-2018" target="_blank">Open Data: pubblicato lo standard dei 50 dataset del paniere regionale</a>
+    <a href="http://www.trasformazionedigitale.regione.lombardia.it/wps/portal/site/trasformazionedigitale/dettaglioavviso/patrimonio-informativo-pubblico/open-data/pubblicati-standard-opendata" target="_blank">Open Data: pubblicato lo standard dei 50 dataset del paniere regionale</a>
 
 .. |LINK47| raw:: html
 
