@@ -5,11 +5,16 @@ Definizione Standard per il paniere di dataset degli Enti Locali
 ################################################################
 
 
+|REPLACE1|
+
+
 .. toctree::  
     :maxdepth: 4
     :caption: INDICE 
 
     index.rst
+
+--------
 
 .. _h978e723e45433d2f562f133364336f:
 
@@ -154,7 +159,7 @@ Anche se i dati non cambiano, occorre quindi specificare nei metadati che i dati
 Per modificare la data di ultimo aggiornamento dei metadati occorre cliccare su "Modifica Metadata" e modificare la "Data di aggiornamento" presente nella sezione "Frequenza di aggiornamento".
 
 
-|REPLACE1|
+|REPLACE2|
 
 
 +------------------------------------------------------------------------------------------------------------------+
@@ -2634,6 +2639,25 @@ Segue tabella di conversione con le frequenze standard per il \ |STYLE614|\
 |Non definita                      |Unknown               |
 +----------------------------------+----------------------+
 
+--------
+
+.. _h7778197a3d636551693f69277e3068:
+
+Articoli di riferimento
+***********************
+
+* \ |LINK46|\ .
+
+* \ |LINK47|\ .
+
+--------
+
+.. _h5563c376b2f7ff724849f4e16422:
+
+Fonte informazioni del presente documento
+*****************************************
+
+* \ |LINK48|\ 
 
 .. bottom of content
 
@@ -3871,6 +3895,9 @@ Segue tabella di conversione con le frequenze standard per il \ |STYLE614|\
 
 .. |REPLACE1| raw:: html
 
+    <img src="https://raw.githubusercontent.com/cirospat/paniere-dataset-enti-locali/master/docs/img/opendatalombardia.JPG" />
+.. |REPLACE2| raw:: html
+
     <img src="https://raw.githubusercontent.com/cirospat/paniere-dataset-enti-locali/master/docs/img/immagine1.JPG" />
 
 .. |LINK1| raw:: html
@@ -4052,4 +4079,16 @@ Segue tabella di conversione con le frequenze standard per il \ |STYLE614|\
 .. |LINK45| raw:: html
 
     <a href="http://linee-guida-cataloghi-dati-profilo-dcat-ap-it.readthedocs.io/it/latest/dataset_elementi_obbligatori.html#frequenza-aggiornamento-dataset-dct-accrualperiodicity" target="_blank">http://linee-guida-cataloghi-dati-profilo-dcat-ap-it.readthedocs.io/it/latest/dataset_elementi_obbligatori.html#frequenza-aggiornamento-dataset-dct-accrualperiodicity</a>
+
+.. |LINK46| raw:: html
+
+    <a href="http://www.trasformazionedigitale.regione.lombardia.it/wps/portal/site/trasformazionedigitale/dettaglioavviso/patrimonio-informativo-pubblico/open-data/iniziativa-opendata-marzo-2018" target="_blank">Open Data: pubblicato lo standard dei 50 dataset del paniere regionale</a>
+
+.. |LINK47| raw:: html
+
+    <a href="http://www.trasformazionedigitale.regione.lombardia.it/wps/portal/site/trasformazionedigitale/dettaglioavviso/patrimonio-informativo-pubblico/open-data/iniziativa-opendata-marzo-2018" target="_blank">Iniziativa OpenData per Enti Locali: quali dati e come pubblicare</a>
+
+.. |LINK48| raw:: html
+
+    <a href="https://docs.google.com/document/d/1qeWK5bB053XwmfEM3dOvvtgUgE_90DWQcisCA4V6zGs/edit#heading=h.kowm611qrpj1" target="_blank">Definizione Standard per il paniere di dataset degli Enti Locali</a>
 
