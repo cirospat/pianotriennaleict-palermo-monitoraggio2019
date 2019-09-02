@@ -40,8 +40,8 @@ def setup(app):
 """
 #latex_documents = []
 
-latex_logo = "img/________"
-html_logo = "img/_______"
+latex_logo = "img/comune-palermo-innovazione.png"
+html_logo = "img/comune-palermo-innovazione.png"
 
 
 # Adding Custom CSS or JavaScript to a Sphinx Project: al seguente link ci sono esempi
