@@ -707,10 +707,10 @@ H - Infrastrutture immateriali - Open data, basi dati di interesse nazionale
 
 |
 
-.. _h5e3156e29376e37427a326d6524543b:
+.. _h36633d201c472e462e437e73e3b2:
 
- I - Infrastrutture immateriali - Riuso del software
-****************************************************
+I - Infrastrutture immateriali - Riuso del software
+***************************************************
 
 \ |LINK17|\ ;
 
